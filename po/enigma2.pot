@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-18 14:58+0430\n"
+"POT-Creation-Date: 2021-09-21 07:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,6 +213,14 @@ msgid "%-m/%d "
 msgstr ""
 
 msgid "%-m/%d/%Y"
+msgstr ""
+
+#, python-format
+msgid "%.0f GB"
+msgstr ""
+
+#, python-format
+msgid "%.0f MB"
 msgstr ""
 
 #, python-format
@@ -806,6 +814,10 @@ msgid "%d job is running in the background!"
 msgid_plural "%d jobs are running in the background!"
 msgstr[0] ""
 msgstr[1] ""
+
+#, python-format
+msgid "%d kB"
+msgstr ""
 
 #, python-format
 msgid "%d kB/s"
@@ -1506,6 +1518,9 @@ msgid "ARM64"
 msgstr ""
 
 msgid "ASS file"
+msgstr ""
+
+msgid "ATSC"
 msgstr ""
 
 msgid "ATSC provider"
@@ -3503,6 +3518,12 @@ msgstr ""
 msgid "DVB-C"
 msgstr ""
 
+msgid "DVB-C ANNEX B"
+msgstr ""
+
+msgid "DVB-C ANNEX C"
+msgstr ""
+
 msgid "DVB-C/-S/-T"
 msgstr ""
 
@@ -3518,6 +3539,9 @@ msgstr ""
 msgid "DVB-S/-T/-C"
 msgstr ""
 
+msgid "DVB-S2"
+msgstr ""
+
 msgid "DVB-T"
 msgstr ""
 
@@ -3525,6 +3549,9 @@ msgid "DVB-T/-C/-S"
 msgstr ""
 
 msgid "DVB-T/-S/-C"
+msgstr ""
+
+msgid "DVB-T2"
 msgstr ""
 
 msgid "DVD Burn"
@@ -5388,9 +5415,6 @@ msgstr ""
 msgid "Further options"
 msgstr ""
 
-msgid "GB"
-msgstr ""
-
 msgid "GCC version"
 msgstr ""
 
@@ -6810,9 +6834,6 @@ msgstr ""
 msgid ""
 "MAC address successfully changed.\n"
 "New MAC address is: "
-msgstr ""
-
-msgid "MB"
 msgstr ""
 
 msgid "MENU"
@@ -14695,21 +14716,6 @@ msgstr ""
 msgid "zapped"
 msgstr ""
 
-msgid "false"
-msgstr ""
-
-msgid "2678400000"
-msgstr ""
-
-msgid "Default task"
-msgstr ""
-
-msgid "IGNORE"
-msgstr ""
-
-msgid "true"
-msgstr ""
-
 msgid "Refresh rate selection."
 msgstr ""
 
@@ -14817,6 +14823,316 @@ msgid ""
 "Please choose what you want to do next."
 msgstr ""
 
+msgid "AFP"
+msgstr ""
+
+msgid "Android Mode"
+msgstr ""
+
+msgid "Audio & Video"
+msgstr ""
+
+msgid "Audio/Video Setup"
+msgstr ""
+
+msgid "Auto Language Setup"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "CIFS/Samba"
+msgstr ""
+
+msgid "Client Tuner Configuration"
+msgstr ""
+
+msgid "Cron Timers"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Deep Standby"
+msgstr ""
+
+msgid "Delete EPG Cache"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Dual Mode"
+msgstr ""
+
+msgid "EPG Setup"
+msgstr ""
+
+msgid "FTP"
+msgstr ""
+
+msgid "Fallback Remote Receiver Setup"
+msgstr ""
+
+msgid "Filesystem Check"
+msgstr ""
+
+msgid "Front Panel Display"
+msgstr ""
+
+msgid "Geolocation"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Inadyn"
+msgstr ""
+
+msgid "Inetd Recovery"
+msgstr ""
+
+msgid "Initialization"
+msgstr ""
+
+msgid "Input Driver Setup"
+msgstr ""
+
+msgid "Keyboard / Remote Control Setup"
+msgstr ""
+
+msgid "LCD Setup"
+msgstr ""
+
+msgid "LED Setup"
+msgstr ""
+
+msgid "Load EPG Cache"
+msgstr ""
+
+msgid "Locale/Language Setup"
+msgstr ""
+
+msgid "Logs Setup"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "MiniDLNA"
+msgstr ""
+
+msgid "Mounts"
+msgstr ""
+
+msgid "MultiBoot"
+msgstr ""
+
+msgid "NFS"
+msgstr ""
+
+msgid "OpenVPN"
+msgstr ""
+
+msgid "Parental Control Setup"
+msgstr ""
+
+msgid "Playback Setup"
+msgstr ""
+
+msgid "Playback, Recording & Timeshift"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Power Timers"
+msgstr ""
+
+msgid "RF Modulator Output Setup"
+msgstr ""
+
+msgid "Receiver"
+msgstr ""
+
+msgid "Recovery Mode"
+msgstr ""
+
+msgid "SABnzbd"
+msgstr ""
+
+msgid "SATPI"
+msgstr ""
+
+msgid "Save EPG Cache"
+msgstr ""
+
+msgid "Save, Load & Delete EPG Cache"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Shutdown"
+msgstr ""
+
+msgid "Skin Setup"
+msgstr ""
+
+msgid "Sleep Timer"
+msgstr ""
+
+msgid "Softcam"
+msgstr ""
+
+msgid "Standby & Restart"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "Streaming Clients"
+msgstr ""
+
+msgid "Subtitle Setup"
+msgstr ""
+
+msgid "Telnet"
+msgstr ""
+
+msgid "Timers"
+msgstr ""
+
+msgid "Timeshift Setup"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+msgid "Tuners & Scanning"
+msgstr ""
+
+msgid "User Interface"
+msgstr ""
+
+msgid "User Interface Setup"
+msgstr ""
+
+msgid "User Mode Setup"
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "VCR Scart"
+msgstr ""
+
+msgid "ZeroTierVPN"
+msgstr ""
+
+msgid "uShare"
+msgstr ""
+
+msgid "Check the internet connection"
+msgstr ""
+
+msgid "Check the internet connection again"
+msgstr ""
+
+msgid "Checking the internet connection"
+msgstr ""
+
+msgid "Do you want to install Plugins?"
+msgstr ""
+
+msgid "Exit the wizard"
+msgstr ""
+
+msgid "Please configure the fallback tuner setup"
+msgstr ""
+
+msgid "Please connect your %s %s (kernel %s) to the internet"
+msgstr ""
+
+msgid "Please set up tuner A"
+msgstr ""
+
+msgid "Please set up tuner B"
+msgstr ""
+
+msgid "Please set up tuner C"
+msgstr ""
+
+msgid "Please set up tuner D"
+msgstr ""
+
+msgid "Please set up tuner E"
+msgstr ""
+
+msgid "Please set up tuner F"
+msgstr ""
+
+msgid "Please set up tuner G"
+msgstr ""
+
+msgid "Please set up tuner H"
+msgstr ""
+
+msgid "Please set up tuner I"
+msgstr ""
+
+msgid "Please set up tuner J"
+msgstr ""
+
+msgid "Please set up tuner Q"
+msgstr ""
+
+msgid "Please set up tuner R"
+msgstr ""
+
+msgid "Please set your time options"
+msgstr ""
+
+msgid ""
+"Please set your time options.\n"
+"\n"
+"Press YELLOW to set the time zone via geolocation."
+msgstr ""
+
+msgid "Please setup the following basic configs!"
+msgstr ""
+
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+msgid "Speed up the performance"
+msgstr ""
+
+msgid ""
+"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
+"Press OK to start using Open Vision %s-%s"
+msgstr ""
+
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
+"We detected your RC as %s (type %s id %s)"
+msgstr ""
+
+msgid "Use the wizard to set up basic features"
+msgstr ""
+
+msgid ""
+"Welcome to Open Vision %s-%s\n"
+"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
+"Press the OK button on your remote control to move to the next step."
+msgstr ""
+
+msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "Your %s %s (kernel %s) does not have an internet connection"
+msgstr ""
+
 msgid "12V output"
 msgstr ""
 
@@ -14881,12 +15197,6 @@ msgid "Audio language selection 3"
 msgstr ""
 
 msgid "Audio language selection 4"
-msgstr ""
-
-msgid "Audio/Video Setup"
-msgstr ""
-
-msgid "Auto Language Setup"
 msgstr ""
 
 msgid "Auto play last service in radio mode"
@@ -15291,9 +15601,6 @@ msgstr ""
 msgid "Custom skip time for '7'/'9' buttons"
 msgstr ""
 
-msgid "Customize"
-msgstr ""
-
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
@@ -15361,9 +15668,6 @@ msgid "Display the EIT now/next eventdata in infobar."
 msgstr ""
 
 msgid "Display the base locales or all locales for a language."
-msgstr ""
-
-msgid "EPG Setup"
 msgstr ""
 
 msgid "EPG filename"
@@ -15603,9 +15907,6 @@ msgstr ""
 msgid "Interlaced"
 msgstr ""
 
-msgid "Keyboard / Remote Control Setup"
-msgstr ""
-
 msgid "Keyboard map"
 msgstr ""
 
@@ -15619,9 +15920,6 @@ msgid "LED Deep Standby"
 msgstr ""
 
 msgid "LED Normal"
-msgstr ""
-
-msgid "LED Setup"
 msgstr ""
 
 msgid "LED Standby"
@@ -15670,9 +15968,6 @@ msgid "Locales to be displayed"
 msgstr ""
 
 msgid "Log python stack trace on spinner"
-msgstr ""
-
-msgid "Logs Setup"
 msgstr ""
 
 msgid "Logs folder location *"
@@ -15768,9 +16063,6 @@ msgstr ""
 msgid "Operating LED status while running."
 msgstr ""
 
-msgid "Playback Setup"
-msgstr ""
-
 msgid "Plugin Browser Setup"
 msgstr ""
 
@@ -15850,9 +16142,6 @@ msgid "REC symbol in Standby"
 msgstr ""
 
 msgid "REC symbol in use"
-msgstr ""
-
-msgid "RF Modulator Output Setup"
 msgstr ""
 
 msgid "Recordings always have priority"
@@ -16236,9 +16525,6 @@ msgstr ""
 msgid "Startup to Standby"
 msgstr ""
 
-msgid "Subtitle Setup"
-msgstr ""
-
 msgid "Subtitle alignment"
 msgstr ""
 
@@ -16431,9 +16717,6 @@ msgstr ""
 msgid "Timer recording location"
 msgstr ""
 
-msgid "Timeshift Setup"
-msgstr ""
-
 msgid "Timeshift location"
 msgstr ""
 
@@ -16486,12 +16769,6 @@ msgid "Use this option to select if debug logs of internal enigma2 activities ar
 msgstr ""
 
 msgid "Use trash can in movielist"
-msgstr ""
-
-msgid "User Interface Setup"
-msgstr ""
-
-msgid "User Mode Setup"
 msgstr ""
 
 msgid "Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used."
@@ -16797,106 +17074,6 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
-msgid "Check the internet connection"
-msgstr ""
-
-msgid "Check the internet connection again"
-msgstr ""
-
-msgid "Checking the internet connection"
-msgstr ""
-
-msgid "Do you want to install Plugins?"
-msgstr ""
-
-msgid "Exit the wizard"
-msgstr ""
-
-msgid "Please configure the fallback tuner setup"
-msgstr ""
-
-msgid "Please connect your %s %s (kernel %s) to the internet"
-msgstr ""
-
-msgid "Please set up tuner A"
-msgstr ""
-
-msgid "Please set up tuner B"
-msgstr ""
-
-msgid "Please set up tuner C"
-msgstr ""
-
-msgid "Please set up tuner D"
-msgstr ""
-
-msgid "Please set up tuner E"
-msgstr ""
-
-msgid "Please set up tuner F"
-msgstr ""
-
-msgid "Please set up tuner G"
-msgstr ""
-
-msgid "Please set up tuner H"
-msgstr ""
-
-msgid "Please set up tuner I"
-msgstr ""
-
-msgid "Please set up tuner J"
-msgstr ""
-
-msgid "Please set up tuner Q"
-msgstr ""
-
-msgid "Please set up tuner R"
-msgstr ""
-
-msgid "Please set your time options"
-msgstr ""
-
-msgid ""
-"Please set your time options.\n"
-"\n"
-"Press YELLOW to set the time zone via geolocation."
-msgstr ""
-
-msgid "Please setup the following basic configs!"
-msgstr ""
-
-msgid "Skip internet connection check (disables automatic package installation)"
-msgstr ""
-
-msgid "Speed up the performance"
-msgstr ""
-
-msgid ""
-"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
-"Press OK to start using Open Vision %s-%s"
-msgstr ""
-
-msgid ""
-"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
-"We detected your RC as %s (type %s id %s)"
-msgstr ""
-
-msgid "Use the wizard to set up basic features"
-msgstr ""
-
-msgid ""
-"Welcome to Open Vision %s-%s\n"
-"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
-"Press the OK button on your remote control to move to the next step."
-msgstr ""
-
-msgid "What type of service scan do you want?"
-msgstr ""
-
-msgid "Your %s %s (kernel %s) does not have an internet connection"
-msgstr ""
-
 msgid "About"
 msgstr ""
 
@@ -16943,9 +17120,6 @@ msgid "Extensions"
 msgstr ""
 
 msgid "Fastscan"
-msgstr ""
-
-msgid "Geolocation"
 msgstr ""
 
 msgid "Harddisk"
@@ -17071,175 +17245,13 @@ msgstr ""
 msgid "help..."
 msgstr ""
 
-msgid "AFP"
-msgstr ""
-
-msgid "Android Mode"
-msgstr ""
-
-msgid "Audio & Video"
-msgstr ""
-
-msgid "Build"
-msgstr ""
-
-msgid "CIFS/Samba"
-msgstr ""
-
-msgid "Client Tuner Configuration"
-msgstr ""
-
-msgid "Cron Timers"
-msgstr ""
-
-msgid "Deep Standby"
-msgstr ""
-
-msgid "Delete EPG Cache"
-msgstr ""
-
-msgid "Device"
-msgstr ""
-
-msgid "Dual Mode"
-msgstr ""
-
-msgid "FTP"
-msgstr ""
-
-msgid "Fallback Remote Receiver Setup"
-msgstr ""
-
-msgid "Filesystem Check"
-msgstr ""
-
-msgid "Front Panel Display"
-msgstr ""
-
-msgid "Images"
-msgstr ""
-
-msgid "Inadyn"
-msgstr ""
-
-msgid "Inetd Recovery"
-msgstr ""
-
-msgid "Initialization"
-msgstr ""
-
-msgid "Input Driver Setup"
-msgstr ""
-
-msgid "LCD Setup"
-msgstr ""
-
-msgid "Load EPG Cache"
-msgstr ""
-
-msgid "Locale/Language Setup"
-msgstr ""
-
-msgid "Main Menu"
-msgstr ""
-
-msgid "MiniDLNA"
-msgstr ""
-
-msgid "Mounts"
-msgstr ""
-
-msgid "MultiBoot"
-msgstr ""
-
-msgid "NFS"
-msgstr ""
-
-msgid "OpenVPN"
-msgstr ""
-
-msgid "Parental Control Setup"
-msgstr ""
-
-msgid "Playback, Recording & Timeshift"
-msgstr ""
-
-msgid "Plugins"
-msgstr ""
-
-msgid "Power Timers"
-msgstr ""
-
-msgid "Receiver"
-msgstr ""
-
-msgid "Recovery Mode"
-msgstr ""
-
-msgid "SABnzbd"
-msgstr ""
-
-msgid "SATPI"
-msgstr ""
-
-msgid "Save EPG Cache"
-msgstr ""
-
-msgid "Save, Load & Delete EPG Cache"
-msgstr ""
-
-msgid "Service"
-msgstr ""
-
-msgid "Shutdown"
-msgstr ""
-
-msgid "Skin Setup"
-msgstr ""
-
-msgid "Sleep Timer"
-msgstr ""
-
-msgid "Softcam"
-msgstr ""
-
-msgid "Standby & Restart"
-msgstr ""
-
-msgid "Storage"
-msgstr ""
-
-msgid "Streaming Clients"
-msgstr ""
-
-msgid "Telnet"
-msgstr ""
-
-msgid "Timers"
-msgstr ""
-
-msgid "Tuners"
-msgstr ""
-
-msgid "Tuners & Scanning"
-msgstr ""
-
-msgid "User Interface"
-msgstr ""
-
-msgid "Utilities"
-msgstr ""
-
-msgid "VCR Scart"
-msgstr ""
-
-msgid "ZeroTierVPN"
-msgstr ""
-
-msgid "uShare"
+msgid "  REC  "
 msgstr ""
 
 msgid "EPG Selection"
+msgstr ""
+
+msgid "EtPortal"
 msgstr ""
 
 msgid "Graphical EPG"
@@ -17251,16 +17263,19 @@ msgstr ""
 msgid "Quick EPG"
 msgstr ""
 
+msgid "®"
+msgstr ""
+
+msgid "Enigmalight"
+msgstr ""
+
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
 msgid "TUNER:"
-msgstr ""
-
-msgid "  REC  "
-msgstr ""
-
-msgid " HI "
-msgstr ""
-
-msgid "REC "
 msgstr ""
 
 msgid "EasyMedia"
@@ -17275,25 +17290,13 @@ msgstr ""
 msgid "Timerlist"
 msgstr ""
 
-msgid "Enigmalight"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
 msgid "Rec"
 msgstr ""
 
-msgid "-"
+msgid " HI "
+msgstr ""
+
+msgid "REC "
 msgstr ""
 
 msgid "E "
@@ -17312,4 +17315,22 @@ msgid "I"
 msgstr ""
 
 msgid "J"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "2678400000"
+msgstr ""
+
+msgid "Default task"
+msgstr ""
+
+msgid "IGNORE"
+msgstr ""
+
+msgid "true"
 msgstr ""

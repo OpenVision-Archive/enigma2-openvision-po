@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-18 14:42+0430\n"
+"POT-Creation-Date: 2021-09-21 07:07+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -238,6 +238,14 @@ msgid "%-m/%d "
 msgstr ""
 
 msgid "%-m/%d/%Y"
+msgstr ""
+
+#, python-format
+msgid "%.0f GB"
+msgstr ""
+
+#, python-format
+msgid "%.0f MB"
 msgstr ""
 
 #, python-format
@@ -954,6 +962,10 @@ msgid "%d job is running in the background!"
 msgid_plural "%d jobs are running in the background!"
 msgstr[0] "%d processen rinne op 'e eftergrûn"
 msgstr[1] "%d processen rinne op 'e eftergrûn"
+
+#, python-format
+msgid "%d kB"
+msgstr ""
 
 #, python-format
 msgid "%d kB/s"
@@ -1783,6 +1795,9 @@ msgid "ARM64"
 msgstr ""
 
 msgid "ASS file"
+msgstr ""
+
+msgid "ATSC"
 msgstr ""
 
 msgid "ATSC provider"
@@ -4795,6 +4810,12 @@ msgstr ""
 msgid "DVB-C"
 msgstr ""
 
+msgid "DVB-C ANNEX B"
+msgstr ""
+
+msgid "DVB-C ANNEX C"
+msgstr ""
+
 msgid "DVB-C/-S/-T"
 msgstr ""
 
@@ -4810,6 +4831,9 @@ msgstr ""
 msgid "DVB-S/-T/-C"
 msgstr ""
 
+msgid "DVB-S2"
+msgstr ""
+
 msgid "DVB-T"
 msgstr ""
 
@@ -4817,6 +4841,9 @@ msgid "DVB-T/-C/-S"
 msgstr ""
 
 msgid "DVB-T/-S/-C"
+msgstr ""
+
+msgid "DVB-T2"
 msgstr ""
 
 msgid "DVD Burn"
@@ -7394,11 +7421,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "GB"
-msgstr "RGB"
-
-#
-#, fuzzy
 msgid "GCC version"
 msgstr "Infertearring"
 
@@ -9381,11 +9403,6 @@ msgid ""
 "MAC address successfully changed.\n"
 "New MAC address is: "
 msgstr ""
-
-#
-#, fuzzy
-msgid "MB"
-msgstr "B"
 
 msgid "MENU"
 msgstr ""

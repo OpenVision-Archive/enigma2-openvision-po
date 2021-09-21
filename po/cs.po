@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-18 14:42+0430\n"
+"POT-Creation-Date: 2021-09-21 07:07+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -246,6 +246,14 @@ msgid "%-m/%d "
 msgstr ""
 
 msgid "%-m/%d/%Y"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%.0f GB"
+msgstr "%.2f GB"
+
+#, python-format
+msgid "%.0f MB"
 msgstr ""
 
 #, python-format
@@ -960,6 +968,10 @@ msgid_plural "%d jobs are running in the background!"
 msgstr[0] "%d úloha běží na pozadí!"
 msgstr[1] "%d úlohy běží na pozadí!"
 msgstr[2] "%d úloh běží na pozadí!"
+
+#, fuzzy, python-format
+msgid "%d kB"
+msgstr "%d kB/s"
 
 #, python-format
 msgid "%d kB/s"
@@ -1816,6 +1828,9 @@ msgstr ""
 
 msgid "ASS file"
 msgstr "ASS soubor"
+
+msgid "ATSC"
+msgstr ""
 
 msgid "ATSC provider"
 msgstr "ATSC poskytovatel"
@@ -4877,6 +4892,12 @@ msgstr "DVB typ"
 msgid "DVB-C"
 msgstr ""
 
+msgid "DVB-C ANNEX B"
+msgstr ""
+
+msgid "DVB-C ANNEX C"
+msgstr ""
+
 msgid "DVB-C/-S/-T"
 msgstr ""
 
@@ -4892,6 +4913,9 @@ msgstr ""
 msgid "DVB-S/-T/-C"
 msgstr ""
 
+msgid "DVB-S2"
+msgstr ""
+
 msgid "DVB-T"
 msgstr ""
 
@@ -4899,6 +4923,9 @@ msgid "DVB-T/-C/-S"
 msgstr ""
 
 msgid "DVB-T/-S/-C"
+msgstr ""
+
+msgid "DVB-T2"
 msgstr ""
 
 msgid "DVD Burn"
@@ -7517,10 +7544,6 @@ msgid "G"
 msgstr "G"
 
 #
-msgid "GB"
-msgstr "GB"
-
-#
 #, fuzzy
 msgid "GCC version"
 msgstr "Inverze"
@@ -9525,10 +9548,6 @@ msgid ""
 "MAC address successfully changed.\n"
 "New MAC address is: "
 msgstr ""
-
-#
-msgid "MB"
-msgstr "MB"
 
 msgid "MENU"
 msgstr ""
