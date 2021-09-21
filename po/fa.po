@@ -229,7 +229,7 @@ msgid "%-m/%d "
 msgstr ""
 
 msgid "%-m/%d/%Y"
-msgstr ""
+msgstr "%-m/%d/%Y"
 
 #, fuzzy, python-format
 msgid "%.0f GB"
