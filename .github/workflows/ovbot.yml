@@ -28,3 +28,4 @@ jobs:
           sudo apt-get install dos2unix gettext build-essential git automake
           pip install --upgrade pip autopep8 future
           ./CI/build.sh
+          find . -type f -name "*.po" -exec msgfmt {} -o {}.mo \;
