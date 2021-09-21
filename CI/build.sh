@@ -17,8 +17,6 @@ commit_files() {
   ./CI/e2po.sh
   ./CI/chmod.sh
   ./CI/dos2unix.sh
-  ./CI/PEP8.sh
-  ./CI/futurize.sh
 }
 
 upload_files() {
