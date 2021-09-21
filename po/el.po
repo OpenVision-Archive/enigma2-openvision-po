@@ -60,7 +60,7 @@ msgid " "
 msgstr ""
 
 msgid "  Default: 0000 (disabled)"
-msgstr "  Προεπελογή: 0000 (ανενεργό)"
+msgstr "  Προεπιλογή: 0000 (ανενεργό)"
 
 msgid "  REC  "
 msgstr ""
@@ -1349,13 +1349,13 @@ msgid "16:9"
 msgstr ""
 
 msgid "16:9 Letterbox"
-msgstr "16:10 μπάρες πάνω - κάτω"
+msgstr "16:9 μπάρες πάνω - κάτω"
 
 msgid "16:9 always"
 msgstr "πάντα 16:9"
 
 msgid "16:9 letterbox"
-msgstr "16:10 μπάρες πάνω - κάτω"
+msgstr "16:9 μπάρες πάνω - κάτω"
 
 msgid "16K"
 msgstr "16K"
