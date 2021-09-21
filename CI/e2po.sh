@@ -1,6 +1,7 @@
 #!/bin/sh
 
 git clone --depth 1 https://github.com/OpenVisionE2/enigma2-openvision.git
+mv -f po/*.po enigma2-openvision/po
 cd enigma2-openvision
 cd po
 ./updateallpo-multiOS.sh
