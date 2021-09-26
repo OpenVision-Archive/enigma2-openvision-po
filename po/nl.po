@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -14446,6 +14446,10 @@ msgstr "Naar oost gestapt"
 
 msgid "Stepped west"
 msgstr "Naar west gestapt"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Stap > oost"
 
 msgid "Stop"
 msgstr "Stop"

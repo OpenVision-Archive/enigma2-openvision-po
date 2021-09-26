@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -14173,6 +14173,10 @@ msgstr "Шаг на восток"
 
 msgid "Stepped west"
 msgstr "Шаг на запад"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Шаг на восток"
 
 msgid "Stop"
 msgstr "Стоп"

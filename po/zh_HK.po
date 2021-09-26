@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -13852,6 +13852,10 @@ msgstr ""
 
 msgid "Stepped west"
 msgstr ""
+
+#, fuzzy
+msgid "Steps"
+msgstr "向東步進"
 
 msgid "Stop"
 msgstr "停止"

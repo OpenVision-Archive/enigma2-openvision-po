@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -14146,6 +14146,10 @@ msgstr "向东步进"
 
 msgid "Stepped west"
 msgstr "向西步进"
+
+#, fuzzy
+msgid "Steps"
+msgstr "向东步进"
 
 msgid "Stop"
 msgstr "停止"

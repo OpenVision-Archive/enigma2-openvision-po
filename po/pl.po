@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -14035,6 +14035,10 @@ msgstr "Krok na wschód (E)"
 
 msgid "Stepped west"
 msgstr "Krok na zachód (W)"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Krok na wschód"
 
 msgid "Stop"
 msgstr "Zatrzymaj"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -14175,6 +14175,10 @@ msgstr "Koračanje na istok"
 
 msgid "Stepped west"
 msgstr "Koračanje na zapad"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Korak na istok"
 
 msgid "Stop"
 msgstr "Zaustavite"

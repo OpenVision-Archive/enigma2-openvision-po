@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -14131,6 +14131,10 @@ msgstr "Bước về phía đông"
 
 msgid "Stepped west"
 msgstr "Bước về phía tây"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Bước về phía đông"
 
 msgid "Stop"
 msgstr "Dừng lại"

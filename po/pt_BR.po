@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2013-10-20 19:13-0300\n"
 "Last-Translator: Diogo <pingflood@gmail.com>\n"
 "Language-Team: Traduzido por Frank Viana <franksrviana@gmail.com>\n"
@@ -14068,6 +14068,10 @@ msgstr "Passo para leste"
 
 msgid "Stepped west"
 msgstr "Passo para oeste"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Passo leste"
 
 msgid "Stop"
 msgstr "Parar"

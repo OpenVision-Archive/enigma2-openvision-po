@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -14228,6 +14228,10 @@ msgstr "به شرق جابجا شد"
 
 msgid "Stepped west"
 msgstr "به غرب جابجا شد"
+
+#, fuzzy
+msgid "Steps"
+msgstr "یک درجه به شرق"
 
 msgid "Stop"
 msgstr "توقف"

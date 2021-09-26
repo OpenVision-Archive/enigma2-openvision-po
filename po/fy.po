@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -15692,6 +15692,11 @@ msgstr ""
 
 msgid "Stepped west"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Steps"
+msgstr "Stap nei east"
 
 #
 msgid "Stop"

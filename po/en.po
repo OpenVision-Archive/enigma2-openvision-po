@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: satdreamgr\n"
 "Language-Team: \n"
@@ -14138,6 +14138,10 @@ msgstr "Stepped east"
 
 msgid "Stepped west"
 msgstr "Stepped west"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Step east"
 
 msgid "Stop"
 msgstr "Stop"

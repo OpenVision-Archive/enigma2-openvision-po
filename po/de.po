@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2021-04-30 16:06+0200\n"
 "Last-Translator: kueken\n"
 "Language-Team: OpenPLi\n"
@@ -14168,6 +14168,10 @@ msgstr "Nach Osten justiert"
 
 msgid "Stepped west"
 msgstr "Nach Westen justiert"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Schritt nach Osten"
 
 msgid "Stop"
 msgstr "Stopp"

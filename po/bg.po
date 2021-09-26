@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -14150,6 +14150,10 @@ msgstr "Стъпка на изток"
 
 msgid "Stepped west"
 msgstr "Стъпка на запад"
+
+#, fuzzy
+msgid "Steps"
+msgstr "Стъпка на изток"
 
 msgid "Stop"
 msgstr "Стоп"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-21 07:07+0000\n"
+"POT-Creation-Date: 2021-09-26 11:21+0000\n"
 "PO-Revision-Date: 2017-01-18 16:38+0100\n"
 "Last-Translator: lupine <a_ecklon@hotmail.com>\n"
 "Language-Team: \n"
@@ -15707,6 +15707,11 @@ msgstr "Step øst"
 
 msgid "Stepped west"
 msgstr "Step Vest"
+
+#
+#, fuzzy
+msgid "Steps"
+msgstr "Drej mod Øst"
 
 #
 msgid "Stop"
