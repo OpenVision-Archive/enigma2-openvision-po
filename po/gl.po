@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-26 11:21+0000\n"
+"POT-Creation-Date: 2021-10-03 01:57+0000\n"
 "PO-Revision-Date: 2021-02-20 16:11+0100\n"
 "Last-Translator: Luis A. Martínez <luis.a.martinez@gmail.com>\n"
 "Language-Team: LAMS\n"
@@ -7522,9 +7522,6 @@ msgstr "Ghana"
 
 msgid "Gibraltar"
 msgstr "Xibraltar"
-
-msgid "GitHub commit"
-msgstr ""
 
 #, fuzzy
 msgid "Given device id"

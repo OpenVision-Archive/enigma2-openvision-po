@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-26 11:21+0000\n"
+"POT-Creation-Date: 2021-10-03 01:57+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -6920,9 +6920,6 @@ msgstr "Gana"
 
 msgid "Gibraltar"
 msgstr "Gibraltārs"
-
-msgid "GitHub commit"
-msgstr ""
 
 #, fuzzy
 msgid "Given device id"

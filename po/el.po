@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-26 11:21+0000\n"
+"POT-Creation-Date: 2021-10-03 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -6841,9 +6841,6 @@ msgstr "Γκάνα"
 
 msgid "Gibraltar"
 msgstr "Γιβραλτάρ"
-
-msgid "GitHub commit"
-msgstr ""
 
 #, fuzzy
 msgid "Given device id"
