@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2021-07-28 15:54+0200\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -17,6 +17,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "¿Quieres reproducir DVD en la unidad?"
 
 #, fuzzy
 msgid ""
@@ -5424,10 +5430,6 @@ msgstr "Fecha de los Drivers: "
 msgid "Drop unconfigured satellites"
 msgstr "Soltar satélites no configurados"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Modo"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7052,6 +7054,10 @@ msgstr "Fuente activa de HDMI-CEC"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "Fuente HDMI-CEC inactiva"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "Dirección MAC"
 
 msgid "HDMI-CEC setup"
 msgstr "Ajustes HDMI-CEC"
@@ -14243,6 +14249,10 @@ msgstr "Encender la pantalla durante reposo profundo"
 
 msgid "Switch on the display during operation."
 msgstr "Encender la pantalla durante el funcionamiento."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Cambiar a modo TV"
 
 msgid "Switch to HDMI-IN mode"
 msgstr "Cambiar a Modo HDMI-IN"

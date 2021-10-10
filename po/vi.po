@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Bạn có muốn chơi DVD trong ổ đĩa?"
 
 msgid ""
 "\n"
@@ -5433,10 +5439,6 @@ msgstr "Phiên bản trình điều khiển DVB: "
 msgid "Drop unconfigured satellites"
 msgstr "Thả các vệ tinh chưa được định cấu hình"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Chế độ"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7086,6 +7088,10 @@ msgstr "Nguồn HDMI-CEC đang hoạt động"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "Nguồn HDMI-CEC không hoạt động"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "Địa chỉ IP"
 
 msgid "HDMI-CEC setup"
 msgstr "Thiết lập HDMI-CEC"
@@ -14440,6 +14446,10 @@ msgstr "Bật màn hình trong Chế độ tạm ngừng"
 
 msgid "Switch on the display during operation."
 msgstr "Bật màn hình trong khi hoạt động."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Chuyển sang chế độ TV"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

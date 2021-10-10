@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -13,6 +13,12 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 3.0\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Ar norite paleisti įdėtą DVD?"
 
 msgid ""
 "\n"
@@ -5470,10 +5476,6 @@ msgstr "DVB tvarkyklės versija: "
 msgid "Drop unconfigured satellites"
 msgstr "Pašalinti nesukonfigūruotus palydovus"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Režimas"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7119,6 +7121,10 @@ msgstr "HDMI-CEC veikiantys šaltiniai"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC neveikiantys šaltiniai"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP adresas"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC sąranka"
@@ -14481,6 +14487,10 @@ msgstr "Įjungti ekraną laukimo režime"
 
 msgid "Switch on the display during operation."
 msgstr "Veikimo metu išjunkite ekraną."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Perjungti į TV režimą"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

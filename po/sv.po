@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -15,6 +15,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.12\n"
 "X-Poedit-SourceCharset: utf-8\n"
+
+#
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Vill du spela upp DVD i spelaren?"
 
 msgid ""
 "\n"
@@ -5942,11 +5949,6 @@ msgstr "DVB drivrutiner :"
 msgid "Drop unconfigured satellites"
 msgstr "Anslutna satelliter"
 
-#
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Läge "
-
 msgid "Duplex"
 msgstr ""
 
@@ -7774,6 +7776,11 @@ msgstr "HDMI-CEC inställning"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP adress"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC inställning"
@@ -15993,6 +16000,10 @@ msgstr "Visa lista över tillgängliga Display och Användargränssnittutökning
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "Visa lista över tillgängliga Display och Användargränssnittutökningar."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Växla till TV läge"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -16,6 +16,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Doriti redarea DVD-ului introdus?"
 
 msgid ""
 "\n"
@@ -5306,10 +5312,6 @@ msgstr "Versiune noua:"
 msgid "Drop unconfigured satellites"
 msgstr "elimina satelitul selectat"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Mod"
-
 msgid "Duplex"
 msgstr ""
 
@@ -6945,6 +6947,10 @@ msgstr ""
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP Address"
 
 msgid "HDMI-CEC setup"
 msgstr ""
@@ -14327,6 +14333,10 @@ msgstr "Vezi lista cu Display disponibile si extemsiile Interfata user"
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "Vezi lista cu Display disponibile si extemsiile Interfata user"
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Schimba la subserviciul anterior"
 
 msgid "Switch to HDMI-IN mode"
 msgstr ""

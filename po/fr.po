@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2021-09-22 20:58+0200\n"
 "Last-Translator: Pr2\n"
 "Language-Team: french\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "X-Generator: Poedit 3.0\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Voulez-vous lire le DVD dans le lecteur?"
 
 msgid ""
 "\n"
@@ -5449,10 +5455,6 @@ msgstr "Version pilote DVB: "
 msgid "Drop unconfigured satellites"
 msgstr "Oublier les satellites non configurés"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Mode"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7103,6 +7105,10 @@ msgstr "HDMI-CEC source active"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC source Inactive"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "Adresse IP"
 
 msgid "HDMI-CEC setup"
 msgstr "Configurer HDMI-CEC"
@@ -14457,6 +14463,10 @@ msgstr "Activer l’affichage pendant la veille profonde"
 
 msgid "Switch on the display during operation."
 msgstr "Activer l’affichage en fonctionnement."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Basculer en mode TV"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

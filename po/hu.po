@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2020-12-05 15:11+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.4.2\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Le szeretné játszani a behelyezett DVD-t?"
 
 msgid ""
 "\n"
@@ -5445,10 +5451,6 @@ msgstr "DVB driver verzió: "
 msgid "Drop unconfigured satellites"
 msgstr "Nem beállított műholdak elvetése"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Mód"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7094,6 +7096,10 @@ msgstr "HDMI-CEC forrás aktív"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC forrás inaktív"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP cím"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC beállítások"
@@ -14454,6 +14460,10 @@ msgstr "A kijelző bekapcsolása Felfüggesztett módban"
 
 msgid "Switch on the display during operation."
 msgstr "A kijelző bekapcsolása működés közben."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Váltás TV módra"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

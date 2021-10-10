@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n%10==1 && n%100!=11);\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Дали сакате да го репродуцирате ДВД-то во уредот?"
 
 msgid ""
 "\n"
@@ -5328,10 +5334,6 @@ msgstr "DVB driver верзија: "
 msgid "Drop unconfigured satellites"
 msgstr "Избришете неконфигурирани сателити"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Режим"
-
 msgid "Duplex"
 msgstr ""
 
@@ -6981,6 +6983,10 @@ msgstr "HDMI-CEC активен извор"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC неактивен извор"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP-адреса"
 
 msgid "HDMI-CEC setup"
 msgstr "Поставки на HDMI-CEC"
@@ -14336,6 +14342,10 @@ msgstr "Вклучете го екранот во дееп стендбај"
 
 msgid "Switch on the display during operation."
 msgstr "Вклучете го дисплејот во нормална работа."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Промени во режим на ТВ"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

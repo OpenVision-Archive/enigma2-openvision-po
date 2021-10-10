@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -20,6 +20,13 @@ msgstr ""
 "X-Poedit-Language: Arabic\n"
 "X-Poedit-Country: EGYPT\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
+
+#
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "? האם ברצונך לנגן את הדי.וי.די שבכונן"
 
 msgid ""
 "\n"
@@ -5580,11 +5587,6 @@ msgstr ":גרסה חדשה"
 msgid "Drop unconfigured satellites"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Dual Mode"
-msgstr "מוד"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7307,6 +7309,11 @@ msgstr ""
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP כתובת"
 
 msgid "HDMI-CEC setup"
 msgstr ""
@@ -15144,6 +15151,11 @@ msgstr "View list of available Display and Userinterface extensions."
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "View list of available Display and Userinterface extensions."
+
+#
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Switch to previous subservice"
 
 msgid "Switch to HDMI-IN mode"
 msgstr ""

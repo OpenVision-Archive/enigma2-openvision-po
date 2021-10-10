@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.4.2\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Да възпроизведа ли DVD в устройството?"
 
 msgid ""
 "\n"
@@ -5451,10 +5457,6 @@ msgstr "Версия на DVB драйверите: "
 msgid "Drop unconfigured satellites"
 msgstr "Оставете неконфигурираните сателити"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Режим"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7105,6 +7107,10 @@ msgstr "HDMI-CEC Активен Източник"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC Неактивен Източник"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP адрес"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC настройки"
@@ -14458,6 +14464,10 @@ msgstr "Включете дисплея по време на режим Спир
 
 msgid "Switch on the display during operation."
 msgstr "Включете дисплея по време на работа."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Превключи към режим ТВ"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

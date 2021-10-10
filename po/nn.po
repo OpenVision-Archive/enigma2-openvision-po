@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2013-10-23 19:15+0100\n"
 "Last-Translator: andy1 <dmmm8000pvr@gmail.com>\n"
 "Language-Team: none\n"
@@ -16,6 +16,13 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-15\n"
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,31,1959,-1,-1,-1\n"
+
+#
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Vil du spille DVD?"
 
 #
 msgid ""
@@ -5673,11 +5680,6 @@ msgstr "Linuxkjerne versjon: "
 msgid "Drop unconfigured satellites"
 msgstr "slett valgt satellitt"
 
-#
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Type"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7449,6 +7451,11 @@ msgstr ""
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP adresse"
 
 msgid "HDMI-CEC setup"
 msgstr ""
@@ -15463,6 +15470,11 @@ msgstr "Vis en liste over alle brukergrensesnitt og skjermvalg"
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "Vis en liste over alle brukergrensesnitt og skjermvalg"
+
+#
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Gå til forrige kanal"
 
 msgid "Switch to HDMI-IN mode"
 msgstr ""

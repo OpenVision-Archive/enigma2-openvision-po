@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.0.4\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Вы хотите воспроизвести DVD в приводе?"
 
 msgid ""
 "\n"
@@ -5463,10 +5469,6 @@ msgstr "Версия DVB драйверов: "
 msgid "Drop unconfigured satellites"
 msgstr "Отбросить ненастроенные спутники"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Режим"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7116,6 +7118,10 @@ msgstr "HDMI-CEC источник активный"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC источник неактивный"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP-адрес"
 
 msgid "HDMI-CEC setup"
 msgstr "Настройки HDMI-CEC"
@@ -14482,6 +14488,10 @@ msgstr "Включить дисплей в режиме глубокого ож�
 
 msgid "Switch on the display during operation."
 msgstr "Включить дисплей во время работы."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Перейти к режиму ТВ"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: satdreamgr\n"
 "Language-Team: \n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.7\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Do you want to play DVD in drive?"
 
 msgid ""
 "\n"
@@ -5440,10 +5446,6 @@ msgstr "Kernel version: "
 msgid "Drop unconfigured satellites"
 msgstr "Drop unconfigured satellites"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Mode"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7083,6 +7085,10 @@ msgstr ""
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP address"
 
 msgid "HDMI-CEC setup"
 msgstr ""
@@ -14452,6 +14458,10 @@ msgstr "View list of available display and userinterface extensions."
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "View list of available display and userinterface extensions."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Switch to previous channel"
 
 msgid "Switch to HDMI-IN mode"
 msgstr ""

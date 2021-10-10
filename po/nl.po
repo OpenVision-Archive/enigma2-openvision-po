@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Wilt u de DVD in de speler afspelen?"
 
 msgid ""
 "\n"
@@ -5661,10 +5667,6 @@ msgstr "DVB driver versie: "
 msgid "Drop unconfigured satellites"
 msgstr "Verwijder niet geconfigureerde satellieten"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Modus"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7323,6 +7325,10 @@ msgstr "HDMI-CEC actieve bron"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC Bron inactief"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP-adres:"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC instellingen"
@@ -14755,6 +14761,10 @@ msgstr "Schakel het display in tijdens de deep stand-by"
 
 msgid "Switch on the display during operation."
 msgstr "Schakel het display in tijdens normaal bedrijf"
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Schakel naar de TV modus"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

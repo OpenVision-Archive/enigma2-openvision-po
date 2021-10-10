@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -18,6 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "DVD'yi oynatmak istiyor musunuz?"
 
 msgid ""
 "\n"
@@ -5466,10 +5472,6 @@ msgstr "DVB sürücüleri: "
 msgid "Drop unconfigured satellites"
 msgstr "Bağlı Uydular"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Tipi"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7126,6 +7128,10 @@ msgstr "HDMI-CEC Kurulumu"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP adresi"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC Kurulumu"
@@ -14539,6 +14545,10 @@ msgstr "Ekran ve kullanıcı arayüzü eklentilerini listele."
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "Ekran ve kullanıcı arayüzü eklentilerini listele."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "TV moduna geç"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

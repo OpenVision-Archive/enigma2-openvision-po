@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -13,6 +13,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.2.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Soovid panna DVD mängima?"
 
 msgid ""
 "\n"
@@ -5460,10 +5466,6 @@ msgstr "DVB draiveri versioon: "
 msgid "Drop unconfigured satellites"
 msgstr "Kaota konfigureerimata satelliidid"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Režiim"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7128,6 +7130,10 @@ msgstr "HDMI-CEC allikas aktiivne"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "HDMI-CEC allikas pole aktiivne"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP aadress"
 
 msgid "HDMI-CEC setup"
 msgstr "HDMI-CEC seaded"
@@ -14527,6 +14533,10 @@ msgstr "Vaata saadaolevate kasutajaliidese laienduste nimekirja."
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "Vaata saadaolevate kasutajaliidese laienduste nimekirja."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Lülita TV peale"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

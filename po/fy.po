@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -19,6 +19,13 @@ msgstr ""
 "X-Poedit-Country: NEDERLAND\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 "X-Generator: KBabel 1.11.4\n"
+
+#
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Wolle jo de DVD ôfspielje ?"
 
 #
 msgid ""
@@ -5942,11 +5949,6 @@ msgstr "Nije ferzje:"
 msgid "Drop unconfigured satellites"
 msgstr "selektearre sat ferwiderje"
 
-#
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Moadus"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7764,6 +7766,11 @@ msgstr ""
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "IP Adres"
 
 msgid "HDMI-CEC setup"
 msgstr ""
@@ -16053,6 +16060,11 @@ msgstr ""
 
 msgid "Switch on the display during operation."
 msgstr ""
+
+#
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Gjin nei foarige undersender"
 
 msgid "Switch to HDMI-IN mode"
 msgstr ""

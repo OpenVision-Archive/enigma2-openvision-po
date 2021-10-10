@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -19,6 +19,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.2.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "Riprodurre il DVD inserito?"
 
 msgid ""
 "\n"
@@ -5453,10 +5459,6 @@ msgstr "Versione driver DVB: "
 msgid "Drop unconfigured satellites"
 msgstr "Rilascia i satelliti non configurati"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "Modalità"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7121,6 +7123,10 @@ msgstr "Sorgente HDMI-CEC attiva"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr "Sorgente HDMI-CEC non attiva"
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "Indirizzo IP"
 
 msgid "HDMI-CEC setup"
 msgstr "Protocollo HDMI-CEC"
@@ -14502,6 +14508,10 @@ msgstr "Mostrare l'elenco delle estensioni disponibili per lo schermo e l'interf
 #, fuzzy
 msgid "Switch on the display during operation."
 msgstr "Mostrare l'elenco delle estensioni disponibili per lo schermo e l'interfaccia utente."
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "Passare alla modalità TV"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

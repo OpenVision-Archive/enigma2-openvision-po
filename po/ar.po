@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -14,6 +14,12 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "X-Poedit-SearchPath-0: D:/Decoder/VU+/OBH 4.2/it/LC_MESSAGES/enigma2/OBH/OBH LOCALE\n"
+
+#, fuzzy
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr "هل تريد تشغيل الديفيدي الموجود فى السواقه؟"
 
 msgid ""
 "\n"
@@ -5638,10 +5644,6 @@ msgstr "إصدار جديد:"
 msgid "Drop unconfigured satellites"
 msgstr "الأقمار الصناعية المتصلة"
 
-#, fuzzy
-msgid "Dual Mode"
-msgstr "النظام"
-
 msgid "Duplex"
 msgstr ""
 
@@ -7357,6 +7359,10 @@ msgstr "ضبط تكوين التحكم بكيبل عالي الوضوح"
 
 msgid "HDMI-CEC Source Inactive"
 msgstr ""
+
+#, fuzzy
+msgid "HDMI-CEC address"
+msgstr "عنوان الأيبي"
 
 #, fuzzy
 msgid "HDMI-CEC setup"
@@ -15002,6 +15008,10 @@ msgstr ""
 
 msgid "Switch on the display during operation."
 msgstr ""
+
+#, fuzzy
+msgid "Switch to Android"
+msgstr "التبديل إلى وضع التلفزيون"
 
 #, fuzzy
 msgid "Switch to HDMI-IN mode"

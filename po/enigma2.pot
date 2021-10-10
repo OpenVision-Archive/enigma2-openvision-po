@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-03 01:57+0000\n"
+"POT-Creation-Date: 2021-10-10 01:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid ""
+"\n"
+" Do you want to switch to Android ?"
+msgstr ""
 
 msgid ""
 "\n"
@@ -5693,6 +5698,9 @@ msgid "HDMI-CEC Source Active"
 msgstr ""
 
 msgid "HDMI-CEC Source Inactive"
+msgstr ""
+
+msgid "HDMI-CEC address"
 msgstr ""
 
 msgid "HDMI-CEC setup"
@@ -14716,29 +14724,6 @@ msgstr ""
 msgid "zapped"
 msgstr ""
 
-msgid "Refresh rate selection."
-msgstr ""
-
-msgid "Select refresh rate"
-msgstr ""
-
-msgid "Select video input with up/down buttons"
-msgstr ""
-
-msgid "Select video mode"
-msgstr ""
-
-msgid ""
-"Video input selection\n"
-"\n"
-"Please press OK if you can see this page on your TV (or select a different input port).\n"
-"\n"
-"The next input port will be automatically probed in 20 seconds."
-msgstr ""
-
-msgid "Video mode selection."
-msgstr ""
-
 msgid "Configure interface"
 msgstr ""
 
@@ -14823,6 +14808,44 @@ msgid ""
 "Please choose what you want to do next."
 msgstr ""
 
+msgid "Refresh rate selection."
+msgstr ""
+
+msgid "Select refresh rate"
+msgstr ""
+
+msgid "Select video input with up/down buttons"
+msgstr ""
+
+msgid "Select video mode"
+msgstr ""
+
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV (or select a different input port).\n"
+"\n"
+"The next input port will be automatically probed in 20 seconds."
+msgstr ""
+
+msgid "Video mode selection."
+msgstr ""
+
+msgid "2678400000"
+msgstr ""
+
+msgid "Default task"
+msgstr ""
+
+msgid "IGNORE"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
 msgid "AFP"
 msgstr ""
 
@@ -14860,9 +14883,6 @@ msgid "Delete EPG Cache"
 msgstr ""
 
 msgid "Device"
-msgstr ""
-
-msgid "Dual Mode"
 msgstr ""
 
 msgid "EPG Setup"
@@ -14997,6 +15017,9 @@ msgstr ""
 msgid "Subtitle Setup"
 msgstr ""
 
+msgid "Switch to Android"
+msgstr ""
+
 msgid "Telnet"
 msgstr ""
 
@@ -15031,106 +15054,6 @@ msgid "ZeroTierVPN"
 msgstr ""
 
 msgid "uShare"
-msgstr ""
-
-msgid "Check the internet connection"
-msgstr ""
-
-msgid "Check the internet connection again"
-msgstr ""
-
-msgid "Checking the internet connection"
-msgstr ""
-
-msgid "Do you want to install Plugins?"
-msgstr ""
-
-msgid "Exit the wizard"
-msgstr ""
-
-msgid "Please configure the fallback tuner setup"
-msgstr ""
-
-msgid "Please connect your %s %s (kernel %s) to the internet"
-msgstr ""
-
-msgid "Please set up tuner A"
-msgstr ""
-
-msgid "Please set up tuner B"
-msgstr ""
-
-msgid "Please set up tuner C"
-msgstr ""
-
-msgid "Please set up tuner D"
-msgstr ""
-
-msgid "Please set up tuner E"
-msgstr ""
-
-msgid "Please set up tuner F"
-msgstr ""
-
-msgid "Please set up tuner G"
-msgstr ""
-
-msgid "Please set up tuner H"
-msgstr ""
-
-msgid "Please set up tuner I"
-msgstr ""
-
-msgid "Please set up tuner J"
-msgstr ""
-
-msgid "Please set up tuner Q"
-msgstr ""
-
-msgid "Please set up tuner R"
-msgstr ""
-
-msgid "Please set your time options"
-msgstr ""
-
-msgid ""
-"Please set your time options.\n"
-"\n"
-"Press YELLOW to set the time zone via geolocation."
-msgstr ""
-
-msgid "Please setup the following basic configs!"
-msgstr ""
-
-msgid "Skip internet connection check (disables automatic package installation)"
-msgstr ""
-
-msgid "Speed up the performance"
-msgstr ""
-
-msgid ""
-"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
-"Press OK to start using Open Vision %s-%s"
-msgstr ""
-
-msgid ""
-"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
-"We detected your RC as %s (type %s id %s)"
-msgstr ""
-
-msgid "Use the wizard to set up basic features"
-msgstr ""
-
-msgid ""
-"Welcome to Open Vision %s-%s\n"
-"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
-"Press the OK button on your remote control to move to the next step."
-msgstr ""
-
-msgid "What type of service scan do you want?"
-msgstr ""
-
-msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr ""
 
 msgid "12V output"
@@ -17074,6 +16997,106 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
+msgid "Check the internet connection"
+msgstr ""
+
+msgid "Check the internet connection again"
+msgstr ""
+
+msgid "Checking the internet connection"
+msgstr ""
+
+msgid "Do you want to install Plugins?"
+msgstr ""
+
+msgid "Exit the wizard"
+msgstr ""
+
+msgid "Please configure the fallback tuner setup"
+msgstr ""
+
+msgid "Please connect your %s %s (kernel %s) to the internet"
+msgstr ""
+
+msgid "Please set up tuner A"
+msgstr ""
+
+msgid "Please set up tuner B"
+msgstr ""
+
+msgid "Please set up tuner C"
+msgstr ""
+
+msgid "Please set up tuner D"
+msgstr ""
+
+msgid "Please set up tuner E"
+msgstr ""
+
+msgid "Please set up tuner F"
+msgstr ""
+
+msgid "Please set up tuner G"
+msgstr ""
+
+msgid "Please set up tuner H"
+msgstr ""
+
+msgid "Please set up tuner I"
+msgstr ""
+
+msgid "Please set up tuner J"
+msgstr ""
+
+msgid "Please set up tuner Q"
+msgstr ""
+
+msgid "Please set up tuner R"
+msgstr ""
+
+msgid "Please set your time options"
+msgstr ""
+
+msgid ""
+"Please set your time options.\n"
+"\n"
+"Press YELLOW to set the time zone via geolocation."
+msgstr ""
+
+msgid "Please setup the following basic configs!"
+msgstr ""
+
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+msgid "Speed up the performance"
+msgstr ""
+
+msgid ""
+"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
+"Press OK to start using Open Vision %s-%s"
+msgstr ""
+
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
+"We detected your RC as %s (type %s id %s)"
+msgstr ""
+
+msgid "Use the wizard to set up basic features"
+msgstr ""
+
+msgid ""
+"Welcome to Open Vision %s-%s\n"
+"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
+"Press the OK button on your remote control to move to the next step."
+msgstr ""
+
+msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "Your %s %s (kernel %s) does not have an internet connection"
+msgstr ""
+
 msgid "About"
 msgstr ""
 
@@ -17245,58 +17268,19 @@ msgstr ""
 msgid "help..."
 msgstr ""
 
-msgid "  REC  "
-msgstr ""
-
-msgid "EPG Selection"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "Graphical EPG"
-msgstr ""
-
-msgid "IMDB Search"
-msgstr ""
-
-msgid "Quick EPG"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
-msgid "Enigmalight"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
+msgid "Rec"
 msgstr ""
 
 msgid "TUNER:"
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "Rec"
 msgstr ""
 
 msgid " HI "
 msgstr ""
 
 msgid "REC "
+msgstr ""
+
+msgid "  REC  "
 msgstr ""
 
 msgid "E "
@@ -17317,20 +17301,44 @@ msgstr ""
 msgid "J"
 msgstr ""
 
+msgid "EasyMedia"
+msgstr ""
+
+msgid "Ext. NumberZap"
+msgstr ""
+
+msgid "Timer+"
+msgstr ""
+
+msgid "Timerlist"
+msgstr ""
+
+msgid "EPG Selection"
+msgstr ""
+
+msgid "Graphical EPG"
+msgstr ""
+
+msgid "IMDB Search"
+msgstr ""
+
+msgid "Quick EPG"
+msgstr ""
+
+msgid "EtPortal"
+msgstr ""
+
+msgid "®"
+msgstr ""
+
+msgid "Enigmalight"
+msgstr ""
+
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
 msgid "-"
-msgstr ""
-
-msgid "false"
-msgstr ""
-
-msgid "2678400000"
-msgstr ""
-
-msgid "Default task"
-msgstr ""
-
-msgid "IGNORE"
-msgstr ""
-
-msgid "true"
 msgstr ""
