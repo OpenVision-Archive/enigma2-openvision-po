@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -18342,6 +18342,9 @@ msgstr "популярна культура/традиційні мистецт�
 msgid "pre-school children's program"
 msgstr "дитяча програма дошкільного віку"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Пріоритет"
@@ -18395,6 +18398,10 @@ msgstr "Видалити заголовок"
 
 msgid "remove before this position"
 msgstr "видалити до цієї позиції"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Видалити закладку"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

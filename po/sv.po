@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -20273,6 +20273,9 @@ msgstr "populärkultur / traditionell konst"
 msgid "pre-school children's program"
 msgstr "barnprogram förskola"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #
 #, fuzzy
 msgid "priority"
@@ -20334,6 +20337,11 @@ msgstr "Ta bort titel"
 #
 msgid "remove before this position"
 msgstr "ta bort före denna position"
+
+#
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Ta bort bokmärke"
 
 #
 #, fuzzy

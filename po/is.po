@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -20012,6 +20012,9 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #
 #, fuzzy
 msgid "priority"
@@ -20073,6 +20076,11 @@ msgstr "Taka út titil"
 #
 msgid "remove before this position"
 msgstr "eyða fyrir framan þetta"
+
+#
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "eyða bókamerki"
 
 #
 #, fuzzy

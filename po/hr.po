@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -18348,6 +18348,9 @@ msgstr "popularna kultura/tradicionalna umjetnost"
 msgid "pre-school children's program"
 msgstr "predškolski program za djecu"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Prioritet"
@@ -18401,6 +18404,10 @@ msgstr "Uklonite naslov"
 
 msgid "remove before this position"
 msgstr "uklonite prije tog položaja"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Uklonite oznake"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

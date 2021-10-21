@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -18347,6 +18347,9 @@ msgstr "tautas kultūra/tradicionālā māksla"
 msgid "pre-school children's program"
 msgstr "pirmsskolas bērnu programma"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Prioritāte"
@@ -18400,6 +18403,10 @@ msgstr "Dzēst virsrakstu"
 
 msgid "remove before this position"
 msgstr "dzēst pirms šīs pozīcijas"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Dzēst"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

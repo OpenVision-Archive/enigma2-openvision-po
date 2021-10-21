@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -17861,6 +17861,9 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "次序"
@@ -17912,6 +17915,10 @@ msgstr "移除標題"
 
 msgid "remove before this position"
 msgstr "移除這個位置之前的"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "自動掃描"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

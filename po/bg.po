@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -18315,6 +18315,9 @@ msgstr "популярна култура/традиционни изкуств�
 msgid "pre-school children's program"
 msgstr "пред-училищна детска програма"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Приоритет"
@@ -18368,6 +18371,10 @@ msgstr "Премахни заглавие"
 
 msgid "remove before this position"
 msgstr "премахни преди тази позиция"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Премахване на отметка"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

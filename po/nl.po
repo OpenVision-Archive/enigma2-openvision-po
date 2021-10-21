@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -18693,6 +18693,9 @@ msgstr "Moderne cultuur/Traditionele kunst"
 msgid "pre-school children's program"
 msgstr "Peuter/Kleuterprogramma"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Prioriteit"
@@ -18746,6 +18749,10 @@ msgstr "Titel verwijderen"
 
 msgid "remove before this position"
 msgstr "Verwijder voor deze positie"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Wis markeerpunt"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -18319,6 +18319,9 @@ msgstr "流行文化/传统艺术"
 msgid "pre-school children's program"
 msgstr "学前儿童程序（早教程序）"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "次序"
@@ -18372,6 +18375,10 @@ msgstr "移除标题"
 
 msgid "remove before this position"
 msgstr "移除这个位置之前的"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "删除书签"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

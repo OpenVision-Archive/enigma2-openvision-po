@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -20101,6 +20101,9 @@ msgstr "Arts/Culturas"
 msgid "pre-school children's program"
 msgstr "programa infantil d’educació infantil"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #
 #, fuzzy
 msgid "priority"
@@ -20162,6 +20165,11 @@ msgstr "Esborra títol"
 #
 msgid "remove before this position"
 msgstr "esborra abans d'aquesta posició"
+
+#
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Esborrar marca"
 
 #
 #, fuzzy

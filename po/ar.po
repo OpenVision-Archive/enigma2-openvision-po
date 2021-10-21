@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -18984,6 +18984,9 @@ msgstr "الثقافة الشعبية/الفنون التقليدية"
 msgid "pre-school children's program"
 msgstr "برنامج الأطفال قبل المدرسة"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "الأولوية"
@@ -19038,6 +19041,10 @@ msgstr "حذف عنوان"
 
 msgid "remove before this position"
 msgstr "حذف قبل هذا المكان"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "إزالة العلامة المرجعية"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

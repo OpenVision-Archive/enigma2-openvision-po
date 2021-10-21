@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -18203,6 +18203,9 @@ msgstr "Popkultura/Sztuka tradycyjna"
 msgid "pre-school children's program"
 msgstr "Dla przedszkolaków"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Priorytet konwertera"
@@ -18256,6 +18259,10 @@ msgstr "Usuń tytuł"
 
 msgid "remove before this position"
 msgstr "Usuń przed tą pozycją"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Usuń zakładkę"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

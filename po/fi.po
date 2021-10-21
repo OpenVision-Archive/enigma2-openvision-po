@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -20152,6 +20152,9 @@ msgstr "populäärikulttuuri/perinteinen taide"
 msgid "pre-school children's program"
 msgstr "esikouluikäisten lastenohjelma"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #
 #, fuzzy
 msgid "priority"
@@ -20214,6 +20217,11 @@ msgstr "Poista"
 #
 msgid "remove before this position"
 msgstr "Poista kaikki ennen tätä kohtaa"
+
+#
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Poista kirjanmerkki"
 
 #
 #, fuzzy

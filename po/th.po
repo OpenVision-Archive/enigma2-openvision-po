@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -18256,6 +18256,9 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "สำคัญ"
@@ -18308,6 +18311,10 @@ msgstr "ลบเรื่อง"
 
 msgid "remove before this position"
 msgstr "ลบก่อนหน้าตำแหน่งนี้ออก"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "ลบบุ๊คมาร์ค"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

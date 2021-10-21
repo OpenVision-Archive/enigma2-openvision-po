@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -18345,6 +18345,9 @@ msgstr "populiarioji kultūra/tradiciniai menai"
 msgid "pre-school children's program"
 msgstr "ikimokyklinė vaikų programa"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Pirmenybė"
@@ -18398,6 +18401,10 @@ msgstr "Pašalinti antraštę"
 
 msgid "remove before this position"
 msgstr "pašalinti iki šios pozicijos"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Pašalinti žymę"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

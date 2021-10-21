@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -18244,6 +18244,9 @@ msgstr "λαϊκή κουλτούρα/παραδοσιακές τέχνες"
 msgid "pre-school children's program"
 msgstr "πρόγραμμα για παιδιά προσχολικής ηλικίας"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Προτεραιότητα"
@@ -18297,6 +18300,10 @@ msgstr "Διαγραφή τίτλου"
 
 msgid "remove before this position"
 msgstr "διαγραφή πριν από αυτό το σημείο"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Διαγραφή σελιδοδείκτη"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

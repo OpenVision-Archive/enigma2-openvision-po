@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -20468,6 +20468,9 @@ msgstr "lidová kultura/tradiční umění"
 msgid "pre-school children's program"
 msgstr "program pro předškolní děti"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #
 #, fuzzy
 msgid "priority"
@@ -20530,6 +20533,11 @@ msgstr "Odebrat titul"
 #
 msgid "remove before this position"
 msgstr "odebrat před touto pozicí"
+
+#
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Smazat záložku"
 
 #
 #, fuzzy

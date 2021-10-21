@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -18230,6 +18230,9 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "اولویت"
@@ -18283,6 +18286,10 @@ msgstr "حذف عنوان"
 
 msgid "remove before this position"
 msgstr ""
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "حذف علامت"
 
 msgid "remove cuts (preserve marks)"
 msgstr ""

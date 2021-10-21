@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -18341,6 +18341,9 @@ msgstr "популярные культура/традиции искусств�
 msgid "pre-school children's program"
 msgstr "дошкольные детские программы"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Приоритет LNB"
@@ -18394,6 +18397,10 @@ msgstr "Удалить название"
 
 msgid "remove before this position"
 msgstr "удалить перед этой позицией"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "удалить закладку"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

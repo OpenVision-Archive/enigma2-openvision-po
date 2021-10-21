@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2021-08-02 08:54+0200\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -18345,6 +18345,9 @@ msgstr "populárna kultúra/tradičné umenie"
 msgid "pre-school children's program"
 msgstr "program pre predškolské deti"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #, fuzzy
 msgid "priority"
 msgstr "Priorita"
@@ -18398,6 +18401,10 @@ msgstr "Odstrániť titul"
 
 msgid "remove before this position"
 msgstr "odstrániť pred touto pozíciou"
+
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Odstrániť záložku"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"

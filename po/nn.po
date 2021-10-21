@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 01:53+0000\n"
+"POT-Creation-Date: 2021-10-21 10:46+0000\n"
 "PO-Revision-Date: 2013-10-23 19:15+0100\n"
 "Last-Translator: andy1 <dmmm8000pvr@gmail.com>\n"
 "Language-Team: none\n"
@@ -19588,6 +19588,9 @@ msgstr "populær kultur/tradisjonell kunst"
 msgid "pre-school children's program"
 msgstr "førskolebarn/barneprogram"
 
+msgid "preserve bookmarks in cuts"
+msgstr ""
+
 #
 #, fuzzy
 msgid "priority"
@@ -19647,6 +19650,11 @@ msgstr "Slette overskrift"
 
 msgid "remove before this position"
 msgstr "fjerne før denne posisjonen"
+
+#
+#, fuzzy
+msgid "remove bookmarks in cuts"
+msgstr "Slett bokmerke"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
