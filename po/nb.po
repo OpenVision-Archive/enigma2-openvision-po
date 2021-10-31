@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-06-19 13:08+0200\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -6509,6 +6509,9 @@ msgstr ""
 "Feil under utpakking av bilde\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 #
 msgid "Error stop stream!"
 msgstr "Feil stopp strøm!"
@@ -11207,9 +11210,6 @@ msgstr "Pause / Fortsett avspilling"
 msgid "Pausing"
 msgstr "pause"
 
-msgid "Pending restart"
-msgstr "Venter på omstart"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Prosent venstre"
@@ -12082,6 +12082,11 @@ msgstr "Beskytt meny i avslått"
 #
 msgid "Protect timer menu"
 msgstr "Lås timer meny"
+
+#
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Beskytt hovedmeny"
 
 #
 #, fuzzy

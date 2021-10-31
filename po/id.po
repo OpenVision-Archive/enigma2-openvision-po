@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -6107,6 +6107,9 @@ msgstr ""
 "Kesalahan saat mengunzip image\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Kesalahan, hentikan stream!"
 
@@ -10453,10 +10456,6 @@ msgid "Pausing"
 msgstr "jeda"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "Standby / mulai ulang"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "Persentase di kiri"
 
@@ -11247,6 +11246,10 @@ msgstr "Lindungi menu standby"
 
 msgid "Protect timer menu"
 msgstr "Lindungi menu pewaktu"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Lindungi menu utama"
 
 #, fuzzy
 msgid "Protocol"

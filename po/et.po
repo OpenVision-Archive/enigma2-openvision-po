@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -6034,6 +6034,9 @@ msgstr ""
 "Viga tarkvara lahtipakkimisel\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Viga, peata voog!"
 
@@ -10310,10 +10313,6 @@ msgid "Pausing"
 msgstr "on pausil"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "Seiskamine"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "Protsent vasakul"
 
@@ -11098,6 +11097,10 @@ msgstr "Kaitse ootele menüüd"
 
 msgid "Protect timer menu"
 msgstr "Kaitse taimeri menüüd"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Kaitse peamenüüd"
 
 #, fuzzy
 msgid "Protocol"

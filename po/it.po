@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -6025,6 +6025,9 @@ msgstr ""
 "Errore durante la decompressione dell'immagine\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Errore di interruzione nel flusso!"
 
@@ -10302,10 +10305,6 @@ msgid "Pausing"
 msgstr "In pausa"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "Gestione stato"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "Percentuale a sinistra"
 
@@ -11086,6 +11085,10 @@ msgstr "Proteggere il menu di gestione stato"
 
 msgid "Protect timer menu"
 msgstr "Proteggere il menu dei timer"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Proteggere il menu principale"
 
 #, fuzzy
 msgid "Protocol"

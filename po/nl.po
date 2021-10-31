@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -6240,6 +6240,9 @@ msgstr ""
 "Fout tijdens het uitpakken van de image\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Fout stop de stream!"
 
@@ -10516,9 +10519,6 @@ msgstr "Pauzeer/Hervat afspelen"
 msgid "Pausing"
 msgstr "gepauseerd"
 
-msgid "Pending restart"
-msgstr "Wacht op herstart"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Percentage links"
@@ -11328,6 +11328,10 @@ msgstr "Beveilig stand-by menu"
 
 msgid "Protect timer menu"
 msgstr "Beveilig timer menu"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Beveilig hoofdmenu"
 
 #, fuzzy
 msgid "Protocol"

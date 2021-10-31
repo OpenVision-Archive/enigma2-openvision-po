@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: satdreamgr\n"
 "Language-Team: \n"
@@ -6008,6 +6008,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -10257,10 +10260,6 @@ msgid "Pausing"
 msgstr "Pause"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "Standby / restart"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "Percentage left"
 
@@ -11043,6 +11042,10 @@ msgstr ""
 
 msgid "Protect timer menu"
 msgstr ""
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Preview menu"
 
 #, fuzzy
 msgid "Protocol"

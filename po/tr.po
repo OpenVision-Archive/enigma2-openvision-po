@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -6035,6 +6035,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -10313,10 +10316,6 @@ msgid "Pausing"
 msgstr "Duraklat"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "Kapatma"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "Sol oran"
 
@@ -11105,6 +11104,10 @@ msgstr "Hazırda Bekletme koruması"
 
 msgid "Protect timer menu"
 msgstr "Zaman Kaydırma koruması"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Ana menü koruması"
 
 #, fuzzy
 msgid "Protocol"

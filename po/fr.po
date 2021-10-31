@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-09-22 20:58+0200\n"
 "Last-Translator: Pr2\n"
 "Language-Team: french\n"
@@ -6019,6 +6019,9 @@ msgstr ""
 "Erreur lors de la décompression de l'image\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Erreur arrêt du stream (diffusion)!"
 
@@ -10277,9 +10280,6 @@ msgstr "Pause/Continue la lecture"
 msgid "Pausing"
 msgstr "en pause"
 
-msgid "Pending restart"
-msgstr "En attente de redémarrage"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Pourcentage gauche"
@@ -11061,6 +11061,10 @@ msgstr "Protéger le menu de veille"
 
 msgid "Protect timer menu"
 msgstr "Protéger le menu des programmations/timers"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Protéger le menu principal"
 
 #, fuzzy
 msgid "Protocol"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -6570,6 +6570,9 @@ msgstr ""
 "S’ha produït un error en descomprimir la imatge\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Error d’aturar el flux!"
 
@@ -11250,9 +11253,6 @@ msgstr "Pausa la reproducció"
 msgid "Pausing"
 msgstr "parat"
 
-msgid "Pending restart"
-msgstr "Pendent de reiniciar"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Percentatge restant"
@@ -12146,6 +12146,10 @@ msgstr "Protegiu el menú d’espera"
 
 msgid "Protect timer menu"
 msgstr "Protegiu el menú del temporitzador"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Protegiu el menú principal"
 
 #, fuzzy
 msgid "Protocol"

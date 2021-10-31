@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -6402,6 +6402,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -11123,11 +11126,6 @@ msgstr "Halda áfram að spila"
 msgid "Pausing"
 msgstr "pása"
 
-#
-#, fuzzy
-msgid "Pending restart"
-msgstr "Biðstaða / Endurræsing"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Hringpólun hægri"
@@ -12019,6 +12017,11 @@ msgstr ""
 
 msgid "Protect timer menu"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Forskoða valmynd"
 
 msgid "Protocol"
 msgstr ""

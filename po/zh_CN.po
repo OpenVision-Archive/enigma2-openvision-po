@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -6016,6 +6016,9 @@ msgstr ""
 "解压缩镜像时出错\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "停止串流出错！"
 
@@ -10272,9 +10275,6 @@ msgstr "暂停/继续播放"
 msgid "Pausing"
 msgstr "暂停"
 
-msgid "Pending restart"
-msgstr "等待重新启动"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "百分比显示在左侧"
@@ -11056,6 +11056,10 @@ msgstr "保护待机菜单"
 
 msgid "Protect timer menu"
 msgstr "保护定时器菜单"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "保护主菜单"
 
 #, fuzzy
 msgid "Protocol"

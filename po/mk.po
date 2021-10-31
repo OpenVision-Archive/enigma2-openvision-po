@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -5898,6 +5898,9 @@ msgstr ""
 "Грешка при отпакување на имиџот\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Грешка при запирање на стримот!"
 
@@ -10156,9 +10159,6 @@ msgstr "Паузирај / продолжи ја репродукцијата"
 msgid "Pausing"
 msgstr "паузирање"
 
-msgid "Pending restart"
-msgstr "Се чека рестартирање"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Процентот лево"
@@ -10940,6 +10940,10 @@ msgstr "Заштитете го менито на стендбај"
 
 msgid "Protect timer menu"
 msgstr "Заштитете го менито на тајмерот"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Заштитете го главното мени"
 
 #, fuzzy
 msgid "Protocol"

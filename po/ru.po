@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -6033,6 +6033,9 @@ msgstr ""
 "Ошибка при распаковке имиджа\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Ошибка при остановке стрима!"
 
@@ -10296,9 +10299,6 @@ msgstr "Пауза/продолжение воспроизведение"
 msgid "Pausing"
 msgstr "пауза"
 
-msgid "Pending restart"
-msgstr "Ожидание рестарта"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Проценты слева"
@@ -11080,6 +11080,10 @@ msgstr "Защита меню выключения"
 
 msgid "Protect timer menu"
 msgstr "Защита меню таймеров"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Защита главного меню"
 
 #, fuzzy
 msgid "Protocol"

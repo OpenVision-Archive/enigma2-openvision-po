@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2020-12-05 15:11+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -6011,6 +6011,9 @@ msgid ""
 "%s"
 msgstr "Hiba az image kicsomagolása során %s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "A stream leállítása sikertelen!"
 
@@ -10270,9 +10273,6 @@ msgstr "Lejátszás megállítása/folytatása"
 msgid "Pausing"
 msgstr "megállítás"
 
-msgid "Pending restart"
-msgstr "Felfüggesztett újraindítás"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Százalék balra"
@@ -11054,6 +11054,10 @@ msgstr "Készenléti menü védelme"
 
 msgid "Protect timer menu"
 msgstr "Időzítő menü védelme"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Főmenü védelme"
 
 #, fuzzy
 msgid "Protocol"

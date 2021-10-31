@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -6040,6 +6040,9 @@ msgstr ""
 "Išarchyvuojamo atvaizdo klaida\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Srauto stabdymo klaida!"
 
@@ -10296,9 +10299,6 @@ msgstr "Pristabdyti/tęsti atkūrimą"
 msgid "Pausing"
 msgstr "pristabdymas"
 
-msgid "Pending restart"
-msgstr "Laukiama paleidimo iš naujo"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Procentai kairėje"
@@ -11080,6 +11080,10 @@ msgstr "Apsaugoti išjungimo meniu"
 
 msgid "Protect timer menu"
 msgstr "Apsaugoti laikmačio meniu"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Apsaugoti pagrindinį meniu"
 
 #, fuzzy
 msgid "Protocol"

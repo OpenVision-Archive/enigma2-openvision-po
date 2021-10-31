@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -5926,6 +5926,9 @@ msgstr ""
 "Błąd podczas rozpakowywania image\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Błąd zatrzymania streamu!"
 
@@ -10166,9 +10169,6 @@ msgstr "Pauza/wznowienie odtwarzania"
 msgid "Pausing"
 msgstr "zatrzymany"
 
-msgid "Pending restart"
-msgstr "Oczekujący restart"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Procenty po lewej"
@@ -10949,6 +10949,10 @@ msgstr "Zabezpiecz menu standby"
 
 msgid "Protect timer menu"
 msgstr "Zabezpiecz menu timerów"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Zabezpiecz menu główne"
 
 #, fuzzy
 msgid "Protocol"

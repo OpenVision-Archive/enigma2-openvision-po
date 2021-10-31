@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -5958,6 +5958,9 @@ msgstr ""
 "Σφάλμα αποσυμπίεσης του image\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Σφάλμα διακοπής ροής!"
 
@@ -10214,9 +10217,6 @@ msgstr "Παύση/Συνέχιση αναπαραγωγής"
 msgid "Pausing"
 msgstr "σε παύση"
 
-msgid "Pending restart"
-msgstr "Αναμονή για επανεκκίνηση"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Ποσοστό αριστερά"
@@ -10996,6 +10996,10 @@ msgstr "Προστασία μενού αναμονής"
 
 msgid "Protect timer menu"
 msgstr "Προστασία μενού χρονοδιακοπτών"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Προστασία κύριου μενού"
 
 #, fuzzy
 msgid "Protocol"

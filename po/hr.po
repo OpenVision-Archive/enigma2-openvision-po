@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -6039,6 +6039,9 @@ msgstr ""
 "Pogreška prilikom raspakiranja imagea\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Pogreška pri zaustavljanju web prijenosa!"
 
@@ -10300,9 +10303,6 @@ msgstr "Pauza/nastavak reprodukcije"
 msgid "Pausing"
 msgstr "pauza"
 
-msgid "Pending restart"
-msgstr "U tijeku je ponovno pokretanje"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Postotak lijevo"
@@ -11084,6 +11084,10 @@ msgstr "Zaštita izbornika čekanja"
 
 msgid "Protect timer menu"
 msgstr "Zaštita izbornika tajmera"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Zaštita glavnog izbornika"
 
 #, fuzzy
 msgid "Protocol"

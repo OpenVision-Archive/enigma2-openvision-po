@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -6570,6 +6570,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -11282,11 +11285,6 @@ msgstr "Pausa / Fortsätt uppspelning"
 msgid "Pausing"
 msgstr "Paus"
 
-#
-#, fuzzy
-msgid "Pending restart"
-msgstr "Viloläge / Omstart"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Procent Vänster"
@@ -12183,6 +12181,10 @@ msgstr "Skydda vilolägesmeny"
 
 msgid "Protect timer menu"
 msgstr "Skydda timermeny"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Skydda huvudmeny"
 
 #, fuzzy
 msgid "Protocol"

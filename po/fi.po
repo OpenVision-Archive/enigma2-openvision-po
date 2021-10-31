@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -6500,6 +6500,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -11207,11 +11210,6 @@ msgstr "Pysäytä/Jatka toistoa"
 msgid "Pausing"
 msgstr "Tauko"
 
-#
-#, fuzzy
-msgid "Pending restart"
-msgstr "Sammutusvalikko"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Prosentit vasemmalla"
@@ -12117,6 +12115,11 @@ msgstr "Suojaa valmiustilavalikko"
 #
 msgid "Protect timer menu"
 msgstr "Suojaa ajastusvalikko"
+
+#
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Suojaa päävalikko"
 
 #
 #, fuzzy

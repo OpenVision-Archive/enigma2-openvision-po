@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -6021,6 +6021,9 @@ msgstr ""
 "Грешка при разархивиране на имиджа\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Грешка при спиране на стрийма!"
 
@@ -10275,9 +10278,6 @@ msgstr "Пауза/Продължение на възпроизвежданет�
 msgid "Pausing"
 msgstr "на пауза"
 
-msgid "Pending restart"
-msgstr "Очаква рестарт"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Процента отляво"
@@ -11059,6 +11059,10 @@ msgstr "Защита менюто за изключване"
 
 msgid "Protect timer menu"
 msgstr "Защита менюто за таймери"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Защита на главно меню"
 
 #, fuzzy
 msgid "Protocol"

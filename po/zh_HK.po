@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -5855,6 +5855,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 #, fuzzy
 msgid "Error stop stream!"
 msgstr "連續的流"
@@ -10032,9 +10035,6 @@ msgstr "繼續播放"
 msgid "Pausing"
 msgstr "暫停"
 
-msgid "Pending restart"
-msgstr ""
-
 msgid "Percentage"
 msgstr ""
 
@@ -10810,6 +10810,10 @@ msgstr ""
 
 msgid "Protect timer menu"
 msgstr ""
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "DVD預覽功能表"
 
 msgid "Protocol"
 msgstr ""

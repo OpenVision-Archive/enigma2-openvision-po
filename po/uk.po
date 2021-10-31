@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -6032,6 +6032,9 @@ msgstr ""
 "Помилка під час розархівування іміджу\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Помилка зупинки потоку!"
 
@@ -10293,9 +10296,6 @@ msgstr "Пауза/Продовження відтворення"
 msgid "Pausing"
 msgstr "пауза"
 
-msgid "Pending restart"
-msgstr "Очікує перезавантаження"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Відсотки зліва"
@@ -11077,6 +11077,10 @@ msgstr "Захистити меню вимкнення"
 
 msgid "Protect timer menu"
 msgstr "Захистити меню таймерів"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Захистити головне меню"
 
 #, fuzzy
 msgid "Protocol"

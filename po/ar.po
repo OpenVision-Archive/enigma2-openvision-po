@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -6224,6 +6224,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 #, fuzzy
 msgid "Error stop stream!"
 msgstr "إيقاف التدفق"
@@ -10629,10 +10632,6 @@ msgid "Pausing"
 msgstr "التوقف"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "وضع الإستعداد / إعادة التشغيل"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "النسبة المئوية في اليسار"
 
@@ -11433,6 +11432,10 @@ msgstr "حماية قائمة الإغلاق"
 
 msgid "Protect timer menu"
 msgstr "حماية قائمة المؤقت"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "حماية القائمة الرئيسية"
 
 #, fuzzy
 msgid "Protocol"

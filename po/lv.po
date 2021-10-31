@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -6037,6 +6037,9 @@ msgstr ""
 "Kļūda atarhivējot imidžu\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Kļūda apturot straumēšanu!"
 
@@ -10295,9 +10298,6 @@ msgstr "Nopauzēt/Turpināt atskaņošanu"
 msgid "Pausing"
 msgstr "pauzēts"
 
-msgid "Pending restart"
-msgstr "Gaida restartēšanu"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Procenti kreisā pusē"
@@ -11079,6 +11079,10 @@ msgstr "Aizsargāt gaidstāves izvēlni"
 
 msgid "Protect timer menu"
 msgstr "Aizsargāt taimeru izvēlni"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Aizsargāt galveno izvēlni"
 
 #, fuzzy
 msgid "Protocol"

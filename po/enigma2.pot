@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-24 01:54+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4785,6 +4785,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -8223,9 +8226,6 @@ msgstr ""
 msgid "Pausing"
 msgstr ""
 
-msgid "Pending restart"
-msgstr ""
-
 msgid "Percentage"
 msgstr ""
 
@@ -8789,6 +8789,9 @@ msgid "Protect standby menu"
 msgstr ""
 
 msgid "Protect timer menu"
+msgstr ""
+
+msgid "Protect vision core menu"
 msgstr ""
 
 msgid "Protocol"

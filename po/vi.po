@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -6003,6 +6003,9 @@ msgstr ""
 "Lỗi trong khi giải nén hình ảnh\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Lỗi dừng luồng!"
 
@@ -10261,9 +10264,6 @@ msgstr "Tạm dừng / Tiếp tục phát lại"
 msgid "Pausing"
 msgstr "tạm dừng"
 
-msgid "Pending restart"
-msgstr "Đang chờ khởi động lại"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Tỷ lệ còn lại"
@@ -11045,6 +11045,10 @@ msgstr "Bảo vệ menu chờ"
 
 msgid "Protect timer menu"
 msgstr "Menu bảo vệ hẹn giờ"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Bảo vệ menu chính"
 
 #, fuzzy
 msgid "Protocol"

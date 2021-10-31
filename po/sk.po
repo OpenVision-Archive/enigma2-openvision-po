@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2021-08-02 08:54+0200\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -6033,6 +6033,9 @@ msgstr ""
 "Chyba počas rozbalovania image\n"
 "%s"
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr "Chyba zastavenia streamu!"
 
@@ -10294,9 +10297,6 @@ msgstr "Pozastaviť/Pokračovať prehrávanie"
 msgid "Pausing"
 msgstr "pozastavuje sa"
 
-msgid "Pending restart"
-msgstr "< Čakajúci reštart >"
-
 #, fuzzy
 msgid "Percentage"
 msgstr "Percentá vľavo"
@@ -11078,6 +11078,10 @@ msgstr "Chrániť menu pohotovostného režimu"
 
 msgid "Protect timer menu"
 msgstr "Chrániť menu časovačov"
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "Chrániť hlavné menu"
 
 #, fuzzy
 msgid "Protocol"

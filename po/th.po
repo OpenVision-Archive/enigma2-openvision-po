@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-21 10:46+0000\n"
+"POT-Creation-Date: 2021-10-31 01:54+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -5974,6 +5974,9 @@ msgid ""
 "%s"
 msgstr ""
 
+msgid "Error in XML file: Try to solve and then restart."
+msgstr ""
+
 msgid "Error stop stream!"
 msgstr ""
 
@@ -10238,10 +10241,6 @@ msgid "Pausing"
 msgstr "หยุดชั่วคราว"
 
 #, fuzzy
-msgid "Pending restart"
-msgstr "ปิดเครื่อง"
-
-#, fuzzy
 msgid "Percentage"
 msgstr "วนขวา"
 
@@ -11031,6 +11030,10 @@ msgstr ""
 
 msgid "Protect timer menu"
 msgstr ""
+
+#, fuzzy
+msgid "Protect vision core menu"
+msgstr "เมนูดูตัวอย่าง"
 
 msgid "Protocol"
 msgstr ""
