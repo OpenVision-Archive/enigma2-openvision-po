@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-31 01:54+0000\n"
+"POT-Creation-Date: 2021-11-06 17:22+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -4004,6 +4004,9 @@ msgstr ""
 #
 msgid "Compact flash"
 msgstr "Compact Flash"
+
+msgid "Compatible to use on"
+msgstr ""
 
 #
 #, fuzzy
@@ -11142,6 +11145,11 @@ msgstr ""
 msgid "OpenDNS Home"
 msgstr ""
 
+#
+#, fuzzy
+msgid "OpenSSL version"
+msgstr "Inverzija"
+
 msgid "OpenVPN"
 msgstr ""
 
@@ -12253,6 +12261,9 @@ msgid "Press or select button and then press 'OK' for attach next function or ed
 msgstr ""
 
 msgid "Press this button to emulate a long press on a button pressed afterwards (this also overrides any other actions assigned to emulation button)."
+msgstr ""
+
+msgid "Press yellow button to set CEC address again"
 msgstr ""
 
 #
@@ -18437,6 +18448,9 @@ msgstr "Navidezna tipkovnica"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Navidezna tipkovnica"
+
+msgid "Visual impaired commentary"
+msgstr ""
 
 #
 #, fuzzy, python-format

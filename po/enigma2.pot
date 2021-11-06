@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-31 01:54+0000\n"
+"POT-Creation-Date: 2021-11-06 17:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3108,6 +3108,9 @@ msgid "Comoros"
 msgstr ""
 
 msgid "Compact flash"
+msgstr ""
+
+msgid "Compatible to use on"
 msgstr ""
 
 msgid "Compiled by"
@@ -7994,6 +7997,9 @@ msgstr ""
 msgid "OpenDNS Home"
 msgstr ""
 
+msgid "OpenSSL version"
+msgstr ""
+
 msgid "OpenVPN log"
 msgstr ""
 
@@ -8692,6 +8698,9 @@ msgid "Press or select button and then press 'OK' for attach function."
 msgstr ""
 
 msgid "Press or select button and then press 'OK' for attach next function or edit attached."
+msgstr ""
+
+msgid "Press yellow button to set CEC address again"
 msgstr ""
 
 msgid "Press yellow to set this interface as default interface."
@@ -12880,6 +12889,9 @@ msgstr ""
 msgid "Virtual KeyBoard Text:"
 msgstr ""
 
+msgid "Visual impaired commentary"
+msgstr ""
+
 #, python-format
 msgid "Vol: %s"
 msgstr ""
@@ -14855,6 +14867,87 @@ msgstr ""
 msgid "true"
 msgstr ""
 
+msgid "EasyMedia"
+msgstr ""
+
+msgid "Ext. NumberZap"
+msgstr ""
+
+msgid "Timer+"
+msgstr ""
+
+msgid "Timerlist"
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid "D"
+msgstr ""
+
+msgid "TUNER:"
+msgstr ""
+
+msgid "Rec"
+msgstr ""
+
+msgid "EtPortal"
+msgstr ""
+
+msgid "IMDB Search"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid " HI "
+msgstr ""
+
+msgid "REC "
+msgstr ""
+
+msgid "EPG Selection"
+msgstr ""
+
+msgid "Graphical EPG"
+msgstr ""
+
+msgid "Quick EPG"
+msgstr ""
+
+msgid "  REC  "
+msgstr ""
+
+msgid "Enigmalight"
+msgstr ""
+
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
+msgid "®"
+msgstr ""
+
+msgid "E "
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "J"
+msgstr ""
+
 msgid "AFP"
 msgstr ""
 
@@ -15063,6 +15156,271 @@ msgid "ZeroTierVPN"
 msgstr ""
 
 msgid "uShare"
+msgstr ""
+
+msgid "Check the internet connection"
+msgstr ""
+
+msgid "Check the internet connection again"
+msgstr ""
+
+msgid "Checking the internet connection"
+msgstr ""
+
+msgid "Do you want to install Plugins?"
+msgstr ""
+
+msgid "Exit the wizard"
+msgstr ""
+
+msgid "Please configure the fallback tuner setup"
+msgstr ""
+
+msgid "Please connect your %s %s (kernel %s) to the internet"
+msgstr ""
+
+msgid "Please set up tuner A"
+msgstr ""
+
+msgid "Please set up tuner B"
+msgstr ""
+
+msgid "Please set up tuner C"
+msgstr ""
+
+msgid "Please set up tuner D"
+msgstr ""
+
+msgid "Please set up tuner E"
+msgstr ""
+
+msgid "Please set up tuner F"
+msgstr ""
+
+msgid "Please set up tuner G"
+msgstr ""
+
+msgid "Please set up tuner H"
+msgstr ""
+
+msgid "Please set up tuner I"
+msgstr ""
+
+msgid "Please set up tuner J"
+msgstr ""
+
+msgid "Please set up tuner Q"
+msgstr ""
+
+msgid "Please set up tuner R"
+msgstr ""
+
+msgid "Please set your time options"
+msgstr ""
+
+msgid ""
+"Please set your time options.\n"
+"\n"
+"Press YELLOW to set the time zone via geolocation."
+msgstr ""
+
+msgid "Please setup the following basic configs!"
+msgstr ""
+
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+msgid "Speed up the performance"
+msgstr ""
+
+msgid ""
+"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
+"Press OK to start using Open Vision %s-%s"
+msgstr ""
+
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
+"We detected your RC as %s (type %s id %s)"
+msgstr ""
+
+msgid "Use the wizard to set up basic features"
+msgstr ""
+
+msgid ""
+"Welcome to Open Vision %s-%s\n"
+"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
+"Press the OK button on your remote control to move to the next step."
+msgstr ""
+
+msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "Your %s %s (kernel %s) does not have an internet connection"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Automatic scan"
+msgstr ""
+
+msgid "BER"
+msgstr ""
+
+msgid "Benchmark information"
+msgstr ""
+
+msgid "Channellist menu"
+msgstr ""
+
+msgid "Command execution..."
+msgstr ""
+
+msgid "Commit info"
+msgstr ""
+
+msgid "DVB information"
+msgstr ""
+
+msgid "Downloadable plugins"
+msgstr ""
+
+msgid "EPG selection"
+msgstr ""
+
+msgid "Event view"
+msgstr ""
+
+msgid "Event view menu"
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "Fastscan"
+msgstr ""
+
+msgid "Harddisk"
+msgstr ""
+
+msgid "IPv6 setup"
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Info bar"
+msgstr ""
+
+msgid "Installing software..."
+msgstr ""
+
+msgid "MAC address setup"
+msgstr ""
+
+msgid "MORE"
+msgstr ""
+
+msgid "Manual scan"
+msgstr ""
+
+msgid "Message..."
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "NOW"
+msgstr ""
+
+msgid "Nameserver setup"
+msgstr ""
+
+msgid "Network configuration..."
+msgstr ""
+
+msgid "Network setup"
+msgstr ""
+
+msgid "Network test..."
+msgstr ""
+
+msgid "Now playing"
+msgstr ""
+
+msgid "NumberZapPicon"
+msgstr ""
+
+msgid "OSD settings"
+msgstr ""
+
+msgid "Open Vision information"
+msgstr ""
+
+msgid "PIN code needed"
+msgstr ""
+
+msgid "Parental control services editor"
+msgstr ""
+
+msgid "PiP setup"
+msgstr ""
+
+msgid "Reception settings"
+msgstr ""
+
+msgid "SNR"
+msgstr ""
+
+msgid "Seek"
+msgstr ""
+
+msgid "Select HDD"
+msgstr ""
+
+msgid "Select a bouquet"
+msgstr ""
+
+msgid "Select a movie"
+msgstr ""
+
+msgid "Select a tuner"
+msgstr ""
+
+msgid "Timer edit"
+msgstr ""
+
+msgid "Timeshift"
+msgstr ""
+
+msgid "Timeshift Live"
+msgstr ""
+
+msgid "Translation:"
+msgstr ""
+
+msgid "Troubleshoot"
+msgstr ""
+
+msgid "UnhandledKey"
+msgstr ""
+
+msgid "VideoMode"
+msgstr ""
+
+msgid "Virtual keyboard"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Welcome..."
+msgstr ""
+
+msgid "config menu"
+msgstr ""
+
+msgid "help..."
 msgstr ""
 
 msgid "12V output"
@@ -17004,350 +17362,4 @@ msgid "Zap key delay for channel number input"
 msgstr ""
 
 msgid "Zap mode"
-msgstr ""
-
-msgid "Check the internet connection"
-msgstr ""
-
-msgid "Check the internet connection again"
-msgstr ""
-
-msgid "Checking the internet connection"
-msgstr ""
-
-msgid "Do you want to install Plugins?"
-msgstr ""
-
-msgid "Exit the wizard"
-msgstr ""
-
-msgid "Please configure the fallback tuner setup"
-msgstr ""
-
-msgid "Please connect your %s %s (kernel %s) to the internet"
-msgstr ""
-
-msgid "Please set up tuner A"
-msgstr ""
-
-msgid "Please set up tuner B"
-msgstr ""
-
-msgid "Please set up tuner C"
-msgstr ""
-
-msgid "Please set up tuner D"
-msgstr ""
-
-msgid "Please set up tuner E"
-msgstr ""
-
-msgid "Please set up tuner F"
-msgstr ""
-
-msgid "Please set up tuner G"
-msgstr ""
-
-msgid "Please set up tuner H"
-msgstr ""
-
-msgid "Please set up tuner I"
-msgstr ""
-
-msgid "Please set up tuner J"
-msgstr ""
-
-msgid "Please set up tuner Q"
-msgstr ""
-
-msgid "Please set up tuner R"
-msgstr ""
-
-msgid "Please set your time options"
-msgstr ""
-
-msgid ""
-"Please set your time options.\n"
-"\n"
-"Press YELLOW to set the time zone via geolocation."
-msgstr ""
-
-msgid "Please setup the following basic configs!"
-msgstr ""
-
-msgid "Skip internet connection check (disables automatic package installation)"
-msgstr ""
-
-msgid "Speed up the performance"
-msgstr ""
-
-msgid ""
-"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
-"Press OK to start using Open Vision %s-%s"
-msgstr ""
-
-msgid ""
-"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
-"We detected your RC as %s (type %s id %s)"
-msgstr ""
-
-msgid "Use the wizard to set up basic features"
-msgstr ""
-
-msgid ""
-"Welcome to Open Vision %s-%s\n"
-"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
-"Press the OK button on your remote control to move to the next step."
-msgstr ""
-
-msgid "What type of service scan do you want?"
-msgstr ""
-
-msgid "Your %s %s (kernel %s) does not have an internet connection"
-msgstr ""
-
-msgid "About"
-msgstr ""
-
-msgid "Automatic scan"
-msgstr ""
-
-msgid "BER"
-msgstr ""
-
-msgid "Benchmark information"
-msgstr ""
-
-msgid "C"
-msgstr ""
-
-msgid "Channellist menu"
-msgstr ""
-
-msgid "Command execution..."
-msgstr ""
-
-msgid "Commit info"
-msgstr ""
-
-msgid "D"
-msgstr ""
-
-msgid "DVB information"
-msgstr ""
-
-msgid "Downloadable plugins"
-msgstr ""
-
-msgid "EPG selection"
-msgstr ""
-
-msgid "Event view"
-msgstr ""
-
-msgid "Event view menu"
-msgstr ""
-
-msgid "Extensions"
-msgstr ""
-
-msgid "Fastscan"
-msgstr ""
-
-msgid "Harddisk"
-msgstr ""
-
-msgid "IPv6 setup"
-msgstr ""
-
-msgid "Index"
-msgstr ""
-
-msgid "Info bar"
-msgstr ""
-
-msgid "Installing software..."
-msgstr ""
-
-msgid "MAC address setup"
-msgstr ""
-
-msgid "MORE"
-msgstr ""
-
-msgid "Manual scan"
-msgstr ""
-
-msgid "Message..."
-msgstr ""
-
-msgid "Mute"
-msgstr ""
-
-msgid "NOW"
-msgstr ""
-
-msgid "Nameserver setup"
-msgstr ""
-
-msgid "Network configuration..."
-msgstr ""
-
-msgid "Network setup"
-msgstr ""
-
-msgid "Network test..."
-msgstr ""
-
-msgid "Now playing"
-msgstr ""
-
-msgid "NumberZapPicon"
-msgstr ""
-
-msgid "OSD settings"
-msgstr ""
-
-msgid "Open Vision information"
-msgstr ""
-
-msgid "PIN code needed"
-msgstr ""
-
-msgid "Parental control services editor"
-msgstr ""
-
-msgid "PiP setup"
-msgstr ""
-
-msgid "Reception settings"
-msgstr ""
-
-msgid "SNR"
-msgstr ""
-
-msgid "Seek"
-msgstr ""
-
-msgid "Select HDD"
-msgstr ""
-
-msgid "Select a bouquet"
-msgstr ""
-
-msgid "Select a movie"
-msgstr ""
-
-msgid "Select a tuner"
-msgstr ""
-
-msgid "Timer edit"
-msgstr ""
-
-msgid "Timeshift"
-msgstr ""
-
-msgid "Timeshift Live"
-msgstr ""
-
-msgid "Translation:"
-msgstr ""
-
-msgid "Troubleshoot"
-msgstr ""
-
-msgid "UnhandledKey"
-msgstr ""
-
-msgid "VideoMode"
-msgstr ""
-
-msgid "Virtual keyboard"
-msgstr ""
-
-msgid "Volume"
-msgstr ""
-
-msgid "Welcome..."
-msgstr ""
-
-msgid "config menu"
-msgstr ""
-
-msgid "help..."
-msgstr ""
-
-msgid "Rec"
-msgstr ""
-
-msgid "TUNER:"
-msgstr ""
-
-msgid " HI "
-msgstr ""
-
-msgid "REC "
-msgstr ""
-
-msgid "  REC  "
-msgstr ""
-
-msgid "E "
-msgstr ""
-
-msgid "F"
-msgstr ""
-
-msgid "G"
-msgstr ""
-
-msgid "H"
-msgstr ""
-
-msgid "I"
-msgstr ""
-
-msgid "J"
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "EPG Selection"
-msgstr ""
-
-msgid "Graphical EPG"
-msgstr ""
-
-msgid "IMDB Search"
-msgstr ""
-
-msgid "Quick EPG"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
-msgid "Enigmalight"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "-"
 msgstr ""

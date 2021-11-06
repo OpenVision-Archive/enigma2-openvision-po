@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-31 01:54+0000\n"
+"POT-Creation-Date: 2021-11-06 17:22+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -3983,6 +3983,9 @@ msgstr "Comores"
 #
 msgid "Compact flash"
 msgstr "Flaix compacte"
+
+msgid "Compatible to use on"
+msgstr ""
 
 #
 #, fuzzy
@@ -10948,6 +10951,11 @@ msgstr ""
 msgid "OpenDNS Home"
 msgstr ""
 
+#
+#, fuzzy
+msgid "OpenSSL version"
+msgstr "Inversió"
+
 msgid "OpenVPN"
 msgstr ""
 
@@ -12035,6 +12043,9 @@ msgid "Press or select button and then press 'OK' for attach next function or ed
 msgstr "Premeu o seleccioneu el botó i, a continuació, premeu ‘D’acord’ per adjuntar la següent funció o editar l’adjunt."
 
 msgid "Press this button to emulate a long press on a button pressed afterwards (this also overrides any other actions assigned to emulation button)."
+msgstr ""
+
+msgid "Press yellow button to set CEC address again"
 msgstr ""
 
 #
@@ -18050,6 +18061,9 @@ msgstr "Teclat virtual"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Teclat virtual"
+
+msgid "Visual impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

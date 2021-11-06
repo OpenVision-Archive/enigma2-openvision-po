@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-31 01:54+0000\n"
+"POT-Creation-Date: 2021-11-06 17:22+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -3537,6 +3537,9 @@ msgstr "Комори"
 
 msgid "Compact flash"
 msgstr "Компактен флеш"
+
+msgid "Compatible to use on"
+msgstr ""
 
 #, fuzzy
 msgid "Compiled by"
@@ -9872,6 +9875,10 @@ msgstr ""
 msgid "OpenDNS Home"
 msgstr ""
 
+#, fuzzy
+msgid "OpenSSL version"
+msgstr "Инверзија"
+
 msgid "OpenVPN"
 msgstr ""
 
@@ -10839,6 +10846,9 @@ msgid "Press or select button and then press 'OK' for attach next function or ed
 msgstr "Притиснете или изберете го копчето, потоа притиснете го копчето „ОК“ за да пристапите до следната функција или да ја уредите врската."
 
 msgid "Press this button to emulate a long press on a button pressed afterwards (this also overrides any other actions assigned to emulation button)."
+msgstr ""
+
+msgid "Press yellow button to set CEC address again"
 msgstr ""
 
 msgid "Press yellow to set this interface as default interface."
@@ -16283,6 +16293,9 @@ msgstr "Виртуелна тастатура"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Виртуелна тастатура"
+
+msgid "Visual impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"
