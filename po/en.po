@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: satdreamgr\n"
 "Language-Team: \n"
@@ -2395,6 +2395,9 @@ msgid "Audio Source"
 msgstr ""
 
 msgid "Audio auto volume level"
+msgstr ""
+
+msgid "Audio description for the visually impaired"
 msgstr ""
 
 msgid "Audio language selection 1"
@@ -16393,9 +16396,6 @@ msgstr "Virtual keyboard"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtual keyboard"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, python-format
 msgid "Vol: %s"

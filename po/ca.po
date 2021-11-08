@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -2607,6 +2607,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Nivell de volum automàtic d’àudio"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "Selecció d’idiomes d’àudio 1"
@@ -18061,9 +18064,6 @@ msgstr "Teclat virtual"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Teclat virtual"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

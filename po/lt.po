@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -2426,6 +2426,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Garso automatinis garsumo lygis"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "1-a pasirinkta garso kalba"
@@ -16447,9 +16450,6 @@ msgstr "Virtuali klaviatūra"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtuali klaviatūra"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

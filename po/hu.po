@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -2404,6 +2404,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Hang automatikus hangerőszint"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "Elsődleges előnyben részesített hangsáv"
@@ -16419,9 +16422,6 @@ msgstr "Virtuális Billentyűzet"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtuális Billentyűzet"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

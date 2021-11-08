@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -2319,6 +2319,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Automatyczny poziom głośności"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "Preferowana ścieżka audio 1"
@@ -16306,9 +16309,6 @@ msgstr "Wirtualna klawiatura"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Wirtualna klawiatura"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, python-format
 msgid "Vol: %s"

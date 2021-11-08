@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -2269,6 +2269,9 @@ msgid "Audio Source"
 msgstr ""
 
 msgid "Audio auto volume level"
+msgstr ""
+
+msgid "Audio description for the visually impaired"
 msgstr ""
 
 msgid "Audio language selection 1"
@@ -16277,9 +16280,6 @@ msgstr "Tastatura Virtuala"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Tastatura Virtuala"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, python-format
 msgid "Vol: %s"

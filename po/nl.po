@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -2415,6 +2415,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Automatisch volume"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "Audio. Taalkeuze 1"
@@ -16752,9 +16755,6 @@ msgstr "Virtueel toetsenbord"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtueel toetsenbord"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

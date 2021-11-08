@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -2548,6 +2548,9 @@ msgid "Audio Source"
 msgstr ""
 
 msgid "Audio auto volume level"
+msgstr ""
+
+msgid "Audio description for the visually impaired"
 msgstr ""
 
 msgid "Audio language selection 1"
@@ -18029,9 +18032,6 @@ msgstr "Sýndar lyklaborð"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Sýndar lyklaborð"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, python-format
 msgid "Vol: %s"

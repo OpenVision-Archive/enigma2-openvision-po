@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-07 01:54+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2097,6 +2097,9 @@ msgid "Audio Source"
 msgstr ""
 
 msgid "Audio auto volume level"
+msgstr ""
+
+msgid "Audio description for the visually impaired"
 msgstr ""
 
 msgid "Audio options"
@@ -12887,9 +12890,6 @@ msgid "Virtual KeyBoard Actions"
 msgstr ""
 
 msgid "Virtual KeyBoard Text:"
-msgstr ""
-
-msgid "Visual impaired commentary"
 msgstr ""
 
 #, python-format

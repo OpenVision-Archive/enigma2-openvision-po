@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -2485,6 +2485,9 @@ msgstr ""
 #, fuzzy
 msgid "Audio auto volume level"
 msgstr "مستوي الصوت التلقائي"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "اختيار لغة الصوت الأولى"
@@ -17032,9 +17035,6 @@ msgstr "لوحة مفاتيح الحروف بالترتيب"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "لوحة مفاتيح الحروف بالترتيب"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

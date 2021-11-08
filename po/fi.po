@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -2543,6 +2543,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Äänenvoimakkuuden automaattinen tasosäätö"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "Äänen kielivalinta 1"
@@ -18102,9 +18105,6 @@ msgstr "Virtuaalinen näppäimistö"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtuaalinen näppäimistö"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

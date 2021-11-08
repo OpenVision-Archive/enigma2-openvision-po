@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-06 17:22+0000\n"
+"POT-Creation-Date: 2021-11-08 08:27+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -2422,6 +2422,9 @@ msgstr ""
 
 msgid "Audio auto volume level"
 msgstr "Automatska razina glasnoće"
+
+msgid "Audio description for the visually impaired"
+msgstr ""
 
 msgid "Audio language selection 1"
 msgstr "Odaberite jezik zvuka 1"
@@ -16448,9 +16451,6 @@ msgstr "Virtualna tipkovnica"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtualna tipkovnica"
-
-msgid "Visual impaired commentary"
-msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"
