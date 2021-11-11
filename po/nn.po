@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2013-10-23 19:15+0100\n"
 "Last-Translator: andy1 <dmmm8000pvr@gmail.com>\n"
 "Language-Team: none\n"
@@ -257,6 +257,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1011,6 +1015,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -10382,6 +10394,11 @@ msgstr "ikke konfigurert"
 msgid "Not currently mounted."
 msgstr ""
 
+#
+#, fuzzy
+msgid "Not defined"
+msgstr "Brukerdefinert"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Ikke nok diskplass. Vennligst frigjør litt diskplass og prøv på nytt. (%(req)d MB nødvendig, %(avail)d MB tilgjengelig)"
@@ -10719,6 +10736,10 @@ msgid "Ordinary"
 msgstr ""
 
 msgid "Original"
+msgstr "Original"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Original"
 
 msgid "Oriya"
@@ -17569,6 +17590,9 @@ msgstr "Virtuelt tastatur"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtuelt tastatur"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #
 #, fuzzy, python-format

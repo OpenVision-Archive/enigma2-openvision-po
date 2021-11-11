@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2013-10-20 19:13-0300\n"
 "Last-Translator: Diogo <pingflood@gmail.com>\n"
 "Language-Team: Traduzido por Frank Viana <franksrviana@gmail.com>\n"
@@ -254,6 +254,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1087,6 +1091,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9679,6 +9691,10 @@ msgstr "Não configurado"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Manual"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Espaço insuficiente no disco. Libere espaço e tente novamente. (%(req)d MB necessário, %(avail)d MB disponível)"
@@ -9996,6 +10012,10 @@ msgstr ""
 
 msgid "Original"
 msgstr ""
+
+#, fuzzy
+msgid "Original audio"
+msgstr "Idioma original"
 
 msgid "Oriya"
 msgstr ""
@@ -16326,6 +16346,9 @@ msgstr "Teclado virtual"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Teclado virtual"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

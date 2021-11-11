@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -263,6 +263,10 @@ msgstr ""
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f GB"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1135,6 +1139,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9799,6 +9811,10 @@ msgstr "ei ole häälestatud"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Määramata"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Kõvakettal pole piisavalt ruumi. Kustuta ebavajalik ja proovi uuesti. (%(req)d MB vaja, %(avail)d MB saadaval)"
@@ -10115,6 +10131,10 @@ msgid "Ordinary"
 msgstr "Tavaline"
 
 msgid "Original"
+msgstr "Algupärane"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Algupärane"
 
 msgid "Oriya"
@@ -16527,6 +16547,9 @@ msgstr "Virtuaalklahvistik"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtuaalklahvistik"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

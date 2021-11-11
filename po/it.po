@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -270,6 +270,10 @@ msgstr ""
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f GB"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1146,6 +1150,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9793,6 +9805,10 @@ msgstr "Non configurato"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Non definito"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Spazio su disco insufficiente. Liberare spazio sul disco e riprovare. (%(req)d MB richiesti, %(avail)d MB disponibili)"
@@ -10108,6 +10124,10 @@ msgid "Ordinary"
 msgstr "Ordinario"
 
 msgid "Original"
+msgstr "Originale"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Originale"
 
 msgid "Oriya"
@@ -16480,6 +16500,9 @@ msgstr "Tastiera virtuale"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Tastiera virtuale"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -261,6 +261,10 @@ msgstr "%.1f° Δ"
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f GB"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1137,6 +1141,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9700,6 +9712,10 @@ msgstr "μη ρυθμισμένο"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Απροσδιόριστο"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Μη επαρκής χώρος δίσκου. Ελευθερώστε χώρο και προσπαθήστε ξανά. (%(req)d MB απαιτούνται, %(avail)d MB διαθέσιμα)"
@@ -10019,6 +10035,10 @@ msgid "Ordinary"
 msgstr "Κοινός"
 
 msgid "Original"
+msgstr "Πρωτότυπο"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Πρωτότυπο"
 
 msgid "Oriya"
@@ -16351,6 +16371,9 @@ msgstr "Εικονικό πληκτρολόγιο"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Εικονικό πληκτρολόγιο"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

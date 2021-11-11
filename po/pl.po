@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -261,6 +261,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1053,6 +1057,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9655,6 +9667,10 @@ msgstr "Nieskonfigurowany"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Niezdefiniowany"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Nie wystarczająca ilość przestrzeni dyskowej. Zwolnij miejsce na dysku i spróbuj ponownie. (%(req)d MB wymagane, %(avail)d MB dostępne)"
@@ -9973,6 +9989,10 @@ msgid "Ordinary"
 msgstr "Zwykły"
 
 msgid "Original"
+msgstr "Oryginalny"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Oryginalny"
 
 msgid "Oriya"
@@ -16309,6 +16329,9 @@ msgstr "Wirtualna klawiatura"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Wirtualna klawiatura"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, python-format
 msgid "Vol: %s"

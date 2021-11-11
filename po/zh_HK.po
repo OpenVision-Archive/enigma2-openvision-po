@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -250,6 +250,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1066,6 +1070,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9529,6 +9541,10 @@ msgstr "測驗通過"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "用戶定義"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr ""
@@ -9843,6 +9859,10 @@ msgstr ""
 
 msgid "Original"
 msgstr ""
+
+#, fuzzy
+msgid "Original audio"
+msgstr "啟用的"
 
 msgid "Oriya"
 msgstr ""
@@ -16050,6 +16070,9 @@ msgid "Virtual keyboard"
 msgstr ""
 
 msgid "Virtual keyboard skin"
+msgstr ""
+
+msgid "Visually impaired commentary"
 msgstr ""
 
 #, python-format

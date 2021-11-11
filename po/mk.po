@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -259,6 +259,10 @@ msgstr ""
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f GB"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1015,6 +1019,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9642,6 +9654,10 @@ msgstr "не е конфигуриран"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Недефинирано"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Нема доволно место на дискот. Ослободете простор на дискот и обидете се повторно. (Задолжително е %(req)d MB, достапно е %(avail)d MB)"
@@ -9961,6 +9977,10 @@ msgid "Ordinary"
 msgstr "Обични"
 
 msgid "Original"
+msgstr "Оригинал"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Оригинал"
 
 msgid "Oriya"
@@ -16296,6 +16316,9 @@ msgstr "Виртуелна тастатура"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Виртуелна тастатура"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

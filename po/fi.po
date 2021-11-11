@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -273,6 +273,10 @@ msgstr ""
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f GB"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1157,6 +1161,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, fuzzy, python-format
@@ -10660,6 +10672,11 @@ msgid "Not currently mounted."
 msgstr ""
 
 #
+#, fuzzy
+msgid "Not defined"
+msgstr "Ei määritetty"
+
+#
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Liian vähän levytilaa. Vapauta levytilaa ja yritä uudelleen. (%(req)d Mt tarvitaan, %(avail)d Mt vapaana)"
@@ -10993,6 +11010,10 @@ msgid "Ordinary"
 msgstr "Tavallinen"
 
 msgid "Original"
+msgstr "Alkuperäinen"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Alkuperäinen"
 
 msgid "Oriya"
@@ -18105,6 +18126,9 @@ msgstr "Virtuaalinen näppäimistö"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Virtuaalinen näppäimistö"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

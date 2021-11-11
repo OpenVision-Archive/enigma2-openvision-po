@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -269,6 +269,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1178,6 +1182,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -10890,6 +10902,11 @@ msgid "Not currently mounted."
 msgstr ""
 
 #
+#, fuzzy
+msgid "Not defined"
+msgstr "Določeno s strani uporabnika"
+
+#
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Ni dovolj prostora! Sprostite prostor na disku in poizkusite ponovno (%(req)d MB zahtevano, %(avail)d MB na voljo)"
@@ -11232,6 +11249,10 @@ msgid "Ordinary"
 msgstr ""
 
 msgid "Original"
+msgstr "Original"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Original"
 
 msgid "Oriya"
@@ -18451,6 +18472,9 @@ msgstr "Navidezna tipkovnica"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Navidezna tipkovnica"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #
 #, fuzzy, python-format

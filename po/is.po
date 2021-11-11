@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -264,6 +264,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1151,6 +1155,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -10562,6 +10574,11 @@ msgid "Not currently mounted."
 msgstr ""
 
 #
+#, fuzzy
+msgid "Not defined"
+msgstr "Stillt af notanda"
+
+#
 #, fuzzy, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Ekki nóg diskpláss. Taktu til á diskinum og reyndu aftur. (%(req)d MB þarf, %(avail)d MB tiltæk)"
@@ -10907,6 +10924,11 @@ msgstr ""
 
 msgid "Original"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Original audio"
+msgstr "Virkt"
 
 msgid "Oriya"
 msgstr ""
@@ -18032,6 +18054,9 @@ msgstr "Sýndar lyklaborð"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Sýndar lyklaborð"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, python-format
 msgid "Vol: %s"

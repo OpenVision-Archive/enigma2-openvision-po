@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -263,6 +263,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1083,6 +1087,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -10127,6 +10139,11 @@ msgid "Not currently mounted."
 msgstr ""
 
 #
+#, fuzzy
+msgid "Not defined"
+msgstr "User defined"
+
+#
 #, fuzzy, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "אין מקום בכונן הקשיח, פנה מעט מקום ונסה שוב (%(req)d MB required, %(avail)d MB available)"
@@ -10462,6 +10479,11 @@ msgstr ""
 
 msgid "Original"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Original audio"
+msgstr "אפשר"
 
 msgid "Oriya"
 msgstr ""
@@ -17210,6 +17232,9 @@ msgstr "מקלדת וירטואלית"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "מקלדת וירטואלית"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, python-format
 msgid "Vol: %s"

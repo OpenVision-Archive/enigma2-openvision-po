@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -262,6 +262,10 @@ msgstr "%.1f° W"
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f GB"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1149,6 +1153,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9780,6 +9792,10 @@ msgstr "нет конфигурации"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Не определено"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Нет места на диске. Пожалуйста, освободите немного места на диске и попробуйте снова. (%(req)d MB требуется, %(avail)d MB доступно)"
@@ -10101,6 +10117,10 @@ msgid "Ordinary"
 msgstr "Обычный"
 
 msgid "Original"
+msgstr "Оригинал"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "Оригинал"
 
 msgid "Oriya"
@@ -16445,6 +16465,9 @@ msgstr "Виртуальная клавиатура"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Виртуальная клавиатура"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"

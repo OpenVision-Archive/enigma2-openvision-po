@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -251,6 +251,10 @@ msgstr ""
 
 #, python-format
 msgid "%.2f GB"
+msgstr ""
+
+#, python-format
+msgid "%.3f MHz"
 msgstr ""
 
 #, python-format
@@ -1002,6 +1006,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -9596,6 +9608,10 @@ msgstr "confirmat"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "Userul ales"
+
 #, fuzzy, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "Nu este spatiu suficient. Va rugam eliberati din spatiu si incercati din nou. (%(req)d MB necesari, %(avail)d MB disponibili)"
@@ -9914,6 +9930,10 @@ msgstr ""
 
 msgid "Original"
 msgstr ""
+
+#, fuzzy
+msgid "Original audio"
+msgstr "Activat"
 
 msgid "Oriya"
 msgstr ""
@@ -16280,6 +16300,9 @@ msgstr "Tastatura Virtuala"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "Tastatura Virtuala"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, python-format
 msgid "Vol: %s"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-08 08:27+0000\n"
+"POT-Creation-Date: 2021-11-11 05:28+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -263,6 +263,10 @@ msgstr ""
 #, python-format
 msgid "%.2f GB"
 msgstr "%.2f جيجابايت"
+
+#, python-format
+msgid "%.3f MHz"
+msgstr ""
 
 #, python-format
 msgid "%2.1f sec"
@@ -1178,6 +1182,14 @@ msgstr ""
 
 #, python-format
 msgid "%s ( %s Cards )"
+msgstr ""
+
+#, python-format
+msgid "%s KSymb/s"
+msgstr ""
+
+#, python-format
+msgid "%s MHz"
 msgstr ""
 
 #, python-format
@@ -10095,6 +10107,10 @@ msgstr "غير مكون"
 msgid "Not currently mounted."
 msgstr ""
 
+#, fuzzy
+msgid "Not defined"
+msgstr "غير معرف"
+
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%(req)d MB required, %(avail)d MB available)"
 msgstr "مساحة غير كافيه في القرص الصلب. الرجاء تحرير بعض المساحة على القرص وحاول مرة أخرى. (%(req)d مطلوب بالميقابايت, %(avail)d ميقابايت متوفرة)"
@@ -10424,6 +10440,10 @@ msgid "Ordinary"
 msgstr "العادي"
 
 msgid "Original"
+msgstr "أصلي"
+
+#, fuzzy
+msgid "Original audio"
 msgstr "أصلي"
 
 msgid "Oriya"
@@ -17035,6 +17055,9 @@ msgstr "لوحة مفاتيح الحروف بالترتيب"
 #, fuzzy
 msgid "Virtual keyboard skin"
 msgstr "لوحة مفاتيح الحروف بالترتيب"
+
+msgid "Visually impaired commentary"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Vol: %s"
