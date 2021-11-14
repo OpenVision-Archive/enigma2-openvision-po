@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -4347,8 +4347,9 @@ msgstr "Προσαρμογή των ρυθμίσεων OpenWebIF για το ε�
 msgid "Customize channel list cursor behavior"
 msgstr "Ρύθμιση της συμπεριφοράς του κέρσορα στη λίστα καναλιών"
 
-msgid "Cut"
-msgstr "Αποκοπή"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Μενού"
 
 msgid "Cutlist editor"
 msgstr "Επεξεργασία σημείων αποκοπής"
@@ -4807,6 +4808,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Διαγραφή του χαρακτήρα κάτω από τον κέρσορα"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "διαγραφή αποκοπής"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (ανενεργό)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Δημιουργία φακέλου"
 
@@ -5037,6 +5046,10 @@ msgstr "Απενεργοποίηση αναζήτησης στο παρασκή�
 
 msgid "Disable current event but not coming events"
 msgstr "Απενεργοποίηση τρέχοντος προγράμματος αλλά όχι των επόμενων"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Eνεργοποίηση επεξεργασίας αγαπημένων"
 
 msgid "Disable move mode"
 msgstr "Aπενεργοποίηση λειτουργίας μετακίνησης"
@@ -5660,6 +5673,10 @@ msgstr "Ενεργοποίηση της επιλογής μπουκέτων στ
 msgid "Enable client mode"
 msgstr "Eνεργοποίηση λειτουργίας μετακίνησης"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "ενεργοποίηση οθόνης έναρξης"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5776,6 +5793,14 @@ msgstr "Tέλος επεξεργασίας μπουκέτου"
 #, fuzzy
 msgid "End cut"
 msgstr "Ώρα τερματισμού"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "τέλος αποκοπής εδώ"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "τέλος αποκοπής εδώ"
 
 msgid "End favourites edit"
 msgstr "Tέλος επεξεργασίας αγαπημένων"
@@ -6957,6 +6982,10 @@ msgstr "Υπολογισμός GotoX"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "λήψη στιγμιότυπου του καρέ ως bitmap"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Ρυθμίσεις γραφικού πολλαπλού EPG"
 
@@ -7771,6 +7800,14 @@ msgstr "ID ροής εισόδου"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Μετάβαση στη θέση"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "εισαγωγή σημειωτή"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "εισαγωγή σημειωτή"
 
 msgid "Install"
 msgstr "Εγκατάσταση"
@@ -10818,6 +10855,10 @@ msgstr "Γίνεται προετοιμασία... Παρακαλώ περιμέ
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Διαγραφή σελιδοδείκτη"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Πιέστε '0' για εναλλαγή λειτουργίας PiP"
 
@@ -11117,6 +11158,10 @@ msgstr "Γρήγορος"
 #, fuzzy
 msgid "Quick Select Actions"
 msgstr "Ενέργειες επιλογής θέματος"
+
+#, fuzzy
+msgid "Quick execute"
+msgstr "γρήγορη εκτέλεση"
 
 msgid "Quick execute..."
 msgstr ""
@@ -11463,6 +11508,10 @@ msgstr "Διαγραφή σημειωτή"
 msgid "Remove a nameserver entry"
 msgstr "Διαγραφή διακομιστή ονομάτων"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "διαγραφή μετά από αυτό το σημείο"
+
 msgid "Remove all alternatives"
 msgstr "Διαγραφή όλων των εναλλακτικών"
 
@@ -11504,7 +11553,15 @@ msgstr "Διαγραφή όλων των σημαιών \"νέο\""
 msgid "Remove all timer data"
 msgstr "Διαγραφή όλων των εναλλακτικών"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "διαγραφή πριν από αυτό το σημείο"
+
 msgid "Remove bookmark"
+msgstr "Διαγραφή σελιδοδείκτη"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Διαγραφή σελιδοδείκτη"
 
 msgid "Remove bouquet from parental protection"
@@ -11546,6 +11603,10 @@ msgstr "Διαγραφή επίγειων υπηρεσιών"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "διαγραφή αυτού του σημειωτή"
 
 msgid "Remove title"
 msgstr "Διαγραφή τίτλου"
@@ -14042,6 +14103,14 @@ msgstr "Εμφάνιση διαδραστικού Rass..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Έναρξη ελέγχου"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "εκκίνηση αποκοπής εδώ"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "εκκίνηση αποκοπής εδώ"
 
 msgid "Start directory"
 msgstr "Φάκελος εκκίνησης"
@@ -17705,13 +17774,6 @@ msgstr "καθημερινά"
 msgid "day"
 msgstr "ημέρα"
 
-msgid "delete cut"
-msgstr "διαγραφή αποκοπής"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (ανενεργό)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17727,10 +17789,6 @@ msgstr "αποκρυπτογράφηση και εγγραφή ecm"
 
 msgid "detective/thriller"
 msgstr "αστυνομικά/θρίλερ"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Eνεργοποίηση επεξεργασίας αγαπημένων"
 
 msgid "disabled"
 msgstr "ανενεργό"
@@ -17780,23 +17838,12 @@ msgstr "ενσωματωμένος"
 msgid "empty"
 msgstr "κενό"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "ενεργοποίηση οθόνης έναρξης"
-
 msgid "enabled"
 msgstr "ενεργό"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "διαγραφή μετά από αυτό το σημείο"
-
-msgid "end cut here"
-msgstr "τέλος αποκοπής εδώ"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "τέλος αποκοπής εδώ"
 
 #, fuzzy
 msgid "ene"
@@ -17826,9 +17873,6 @@ msgid "ese"
 msgstr "Επαναφορά"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17919,9 +17963,6 @@ msgstr "μετάβαση σε βαθιά αναμονή"
 msgid "go to standby"
 msgstr "μετάβαση σε αναμονή"
 
-msgid "grab this frame as bitmap"
-msgstr "λήψη στιγμιότυπου του καρέ ως bitmap"
-
 msgid "green"
 msgstr "πράσινο"
 
@@ -17991,13 +18032,6 @@ msgstr "αρχικοποίηση αρθρώματος"
 
 msgid "init modules"
 msgstr "αρχικοποίηση αρθρωμάτων"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "εισαγωγή σημειωτή"
-
-msgid "insert mark here"
-msgstr "εισαγωγή σημειωτή"
 
 #, fuzzy
 msgid "installed"
@@ -18284,18 +18318,12 @@ msgstr "λαϊκή κουλτούρα/παραδοσιακές τέχνες"
 msgid "pre-school children's program"
 msgstr "πρόγραμμα για παιδιά προσχολικής ηλικίας"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Προτεραιότητα"
 
 msgid "punch cuts"
 msgstr ""
-
-msgid "quick execute"
-msgstr "γρήγορη εκτέλεση"
 
 #, fuzzy
 msgid "real or pseudo recordings"
@@ -18331,19 +18359,9 @@ msgstr "θρησκεία"
 msgid "remarkable people"
 msgstr "σημαίνοντα πρόσωπα"
 
-msgid "remove after this position"
-msgstr "διαγραφή μετά από αυτό το σημείο"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Διαγραφή τίτλου"
-
-msgid "remove before this position"
-msgstr "διαγραφή πριν από αυτό το σημείο"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Διαγραφή σελιδοδείκτη"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18352,9 +18370,6 @@ msgstr "διαγραφή αυτού του σημειωτή"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Διαγραφή διακομιστή ονομάτων"
-
-msgid "remove this mark"
-msgstr "διαγραφή αυτού του σημειωτή"
 
 msgid "repeated"
 msgstr "επαναλαμβανόμενο"
@@ -18547,13 +18562,6 @@ msgstr "ννδ"
 
 msgid "standard"
 msgstr "στάνταρ"
-
-msgid "start cut here"
-msgstr "εκκίνηση αποκοπής εδώ"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "εκκίνηση αποκοπής εδώ"
 
 msgid "stepsize"
 msgstr "μέγεθος βήματος"

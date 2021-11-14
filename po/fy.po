@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -4747,8 +4747,9 @@ msgid "Customize channel list cursor behavior"
 msgstr ""
 
 #
-msgid "Cut"
-msgstr "Knip"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menu"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -5253,6 +5254,16 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete cut"
+msgstr "ferwiderje stik"
+
+#
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr "ferwiderje stik"
+
+#
+#, fuzzy
 msgid "Delete directory"
 msgstr "Map meitsje"
 
@@ -5521,6 +5532,11 @@ msgstr ""
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Bewurkjen favorieten oan"
 
 #
 msgid "Disable move mode"
@@ -6252,6 +6268,11 @@ msgstr "bewurkjen boeket oan"
 msgid "Enable client mode"
 msgstr "Ferpleatsen mode oan"
 
+#
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Bewurkjen favorieten oan"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6383,6 +6404,16 @@ msgstr "Bewurkjen boeket út"
 #, fuzzy
 msgid "End cut"
 msgstr "Eintiid"
+
+#
+#, fuzzy
+msgid "End cut here"
+msgstr "stop stik hjirre"
+
+#
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "stop stik hjirre"
 
 #
 msgid "End favourites edit"
@@ -7673,6 +7704,9 @@ msgstr ""
 msgid "Grab"
 msgstr ""
 
+msgid "Grab this frame as bitmap"
+msgstr ""
+
 msgid "GraphMultiEpg Settings"
 msgstr ""
 
@@ -8542,6 +8576,16 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Gjin nei posysje"
+
+#
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "tuskenfoegje marker"
+
+#
+#, fuzzy
+msgid "Insert mark here"
+msgstr "tuskenfoegje marker"
 
 #
 msgid "Install"
@@ -11985,6 +12029,11 @@ msgstr "Foarbereide fan... Eefkes wachtsje"
 msgid "Preschool"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "boekmerk ferwiderje"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr ""
 
@@ -12324,6 +12373,11 @@ msgstr "Rapzappe"
 #
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Kies Lokaasje"
+
+#
+#, fuzzy
+msgid "Quick execute"
 msgstr "Kies Lokaasje"
 
 msgid "Quick execute..."
@@ -12719,6 +12773,11 @@ msgid "Remove a nameserver entry"
 msgstr "Ferwiderje in nammeserver"
 
 #
+#, fuzzy
+msgid "Remove after this position"
+msgstr "nei dizze posysje alles ferwiderje"
+
+#
 msgid "Remove all alternatives"
 msgstr "Ferwiderje alle alternatieven"
 
@@ -12771,7 +12830,17 @@ msgstr "Ferwiderje alle alternatieven"
 
 #
 #, fuzzy
+msgid "Remove before this position"
+msgstr "foar dizze posysje alles ferwiderje"
+
+#
+#, fuzzy
 msgid "Remove bookmark"
+msgstr "boekmerk ferwiderje"
+
+#
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "boekmerk ferwiderje"
 
 msgid "Remove bouquet from parental protection"
@@ -12820,6 +12889,11 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#
+#, fuzzy
+msgid "Remove this mark"
+msgstr "ferwiderje punt"
 
 #
 msgid "Remove title"
@@ -15643,6 +15717,16 @@ msgstr "Rass interaktief sjen litte"
 #, fuzzy
 msgid "Start cut"
 msgstr "Start test"
+
+#
+#, fuzzy
+msgid "Start cut here"
+msgstr "start stik hjirre"
+
+#
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "start stik hjirre"
 
 #
 msgid "Start directory"
@@ -19605,15 +19689,6 @@ msgstr "eltse dei"
 msgid "day"
 msgstr "dei"
 
-#
-msgid "delete cut"
-msgstr "ferwiderje stik"
-
-#
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr "ferwiderje stik"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -19630,11 +19705,6 @@ msgstr ""
 
 msgid "detective/thriller"
 msgstr ""
-
-#
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Bewurkjen favorieten oan"
 
 #
 msgid "disabled"
@@ -19686,9 +19756,6 @@ msgstr ""
 msgid "empty"
 msgstr "leeg"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 #
 msgid "enabled"
 msgstr "ynskeakele"
@@ -19697,15 +19764,6 @@ msgstr "ynskeakele"
 #, fuzzy
 msgid "end at this position"
 msgstr "nei dizze posysje alles ferwiderje"
-
-#
-msgid "end cut here"
-msgstr "stop stik hjirre"
-
-#
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "stop stik hjirre"
 
 #
 #, fuzzy
@@ -19736,9 +19794,6 @@ msgid "ese"
 msgstr "Reset"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 #
@@ -19842,10 +19897,6 @@ msgid "go to standby"
 msgstr "gean nei paraatstand"
 
 #
-msgid "grab this frame as bitmap"
-msgstr ""
-
-#
 msgid "green"
 msgstr "grien"
 
@@ -19918,15 +19969,6 @@ msgstr "CI-Module initialisearje"
 #
 msgid "init modules"
 msgstr ""
-
-#
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "tuskenfoegje marker"
-
-#
-msgid "insert mark here"
-msgstr "tuskenfoegje marker"
 
 #
 #, fuzzy
@@ -20248,16 +20290,10 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 msgid "priority"
 msgstr ""
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 msgid "real or pseudo recordings"
@@ -20300,22 +20336,9 @@ msgid "remarkable people"
 msgstr ""
 
 #
-msgid "remove after this position"
-msgstr "nei dizze posysje alles ferwiderje"
-
-#
 #, fuzzy
 msgid "remove all"
 msgstr "Ferwiderje de titel"
-
-#
-msgid "remove before this position"
-msgstr "foar dizze posysje alles ferwiderje"
-
-#
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "boekmerk ferwiderje"
 
 #
 #, fuzzy
@@ -20326,10 +20349,6 @@ msgstr "ferwiderje punt"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Ferwiderje in nammeserver"
-
-#
-msgid "remove this mark"
-msgstr "ferwiderje punt"
 
 #
 msgid "repeated"
@@ -20542,15 +20561,6 @@ msgstr ""
 #
 msgid "standard"
 msgstr "standert"
-
-#
-msgid "start cut here"
-msgstr "start stik hjirre"
-
-#
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "start stik hjirre"
 
 msgid "stepsize"
 msgstr ""

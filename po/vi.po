@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -4379,8 +4379,9 @@ msgstr "Tùy chỉnh cài đặt OpenWebIF cho bộ điều chỉnh dự phòng"
 msgid "Customize channel list cursor behavior"
 msgstr "Tùy chỉnh hành vi con trỏ danh sách kênh"
 
-msgid "Cut"
-msgstr "Cắt tỉa"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menu Chính"
 
 msgid "Cutlist editor"
 msgstr "Biên tập danh sách cắt"
@@ -4840,6 +4841,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Xóa ký tự dưới con trỏ văn bản"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "xóa cắt"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (cho phép/không cho phép)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Tạo thư mục"
 
@@ -5074,6 +5083,10 @@ msgstr "Vô hiệu hóa quét nền"
 
 msgid "Disable current event but not coming events"
 msgstr "Vô hiệu hóa sự kiện hiện tại nhưng không đến sự kiện"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Cho phép chỉnh sửa yêu thích"
 
 msgid "Disable move mode"
 msgstr "Tắt chế độ di chuyển"
@@ -5705,6 +5718,10 @@ msgstr "Cho phép lựa chọn gói kênh trong đa EPG"
 msgid "Enable client mode"
 msgstr "Cho phép chế độ di chuyển"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "bật màn hình giới thiệu"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5821,6 +5838,14 @@ msgstr "Kết thúc chỉnh sửa gói kênh"
 #, fuzzy
 msgid "End cut"
 msgstr "Thời gian kết thúc"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "kết thúc cắt ở đây"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "kết thúc cắt ở đây"
 
 msgid "End favourites edit"
 msgstr "Kết thúc mục yêu thích"
@@ -7002,6 +7027,10 @@ msgstr "Hiệu chuẩn GotoX"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "lấy khung này làm bitmap"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Cài đặt GraphMultiEpg"
 
@@ -7816,6 +7845,14 @@ msgstr "ID luồng đầu vào"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Vị trí Goto"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "chèn dấu ở đây"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "chèn dấu ở đây"
 
 msgid "Install"
 msgstr "Cài vào"
@@ -10867,6 +10904,10 @@ msgstr "Chuẩn bị ... Xin vui lòng chờ"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Xóa dấu trang"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Nhấn '0' để chuyển chế độ PiP"
 
@@ -11165,6 +11206,10 @@ msgstr "Nhanh chóng"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Hành động lựa chọn giao diện"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Hành động lựa chọn giao diện"
 
 msgid "Quick execute..."
@@ -11512,6 +11557,10 @@ msgstr "Xóa một dấu"
 msgid "Remove a nameserver entry"
 msgstr "Xóa một mục nhập máy chủ tên"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "loại bỏ sau vị trí này"
+
 msgid "Remove all alternatives"
 msgstr "Loại bỏ tất cả các lựa chọn thay thế"
 
@@ -11553,7 +11602,15 @@ msgstr "Xóa tất cả các cờ mới tìm thấy"
 msgid "Remove all timer data"
 msgstr "Loại bỏ tất cả các lựa chọn thay thế"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "loại bỏ trước vị trí này"
+
 msgid "Remove bookmark"
+msgstr "Xóa dấu trang"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Xóa dấu trang"
 
 msgid "Remove bouquet from parental protection"
@@ -11595,6 +11652,10 @@ msgstr "Loại bỏ các dịch vụ trên mặt đất"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "xóa dấu này"
 
 msgid "Remove title"
 msgstr "Xóa tiêu đề"
@@ -14092,6 +14153,14 @@ msgstr "Xem Rass tương tác ..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Bắt đầu kiểm tra"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "bắt đầu cắt ở đây"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "bắt đầu cắt ở đây"
 
 msgid "Start directory"
 msgstr "Bắt đầu thư mục"
@@ -17759,13 +17828,6 @@ msgstr "hằng ngày"
 msgid "day"
 msgstr "ngày"
 
-msgid "delete cut"
-msgstr "xóa cắt"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (cho phép/không cho phép)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17781,10 +17843,6 @@ msgstr "giải mã và ghi lại ecm"
 
 msgid "detective/thriller"
 msgstr "thám tử / phim kinh dị"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Cho phép chỉnh sửa yêu thích"
 
 msgid "disabled"
 msgstr "cho phép/không cho phép"
@@ -17834,23 +17892,12 @@ msgstr "nhúng"
 msgid "empty"
 msgstr "trống"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "bật màn hình giới thiệu"
-
 msgid "enabled"
 msgstr "kích hoạt"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "loại bỏ sau vị trí này"
-
-msgid "end cut here"
-msgstr "kết thúc cắt ở đây"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "kết thúc cắt ở đây"
 
 #, fuzzy
 msgid "ene"
@@ -17880,9 +17927,6 @@ msgid "ese"
 msgstr "Cài lại"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17973,9 +18017,6 @@ msgstr "đi đến chế độ chờ sâu"
 msgid "go to standby"
 msgstr "đi đến chế độ chờ"
 
-msgid "grab this frame as bitmap"
-msgstr "lấy khung này làm bitmap"
-
 msgid "green"
 msgstr "màu xanh lá"
 
@@ -18045,13 +18086,6 @@ msgstr "mô-đun init"
 
 msgid "init modules"
 msgstr "mô-đun init"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "chèn dấu ở đây"
-
-msgid "insert mark here"
-msgstr "chèn dấu ở đây"
 
 #, fuzzy
 msgid "installed"
@@ -18341,17 +18375,11 @@ msgstr "văn hóa đại chúng / nghệ thuật truyền thống"
 msgid "pre-school children's program"
 msgstr "chương trình trẻ em mẫu giáo"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Sự ưu tiên"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18388,19 +18416,9 @@ msgstr "tôn giáo"
 msgid "remarkable people"
 msgstr "người đáng chú ý"
 
-msgid "remove after this position"
-msgstr "loại bỏ sau vị trí này"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Xóa tiêu đề"
-
-msgid "remove before this position"
-msgstr "loại bỏ trước vị trí này"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Xóa dấu trang"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18409,9 +18427,6 @@ msgstr "xóa dấu này"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Xóa một mục nhập máy chủ tên"
-
-msgid "remove this mark"
-msgstr "xóa dấu này"
 
 msgid "repeated"
 msgstr "lặp đi lặp lại"
@@ -18605,13 +18620,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "tiêu chuẩn"
-
-msgid "start cut here"
-msgstr "bắt đầu cắt ở đây"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "bắt đầu cắt ở đây"
 
 msgid "stepsize"
 msgstr "kích cỡ"

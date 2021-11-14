@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2014-12-15 19:38-0000\n"
 "Last-Translator: Phenom <phenomxy@gmail.com>\n"
 "Language-Team: Muaitai <muaitai@gmail.com>\n"
@@ -4794,9 +4794,9 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr "Personalizar comportamento do cursor na Lista de Canais"
 
-#
-msgid "Cut"
-msgstr "Cortar"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menu"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -5298,6 +5298,15 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete cut"
+msgstr "eliminar corte"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (desactivado)"
+
+#
+#, fuzzy
 msgid "Delete directory"
 msgstr "Criar directório"
 
@@ -5563,6 +5572,11 @@ msgstr "Desactivar pesquisa de segundo plano"
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Activar a edição dos favoritos"
 
 #
 msgid "Disable move mode"
@@ -6303,6 +6317,11 @@ msgstr "Activar a selecção de favoritos na vista Guia de Programação Múltip
 msgid "Enable client mode"
 msgstr "Activar modo deslocar"
 
+#
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Activar a edição dos favoritos"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6436,6 +6455,16 @@ msgstr "Terminar edição de Bouquet"
 #, fuzzy
 msgid "End cut"
 msgstr "Tempo final"
+
+#
+#, fuzzy
+msgid "End cut here"
+msgstr "terminar corte aqui"
+
+#
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "terminar corte aqui"
 
 #
 msgid "End favourites edit"
@@ -7733,6 +7762,11 @@ msgstr "Ir para a calibração X"
 msgid "Grab"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "usar este frame como bitmap"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Definições Guia de Programação Múltiplo gráfico"
 
@@ -8612,6 +8646,16 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Ir para posição"
+
+#
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "inserir marcador"
+
+#
+#, fuzzy
+msgid "Insert mark here"
+msgstr "inserir marcador"
 
 #
 msgid "Install"
@@ -12113,6 +12157,11 @@ msgstr "Em preparação... Por favor aguarde..."
 msgid "Preschool"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Remover marcador"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Pressione '0' para activar o modo Picture in Picture"
 
@@ -12456,6 +12505,10 @@ msgstr "Rápido"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Seleccionar acção"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Seleccionar acção"
 
 msgid "Quick execute..."
@@ -12857,6 +12910,11 @@ msgid "Remove a nameserver entry"
 msgstr "Remover entrada de servidor de DNS"
 
 #
+#, fuzzy
+msgid "Remove after this position"
+msgstr "remover depois desta posição"
+
+#
 msgid "Remove all alternatives"
 msgstr "Remover todas alternativas"
 
@@ -12909,7 +12967,17 @@ msgstr "Remover todas alternativas"
 
 #
 #, fuzzy
+msgid "Remove before this position"
+msgstr "remover antes desta posição"
+
+#
+#, fuzzy
 msgid "Remove bookmark"
+msgstr "Remover marcador"
+
+#
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Remover marcador"
 
 msgid "Remove bouquet from parental protection"
@@ -12959,6 +13027,11 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#
+#, fuzzy
+msgid "Remove this mark"
+msgstr "remover este marcador"
 
 #
 msgid "Remove title"
@@ -15809,6 +15882,16 @@ msgstr "Ver Rass interactivo..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Iniciar teste"
+
+#
+#, fuzzy
+msgid "Start cut here"
+msgstr "iniciar o corte aqui"
+
+#
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "iniciar o corte aqui"
 
 #
 msgid "Start directory"
@@ -19881,14 +19964,6 @@ msgstr "diário"
 msgid "day"
 msgstr "dia"
 
-#
-msgid "delete cut"
-msgstr "eliminar corte"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (desactivado)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -19904,11 +19979,6 @@ msgstr "desencriptar e gravar ECM"
 
 msgid "detective/thriller"
 msgstr "detective/thriller"
-
-#
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Activar a edição dos favoritos"
 
 #
 msgid "disabled"
@@ -19963,9 +20033,6 @@ msgstr ""
 msgid "empty"
 msgstr "vazio"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 #
 msgid "enabled"
 msgstr "activo"
@@ -19974,15 +20041,6 @@ msgstr "activo"
 #, fuzzy
 msgid "end at this position"
 msgstr "remover depois desta posição"
-
-#
-msgid "end cut here"
-msgstr "terminar corte aqui"
-
-#
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "terminar corte aqui"
 
 #
 #, fuzzy
@@ -20014,9 +20072,6 @@ msgid "ese"
 msgstr "Reset"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 #
@@ -20119,10 +20174,6 @@ msgid "go to standby"
 msgstr "colocar em Standby"
 
 #
-msgid "grab this frame as bitmap"
-msgstr "usar este frame como bitmap"
-
-#
 msgid "green"
 msgstr "verde"
 
@@ -20196,15 +20247,6 @@ msgstr "iniciar módulo"
 #
 msgid "init modules"
 msgstr "módulos de início"
-
-#
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "inserir marcador"
-
-#
-msgid "insert mark here"
-msgstr "inserir marcador"
 
 #
 #, fuzzy
@@ -20532,18 +20574,12 @@ msgstr "cultura popular/artes tradicionais"
 msgid "pre-school children's program"
 msgstr "pré-escola"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #
 #, fuzzy
 msgid "priority"
 msgstr "Prioridade"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -20586,22 +20622,9 @@ msgid "remarkable people"
 msgstr "pessoas notáveis"
 
 #
-msgid "remove after this position"
-msgstr "remover depois desta posição"
-
-#
 #, fuzzy
 msgid "remove all"
 msgstr "Remover título"
-
-#
-msgid "remove before this position"
-msgstr "remover antes desta posição"
-
-#
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Remover marcador"
 
 #
 #, fuzzy
@@ -20612,10 +20635,6 @@ msgstr "remover este marcador"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Remover entrada de servidor de DNS"
-
-#
-msgid "remove this mark"
-msgstr "remover este marcador"
 
 #
 msgid "repeated"
@@ -20831,15 +20850,6 @@ msgstr ""
 #
 msgid "standard"
 msgstr "standard"
-
-#
-msgid "start cut here"
-msgstr "iniciar o corte aqui"
-
-#
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "iniciar o corte aqui"
 
 msgid "stepsize"
 msgstr "tamanho do passo"

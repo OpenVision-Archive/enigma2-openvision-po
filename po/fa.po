@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -4396,8 +4396,9 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
-msgid "Cut"
-msgstr "برش"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "منو"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -4865,6 +4866,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr ""
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "حذف"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (غیر فعال)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "حذف مورد"
 
@@ -5102,6 +5111,10 @@ msgstr "غیر فعال کردن اسکن کردن در پس زمینه"
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr " (غیر فعال)"
 
 msgid "Disable move mode"
 msgstr ""
@@ -5741,6 +5754,10 @@ msgstr ""
 msgid "Enable client mode"
 msgstr "انتخاب حالت تصویر"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr " (غیر فعال)"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5856,6 +5873,13 @@ msgstr ""
 #, fuzzy
 msgid "End cut"
 msgstr "زمان پایان"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "زمان پایان"
+
+msgid "End cut here (reset)"
+msgstr ""
 
 msgid "End favourites edit"
 msgstr ""
@@ -7039,6 +7063,9 @@ msgstr ""
 msgid "Grab"
 msgstr ""
 
+msgid "Grab this frame as bitmap"
+msgstr ""
+
 msgid "GraphMultiEpg Settings"
 msgstr ""
 
@@ -7852,6 +7879,12 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "مراجعه به موقعیت"
+
+msgid "Insert mark after each in"
+msgstr ""
+
+msgid "Insert mark here"
+msgstr ""
 
 msgid "Install"
 msgstr "نصب"
@@ -10895,6 +10928,10 @@ msgstr "در حال آماده سازی - لطفا صبر کنید"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "حذف علامت"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr ""
 
@@ -11199,6 +11236,10 @@ msgstr "سریع"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "انتخاب محل نسخه پشتیبان"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "انتخاب محل نسخه پشتیبان"
 
 msgid "Quick execute..."
@@ -11548,6 +11589,10 @@ msgstr "حذف علامت"
 msgid "Remove a nameserver entry"
 msgstr ""
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "به موقعیت 0 جابجا شد"
+
 msgid "Remove all alternatives"
 msgstr ""
 
@@ -11589,7 +11634,15 @@ msgid "Remove all timer data"
 msgstr "حذف علامت"
 
 #, fuzzy
+msgid "Remove before this position"
+msgstr "ادامه از مکان قبلی"
+
+#, fuzzy
 msgid "Remove bookmark"
+msgstr "حذف علامت"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "حذف علامت"
 
 msgid "Remove bouquet from parental protection"
@@ -11631,6 +11684,10 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "حذف علامت"
 
 msgid "Remove title"
 msgstr "حذف عنوان"
@@ -14186,6 +14243,14 @@ msgstr ""
 
 #, fuzzy
 msgid "Start cut"
+msgstr "شروع تست"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "شروع تست"
+
+#, fuzzy
+msgid "Start cut here (reset)"
 msgstr "شروع تست"
 
 msgid "Start directory"
@@ -17699,13 +17764,6 @@ msgstr "روزانه"
 msgid "day"
 msgstr "روز"
 
-msgid "delete cut"
-msgstr ""
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (غیر فعال)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17721,10 +17779,6 @@ msgstr ""
 
 msgid "detective/thriller"
 msgstr ""
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr " (غیر فعال)"
 
 msgid "disabled"
 msgstr "غیر فعال شد"
@@ -17771,21 +17825,12 @@ msgstr ""
 msgid "empty"
 msgstr "خالی"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 msgid "enabled"
 msgstr "فعال شد"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "به موقعیت 0 جابجا شد"
-
-msgid "end cut here"
-msgstr ""
-
-msgid "end cut here (reset)"
-msgstr ""
 
 #, fuzzy
 msgid "ene"
@@ -17814,9 +17859,6 @@ msgid "ese"
 msgstr "بازنشانی"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17907,9 +17949,6 @@ msgstr ""
 msgid "go to standby"
 msgstr ""
 
-msgid "grab this frame as bitmap"
-msgstr ""
-
 msgid "green"
 msgstr "سبز"
 
@@ -17977,12 +18016,6 @@ msgid "init module"
 msgstr ""
 
 msgid "init modules"
-msgstr ""
-
-msgid "insert mark after each in"
-msgstr ""
-
-msgid "insert mark here"
 msgstr ""
 
 #, fuzzy
@@ -18269,17 +18302,11 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "اولویت"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18316,27 +18343,14 @@ msgstr ""
 msgid "remarkable people"
 msgstr ""
 
-msgid "remove after this position"
-msgstr ""
-
 #, fuzzy
 msgid "remove all"
 msgstr "حذف عنوان"
-
-msgid "remove before this position"
-msgstr ""
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "حذف علامت"
 
 msgid "remove cuts (preserve marks)"
 msgstr ""
 
 msgid "remove marks (preserve cuts)"
-msgstr ""
-
-msgid "remove this mark"
 msgstr ""
 
 msgid "repeated"
@@ -18528,12 +18542,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "استاندارد"
-
-msgid "start cut here"
-msgstr ""
-
-msgid "start cut here (reset)"
-msgstr ""
 
 msgid "stepsize"
 msgstr ""

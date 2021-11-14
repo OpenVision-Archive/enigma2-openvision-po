@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -4601,8 +4601,9 @@ msgstr "Pas de instellingen van de Fallback tuner aan in de OpenWebif"
 msgid "Customize channel list cursor behavior"
 msgstr "Pas het gedrag van de cursor aan"
 
-msgid "Cut"
-msgstr "Knip"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menu"
 
 msgid "Cutlist editor"
 msgstr "Opname knippen"
@@ -5062,6 +5063,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Verwijder het teken onder de tekst-cursor"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "Wis snijpunt"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (uitgeschakeld)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Map aanmaken"
 
@@ -5296,6 +5305,10 @@ msgstr "Achtergrondscan uitschakelen"
 
 msgid "Disable current event but not coming events"
 msgstr "Deactiveer het huidige, maar niet de komende programma's"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Favorieten bewerken activeren"
 
 msgid "Disable move mode"
 msgstr "Verplaatsmode deactiveren"
@@ -5937,6 +5950,10 @@ msgstr "Indien geactiveerd, dan wordt het bouquet selectiemenu weergegeven in de
 msgid "Enable client mode"
 msgstr "Activeer de verplaatsmodus"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "introductiescherm inschakelen"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6058,6 +6075,14 @@ msgstr "Bouquet bewerken stoppen"
 #, fuzzy
 msgid "End cut"
 msgstr "Eindtijd"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "Stop snijpunt hier"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "Stop snijpunt hier"
 
 msgid "End favourites edit"
 msgstr "Favorieten bewerken stoppen "
@@ -7240,6 +7265,10 @@ msgstr "GotoX calibratie"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "Maak van dit beeld een screenshot"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Grafische MultiEPG instellingen"
 
@@ -8063,6 +8092,14 @@ msgstr "Ingang Stream ID"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Naar positie draaien"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "Markeerpunt invoegen"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "Markeerpunt invoegen"
 
 msgid "Install"
 msgstr "Installeer"
@@ -11146,6 +11183,10 @@ msgstr "Voorbereiden... Een ogenblik geduld aub."
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Wis markeerpunt"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Druk '0' om tussen de PIP modes te schakelen."
 
@@ -11447,6 +11488,10 @@ msgstr "Snel"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Skin selectie actie(s)"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Skin selectie actie(s)"
 
 msgid "Quick execute..."
@@ -11794,6 +11839,10 @@ msgstr "Wis markeerpunt"
 msgid "Remove a nameserver entry"
 msgstr "Verwijder een nameserver ingave"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "Verwijder achter deze positie"
+
 msgid "Remove all alternatives"
 msgstr "Verwijder alle alternatieven"
 
@@ -11835,7 +11884,15 @@ msgstr "Verwijder alle 'nieuw gevonden' markeringen"
 msgid "Remove all timer data"
 msgstr "Verwijder alle alternatieven"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "Verwijder voor deze positie"
+
 msgid "Remove bookmark"
+msgstr "Wis markeerpunt"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Wis markeerpunt"
 
 msgid "Remove bouquet from parental protection"
@@ -11877,6 +11934,10 @@ msgstr "Verwijder DVB-T kanalen"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "verwijder deze markering"
 
 msgid "Remove title"
 msgstr "Titel verwijderen"
@@ -14402,6 +14463,14 @@ msgstr "Rass Interactive weergeven"
 #, fuzzy
 msgid "Start cut"
 msgstr "Start test"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "Start knippen hier"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "Start knippen hier"
 
 msgid "Start directory"
 msgstr "Start map"
@@ -18147,13 +18216,6 @@ msgstr "dagelijks"
 msgid "day"
 msgstr "dag"
 
-msgid "delete cut"
-msgstr "Wis snijpunt"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (uitgeschakeld)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -18169,10 +18231,6 @@ msgstr "ECM decoderen en opnemen"
 
 msgid "detective/thriller"
 msgstr "Detective/Thriller"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Favorieten bewerken activeren"
 
 msgid "disabled"
 msgstr "Gedéactiveerd"
@@ -18222,23 +18280,12 @@ msgstr "ingebouwd"
 msgid "empty"
 msgstr "leeg"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "introductiescherm inschakelen"
-
 msgid "enabled"
 msgstr "Ingeschakeld"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "Verwijder achter deze positie"
-
-msgid "end cut here"
-msgstr "Stop snijpunt hier"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "Stop snijpunt hier"
 
 #, fuzzy
 msgid "ene"
@@ -18268,9 +18315,6 @@ msgid "ese"
 msgstr "Herstel"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18361,9 +18405,6 @@ msgstr "uitschakelen"
 msgid "go to standby"
 msgstr "ga naar stand-by"
 
-msgid "grab this frame as bitmap"
-msgstr "Maak van dit beeld een screenshot"
-
 msgid "green"
 msgstr "groen"
 
@@ -18433,13 +18474,6 @@ msgstr "module initialiseren"
 
 msgid "init modules"
 msgstr "initialiseer modules"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "Markeerpunt invoegen"
-
-msgid "insert mark here"
-msgstr "Markeerpunt invoegen"
 
 #, fuzzy
 msgid "installed"
@@ -18726,17 +18760,11 @@ msgstr "Moderne cultuur/Traditionele kunst"
 msgid "pre-school children's program"
 msgstr "Peuter/Kleuterprogramma"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Prioriteit"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18773,19 +18801,9 @@ msgstr "Religie"
 msgid "remarkable people"
 msgstr "opmerkelijke personen"
 
-msgid "remove after this position"
-msgstr "Verwijder achter deze positie"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Titel verwijderen"
-
-msgid "remove before this position"
-msgstr "Verwijder voor deze positie"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Wis markeerpunt"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18794,9 +18812,6 @@ msgstr "verwijder deze markering"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Verwijder een nameserver ingave"
-
-msgid "remove this mark"
-msgstr "verwijder deze markering"
 
 msgid "repeated"
 msgstr "herhalen"
@@ -18990,13 +19005,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "Standaard"
-
-msgid "start cut here"
-msgstr "Start knippen hier"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "Start knippen hier"
 
 msgid "stepsize"
 msgstr "stapgrootte"

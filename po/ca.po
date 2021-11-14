@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -4763,8 +4763,9 @@ msgid "Customize channel list cursor behavior"
 msgstr "Personalitzar el comportament del cursor de la llista de canals"
 
 #
-msgid "Cut"
-msgstr "Tallar"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menú"
 
 msgid "Cutlist editor"
 msgstr "Editor de la llista"
@@ -5262,6 +5263,15 @@ msgstr "Suprimeix el personatge sota el cursor de text"
 
 #
 #, fuzzy
+msgid "Delete cut"
+msgstr "esborrar tall"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (Desactivat)"
+
+#
+#, fuzzy
 msgid "Delete directory"
 msgstr "Crea directori"
 
@@ -5521,6 +5531,11 @@ msgstr "Desactiva l’escaneig de fons"
 
 msgid "Disable current event but not coming events"
 msgstr "Desactiva l’esdeveniment actual però no els esdeveniments que vénen"
+
+#
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Activar l'edició dels preferits"
 
 #
 msgid "Disable move mode"
@@ -6246,6 +6261,10 @@ msgstr "Activar l'edició de la llista"
 msgid "Enable client mode"
 msgstr "Activar mode moviment"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "activa la pantalla d’introducció"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6373,6 +6392,16 @@ msgstr "Fi de l'edició de llistes"
 #, fuzzy
 msgid "End cut"
 msgstr "Hora final"
+
+#
+#, fuzzy
+msgid "End cut here"
+msgstr "acabar el tall aquí"
+
+#
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "acabar el tall aquí"
 
 #
 msgid "End favourites edit"
@@ -7666,6 +7695,11 @@ msgstr "Calibració anar a X"
 msgid "Grab"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "agafeu aquest marc com a mapa de bits"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Configuració de GraphMultiEpg"
 
@@ -8537,6 +8571,16 @@ msgstr "Identificador de flux d’entrada"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Anar a la posició"
+
+#
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "inserir marca aquí"
+
+#
+#, fuzzy
+msgid "Insert mark here"
+msgstr "inserir marca aquí"
 
 #
 msgid "Install"
@@ -11940,6 +11984,11 @@ msgstr "Preparant... Sisplau espera"
 msgid "Preschool"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Esborrar marca"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Premeu “0” per canviar el mode PiP"
 
@@ -12275,6 +12324,11 @@ msgstr "Ràpid"
 #
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Accions de selecció de la pell"
+
+#
+#, fuzzy
+msgid "Quick execute"
 msgstr "Accions de selecció de la pell"
 
 msgid "Quick execute..."
@@ -12664,6 +12718,11 @@ msgid "Remove a nameserver entry"
 msgstr "Esborrar nom de server d’entrada"
 
 #
+#, fuzzy
+msgid "Remove after this position"
+msgstr "esborra després d'aquesta posició"
+
+#
 msgid "Remove all alternatives"
 msgstr "Esborrar totes les alternatives"
 
@@ -12714,7 +12773,17 @@ msgid "Remove all timer data"
 msgstr "Esborrar totes les alternatives"
 
 #
+#, fuzzy
+msgid "Remove before this position"
+msgstr "esborra abans d'aquesta posició"
+
+#
 msgid "Remove bookmark"
+msgstr "Esborrar marca"
+
+#
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Esborrar marca"
 
 msgid "Remove bouquet from parental protection"
@@ -12762,6 +12831,11 @@ msgstr "Eliminar els serveis terrestres"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#
+#, fuzzy
+msgid "Remove this mark"
+msgstr "esborrar aquesta marca"
 
 #
 msgid "Remove title"
@@ -15510,6 +15584,16 @@ msgstr "Veure Rass interactiu …"
 #, fuzzy
 msgid "Start cut"
 msgstr "Comença la prova"
+
+#
+#, fuzzy
+msgid "Start cut here"
+msgstr "començar tall aquí"
+
+#
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "començar tall aquí"
 
 #
 msgid "Start directory"
@@ -19496,14 +19580,6 @@ msgstr "diàriament"
 msgid "day"
 msgstr "dia"
 
-#
-msgid "delete cut"
-msgstr "esborrar tall"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (Desactivat)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -19519,11 +19595,6 @@ msgstr "descramble i record record"
 
 msgid "detective/thriller"
 msgstr "detectiu / thriller"
-
-#
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Activar l'edició dels preferits"
 
 #
 msgid "disabled"
@@ -19578,10 +19649,6 @@ msgstr "encastat"
 msgid "empty"
 msgstr "buit"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "activa la pantalla d’introducció"
-
 #
 msgid "enabled"
 msgstr "activat"
@@ -19590,15 +19657,6 @@ msgstr "activat"
 #, fuzzy
 msgid "end at this position"
 msgstr "esborra després d'aquesta posició"
-
-#
-msgid "end cut here"
-msgstr "acabar el tall aquí"
-
-#
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "acabar el tall aquí"
 
 #
 #, fuzzy
@@ -19630,9 +19688,6 @@ msgid "ese"
 msgstr "Resetejar"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 #
@@ -19733,10 +19788,6 @@ msgid "go to standby"
 msgstr "posar en repòs"
 
 #
-msgid "grab this frame as bitmap"
-msgstr "agafeu aquest marc com a mapa de bits"
-
-#
 msgid "green"
 msgstr "verd"
 
@@ -19810,15 +19861,6 @@ msgstr "iniciar mòdul"
 #
 msgid "init modules"
 msgstr "mòduls init"
-
-#
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "inserir marca aquí"
-
-#
-msgid "insert mark here"
-msgstr "inserir marca aquí"
 
 #
 #, fuzzy
@@ -20142,18 +20184,12 @@ msgstr "Arts/Culturas"
 msgid "pre-school children's program"
 msgstr "programa infantil d’educació infantil"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #
 #, fuzzy
 msgid "priority"
 msgstr "Prioritat"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -20195,22 +20231,9 @@ msgid "remarkable people"
 msgstr "gent notable"
 
 #
-msgid "remove after this position"
-msgstr "esborra després d'aquesta posició"
-
-#
 #, fuzzy
 msgid "remove all"
 msgstr "Esborra títol"
-
-#
-msgid "remove before this position"
-msgstr "esborra abans d'aquesta posició"
-
-#
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Esborrar marca"
 
 #
 #, fuzzy
@@ -20220,10 +20243,6 @@ msgstr "esborrar aquesta marca"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Esborrar nom de server d’entrada"
-
-#
-msgid "remove this mark"
-msgstr "esborrar aquesta marca"
 
 #
 msgid "repeated"
@@ -20437,15 +20456,6 @@ msgstr ""
 #
 msgid "standard"
 msgstr "estàndard"
-
-#
-msgid "start cut here"
-msgstr "començar tall aquí"
-
-#
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "començar tall aquí"
 
 msgid "stepsize"
 msgstr "mida reduïda"

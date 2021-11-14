@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -4273,8 +4273,9 @@ msgstr "Прилагодете го резервниот тјунер во по�
 msgid "Customize channel list cursor behavior"
 msgstr "Поставете однесување на курсорот во списокот за избор на канали"
 
-msgid "Cut"
-msgstr "Исечи"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Мени"
 
 msgid "Cutlist editor"
 msgstr "Уредник на списоци"
@@ -4734,6 +4735,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Избришете го знакот под курсорот"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "избриши сечи"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " Деактивирано"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Креирај директориум"
 
@@ -4968,6 +4977,10 @@ msgstr "Деактивирај пребарување во позадина \""
 
 msgid "Disable current event but not coming events"
 msgstr "Деактивира го тековниот настан, но активирај го следниот"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Активирајте го уредникот за фаворити"
 
 msgid "Disable move mode"
 msgstr "Деактивирај го режимот за движење"
@@ -5600,6 +5613,10 @@ msgstr "Активирајте го изборот на букет во мулт
 msgid "Enable client mode"
 msgstr "Активирајте го режимот за движење"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "овозможете воведен екран"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5716,6 +5733,14 @@ msgstr "Крај на уредувањето на букетите"
 #, fuzzy
 msgid "End cut"
 msgstr "Време на завршување"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "крај исечете тука"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "крај исечете тука"
 
 msgid "End favourites edit"
 msgstr "Крај на промените на фаворити"
@@ -6897,6 +6922,10 @@ msgstr "Оди на калибрација Х"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "зацувај ја оваа рамка како битмапа"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Поставки за GraphMultiEpg"
 
@@ -7711,6 +7740,14 @@ msgstr "Внесете ID на Стрим"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Оди на позиција"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "вметнете ознака тука"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "вметнете ознака тука"
 
 msgid "Install"
 msgstr "Инсталираj"
@@ -10762,6 +10799,10 @@ msgstr "Подготовката е во тек ... ве молиме почек
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Отстрани обележувач"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Притиснете '0' за да го вклучите режимот PiP"
 
@@ -11060,6 +11101,10 @@ msgstr "Брзо"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Акции за избор на Скин"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Акции за избор на Скин"
 
 msgid "Quick execute..."
@@ -11407,6 +11452,10 @@ msgstr "Отстрани го обележувањето"
 msgid "Remove a nameserver entry"
 msgstr "Отстрани го записот на DNS серверот"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "отстрани по оваа позиција"
+
 msgid "Remove all alternatives"
 msgstr "Отстрани ги сите алтернативи"
 
@@ -11448,7 +11497,15 @@ msgstr "Отстрани ги сите ново пронајдени знами�
 msgid "Remove all timer data"
 msgstr "Отстрани ги сите алтернативи"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "отстрани пред оваа позиција"
+
 msgid "Remove bookmark"
+msgstr "Отстрани обележувач"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Отстрани обележувач"
 
 msgid "Remove bouquet from parental protection"
@@ -11490,6 +11547,10 @@ msgstr "Отстранете ги терестријални канали"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "отстранете ја оваа ознака"
 
 msgid "Remove title"
 msgstr "Отстранете го насловот"
@@ -13989,6 +14050,14 @@ msgstr "Преглед на интерактивниот Rass ..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Започни тест"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "започни да сечеш овде"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "започни да сечеш овде"
 
 msgid "Start directory"
 msgstr "Почетен директориум"
@@ -17649,13 +17718,6 @@ msgstr "дневно"
 msgid "day"
 msgstr "ден"
 
-msgid "delete cut"
-msgstr "избриши сечи"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " Деактивирано"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17671,10 +17733,6 @@ msgstr "декодирање и снимање ECM"
 
 msgid "detective/thriller"
 msgstr "детектив / трилер"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Активирајте го уредникот за фаворити"
 
 msgid "disabled"
 msgstr "оневозможено"
@@ -17724,23 +17782,12 @@ msgstr "вградени"
 msgid "empty"
 msgstr "празно"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "овозможете воведен екран"
-
 msgid "enabled"
 msgstr "овозможено"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "отстрани по оваа позиција"
-
-msgid "end cut here"
-msgstr "крај исечете тука"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "крај исечете тука"
 
 #, fuzzy
 msgid "ene"
@@ -17770,9 +17817,6 @@ msgid "ese"
 msgstr "Ресетираj"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17863,9 +17907,6 @@ msgstr "одете во дееп стендбај"
 msgid "go to standby"
 msgstr "оди во стендбај"
 
-msgid "grab this frame as bitmap"
-msgstr "зацувај ја оваа рамка како битмапа"
-
 msgid "green"
 msgstr "зелена"
 
@@ -17935,13 +17976,6 @@ msgstr "иницијален модул"
 
 msgid "init modules"
 msgstr "иницијални модули"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "вметнете ознака тука"
-
-msgid "insert mark here"
-msgstr "вметнете ознака тука"
 
 #, fuzzy
 msgid "installed"
@@ -18232,17 +18266,11 @@ msgstr "популарна култура / традиционална умет�
 msgid "pre-school children's program"
 msgstr "програма за деца од предучилишна возраст"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Приоритет"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18279,19 +18307,9 @@ msgstr "религија"
 msgid "remarkable people"
 msgstr "извонредни луѓе"
 
-msgid "remove after this position"
-msgstr "отстрани по оваа позиција"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Отстранете го насловот"
-
-msgid "remove before this position"
-msgstr "отстрани пред оваа позиција"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Отстрани обележувач"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18300,9 +18318,6 @@ msgstr "отстранете ја оваа ознака"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Отстрани го записот на DNS серверот"
-
-msgid "remove this mark"
-msgstr "отстранете ја оваа ознака"
 
 msgid "repeated"
 msgstr "повтори"
@@ -18497,13 +18512,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "стандард"
-
-msgid "start cut here"
-msgstr "започни да сечеш овде"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "започни да сечеш овде"
 
 msgid "stepsize"
 msgstr "скалирање"

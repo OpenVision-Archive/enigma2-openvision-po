@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -4394,8 +4394,9 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr "Kanal listesinde imleç davranışını özelleştir."
 
-msgid "Cut"
-msgstr "Kes"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menü"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -4859,6 +4860,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr ""
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "Kesimi Sil"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (Devre Dışı)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Klasör Oluştur"
 
@@ -5098,6 +5107,10 @@ msgstr "Arka plan taramasını devre dışı bırak"
 
 msgid "Disable current event but not coming events"
 msgstr "Mevcut işlemi devre dışı fakat yeni işlem yapılamıyor."
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Favori düzenlemeyi aç"
 
 msgid "Disable move mode"
 msgstr "Taşıma Kipini Kapat"
@@ -5744,6 +5757,10 @@ msgstr "Çoklu-EPG içinde buket seçimini etkinleştir"
 msgid "Enable client mode"
 msgstr "Taşıma kipini aç"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Favori düzenlemeyi aç"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5860,6 +5877,14 @@ msgstr "Buket düzenlemeyi bitir"
 #, fuzzy
 msgid "End cut"
 msgstr "Bitiş zamanı"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "Kesimi burada bitir"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "Kesimi burada bitir"
 
 msgid "End favourites edit"
 msgstr "Favori düzenlemeyi bitir"
@@ -7038,6 +7063,10 @@ msgstr "GotoX kalibrasyonu"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "Bu çerçeveyi bitmap olarak yakala"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Grafik arayüzlü çoklu EPG Ayarları"
 
@@ -7861,6 +7890,14 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Pozisyona git"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "Buraya işaret koy"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "Buraya işaret koy"
 
 msgid "Install"
 msgstr "Yükle"
@@ -10922,6 +10959,10 @@ msgstr "Hazırlanıyor... Lütfen bekleyin"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Kısayolu sil"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "RiR geçiş yapmak için '0'a bas"
 
@@ -11225,6 +11266,10 @@ msgstr "Hızlı"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Eylem seçimi"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Eylem seçimi"
 
 msgid "Quick execute..."
@@ -11573,6 +11618,10 @@ msgstr "İşaret Kaldır"
 msgid "Remove a nameserver entry"
 msgstr "İsim sunucusu girişini sil"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "Bu noktadan sonrasını kaldır"
+
 msgid "Remove all alternatives"
 msgstr "Alternatiflerin tümünü kaldır"
 
@@ -11614,7 +11663,15 @@ msgstr "Yeni bulundu, İşaretlerinin Tümünü Kaldır"
 msgid "Remove all timer data"
 msgstr "Alternatiflerin tümünü kaldır"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "Bu noktadan öncekileri kaldır."
+
 msgid "Remove bookmark"
+msgstr "Kısayolu sil"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Kısayolu sil"
 
 msgid "Remove bouquet from parental protection"
@@ -11656,6 +11713,10 @@ msgstr "Karasal servisleri sil"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "Sil"
 
 msgid "Remove title"
 msgstr "Başlığı sil"
@@ -14184,6 +14245,14 @@ msgstr "Etkileşimli RASS'ı göster"
 #, fuzzy
 msgid "Start cut"
 msgstr "Test'i başlat"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "Buradan kes"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "Buradan kes"
 
 msgid "Start directory"
 msgstr "Başlangıç klasörü"
@@ -17876,13 +17945,6 @@ msgstr "Günlük"
 msgid "day"
 msgstr "Gün"
 
-msgid "delete cut"
-msgstr "Kesimi Sil"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (Devre Dışı)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17898,10 +17960,6 @@ msgstr "Çözmeden ECM kaydet"
 
 msgid "detective/thriller"
 msgstr "Dedektif/Gerilim"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Favori düzenlemeyi aç"
 
 msgid "disabled"
 msgstr "Devre dışı"
@@ -17951,22 +18009,12 @@ msgstr ""
 msgid "empty"
 msgstr "Boş"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 msgid "enabled"
 msgstr "Etkin"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "Bu noktadan sonrasını kaldır"
-
-msgid "end cut here"
-msgstr "Kesimi burada bitir"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "Kesimi burada bitir"
 
 #, fuzzy
 msgid "ene"
@@ -17996,9 +18044,6 @@ msgid "ese"
 msgstr "Sıfırla"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18088,9 +18133,6 @@ msgstr "Derin uyku"
 msgid "go to standby"
 msgstr "Bekleme"
 
-msgid "grab this frame as bitmap"
-msgstr "Bu çerçeveyi bitmap olarak yakala"
-
 msgid "green"
 msgstr "Yeşil"
 
@@ -18160,13 +18202,6 @@ msgstr "Modülü Başlat"
 
 msgid "init modules"
 msgstr "Modülleri Başlat"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "Buraya işaret koy"
-
-msgid "insert mark here"
-msgstr "Buraya işaret koy"
 
 #, fuzzy
 msgid "installed"
@@ -18458,17 +18493,11 @@ msgstr "Popüler Kültür/Geleneksel Sanatlar"
 msgid "pre-school children's program"
 msgstr "Okul Öncesi Çocuk Programı"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Öncelik"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18505,19 +18534,9 @@ msgstr "Dini"
 msgid "remarkable people"
 msgstr "Önemli İnsanlar"
 
-msgid "remove after this position"
-msgstr "Bu noktadan sonrasını kaldır"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Başlığı sil"
-
-msgid "remove before this position"
-msgstr "Bu noktadan öncekileri kaldır."
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Kısayolu sil"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18526,9 +18545,6 @@ msgstr "Sil"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "İsim sunucusu girişini sil"
-
-msgid "remove this mark"
-msgstr "Sil"
 
 msgid "repeated"
 msgstr "Tekrarla"
@@ -18724,13 +18740,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "Standart"
-
-msgid "start cut here"
-msgstr "Buradan kes"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "Buradan kes"
 
 msgid "stepsize"
 msgstr "Adım sayısı"

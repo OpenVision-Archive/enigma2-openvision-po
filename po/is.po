@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -4594,8 +4594,10 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
-msgid "Cut"
-msgstr "Klippa"
+#
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Valmynd"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -5094,6 +5096,16 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete cut"
+msgstr "eyða klippingu"
+
+#
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr "eyða klippingu"
+
+#
+#, fuzzy
 msgid "Delete directory"
 msgstr "Búa til möppu"
 
@@ -5365,6 +5377,10 @@ msgstr ""
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Virkja breytingu eftirlætis lista"
 
 #
 msgid "Disable move mode"
@@ -6088,6 +6104,10 @@ msgstr "byrja féttu breytingu"
 msgid "Enable client mode"
 msgstr "Virkja færlsu stöðu"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Virkja breytingu eftirlætis lista"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6215,6 +6235,16 @@ msgstr "Hætta að breyta fléttu"
 #, fuzzy
 msgid "End cut"
 msgstr "Loka tími"
+
+#
+#, fuzzy
+msgid "End cut here"
+msgstr "enda klippingu hér"
+
+#
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "enda klippingu hér"
 
 msgid "End favourites edit"
 msgstr "Hætta breytingum eftirlætis lista"
@@ -7496,6 +7526,11 @@ msgstr ""
 msgid "Grab"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "grípa þennan ramma sem bitmap"
+
 msgid "GraphMultiEpg Settings"
 msgstr ""
 
@@ -8365,6 +8400,16 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Fara á staðsetningu"
+
+#
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "setja merki hér"
+
+#
+#, fuzzy
+msgid "Insert mark here"
+msgstr "setja merki hér"
 
 #
 msgid "Install"
@@ -11811,6 +11856,11 @@ msgstr "Undirbý...vinsamlega bíðið"
 msgid "Preschool"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "eyða bókamerki"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr ""
 
@@ -12148,6 +12198,10 @@ msgstr "Hratt"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Veldu stað fyrir afrit"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Veldu stað fyrir afrit"
 
 msgid "Quick execute..."
@@ -12543,6 +12597,11 @@ msgid "Remove a nameserver entry"
 msgstr "taka út nafnaþjón"
 
 #
+#, fuzzy
+msgid "Remove after this position"
+msgstr "eyða fyrir aftan þetta"
+
+#
 msgid "Remove all alternatives"
 msgstr "Taka út alla valkosti"
 
@@ -12594,7 +12653,17 @@ msgstr "Taka út alla valkosti"
 
 #
 #, fuzzy
+msgid "Remove before this position"
+msgstr "eyða fyrir framan þetta"
+
+#
+#, fuzzy
 msgid "Remove bookmark"
+msgstr "eyða bókamerki"
+
+#
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "eyða bókamerki"
 
 msgid "Remove bouquet from parental protection"
@@ -12641,6 +12710,11 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#
+#, fuzzy
+msgid "Remove this mark"
+msgstr "taka út þetta merki"
 
 #
 msgid "Remove title"
@@ -15452,6 +15526,14 @@ msgstr "Skoða gagnvirkt Útvarp"
 #, fuzzy
 msgid "Start cut"
 msgstr "Byrja prófun"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "byrja klippingu hér"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "byrja klippingu hér"
 
 #
 msgid "Start directory"
@@ -19414,15 +19496,6 @@ msgstr "daglega"
 msgid "day"
 msgstr "dagur"
 
-#
-msgid "delete cut"
-msgstr "eyða klippingu"
-
-#
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr "eyða klippingu"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -19439,10 +19512,6 @@ msgstr ""
 
 msgid "detective/thriller"
 msgstr ""
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Virkja breytingu eftirlætis lista"
 
 #
 msgid "disabled"
@@ -19494,9 +19563,6 @@ msgstr ""
 msgid "empty"
 msgstr "tómt"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 #
 msgid "enabled"
 msgstr "virkt"
@@ -19505,15 +19571,6 @@ msgstr "virkt"
 #, fuzzy
 msgid "end at this position"
 msgstr "eyða fyrir aftan þetta"
-
-#
-msgid "end cut here"
-msgstr "enda klippingu hér"
-
-#
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "enda klippingu hér"
 
 #
 #, fuzzy
@@ -19544,9 +19601,6 @@ msgid "ese"
 msgstr "Endursetja"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 #
@@ -19650,10 +19704,6 @@ msgid "go to standby"
 msgstr "fara í biðstöðu"
 
 #
-msgid "grab this frame as bitmap"
-msgstr "grípa þennan ramma sem bitmap"
-
-#
 msgid "green"
 msgstr "grænn"
 
@@ -19726,15 +19776,6 @@ msgstr "stilli einingu"
 #
 msgid "init modules"
 msgstr "stilla einingar"
-
-#
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "setja merki hér"
-
-#
-msgid "insert mark here"
-msgstr "setja merki hér"
 
 #, fuzzy
 msgid "installed"
@@ -20054,18 +20095,12 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #
 #, fuzzy
 msgid "priority"
 msgstr "Forgangur"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -20107,22 +20142,9 @@ msgid "remarkable people"
 msgstr ""
 
 #
-msgid "remove after this position"
-msgstr "eyða fyrir aftan þetta"
-
-#
 #, fuzzy
 msgid "remove all"
 msgstr "Taka út titil"
-
-#
-msgid "remove before this position"
-msgstr "eyða fyrir framan þetta"
-
-#
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "eyða bókamerki"
 
 #
 #, fuzzy
@@ -20133,10 +20155,6 @@ msgstr "taka út þetta merki"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "taka út nafnaþjón"
-
-#
-msgid "remove this mark"
-msgstr "taka út þetta merki"
 
 #
 msgid "repeated"
@@ -20347,13 +20365,6 @@ msgstr ""
 #
 msgid "standard"
 msgstr "venjulegt"
-
-msgid "start cut here"
-msgstr "byrja klippingu hér"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "byrja klippingu hér"
 
 msgid "stepsize"
 msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -4411,8 +4411,9 @@ msgstr "Pielāgot OpenWebIF iestatījumus attālinātam uztvērējam"
 msgid "Customize channel list cursor behavior"
 msgstr "Kursora darbība atverot kanālu sarakstu"
 
-msgid "Cut"
-msgstr "Griezt"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Izvēlne"
 
 msgid "Cutlist editor"
 msgstr "Griešanas redaktors"
@@ -4872,6 +4873,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Dzēst burtu zem kursora"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "dzēst griezumu"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (izslēgts)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Izveidot mapi"
 
@@ -5106,6 +5115,10 @@ msgstr "Atslēgt skenēšanu fonā"
 
 msgid "Disable current event but not coming events"
 msgstr "Izslēgt patreizējo notikumu bet ne nākošos"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Aktivizēt favorītu rediģēšanu"
 
 msgid "Disable move mode"
 msgstr "Izslēgt pārvietošanas režīmu"
@@ -5739,6 +5752,10 @@ msgstr "Aktivizēt buķešu izvēli multi-EPG"
 msgid "Enable client mode"
 msgstr "Aktivizēt pārvietošanas režīmu"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "aktivizēt pamācību uzsākot"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5855,6 +5872,14 @@ msgstr "Beigt buķešu rediģēšanu"
 #, fuzzy
 msgid "End cut"
 msgstr "Beigu laiks"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "beigt griešanu šeit"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "beigt griešanu šeit"
 
 msgid "End favourites edit"
 msgstr "Beigt favorītu rediģēšanu"
@@ -7036,6 +7061,10 @@ msgstr "Iet uz X kalibrēšanu"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "tvert kadru bitmap formātā"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Grafiskā daudzkanālu EPG iestatījumi"
 
@@ -7850,6 +7879,14 @@ msgstr "Input Stream ID"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Iet uz pozīciju"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "ievietot iezīmi"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "ievietot iezīmi"
 
 msgid "Install"
 msgstr "Instalēt"
@@ -10901,6 +10938,10 @@ msgstr "Sagatavo... Lūdzu uzgaidiet"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Dzēst"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Nospiediet '0' lai pārslēgtu PiP režīmu"
 
@@ -11199,6 +11240,10 @@ msgstr "Ātrais"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Noformējuma izvēlnes darbības"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Noformējuma izvēlnes darbības"
 
 msgid "Quick execute..."
@@ -11546,6 +11591,10 @@ msgstr "Dzēst iezīmi"
 msgid "Remove a nameserver entry"
 msgstr "Dzēst DNS ierakstu"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "dzēst pēc šīs pozīcijas"
+
 msgid "Remove all alternatives"
 msgstr "Dzēst visas alternatīvas"
 
@@ -11587,7 +11636,15 @@ msgstr "Dzēst visus 'jaunatrasts' marķējumus"
 msgid "Remove all timer data"
 msgstr "Dzēst visas alternatīvas"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "dzēst pirms šīs pozīcijas"
+
 msgid "Remove bookmark"
+msgstr "Dzēst"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Dzēst"
 
 msgid "Remove bouquet from parental protection"
@@ -11629,6 +11686,10 @@ msgstr "Dzēst televīzijas kanālus"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "dzēst iezīmi"
 
 msgid "Remove title"
 msgstr "Dzēst virsrakstu"
@@ -14133,6 +14194,14 @@ msgstr "Skatīt Rass interaktīvi..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Sākt pārbaudi"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "sākt griešanu šeit"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "sākt griešanu šeit"
 
 msgid "Start directory"
 msgstr "Sākuma mape"
@@ -17804,13 +17873,6 @@ msgstr "ik dienu"
 msgid "day"
 msgstr "diena"
 
-msgid "delete cut"
-msgstr "dzēst griezumu"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (izslēgts)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17826,10 +17888,6 @@ msgstr "dekodēt un ierakstīt ecm"
 
 msgid "detective/thriller"
 msgstr "detektīvs/trilleris"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Aktivizēt favorītu rediģēšanu"
 
 msgid "disabled"
 msgstr "izslēgts"
@@ -17879,23 +17937,12 @@ msgstr "iekšējais"
 msgid "empty"
 msgstr "tukšs"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "aktivizēt pamācību uzsākot"
-
 msgid "enabled"
 msgstr "aktivizēts"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "dzēst pēc šīs pozīcijas"
-
-msgid "end cut here"
-msgstr "beigt griešanu šeit"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "beigt griešanu šeit"
 
 #, fuzzy
 msgid "ene"
@@ -17925,9 +17972,6 @@ msgid "ese"
 msgstr "Atstatīt"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18018,9 +18062,6 @@ msgstr "iet uz dziļo gaidstāvi"
 msgid "go to standby"
 msgstr "iet uz gaidstāvi"
 
-msgid "grab this frame as bitmap"
-msgstr "tvert kadru bitmap formātā"
-
 msgid "green"
 msgstr "zaļā"
 
@@ -18090,13 +18131,6 @@ msgstr "inicializēt moduli"
 
 msgid "init modules"
 msgstr "inicializēt moduļus"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "ievietot iezīmi"
-
-msgid "insert mark here"
-msgstr "ievietot iezīmi"
 
 #, fuzzy
 msgid "installed"
@@ -18387,17 +18421,11 @@ msgstr "tautas kultūra/tradicionālā māksla"
 msgid "pre-school children's program"
 msgstr "pirmsskolas bērnu programma"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Prioritāte"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18434,19 +18462,9 @@ msgstr "reliģija"
 msgid "remarkable people"
 msgstr "ievērojami cilvēki"
 
-msgid "remove after this position"
-msgstr "dzēst pēc šīs pozīcijas"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Dzēst virsrakstu"
-
-msgid "remove before this position"
-msgstr "dzēst pirms šīs pozīcijas"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Dzēst"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18455,9 +18473,6 @@ msgstr "dzēst iezīmi"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Dzēst DNS ierakstu"
-
-msgid "remove this mark"
-msgstr "dzēst iezīmi"
 
 msgid "repeated"
 msgstr "atkārtots"
@@ -18652,13 +18667,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "standarta"
-
-msgid "start cut here"
-msgstr "sākt griešanu šeit"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "sākt griešanu šeit"
 
 msgid "stepsize"
 msgstr "soļa lielums"

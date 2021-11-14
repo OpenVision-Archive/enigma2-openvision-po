@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -4389,8 +4389,9 @@ msgstr "OpenWebIf beállítások testreszabása a tartalék tunerhez"
 msgid "Customize channel list cursor behavior"
 msgstr "A csatornalista kurzorának testreszabása"
 
-msgid "Cut"
-msgstr "Vágás"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menü"
 
 msgid "Cutlist editor"
 msgstr "Film-vágó"
@@ -4850,6 +4851,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "A kurzor alatti karakter törlése"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "vágópont törlése"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (kikapcsolva)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Mappa létrehozása"
 
@@ -5084,6 +5093,10 @@ msgstr "Háttér-keresés tiltása"
 
 msgid "Disable current event but not coming events"
 msgstr "Csak a jelenlegi műsor letiltása"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Kedvencek módosításának engedélyezése"
 
 msgid "Disable move mode"
 msgstr "Mozgatási mód letiltása"
@@ -5714,6 +5727,10 @@ msgstr "Lista választás lehetősége a Multi-EPG-ben"
 msgid "Enable client mode"
 msgstr "Mozgatási mód engedélyezése"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "intor képernyő engedélyezése"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5830,6 +5847,14 @@ msgstr "Lista szerkesztés befejezése"
 #, fuzzy
 msgid "End cut"
 msgstr "Vége időpont"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "vágás kilépő pontja"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "vágás kilépő pontja"
 
 msgid "End favourites edit"
 msgstr "Kedvencek módosításának vége"
@@ -7007,6 +7032,10 @@ msgstr "'Goto X' kalibrálása"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "pillanatkép mentése"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Grafikus EPG beállítások"
 
@@ -7821,6 +7850,14 @@ msgstr "Stream ID bevitel"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Pozícióra ugrás"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "jelző elhelyezése ide"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "jelző elhelyezése ide"
 
 msgid "Install"
 msgstr "Telepítés"
@@ -10876,6 +10913,10 @@ msgstr "Előkészítés... Kérem, várjon"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Könyvjelző eltávolítása"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Nyomja meg a '0'-t a Kép-a-Képben mód bekapcsolásához"
 
@@ -11174,6 +11215,10 @@ msgstr "Gyors"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Kinézet választás műveletek"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Kinézet választás műveletek"
 
 msgid "Quick execute..."
@@ -11521,6 +11566,10 @@ msgstr "Egy marker eltávolítása"
 msgid "Remove a nameserver entry"
 msgstr "Névszerver bejegyzés eltávolítása"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "e pont után mindent töröljön"
+
 msgid "Remove all alternatives"
 msgstr "Összes alternatíva törlése"
 
@@ -11562,7 +11611,15 @@ msgstr "Minden újtalálat jelzö törlése"
 msgid "Remove all timer data"
 msgstr "Összes alternatíva törlése"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "e pont elött mindent töröljön"
+
 msgid "Remove bookmark"
+msgstr "Könyvjelző eltávolítása"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Könyvjelző eltávolítása"
 
 msgid "Remove bouquet from parental protection"
@@ -11604,6 +11661,10 @@ msgstr "Földfelszíni szolgáltatás eltávolítása"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "e jelzö eltávolítása"
 
 msgid "Remove title"
 msgstr "Cím eltávolítása"
@@ -14103,6 +14164,14 @@ msgstr "Rass interaktív szolgáltatás használata..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Teszt indítása"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "vágás belépő pontja"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "vágás belépő pontja"
 
 msgid "Start directory"
 msgstr "Kiindulási mappa"
@@ -17775,13 +17844,6 @@ msgstr "naponta"
 msgid "day"
 msgstr "nap"
 
-msgid "delete cut"
-msgstr "vágópont törlése"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (kikapcsolva)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17797,10 +17859,6 @@ msgstr "ECM felvétel és dekódolás"
 
 msgid "detective/thriller"
 msgstr "dekektív/thriller"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Kedvencek módosításának engedélyezése"
 
 msgid "disabled"
 msgstr "kikapcsolva"
@@ -17850,23 +17908,12 @@ msgstr "beágyazott"
 msgid "empty"
 msgstr "üres"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "intor képernyő engedélyezése"
-
 msgid "enabled"
 msgstr "engedélyezve"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "e pont után mindent töröljön"
-
-msgid "end cut here"
-msgstr "vágás kilépő pontja"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "vágás kilépő pontja"
 
 #, fuzzy
 msgid "ene"
@@ -17896,9 +17943,6 @@ msgid "ese"
 msgstr "Visszaállítás"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17989,9 +18033,6 @@ msgstr "kikapcsolás"
 msgid "go to standby"
 msgstr "lekapcsolás készenléti módba"
 
-msgid "grab this frame as bitmap"
-msgstr "pillanatkép mentése"
-
 msgid "green"
 msgstr "zöld"
 
@@ -18061,13 +18102,6 @@ msgstr "modul inicializálása"
 
 msgid "init modules"
 msgstr "modul inicializálás"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "jelző elhelyezése ide"
-
-msgid "insert mark here"
-msgstr "jelző elhelyezése ide"
 
 #, fuzzy
 msgid "installed"
@@ -18354,17 +18388,11 @@ msgstr "néprajz"
 msgid "pre-school children's program"
 msgstr "óvodásoknak"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Prioritás"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18401,19 +18429,9 @@ msgstr "vallás"
 msgid "remarkable people"
 msgstr "nevezetes emberek"
 
-msgid "remove after this position"
-msgstr "e pont után mindent töröljön"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Cím eltávolítása"
-
-msgid "remove before this position"
-msgstr "e pont elött mindent töröljön"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Könyvjelző eltávolítása"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18422,9 +18440,6 @@ msgstr "e jelzö eltávolítása"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Névszerver bejegyzés eltávolítása"
-
-msgid "remove this mark"
-msgstr "e jelzö eltávolítása"
 
 msgid "repeated"
 msgstr "többszöri"
@@ -18618,13 +18633,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "hagyományos"
-
-msgid "start cut here"
-msgstr "vágás belépő pontja"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "vágás belépő pontja"
 
 msgid "stepsize"
 msgstr "lépték mérték"

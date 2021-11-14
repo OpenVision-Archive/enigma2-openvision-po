@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -4397,8 +4397,9 @@ msgstr "自定义备份调谐器的OpenWebIF设置"
 msgid "Customize channel list cursor behavior"
 msgstr "自定义频道列表光标功能"
 
-msgid "Cut"
-msgstr "剪切"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "菜单"
 
 msgid "Cutlist editor"
 msgstr "剪切列表编辑器"
@@ -4858,6 +4859,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "删除文本光标下的字符"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "删除剪辑"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (禁用)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "创建目录"
 
@@ -5092,6 +5101,10 @@ msgstr "禁止后台扫描"
 
 msgid "Disable current event but not coming events"
 msgstr "停止当前事件但排除即将到来的事件"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "启用收藏夹编辑"
 
 msgid "Disable move mode"
 msgstr "禁用移动模式"
@@ -5718,6 +5731,10 @@ msgstr "在多EPG中启用自定义组选项"
 msgid "Enable client mode"
 msgstr "启用移动模式"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "启用屏幕介绍"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5834,6 +5851,14 @@ msgstr "中止自定义组编辑"
 #, fuzzy
 msgid "End cut"
 msgstr "结束时间"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "结束录制剪辑"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "结束录制剪辑"
 
 msgid "End favourites edit"
 msgstr "中止收藏夹编辑"
@@ -7015,6 +7040,10 @@ msgstr "转到X功能校准"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "抓取当前帧为bmp图片"
+
 msgid "GraphMultiEpg Settings"
 msgstr "图形多EPG设置"
 
@@ -7825,6 +7854,14 @@ msgstr "输入流媒体ID"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "转到位置"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "在这里标记"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "在这里标记"
 
 msgid "Install"
 msgstr "安装"
@@ -10878,6 +10915,10 @@ msgstr "准备中...请稍候"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "删除书签"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "按'0'键切换画中画模式"
 
@@ -11176,6 +11217,10 @@ msgstr "快速"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "主题选择操作"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "主题选择操作"
 
 msgid "Quick execute..."
@@ -11523,6 +11568,10 @@ msgstr "删除标记"
 msgid "Remove a nameserver entry"
 msgstr "删除名称服务器条目"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "移除这个位置之后的"
+
 msgid "Remove all alternatives"
 msgstr "删除所有备选方案"
 
@@ -11564,7 +11613,15 @@ msgstr "删除所有新发现的标志"
 msgid "Remove all timer data"
 msgstr "删除所有备选方案"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "移除这个位置之前的"
+
 msgid "Remove bookmark"
+msgstr "删除书签"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "删除书签"
 
 msgid "Remove bouquet from parental protection"
@@ -11606,6 +11663,10 @@ msgstr "删除地面波频道"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "移除这个标记"
 
 msgid "Remove title"
 msgstr "移除标题"
@@ -14107,6 +14168,14 @@ msgstr "互动视图..."
 #, fuzzy
 msgid "Start cut"
 msgstr "重新测试"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "从这里开始剪接"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "从这里开始剪接"
 
 msgid "Start directory"
 msgstr "启动目录"
@@ -17777,13 +17846,6 @@ msgstr "每天"
 msgid "day"
 msgstr "天"
 
-msgid "delete cut"
-msgstr "删除剪辑"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (禁用)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17799,10 +17861,6 @@ msgstr "解扰开始录制"
 
 msgid "detective/thriller"
 msgstr "侦探/惊悚"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "启用收藏夹编辑"
 
 msgid "disabled"
 msgstr "不可用"
@@ -17852,23 +17910,12 @@ msgstr "集成"
 msgid "empty"
 msgstr "空的"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "启用屏幕介绍"
-
 msgid "enabled"
 msgstr "启用"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "移除这个位置之后的"
-
-msgid "end cut here"
-msgstr "结束录制剪辑"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "结束录制剪辑"
 
 #, fuzzy
 msgid "ene"
@@ -17898,9 +17945,6 @@ msgid "ese"
 msgstr "复位"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17991,9 +18035,6 @@ msgstr "深度休眠"
 msgid "go to standby"
 msgstr "待机"
 
-msgid "grab this frame as bitmap"
-msgstr "抓取当前帧为bmp图片"
-
 msgid "green"
 msgstr "绿色"
 
@@ -18063,13 +18104,6 @@ msgstr "模块初始化"
 
 msgid "init modules"
 msgstr "模块初始化"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "在这里标记"
-
-msgid "insert mark here"
-msgstr "在这里标记"
 
 #, fuzzy
 msgid "installed"
@@ -18359,17 +18393,11 @@ msgstr "流行文化/传统艺术"
 msgid "pre-school children's program"
 msgstr "学前儿童程序（早教程序）"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "次序"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18406,19 +18434,9 @@ msgstr "宗教"
 msgid "remarkable people"
 msgstr "名人"
 
-msgid "remove after this position"
-msgstr "移除这个位置之后的"
-
 #, fuzzy
 msgid "remove all"
 msgstr "移除标题"
-
-msgid "remove before this position"
-msgstr "移除这个位置之前的"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "删除书签"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18427,9 +18445,6 @@ msgstr "移除这个标记"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "删除名称服务器条目"
-
-msgid "remove this mark"
-msgstr "移除这个标记"
 
 msgid "repeated"
 msgstr "重复"
@@ -18623,13 +18638,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "标准"
-
-msgid "start cut here"
-msgstr "从这里开始剪接"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "从这里开始剪接"
 
 msgid "stepsize"
 msgstr "步长"

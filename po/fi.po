@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -4684,8 +4684,9 @@ msgid "Customize channel list cursor behavior"
 msgstr "Kanavalistan osoittimen toiminta"
 
 #
-msgid "Cut"
-msgstr "Leikkaa"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Valikko"
 
 msgid "Cutlist editor"
 msgstr "Leikkauskohtien editori"
@@ -5181,6 +5182,16 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete cut"
+msgstr "Poista leikkausmääritys"
+
+#
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (ei käytössä)"
+
+#
+#, fuzzy
 msgid "Delete directory"
 msgstr "Luo hakemisto"
 
@@ -5455,6 +5466,11 @@ msgstr "Poista taustahaku käytöstä"
 
 msgid "Disable current event but not coming events"
 msgstr "Poista tämän ohjelman ajastus käytöstä, mutta ei tulevia"
+
+#
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Suosikkien lisäys ja poisto"
 
 #
 msgid "Disable move mode"
@@ -6180,6 +6196,11 @@ msgstr "Käytä suosikkilistojen valintaa useammassa ohjelmaoppaassa "
 msgid "Enable client mode"
 msgstr "Suosikkien järjestely"
 
+#
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Suosikkien lisäys ja poisto"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6311,6 +6332,16 @@ msgstr "Tallenna muutokset ja poistu"
 #, fuzzy
 msgid "End cut"
 msgstr "Lopetusaika"
+
+#
+#, fuzzy
+msgid "End cut here"
+msgstr "Lopeta leikkaus tähän"
+
+#
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "Lopeta leikkaus tähän"
 
 #
 msgid "End favourites edit"
@@ -7582,6 +7613,11 @@ msgstr "GotoX kalibrointi"
 msgid "Grab"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "Tallenna tämä ruutu kuvatiedostoksi"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Graafisen ohjelmaoppaan asetukset"
 
@@ -8461,6 +8497,16 @@ msgstr "Anna syötteen tunniste (ID)"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Mene sijaintiin"
+
+#
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "Aseta tähän merkki"
+
+#
+#, fuzzy
+msgid "Insert mark here"
+msgstr "Aseta tähän merkki"
 
 #
 msgid "Install"
@@ -11900,6 +11946,11 @@ msgstr "Valmistellaan... Odota hetki!"
 msgid "Preschool"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Poista kirjanmerkki"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Vaihda sisäisen/ulkoisen PiP-kuvan välillä painamalla 0-näppäintä."
 
@@ -12248,6 +12299,11 @@ msgstr "Nopea"
 #
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Valitse toiminto"
+
+#
+#, fuzzy
+msgid "Quick execute"
 msgstr "Valitse toiminto"
 
 msgid "Quick execute..."
@@ -12644,6 +12700,11 @@ msgid "Remove a nameserver entry"
 msgstr "Poista nimipalvelin"
 
 #
+#, fuzzy
+msgid "Remove after this position"
+msgstr "Poista tämän kohdan jälkeen"
+
+#
 msgid "Remove all alternatives"
 msgstr "Poista kaikki vaihtoehtoiset kanavat"
 
@@ -12694,7 +12755,17 @@ msgid "Remove all timer data"
 msgstr "Poista kaikki vaihtoehtoiset kanavat"
 
 #
+#, fuzzy
+msgid "Remove before this position"
+msgstr "Poista kaikki ennen tätä kohtaa"
+
+#
 msgid "Remove bookmark"
+msgstr "Poista kirjanmerkki"
+
+#
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Poista kirjanmerkki"
 
 msgid "Remove bouquet from parental protection"
@@ -12743,6 +12814,11 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#
+#, fuzzy
+msgid "Remove this mark"
+msgstr "Poista tämä merkki"
 
 #
 msgid "Remove title"
@@ -15529,6 +15605,16 @@ msgstr "Näytä Rass interactive..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Aloita testi"
+
+#
+#, fuzzy
+msgid "Start cut here"
+msgstr "Aloita leikkaus tästä"
+
+#
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "Aloita leikkaus tästä"
 
 #
 msgid "Start directory"
@@ -19538,15 +19624,6 @@ msgstr "Päivittäin"
 msgid "day"
 msgstr "päivä"
 
-#
-msgid "delete cut"
-msgstr "Poista leikkausmääritys"
-
-#
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (ei käytössä)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -19562,11 +19639,6 @@ msgstr "Pura ja tallenna ECM"
 
 msgid "detective/thriller"
 msgstr "etsivä/trilleri"
-
-#
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Suosikkien lisäys ja poisto"
 
 #
 msgid "disabled"
@@ -19622,9 +19694,6 @@ msgstr "Sulautettu"
 msgid "empty"
 msgstr "Tyhjä"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 #
 msgid "enabled"
 msgstr "Päällä"
@@ -19633,15 +19702,6 @@ msgstr "Päällä"
 #, fuzzy
 msgid "end at this position"
 msgstr "Poista tämän kohdan jälkeen"
-
-#
-msgid "end cut here"
-msgstr "Lopeta leikkaus tähän"
-
-#
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "Lopeta leikkaus tähän"
 
 #
 #, fuzzy
@@ -19673,9 +19733,6 @@ msgid "ese"
 msgstr "Käynnistä CA-moduuli uudelleen"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 #
@@ -19776,10 +19833,6 @@ msgid "go to standby"
 msgstr "Siirry valmiustilaan"
 
 #
-msgid "grab this frame as bitmap"
-msgstr "Tallenna tämä ruutu kuvatiedostoksi"
-
-#
 msgid "green"
 msgstr "Vihreä"
 
@@ -19853,15 +19906,6 @@ msgstr "alusta moduuli"
 #
 msgid "init modules"
 msgstr "alusta moduulit"
-
-#
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "Aseta tähän merkki"
-
-#
-msgid "insert mark here"
-msgstr "Aseta tähän merkki"
 
 #
 #, fuzzy
@@ -20193,18 +20237,12 @@ msgstr "populäärikulttuuri/perinteinen taide"
 msgid "pre-school children's program"
 msgstr "esikouluikäisten lastenohjelma"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #
 #, fuzzy
 msgid "priority"
 msgstr "Prioriteetti"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -20247,22 +20285,9 @@ msgid "remarkable people"
 msgstr "merkittäviä ihmisiä"
 
 #
-msgid "remove after this position"
-msgstr "Poista tämän kohdan jälkeen"
-
-#
 #, fuzzy
 msgid "remove all"
 msgstr "Poista"
-
-#
-msgid "remove before this position"
-msgstr "Poista kaikki ennen tätä kohtaa"
-
-#
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Poista kirjanmerkki"
 
 #
 #, fuzzy
@@ -20273,10 +20298,6 @@ msgstr "Poista tämä merkki"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Poista nimipalvelin"
-
-#
-msgid "remove this mark"
-msgstr "Poista tämä merkki"
 
 #
 msgid "repeated"
@@ -20493,15 +20514,6 @@ msgstr ""
 #
 msgid "standard"
 msgstr "Vakio"
-
-#
-msgid "start cut here"
-msgstr "Aloita leikkaus tästä"
-
-#
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "Aloita leikkaus tästä"
 
 msgid "stepsize"
 msgstr "askelkoko"

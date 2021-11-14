@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -4409,8 +4409,9 @@ msgstr "Prilagoditi OpenWebIF postavke za rezervni tjuner"
 msgid "Customize channel list cursor behavior"
 msgstr "Prilagoditi ponašanje pokazivača na popisu kanala"
 
-msgid "Cut"
-msgstr "Izreži"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Izbornik"
 
 msgid "Cutlist editor"
 msgstr "Uređivač popisa skraćenica videozapisa"
@@ -4870,6 +4871,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Izbrišite znak ispod tekstualnog pokazivača"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "brisanje izrezivanja"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (onemogućeno)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Kreirajte direktorij"
 
@@ -5104,6 +5113,10 @@ msgstr "Onemogućite pozadinsko skeniranje"
 
 msgid "Disable current event but not coming events"
 msgstr "Onemogućite trenutni događaj, ali ne i događaje koji dolaze"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Omogući uređivanje favorita"
 
 msgid "Disable move mode"
 msgstr "Onemogućite način kretanja"
@@ -5741,6 +5754,10 @@ msgstr "Omogućite odabir paketa u multi EPG-u."
 msgid "Enable client mode"
 msgstr "Omogući sortiranje kanala"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "omogućite uvodni zaslon"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5857,6 +5874,14 @@ msgstr "Završi uređivanje paketa"
 #, fuzzy
 msgid "End cut"
 msgstr "Vrijeme završetka"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "završite izrezivanje"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "završite izrezivanje"
 
 msgid "End favourites edit"
 msgstr "Završite uređivanje favorita"
@@ -7038,6 +7063,10 @@ msgstr "GotoX kalibracija"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "snimite ovaj okvir kao bitmapu"
+
 msgid "GraphMultiEpg Settings"
 msgstr "GraphMultiEpg postavke"
 
@@ -7851,6 +7880,14 @@ msgstr "Ulazni ID web prijenosa"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Idi na položaj"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "ovdje umetnite oznaku"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "ovdje umetnite oznaku"
 
 msgid "Install"
 msgstr "Instaliraj"
@@ -10906,6 +10943,10 @@ msgstr "Priprema... molim pričekajte"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Uklonite oznake"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Pritisnite '0', za uključivanje načina rada PiP"
 
@@ -11204,6 +11245,10 @@ msgstr "Brzo"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Radnje za odabir skina"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Radnje za odabir skina"
 
 msgid "Quick execute..."
@@ -11551,6 +11596,10 @@ msgstr "Uklonite oznaku"
 msgid "Remove a nameserver entry"
 msgstr "Uklanjanje unosa imena poslužitelja"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "uklonite nakon tog položaja"
+
 msgid "Remove all alternatives"
 msgstr "Ukloni sve alternative"
 
@@ -11592,7 +11641,15 @@ msgstr "Uklonite sve nove pronađene zastavice"
 msgid "Remove all timer data"
 msgstr "Ukloni sve alternative"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "uklonite prije tog položaja"
+
 msgid "Remove bookmark"
+msgstr "Uklonite oznake"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Uklonite oznake"
 
 msgid "Remove bouquet from parental protection"
@@ -11634,6 +11691,10 @@ msgstr "Uklonite zemaljske usluge"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "uklonite ovu oznaku"
 
 msgid "Remove title"
 msgstr "Uklonite naslov"
@@ -14136,6 +14197,14 @@ msgstr "Pogledajte interaktivni Rass..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Započnite test"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "počnite izrezivati ovdje"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "počnite izrezivati ovdje"
 
 msgid "Start directory"
 msgstr "Početna mapa"
@@ -17806,13 +17875,6 @@ msgstr "dnevno"
 msgid "day"
 msgstr "dan"
 
-msgid "delete cut"
-msgstr "brisanje izrezivanja"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (onemogućeno)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17828,10 +17890,6 @@ msgstr "dekodirati i snimiti ecm"
 
 msgid "detective/thriller"
 msgstr "detektiv/triler"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Omogući uređivanje favorita"
 
 msgid "disabled"
 msgstr "onemogućeno"
@@ -17881,23 +17939,12 @@ msgstr "ugrađen"
 msgid "empty"
 msgstr "prazan"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "omogućite uvodni zaslon"
-
 msgid "enabled"
 msgstr "omogućeno"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "uklonite nakon tog položaja"
-
-msgid "end cut here"
-msgstr "završite izrezivanje"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "završite izrezivanje"
 
 #, fuzzy
 msgid "ene"
@@ -17927,9 +17974,6 @@ msgid "ese"
 msgstr "Reset"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18020,9 +18064,6 @@ msgstr "idite u duboko stanje čekanja"
 msgid "go to standby"
 msgstr "idite u stanje čekanja"
 
-msgid "grab this frame as bitmap"
-msgstr "snimite ovaj okvir kao bitmapu"
-
 msgid "green"
 msgstr "zelena"
 
@@ -18092,13 +18133,6 @@ msgstr "inicijalizacija modula"
 
 msgid "init modules"
 msgstr "inicijalizacije modula"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "ovdje umetnite oznaku"
-
-msgid "insert mark here"
-msgstr "ovdje umetnite oznaku"
 
 #, fuzzy
 msgid "installed"
@@ -18388,17 +18422,11 @@ msgstr "popularna kultura/tradicionalna umjetnost"
 msgid "pre-school children's program"
 msgstr "predškolski program za djecu"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Prioritet"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18435,19 +18463,9 @@ msgstr "religija"
 msgid "remarkable people"
 msgstr "izvanredni ljudi"
 
-msgid "remove after this position"
-msgstr "uklonite nakon tog položaja"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Uklonite naslov"
-
-msgid "remove before this position"
-msgstr "uklonite prije tog položaja"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Uklonite oznake"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18456,9 +18474,6 @@ msgstr "uklonite ovu oznaku"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Uklanjanje unosa imena poslužitelja"
-
-msgid "remove this mark"
-msgstr "uklonite ovu oznaku"
 
 msgid "repeated"
 msgstr "ponavljati"
@@ -18652,13 +18667,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "standard"
-
-msgid "start cut here"
-msgstr "počnite izrezivati ovdje"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "počnite izrezivati ovdje"
 
 msgid "stepsize"
 msgstr "veličina koraka"

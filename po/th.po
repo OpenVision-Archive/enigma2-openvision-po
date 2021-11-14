@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -4341,8 +4341,9 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
-msgid "Cut"
-msgstr "ตัด"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "เมนู"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -4810,6 +4811,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr ""
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "ลบส่วนตัดต่อ"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr "ลบส่วนตัดต่อ"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "สร้างโฟล์เดอร์"
 
@@ -5044,6 +5053,10 @@ msgstr ""
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "แก้ไขรายการโปรด"
 
 msgid "Disable move mode"
 msgstr "เลิกโหมดเคลื่อนย้าย"
@@ -5685,6 +5698,10 @@ msgstr "แก้ไขกลุ่มรายการ"
 msgid "Enable client mode"
 msgstr "ทำการเคลื่อนย้าย"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "แก้ไขรายการโปรด"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5801,6 +5818,14 @@ msgstr "จบการแก้ไขกลุ่มรายการ"
 #, fuzzy
 msgid "End cut"
 msgstr "เวลาสิ้นสุด"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "สิ้นสุดการตัดตรงนี้"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "สิ้นสุดการตัดตรงนี้"
 
 msgid "End favourites edit"
 msgstr "จบรายการโปรด"
@@ -6969,6 +6994,10 @@ msgstr ""
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "เก็บหน้าจอนี้ลงแฟ้ม"
+
 msgid "GraphMultiEpg Settings"
 msgstr ""
 
@@ -7777,6 +7806,14 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "ไปยังตำแหน่ง"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "แทรกตรงตำแหน่งนี้"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "แทรกตรงตำแหน่งนี้"
 
 msgid "Install"
 msgstr "ติดตั้ง"
@@ -10848,6 +10885,10 @@ msgstr "กำลังเตรียมงาน... รอสักครู�
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "ลบบุ๊คมาร์ค"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr ""
 
@@ -11149,6 +11190,10 @@ msgstr "เร็ว"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "เลือกที่ที่จะสำรอง"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "เลือกที่ที่จะสำรอง"
 
 msgid "Quick execute..."
@@ -11496,6 +11541,10 @@ msgstr "เอาที่คั่นออก"
 msgid "Remove a nameserver entry"
 msgstr "ลบ Nameserver นี้ออก"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "ลบหลังจากตำแหน่งนี้ออก"
+
 msgid "Remove all alternatives"
 msgstr "ลบทางเลือกอื่นออกทั้งหมด"
 
@@ -11538,7 +11587,15 @@ msgid "Remove all timer data"
 msgstr "ลบทางเลือกอื่นออกทั้งหมด"
 
 #, fuzzy
+msgid "Remove before this position"
+msgstr "ลบก่อนหน้าตำแหน่งนี้ออก"
+
+#, fuzzy
 msgid "Remove bookmark"
+msgstr "ลบบุ๊คมาร์ค"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "ลบบุ๊คมาร์ค"
 
 msgid "Remove bouquet from parental protection"
@@ -11580,6 +11637,10 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "ลบรายการนี้ออก"
 
 msgid "Remove title"
 msgstr "ลบเรื่อง"
@@ -14112,6 +14173,14 @@ msgstr "แสดง RASS แบบ Interactive"
 #, fuzzy
 msgid "Start cut"
 msgstr "เริ่มทดสอบ"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "ตัดตรงนี้"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "ตัดตรงนี้"
 
 msgid "Start directory"
 msgstr "โฟล์เดอร์เริ่มต้น"
@@ -17724,13 +17793,6 @@ msgstr "รายวัน"
 msgid "day"
 msgstr "วัน"
 
-msgid "delete cut"
-msgstr "ลบส่วนตัดต่อ"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr "ลบส่วนตัดต่อ"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17746,10 +17808,6 @@ msgstr ""
 
 msgid "detective/thriller"
 msgstr ""
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "แก้ไขรายการโปรด"
 
 msgid "disabled"
 msgstr "ไม่ใช้แล้ว"
@@ -17796,22 +17854,12 @@ msgstr ""
 msgid "empty"
 msgstr "ว่าง"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 msgid "enabled"
 msgstr "ใช้งานแล้ว"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "ลบหลังจากตำแหน่งนี้ออก"
-
-msgid "end cut here"
-msgstr "สิ้นสุดการตัดตรงนี้"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "สิ้นสุดการตัดตรงนี้"
 
 #, fuzzy
 msgid "ene"
@@ -17840,9 +17888,6 @@ msgid "ese"
 msgstr "ตั้งค่าใหม่"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17934,9 +17979,6 @@ msgstr "เข้าสู่โหมด Deep standby"
 msgid "go to standby"
 msgstr "เข้าสู้โหมด Standby"
 
-msgid "grab this frame as bitmap"
-msgstr "เก็บหน้าจอนี้ลงแฟ้ม"
-
 msgid "green"
 msgstr "เขียว"
 
@@ -18005,13 +18047,6 @@ msgstr "เริ่มต้นโมดูล"
 
 msgid "init modules"
 msgstr "เริ่มต้นโมดูล"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "แทรกตรงตำแหน่งนี้"
-
-msgid "insert mark here"
-msgstr "แทรกตรงตำแหน่งนี้"
 
 #, fuzzy
 msgid "installed"
@@ -18295,17 +18330,11 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "สำคัญ"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 msgid "real or pseudo recordings"
@@ -18341,19 +18370,9 @@ msgstr ""
 msgid "remarkable people"
 msgstr ""
 
-msgid "remove after this position"
-msgstr "ลบหลังจากตำแหน่งนี้ออก"
-
 #, fuzzy
 msgid "remove all"
 msgstr "ลบเรื่อง"
-
-msgid "remove before this position"
-msgstr "ลบก่อนหน้าตำแหน่งนี้ออก"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "ลบบุ๊คมาร์ค"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18362,9 +18381,6 @@ msgstr "ลบรายการนี้ออก"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "ลบ Nameserver นี้ออก"
-
-msgid "remove this mark"
-msgstr "ลบรายการนี้ออก"
 
 msgid "repeated"
 msgstr "เล่นซ้ำ"
@@ -18555,13 +18571,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "มาตรฐาน"
-
-msgid "start cut here"
-msgstr "ตัดตรงนี้"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "ตัดตรงนี้"
 
 msgid "stepsize"
 msgstr ""

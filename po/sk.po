@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-08-02 08:54+0200\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -4407,8 +4407,9 @@ msgstr "Prispôsobiť OpenWebIF nastavenia pre záložný turen"
 msgid "Customize channel list cursor behavior"
 msgstr "Prispôsobenie správania kurzoru v zozname staníc"
 
-msgid "Cut"
-msgstr "Strih"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Menu"
 
 msgid "Cutlist editor"
 msgstr "Editor strihov"
@@ -4868,6 +4869,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Vymazať znak pod kurzorom"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "zmazať strih"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (zakázané)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Vytvoriť adresár"
 
@@ -5102,6 +5111,10 @@ msgstr "Vypnúť skenovanie na pozadí"
 
 msgid "Disable current event but not coming events"
 msgstr "Vypnúť aktuálnu udalosť, ale nezrušiť nasledujúce udalosti"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Povoliť úpravu obľúbených"
 
 msgid "Disable move mode"
 msgstr "Zrušiť presun"
@@ -5735,6 +5748,10 @@ msgstr "Povoliť výber prehľadu v multi EPG"
 msgid "Enable client mode"
 msgstr "Zapnúť presun"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Povoliť úvodnú obrazovku"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5851,6 +5868,14 @@ msgstr "Skončiť úpravu prehľadu"
 #, fuzzy
 msgid "End cut"
 msgstr "Čas ukončenia"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "strih končí tu"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "strih končí tu"
 
 msgid "End favourites edit"
 msgstr "Skončiť úpravu obľúbených"
@@ -7032,6 +7057,10 @@ msgstr "Kalibrácia Otočiť na X"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "Zachytiť toto políčko ako bitmapu"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Nastavenie grafického multi EPG"
 
@@ -7846,6 +7875,14 @@ msgstr "Vstupný Stream ID"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Otočiť do pozície"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "sem vložiť značku"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "sem vložiť značku"
 
 msgid "Install"
 msgstr "Inštalovať"
@@ -10900,6 +10937,10 @@ msgstr "Pripravujem... Čakajte"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Odstrániť záložku"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Stlačením '0' prepnete režim PiP"
 
@@ -11198,6 +11239,10 @@ msgstr "Rýchlo"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Akcia voľby vzhľadu"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Akcia voľby vzhľadu"
 
 msgid "Quick execute..."
@@ -11545,6 +11590,10 @@ msgstr "Odstrániť značku"
 msgid "Remove a nameserver entry"
 msgstr "Odstrániť DNS"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "odstrániť za touto pozíciou"
+
 msgid "Remove all alternatives"
 msgstr "Odstrániť všetky alternatívy"
 
@@ -11586,7 +11635,15 @@ msgstr "Odstrániť všetky značky pre novonájdené"
 msgid "Remove all timer data"
 msgstr "Odstrániť všetky alternatívy"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "odstrániť pred touto pozíciou"
+
 msgid "Remove bookmark"
+msgstr "Odstrániť záložku"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Odstrániť záložku"
 
 msgid "Remove bouquet from parental protection"
@@ -11628,6 +11685,10 @@ msgstr "Odstrániť terestriálne stanice"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "odstrániť túto značku"
 
 msgid "Remove title"
 msgstr "Odstrániť titul"
@@ -14131,6 +14192,14 @@ msgstr "Zobraziť RASS interaktívne..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Spustiť test"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "začiatok strihu tu"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "začiatok strihu tu"
 
 msgid "Start directory"
 msgstr "Počiatočný adresár"
@@ -17803,13 +17872,6 @@ msgstr "denne"
 msgid "day"
 msgstr "deň"
 
-msgid "delete cut"
-msgstr "zmazať strih"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (zakázané)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17825,10 +17887,6 @@ msgstr "dekódovať a zaznamenávať ecm"
 
 msgid "detective/thriller"
 msgstr "detektívka/triler"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Povoliť úpravu obľúbených"
 
 msgid "disabled"
 msgstr "zakázané"
@@ -17878,23 +17936,12 @@ msgstr "vsadený"
 msgid "empty"
 msgstr "prázdne"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "Povoliť úvodnú obrazovku"
-
 msgid "enabled"
 msgstr "zapnuté"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "odstrániť za touto pozíciou"
-
-msgid "end cut here"
-msgstr "strih končí tu"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "strih končí tu"
 
 #, fuzzy
 msgid "ene"
@@ -17924,9 +17971,6 @@ msgid "ese"
 msgstr "Resetovať"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18017,9 +18061,6 @@ msgstr "prejsť do vypnutia"
 msgid "go to standby"
 msgstr "prejsť do pohotovostného režimu"
 
-msgid "grab this frame as bitmap"
-msgstr "Zachytiť toto políčko ako bitmapu"
-
 msgid "green"
 msgstr "zelená"
 
@@ -18089,13 +18130,6 @@ msgstr "inic. doplnku"
 
 msgid "init modules"
 msgstr "inicializácia doplnkov"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "sem vložiť značku"
-
-msgid "insert mark here"
-msgstr "sem vložiť značku"
 
 #, fuzzy
 msgid "installed"
@@ -18385,17 +18419,11 @@ msgstr "populárna kultúra/tradičné umenie"
 msgid "pre-school children's program"
 msgstr "program pre predškolské deti"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Priorita"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18432,19 +18460,9 @@ msgstr "náboženstvo"
 msgid "remarkable people"
 msgstr "pozoruhodní ľudia"
 
-msgid "remove after this position"
-msgstr "odstrániť za touto pozíciou"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Odstrániť titul"
-
-msgid "remove before this position"
-msgstr "odstrániť pred touto pozíciou"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Odstrániť záložku"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18453,9 +18471,6 @@ msgstr "odstrániť túto značku"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Odstrániť DNS"
-
-msgid "remove this mark"
-msgstr "odstrániť túto značku"
 
 msgid "repeated"
 msgstr "opakované"
@@ -18649,13 +18664,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "štandardné"
-
-msgid "start cut here"
-msgstr "začiatok strihu tu"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "začiatok strihu tu"
 
 msgid "stepsize"
 msgstr "krok"

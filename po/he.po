@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -4481,8 +4481,10 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
-msgid "Cut"
-msgstr "חתוך"
+#
+#, fuzzy
+msgid "Cut Menu"
+msgstr "תפריט"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -4959,6 +4961,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr ""
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "delete cut"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr "delete cut"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "צור תיקיה"
 
@@ -5207,6 +5217,11 @@ msgstr ""
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Enable favourites edit"
 
 msgid "Disable move mode"
 msgstr "Disable move mode"
@@ -5879,6 +5894,11 @@ msgstr "Enable bouquet edit"
 msgid "Enable client mode"
 msgstr "Enable move mode"
 
+#
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "Enable favourites edit"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6004,6 +6024,14 @@ msgstr "End bouquet edit"
 #, fuzzy
 msgid "End cut"
 msgstr "שעת סיום"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "end cut here"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "end cut here"
 
 #
 msgid "End favourites edit"
@@ -7220,6 +7248,9 @@ msgstr ""
 msgid "Grab"
 msgstr ""
 
+msgid "Grab this frame as bitmap"
+msgstr ""
+
 msgid "GraphMultiEpg Settings"
 msgstr ""
 
@@ -8056,6 +8087,14 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Goto position"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "הכנס סמן כאן"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "הכנס סמן כאן"
 
 #
 msgid "Install"
@@ -11316,6 +11355,11 @@ msgstr "מכין...נא המתן"
 msgid "Preschool"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "remove bookmark"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr ""
 
@@ -11626,6 +11670,10 @@ msgstr "מהיר"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "בחר מקום גיבוי"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "בחר מקום גיבוי"
 
 msgid "Quick execute..."
@@ -11988,6 +12036,11 @@ msgstr "הסר סמן"
 msgid "Remove a nameserver entry"
 msgstr "remove a nameserver entry"
 
+#
+#, fuzzy
+msgid "Remove after this position"
+msgstr "remove after this position"
+
 msgid "Remove all alternatives"
 msgstr "Remove all alternatives"
 
@@ -12031,7 +12084,17 @@ msgstr "Remove all alternatives"
 
 #
 #, fuzzy
+msgid "Remove before this position"
+msgstr "remove before this position"
+
+#
+#, fuzzy
 msgid "Remove bookmark"
+msgstr "remove bookmark"
+
+#
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "remove bookmark"
 
 msgid "Remove bouquet from parental protection"
@@ -12074,6 +12137,10 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "remove this mark"
 
 msgid "Remove title"
 msgstr "הסר כותרת"
@@ -14742,6 +14809,14 @@ msgstr ""
 #, fuzzy
 msgid "Start cut"
 msgstr "התחל בדיקה"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "התחל גזירה כאן"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "התחל גזירה כאן"
 
 msgid "Start directory"
 msgstr "התחל תיקיה"
@@ -18537,13 +18612,6 @@ msgstr "יומי"
 msgid "day"
 msgstr "יום"
 
-msgid "delete cut"
-msgstr "delete cut"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr "delete cut"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -18560,11 +18628,6 @@ msgstr ""
 
 msgid "detective/thriller"
 msgstr ""
-
-#
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Enable favourites edit"
 
 msgid "disabled"
 msgstr "disabled"
@@ -18611,9 +18674,6 @@ msgstr ""
 msgid "empty"
 msgstr "ריק"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 msgid "enabled"
 msgstr "אופשר"
 
@@ -18621,13 +18681,6 @@ msgstr "אופשר"
 #, fuzzy
 msgid "end at this position"
 msgstr "remove after this position"
-
-msgid "end cut here"
-msgstr "end cut here"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "end cut here"
 
 #
 #, fuzzy
@@ -18658,9 +18711,6 @@ msgid "ese"
 msgstr "Reset"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18755,10 +18805,6 @@ msgstr "go to deep standby"
 msgid "go to standby"
 msgstr "go to standby"
 
-#
-msgid "grab this frame as bitmap"
-msgstr ""
-
 msgid "green"
 msgstr "ירוק"
 
@@ -18829,13 +18875,6 @@ msgstr "init module"
 #
 msgid "init modules"
 msgstr ""
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "הכנס סמן כאן"
-
-msgid "insert mark here"
-msgstr "הכנס סמן כאן"
 
 #, fuzzy
 msgid "installed"
@@ -19132,17 +19171,11 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "עדיפות"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -19180,22 +19213,9 @@ msgstr ""
 msgid "remarkable people"
 msgstr ""
 
-#
-msgid "remove after this position"
-msgstr "remove after this position"
-
 #, fuzzy
 msgid "remove all"
 msgstr "הסר כותרת"
-
-#
-msgid "remove before this position"
-msgstr "remove before this position"
-
-#
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "remove bookmark"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -19205,9 +19225,6 @@ msgstr "remove this mark"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "remove a nameserver entry"
-
-msgid "remove this mark"
-msgstr "remove this mark"
 
 #
 msgid "repeated"
@@ -19406,13 +19423,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "סטנדרטי"
-
-msgid "start cut here"
-msgstr "התחל גזירה כאן"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "התחל גזירה כאן"
 
 msgid "stepsize"
 msgstr ""

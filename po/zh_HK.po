@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -4253,8 +4253,9 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
-msgid "Cut"
-msgstr "剪切"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "功能表"
 
 msgid "Cutlist editor"
 msgstr ""
@@ -4715,6 +4716,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr ""
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "刪除剪輯"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr "刪除剪輯"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "創建目錄"
 
@@ -4947,6 +4956,10 @@ msgstr ""
 
 msgid "Disable current event but not coming events"
 msgstr ""
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "允許編輯喜愛頻道"
 
 msgid "Disable move mode"
 msgstr "禁用移動模式"
@@ -5571,6 +5584,10 @@ msgstr ""
 msgid "Enable client mode"
 msgstr "允許移動模式"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "允許編輯喜愛頻道"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5684,6 +5701,14 @@ msgstr "結束自定義組編輯"
 #, fuzzy
 msgid "End cut"
 msgstr "結束時間"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "結束錄影剪輯"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "結束錄影剪輯"
 
 msgid "End favourites edit"
 msgstr "結束喜愛頻道編輯"
@@ -6830,6 +6855,10 @@ msgstr ""
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "抓取當前幀為bmp圖片"
+
 msgid "GraphMultiEpg Settings"
 msgstr ""
 
@@ -7621,6 +7650,14 @@ msgstr ""
 #, fuzzy
 msgid "Input scroll position"
 msgstr "轉到位置"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "在這裏標記"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "在這裏標記"
 
 msgid "Install"
 msgstr "安裝"
@@ -10629,6 +10666,10 @@ msgstr "準備中...請稍候!"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "自動掃描"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr ""
 
@@ -10929,6 +10970,10 @@ msgstr "快速"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "選擇位置"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "選擇位置"
 
 msgid "Quick execute..."
@@ -11270,6 +11315,10 @@ msgstr "移除標記"
 msgid "Remove a nameserver entry"
 msgstr ""
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "移除這個位置之後的"
+
 msgid "Remove all alternatives"
 msgstr "移除所有項目"
 
@@ -11311,8 +11360,16 @@ msgstr "移除所有新發現標記"
 msgid "Remove all timer data"
 msgstr "移除所有項目"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "移除這個位置之前的"
+
 msgid "Remove bookmark"
 msgstr ""
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
+msgstr "自動掃描"
 
 msgid "Remove bouquet from parental protection"
 msgstr ""
@@ -11353,6 +11410,10 @@ msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "移除這個標記"
 
 msgid "Remove title"
 msgstr "移除標題"
@@ -13812,6 +13873,14 @@ msgstr "View Rass interactive..."
 #, fuzzy
 msgid "Start cut"
 msgstr "開始測驗"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "從這裏開始剪輯"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "從這裏開始剪輯"
 
 msgid "Start directory"
 msgstr "開始目錄"
@@ -17329,13 +17398,6 @@ msgstr "每天"
 msgid "day"
 msgstr "天"
 
-msgid "delete cut"
-msgstr "刪除剪輯"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr "刪除剪輯"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17351,10 +17413,6 @@ msgstr ""
 
 msgid "detective/thriller"
 msgstr ""
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "允許編輯喜愛頻道"
 
 msgid "disabled"
 msgstr "不可用"
@@ -17401,22 +17459,12 @@ msgstr ""
 msgid "empty"
 msgstr "空的"
 
-msgid "enable cuts (preview)"
-msgstr ""
-
 msgid "enabled"
 msgstr "允許"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "移除這個位置之後的"
-
-msgid "end cut here"
-msgstr "結束錄影剪輯"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "結束錄影剪輯"
 
 #, fuzzy
 msgid "ene"
@@ -17445,9 +17493,6 @@ msgid "ese"
 msgstr "重定"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -17539,9 +17584,6 @@ msgstr "深度休眠"
 msgid "go to standby"
 msgstr "待機"
 
-msgid "grab this frame as bitmap"
-msgstr "抓取當前幀為bmp圖片"
-
 msgid "green"
 msgstr "綠色"
 
@@ -17610,13 +17652,6 @@ msgstr "模組初始化"
 
 msgid "init modules"
 msgstr ""
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "在這裏標記"
-
-msgid "insert mark here"
-msgstr "在這裏標記"
 
 #, fuzzy
 msgid "installed"
@@ -17901,17 +17936,11 @@ msgstr ""
 msgid "pre-school children's program"
 msgstr ""
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "次序"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -17946,19 +17975,9 @@ msgstr ""
 msgid "remarkable people"
 msgstr ""
 
-msgid "remove after this position"
-msgstr "移除這個位置之後的"
-
 #, fuzzy
 msgid "remove all"
 msgstr "移除標題"
-
-msgid "remove before this position"
-msgstr "移除這個位置之前的"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "自動掃描"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -17966,9 +17985,6 @@ msgstr "移除這個標記"
 
 msgid "remove marks (preserve cuts)"
 msgstr ""
-
-msgid "remove this mark"
-msgstr "移除這個標記"
 
 msgid "repeated"
 msgstr "重複"
@@ -18160,13 +18176,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "標準"
-
-msgid "start cut here"
-msgstr "從這裏開始剪輯"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "從這裏開始剪輯"
 
 msgid "stepsize"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -4408,8 +4408,9 @@ msgstr "Настройте параметры OpenWebIF для резервно�
 msgid "Customize channel list cursor behavior"
 msgstr "Настройка поведения курсора в списке каналов"
 
-msgid "Cut"
-msgstr "Сократить"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Меню"
 
 msgid "Cutlist editor"
 msgstr "Видео редактор списка сокращений"
@@ -4869,6 +4870,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Удалить символ под текстовым курсором"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "удалить сокращение"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (отключен)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Создать директорию"
 
@@ -5103,6 +5112,10 @@ msgstr "Отключить фоновое сканирование"
 
 msgid "Disable current event but not coming events"
 msgstr "Отключить текущее событие, но не отключать таймер"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Включить редактирование фаворитов"
 
 msgid "Disable move mode"
 msgstr "Выключить режим перемещения"
@@ -5736,6 +5749,10 @@ msgstr "Включить выбор букетов при запуске мул�
 msgid "Enable client mode"
 msgstr "Включить режим перемещения"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "включить окно помощи"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5852,6 +5869,14 @@ msgstr "Закончить редактирование букета"
 #, fuzzy
 msgid "End cut"
 msgstr "Время окончания"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "окончание сокращения здесь"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "окончание сокращения здесь"
 
 msgid "End favourites edit"
 msgstr "Закончить редактирование фаворитов"
@@ -7033,6 +7058,10 @@ msgstr "Калибровка позиции Х"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "захват этого кадра как растровое изображение"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Настройки графического мульти-EPG"
 
@@ -7848,6 +7877,14 @@ msgstr "Входной поток ID"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Перейти на позицию"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "вставить метку здесь"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "вставить метку здесь"
 
 msgid "Install"
 msgstr "Инсталлировать"
@@ -10902,6 +10939,10 @@ msgstr "Подготовка... Пожалуйста, подождите"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "удалить закладку"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "Нажмите '0', для смены режима PiP."
 
@@ -11200,6 +11241,10 @@ msgstr "Быстро"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Выбор скина"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Выбор скина"
 
 msgid "Quick execute..."
@@ -11547,6 +11592,10 @@ msgstr "Удалить метку"
 msgid "Remove a nameserver entry"
 msgstr "Удалить запись сервера имен"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "удалить после этой позиции"
+
 msgid "Remove all alternatives"
 msgstr "Удалить эту альтернативу"
 
@@ -11588,7 +11637,15 @@ msgstr "Удалить все флаги - новые найденные"
 msgid "Remove all timer data"
 msgstr "Удалить эту альтернативу"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "удалить перед этой позицией"
+
 msgid "Remove bookmark"
+msgstr "удалить закладку"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "удалить закладку"
 
 msgid "Remove bouquet from parental protection"
@@ -11630,6 +11687,10 @@ msgstr "Удалить наземные сервисы"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "удалить эту метку"
 
 msgid "Remove title"
 msgstr "Удалить название"
@@ -14134,6 +14195,14 @@ msgstr "Просмотр интерактивного Rass..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Начать тест"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "начало сокращения здесь"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "начало сокращения здесь"
 
 msgid "Start directory"
 msgstr "Начальный каталог"
@@ -17800,13 +17869,6 @@ msgstr "ежедневно"
 msgid "day"
 msgstr "день"
 
-msgid "delete cut"
-msgstr "удалить сокращение"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (отключен)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17822,10 +17884,6 @@ msgstr "декодирование и запись ECM (отл. декодиро
 
 msgid "detective/thriller"
 msgstr "детектив/триллер"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Включить редактирование фаворитов"
 
 msgid "disabled"
 msgstr "отключено"
@@ -17875,23 +17933,12 @@ msgstr "встроенные"
 msgid "empty"
 msgstr "пустой"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "включить окно помощи"
-
 msgid "enabled"
 msgstr "включено"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "удалить после этой позиции"
-
-msgid "end cut here"
-msgstr "окончание сокращения здесь"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "окончание сокращения здесь"
 
 #, fuzzy
 msgid "ene"
@@ -17921,9 +17968,6 @@ msgid "ese"
 msgstr "Сброс"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18014,9 +18058,6 @@ msgstr "перейти в глубокий режим ожидания"
 msgid "go to standby"
 msgstr "перейти в режим ожидания"
 
-msgid "grab this frame as bitmap"
-msgstr "захват этого кадра как растровое изображение"
-
 msgid "green"
 msgstr "зеленый"
 
@@ -18086,13 +18127,6 @@ msgstr "инициализация модуля"
 
 msgid "init modules"
 msgstr "инициализация модулей"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "вставить метку здесь"
-
-msgid "insert mark here"
-msgstr "вставить метку здесь"
 
 #, fuzzy
 msgid "installed"
@@ -18379,17 +18413,11 @@ msgstr "популярные культура/традиции искусств�
 msgid "pre-school children's program"
 msgstr "дошкольные детские программы"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Приоритет LNB"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18426,19 +18454,9 @@ msgstr "религия"
 msgid "remarkable people"
 msgstr "замечательные люди"
 
-msgid "remove after this position"
-msgstr "удалить после этой позиции"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Удалить название"
-
-msgid "remove before this position"
-msgstr "удалить перед этой позицией"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "удалить закладку"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18447,9 +18465,6 @@ msgstr "удалить эту метку"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Удалить запись сервера имен"
-
-msgid "remove this mark"
-msgstr "удалить эту метку"
 
 msgid "repeated"
 msgstr "повторный"
@@ -18643,13 +18658,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "стандарт"
-
-msgid "start cut here"
-msgstr "начало сокращения здесь"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "начало сокращения здесь"
 
 msgid "stepsize"
 msgstr "размер шага"

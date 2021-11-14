@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -4544,8 +4544,9 @@ msgstr ""
 msgid "Customize channel list cursor behavior"
 msgstr "تخصيص المؤشر في قائمة القنوات"
 
-msgid "Cut"
-msgstr "قطع"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "قائمة"
 
 msgid "Cutlist editor"
 msgstr "محرر قائمة القطع"
@@ -5014,6 +5015,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr ""
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "مسح القطع"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (معطل)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "إنشاء المسار"
 
@@ -5256,6 +5265,10 @@ msgstr "تعطيل البحث في الخلفية"
 #, fuzzy
 msgid "Disable current event but not coming events"
 msgstr "إيقاف الحدث الحالي فقط وليس الأحداث القادمة"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "تفعيل تحرير المفضله"
 
 msgid "Disable move mode"
 msgstr "تعطيل وضع التحريك"
@@ -5927,6 +5940,10 @@ msgstr "تمكين تعديل الباقة"
 msgid "Enable client mode"
 msgstr "تمكين وضع التحريك للقنوات"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "تمكين البحث السريع الآلي"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -6047,6 +6064,14 @@ msgstr "إنتهاء تحرير الباقة"
 #, fuzzy
 msgid "End cut"
 msgstr "وقت النهاية"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "إنتهاء القطع هنا"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "إنتهاء القطع هنا"
 
 msgid "End favourites edit"
 msgstr "إنتهاء تحرير المفضلة"
@@ -7268,6 +7293,10 @@ msgid "Grab"
 msgstr ""
 
 #, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "انتزاع هذا الإطار كما نقطية"
+
+#, fuzzy
 msgid "GraphMultiEpg Settings"
 msgstr "إعدادات دليل البرامج الإلكترونية الداخلية"
 
@@ -8112,6 +8141,14 @@ msgstr "إدخال معرف التدفق"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "الذهاب إلى الوضع"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "ضع علامه هنا"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "ضع علامه هنا"
 
 msgid "Install"
 msgstr "تثبيت"
@@ -11244,6 +11281,10 @@ msgstr "جاري التجهيز... الرجاء الانتظار"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "إزالة العلامة المرجعية"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "اضغط علي ' 0 ' للتبديل بين وضع قناة داخل قناة"
 
@@ -11554,6 +11595,10 @@ msgstr "سريع"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "حدد الاجراء"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "حدد الاجراء"
 
 msgid "Quick execute..."
@@ -11914,6 +11959,10 @@ msgstr "حذف علامه"
 msgid "Remove a nameserver entry"
 msgstr "حذف أسم الخادم المدخل"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "حذف بعد هذا المكان"
+
 msgid "Remove all alternatives"
 msgstr "حذف كل البدائل"
 
@@ -11955,7 +12004,15 @@ msgstr "حذف كل العلامات على القنوات الجديدة"
 msgid "Remove all timer data"
 msgstr "حذف كل البدائل"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "حذف قبل هذا المكان"
+
 msgid "Remove bookmark"
+msgstr "إزالة العلامة المرجعية"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "إزالة العلامة المرجعية"
 
 msgid "Remove bouquet from parental protection"
@@ -11997,6 +12054,10 @@ msgstr "حذف قنوات البث الأرضي"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "حذف هذه العلامة"
 
 msgid "Remove title"
 msgstr "حذف عنوان"
@@ -14638,6 +14699,14 @@ msgstr "مشاهدة شريط الاخبار التفاعلي..."
 #, fuzzy
 msgid "Start cut"
 msgstr "أبدا الإختبار"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "أبدأ القطع هنا"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "أبدأ القطع هنا"
 
 #, fuzzy
 msgid "Start directory"
@@ -18424,13 +18493,6 @@ msgstr "يوميا"
 msgid "day"
 msgstr "يوم"
 
-msgid "delete cut"
-msgstr "مسح القطع"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (معطل)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -18446,10 +18508,6 @@ msgstr "فتح التشفير و تسجيل معلومات شفرة القنوا
 
 msgid "detective/thriller"
 msgstr "تحقيق/مثير"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "تفعيل تحرير المفضله"
 
 msgid "disabled"
 msgstr "تم التعطيل"
@@ -18499,23 +18557,12 @@ msgstr "مدمج"
 msgid "empty"
 msgstr "فارغ"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "تمكين البحث السريع الآلي"
-
 msgid "enabled"
 msgstr "تم التفعيل"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "حذف بعد هذا المكان"
-
-msgid "end cut here"
-msgstr "إنتهاء القطع هنا"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "إنتهاء القطع هنا"
 
 #, fuzzy
 msgid "ene"
@@ -18545,9 +18592,6 @@ msgid "ese"
 msgstr "إعاده الضبط"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18640,9 +18684,6 @@ msgstr "الذهاب الى وضع الاستعداد العميق"
 msgid "go to standby"
 msgstr "الذهاب لوضع الاستعداد"
 
-msgid "grab this frame as bitmap"
-msgstr "انتزاع هذا الإطار كما نقطية"
-
 msgid "green"
 msgstr "أخضر"
 
@@ -18714,13 +18755,6 @@ msgstr "تثبيت الوحدة"
 #, fuzzy
 msgid "init modules"
 msgstr "تثبيت الوحدات"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "ضع علامه هنا"
-
-msgid "insert mark here"
-msgstr "ضع علامه هنا"
 
 #, fuzzy
 msgid "installed"
@@ -19023,17 +19057,11 @@ msgstr "الثقافة الشعبية/الفنون التقليدية"
 msgid "pre-school children's program"
 msgstr "برنامج الأطفال قبل المدرسة"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "الأولوية"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -19071,19 +19099,9 @@ msgstr "الدين"
 msgid "remarkable people"
 msgstr "ملحوظة الناس"
 
-msgid "remove after this position"
-msgstr "حذف بعد هذا المكان"
-
 #, fuzzy
 msgid "remove all"
 msgstr "حذف عنوان"
-
-msgid "remove before this position"
-msgstr "حذف قبل هذا المكان"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "إزالة العلامة المرجعية"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -19092,9 +19110,6 @@ msgstr "حذف هذه العلامة"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "حذف أسم الخادم المدخل"
-
-msgid "remove this mark"
-msgstr "حذف هذه العلامة"
 
 msgid "repeated"
 msgstr "متكرر"
@@ -19293,13 +19308,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "قياسي"
-
-msgid "start cut here"
-msgstr "أبدأ القطع هنا"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "أبدأ القطع هنا"
 
 msgid "stepsize"
 msgstr "حجم الخطوة"

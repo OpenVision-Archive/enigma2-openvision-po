@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-11 05:28+0000\n"
+"POT-Creation-Date: 2021-11-14 01:53+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -4413,8 +4413,9 @@ msgstr "Pritaikykite OpenWebIF nustatymus atsarginiam imtuvui"
 msgid "Customize channel list cursor behavior"
 msgstr "Kanalų sąrašo žymeklio elgsena"
 
-msgid "Cut"
-msgstr "Iškirpti"
+#, fuzzy
+msgid "Cut Menu"
+msgstr "Meniu"
 
 msgid "Cutlist editor"
 msgstr "Iškirpimo redaktorius"
@@ -4874,6 +4875,14 @@ msgid "Delete character under cursor or select PM times"
 msgstr "Trinti po teksto žymekliu esantį simbolį"
 
 #, fuzzy
+msgid "Delete cut"
+msgstr "trinti iškirpimą"
+
+#, fuzzy
+msgid "Delete cut (disabled)"
+msgstr " (išjungta)"
+
+#, fuzzy
 msgid "Delete directory"
 msgstr "Sukurti katalogą"
 
@@ -5108,6 +5117,10 @@ msgstr "Išjungti foninį skenavimą"
 
 msgid "Disable current event but not coming events"
 msgstr "Išjungti dabartinį įvykį, bet ne po jo einančius"
+
+#, fuzzy
+msgid "Disable cuts (edit)"
+msgstr "Įjungti mėgstamų redagavimą"
 
 msgid "Disable move mode"
 msgstr "Išjungti perkėlimą"
@@ -5742,6 +5755,10 @@ msgstr "Įjungti paketų pasirinkimą multi-EPG režime"
 msgid "Enable client mode"
 msgstr "Įjungti perkėlimą"
 
+#, fuzzy
+msgid "Enable cuts (preview)"
+msgstr "įjungti įvadinį vaizdą"
+
 msgid "Enable fade-out functionality"
 msgstr ""
 
@@ -5858,6 +5875,14 @@ msgstr "Baigti paketų redagavimą"
 #, fuzzy
 msgid "End cut"
 msgstr "Pabaigos laikas"
+
+#, fuzzy
+msgid "End cut here"
+msgstr "iškirpimo pabaiga"
+
+#, fuzzy
+msgid "End cut here (reset)"
+msgstr "iškirpimo pabaiga"
 
 msgid "End favourites edit"
 msgstr "Baigti mėgstamų redagavimą"
@@ -7035,6 +7060,10 @@ msgstr "Į X kalibravimą"
 msgid "Grab"
 msgstr ""
 
+#, fuzzy
+msgid "Grab this frame as bitmap"
+msgstr "užgriebti vaizdą bmp formatu"
+
 msgid "GraphMultiEpg Settings"
 msgstr "Grafinio daugiakanalio EPG nustatymai"
 
@@ -7849,6 +7878,14 @@ msgstr "Srauto įvesties ID"
 #, fuzzy
 msgid "Input scroll position"
 msgstr "Į poziciją"
+
+#, fuzzy
+msgid "Insert mark after each in"
+msgstr "įterpkite žymeklį čia"
+
+#, fuzzy
+msgid "Insert mark here"
+msgstr "įterpkite žymeklį čia"
 
 msgid "Install"
 msgstr "Įdiegti"
@@ -10902,6 +10939,10 @@ msgstr "Ruošiama... prašome laukti"
 msgid "Preschool"
 msgstr ""
 
+#, fuzzy
+msgid "Preserve bookmarks in cuts"
+msgstr "Pašalinti žymę"
+
 msgid "Press '0' to toggle PiP mode"
 msgstr "PiP langams sukeisti spauskite '0'"
 
@@ -11200,6 +11241,10 @@ msgstr "Greitas"
 
 #, fuzzy
 msgid "Quick Select Actions"
+msgstr "Temos pasirinkimo veiksmai"
+
+#, fuzzy
+msgid "Quick execute"
 msgstr "Temos pasirinkimo veiksmai"
 
 msgid "Quick execute..."
@@ -11547,6 +11592,10 @@ msgstr "Pašalinti žymeklį"
 msgid "Remove a nameserver entry"
 msgstr "Pašalinti serverio pavadinimo įrašą"
 
+#, fuzzy
+msgid "Remove after this position"
+msgstr "pašalinti po šios pozicijos"
+
 msgid "Remove all alternatives"
 msgstr "Pašalinti visas alternatyvas"
 
@@ -11588,7 +11637,15 @@ msgstr "Pašalinti visus žymeklius 'nauji'"
 msgid "Remove all timer data"
 msgstr "Pašalinti visas alternatyvas"
 
+#, fuzzy
+msgid "Remove before this position"
+msgstr "pašalinti iki šios pozicijos"
+
 msgid "Remove bookmark"
+msgstr "Pašalinti žymę"
+
+#, fuzzy
+msgid "Remove bookmarks in cuts"
 msgstr "Pašalinti žymę"
 
 msgid "Remove bouquet from parental protection"
@@ -11630,6 +11687,10 @@ msgstr "Pašalinti antžeminius kanalus"
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
 msgstr ""
+
+#, fuzzy
+msgid "Remove this mark"
+msgstr "pašalinti šią žymę"
 
 msgid "Remove title"
 msgstr "Pašalinti antraštę"
@@ -14133,6 +14194,14 @@ msgstr "Interaktyvi Rass peržiūra..."
 #, fuzzy
 msgid "Start cut"
 msgstr "Pradėti testą"
+
+#, fuzzy
+msgid "Start cut here"
+msgstr "iškirpimo pradžia"
+
+#, fuzzy
+msgid "Start cut here (reset)"
+msgstr "iškirpimo pradžia"
 
 msgid "Start directory"
 msgstr "Pradinis katalogas"
@@ -17805,13 +17874,6 @@ msgstr "kasdien"
 msgid "day"
 msgstr "diena"
 
-msgid "delete cut"
-msgstr "trinti iškirpimą"
-
-#, fuzzy
-msgid "delete cut (disabled)"
-msgstr " (išjungta)"
-
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
@@ -17827,10 +17889,6 @@ msgstr "dekoduoti ir įrašyti ECM"
 
 msgid "detective/thriller"
 msgstr "detektyvas/trileris"
-
-#, fuzzy
-msgid "disable cuts (edit)"
-msgstr "Įjungti mėgstamų redagavimą"
 
 msgid "disabled"
 msgstr "išjungtas"
@@ -17880,23 +17938,12 @@ msgstr "integruotas"
 msgid "empty"
 msgstr "tuščias"
 
-#, fuzzy
-msgid "enable cuts (preview)"
-msgstr "įjungti įvadinį vaizdą"
-
 msgid "enabled"
 msgstr "įjungtas"
 
 #, fuzzy
 msgid "end at this position"
 msgstr "pašalinti po šios pozicijos"
-
-msgid "end cut here"
-msgstr "iškirpimo pabaiga"
-
-#, fuzzy
-msgid "end cut here (reset)"
-msgstr "iškirpimo pabaiga"
 
 #, fuzzy
 msgid "ene"
@@ -17926,9 +17973,6 @@ msgid "ese"
 msgstr "Nustatyti iš naujo"
 
 msgid "eth0"
-msgstr ""
-
-msgid "execute cuts and exit"
 msgstr ""
 
 msgid "exit DVD player or return to file browser"
@@ -18019,9 +18063,6 @@ msgstr "eiti į visišką išjungimą"
 msgid "go to standby"
 msgstr "eiti į išjungimą"
 
-msgid "grab this frame as bitmap"
-msgstr "užgriebti vaizdą bmp formatu"
-
 msgid "green"
 msgstr "žalia"
 
@@ -18091,13 +18132,6 @@ msgstr "aptinkamas modulis"
 
 msgid "init modules"
 msgstr "aptinkami moduliai"
-
-#, fuzzy
-msgid "insert mark after each in"
-msgstr "įterpkite žymeklį čia"
-
-msgid "insert mark here"
-msgstr "įterpkite žymeklį čia"
 
 #, fuzzy
 msgid "installed"
@@ -18385,17 +18419,11 @@ msgstr "populiarioji kultūra/tradiciniai menai"
 msgid "pre-school children's program"
 msgstr "ikimokyklinė vaikų programa"
 
-msgid "preserve bookmarks in cuts"
-msgstr ""
-
 #, fuzzy
 msgid "priority"
 msgstr "Pirmenybė"
 
 msgid "punch cuts"
-msgstr ""
-
-msgid "quick execute"
 msgstr ""
 
 #, fuzzy
@@ -18432,19 +18460,9 @@ msgstr "religija"
 msgid "remarkable people"
 msgstr "įžymybės"
 
-msgid "remove after this position"
-msgstr "pašalinti po šios pozicijos"
-
 #, fuzzy
 msgid "remove all"
 msgstr "Pašalinti antraštę"
-
-msgid "remove before this position"
-msgstr "pašalinti iki šios pozicijos"
-
-#, fuzzy
-msgid "remove bookmarks in cuts"
-msgstr "Pašalinti žymę"
 
 #, fuzzy
 msgid "remove cuts (preserve marks)"
@@ -18453,9 +18471,6 @@ msgstr "pašalinti šią žymę"
 #, fuzzy
 msgid "remove marks (preserve cuts)"
 msgstr "Pašalinti serverio pavadinimo įrašą"
-
-msgid "remove this mark"
-msgstr "pašalinti šią žymę"
 
 msgid "repeated"
 msgstr "pakartotinis"
@@ -18649,13 +18664,6 @@ msgstr ""
 
 msgid "standard"
 msgstr "standartinis"
-
-msgid "start cut here"
-msgstr "iškirpimo pradžia"
-
-#, fuzzy
-msgid "start cut here (reset)"
-msgstr "iškirpimo pradžia"
 
 msgid "stepsize"
 msgstr "žingsnio dydis"
