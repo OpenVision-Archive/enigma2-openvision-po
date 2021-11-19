@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -6440,10 +6440,6 @@ msgstr "L’enigma (re) s’inicia: %d\n"
 msgid "Enigma2 debug level"
 msgstr "Nivell de depuració d’enigma: %d\n"
 
-#, fuzzy
-msgid "Enigma2 default"
-msgstr "per defecte"
-
 #
 #, fuzzy
 msgid "Enigma2 information"
@@ -10976,9 +10972,6 @@ msgstr "Només a l’inici"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Seleccioneu només “sí” si utilitzeu un interruptor multiswitch que requereix un senyal de comandament DiSEqC Port-A. Per a la resta de configuracions, seleccioneu “no”."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -18165,10 +18158,6 @@ msgstr "Text de la targeta virtual virtual:"
 msgid "Virtual keyboard"
 msgstr "Teclat virtual"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Teclat virtual"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -18989,9 +18978,6 @@ msgstr "Només podeu gravar enregistraments del receptor."
 #
 msgid "You can remove this plugin."
 msgstr "Podeu eliminar aquest complement"
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 #
 msgid "You cannot delete this!"

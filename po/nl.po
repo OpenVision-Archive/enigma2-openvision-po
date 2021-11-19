@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -6118,10 +6118,6 @@ msgid "Enigma2 debug level"
 msgstr "Enigma debug niveau: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "standaard"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Informatie"
 
@@ -10254,9 +10250,6 @@ msgstr "Enkel na het opstarten"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Kies enkel 'ja' indien u een multiswitch gebruikt die een DiSEqC poort-A signaal commando vereist. Voor elke andere opstelling kiest u voor 'nee'."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16837,10 +16830,6 @@ msgstr "Virtueel toetsenbord tekst"
 msgid "Virtual keyboard"
 msgstr "Virtueel toetsenbord"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Virtueel toetsenbord"
-
 msgid "Visually impaired commentary"
 msgstr "Commentaar t.b.v. de visueel gehandicapten"
 
@@ -17663,9 +17652,6 @@ msgstr "U kunt enkel opnames branden die door uw ontvanger gemaakt zijn!"
 
 msgid "You can remove this plugin."
 msgstr "U kunt deze applicatie verwijderen."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "U kunt dit niet wissen!"

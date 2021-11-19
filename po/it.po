@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -5903,10 +5903,6 @@ msgid "Enigma2 debug level"
 msgstr "Enigma debug livello: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "Predefinito"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Informazioni"
 
@@ -10046,9 +10042,6 @@ msgstr "Solo all'avvio"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Scegliere \"Sì\" solo se si sta utilizzando un multiswitch che ha bisogno di un comando DiSEqC Porta A. Per tutte le altre configurazioni scegliere \"No\"."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16566,10 +16559,6 @@ msgstr "Testo Tastiera virtuale:"
 msgid "Virtual keyboard"
 msgstr "Tastiera virtuale"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Tastiera virtuale"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17361,9 +17350,6 @@ msgstr "E' possibile masterizzare solo le registrazioni del ricevitore!"
 
 msgid "You can remove this plugin."
 msgstr "E' possibile eliminare questo plugin."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Non è possibile effettuare questa eliminazione!"

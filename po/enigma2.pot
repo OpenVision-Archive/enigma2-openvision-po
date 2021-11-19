@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4678,9 +4678,6 @@ msgstr ""
 msgid "Enigma2 debug level"
 msgstr ""
 
-msgid "Enigma2 default"
-msgstr ""
-
 msgid "Enigma2 information"
 msgstr ""
 
@@ -8013,9 +8010,6 @@ msgid "Only on startup"
 msgstr ""
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
-msgstr ""
-
-msgid "Open Vision"
 msgstr ""
 
 msgid "Open main menu"
@@ -14763,209 +14757,6 @@ msgstr ""
 msgid "zapped"
 msgstr ""
 
-msgid "Configure interface"
-msgstr ""
-
-msgid "Configure your network again"
-msgstr ""
-
-msgid "List available networks"
-msgstr ""
-
-msgid "Manual configuration"
-msgstr ""
-
-msgid ""
-"Please configure or verify your Nameservers by filling out the required values.\n"
-"When you are ready press OK to continue."
-msgstr ""
-
-msgid ""
-"Please configure your internet connection by filling out the required values.\n"
-"When you are ready press OK to continue."
-msgstr ""
-
-msgid "Please follow the instructions on the TV"
-msgstr ""
-
-msgid ""
-"Please select the network interface that you want to use for your internet connection.\n"
-"\n"
-"Please press OK to continue."
-msgstr ""
-
-msgid ""
-"Please select the wireless network that you want to connect to.\n"
-"\n"
-"Please press OK to continue."
-msgstr ""
-
-msgid "Select wireless network"
-msgstr ""
-
-msgid ""
-"Thank you for using the wizard.\n"
-"Please press OK to continue."
-msgstr ""
-
-msgid ""
-"The wireless LAN plugin is not installed!\n"
-"Please install it and choose what you want to do next."
-msgstr ""
-
-msgid ""
-"Welcome.\n"
-"\n"
-"If you want to connect your receiver to the Internet, this wizard will guide you through the basic network setup of your receiver.\n"
-"\n"
-"Press OK to start configuring your network"
-msgstr ""
-
-msgid "Wireless network connection setup"
-msgstr ""
-
-msgid "Wireless network connection setup."
-msgstr ""
-
-msgid ""
-"Your internet connection is not working!\n"
-"Please choose what you want to do next."
-msgstr ""
-
-msgid ""
-"Your receiver is now ready to use.\n"
-"\n"
-"Your internet connection is working now.\n"
-"\n"
-"Please press OK to continue."
-msgstr ""
-
-msgid ""
-"Your wireless LAN internet connection could not be started!\n"
-"Have you attached your USB WLAN Stick?\n"
-"\n"
-"Please choose what you want to do next."
-msgstr ""
-
-msgid "Refresh rate selection."
-msgstr ""
-
-msgid "Select refresh rate"
-msgstr ""
-
-msgid "Select video input with up/down buttons"
-msgstr ""
-
-msgid "Select video mode"
-msgstr ""
-
-msgid ""
-"Video input selection\n"
-"\n"
-"Please press OK if you can see this page on your TV (or select a different input port).\n"
-"\n"
-"The next input port will be automatically probed in 20 seconds."
-msgstr ""
-
-msgid "Video mode selection."
-msgstr ""
-
-msgid "2678400000"
-msgstr ""
-
-msgid "Default task"
-msgstr ""
-
-msgid "IGNORE"
-msgstr ""
-
-msgid "false"
-msgstr ""
-
-msgid "true"
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "C"
-msgstr ""
-
-msgid "D"
-msgstr ""
-
-msgid "TUNER:"
-msgstr ""
-
-msgid "Rec"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "IMDB Search"
-msgstr ""
-
-msgid "-"
-msgstr ""
-
-msgid " HI "
-msgstr ""
-
-msgid "REC "
-msgstr ""
-
-msgid "EPG Selection"
-msgstr ""
-
-msgid "Graphical EPG"
-msgstr ""
-
-msgid "Quick EPG"
-msgstr ""
-
-msgid "  REC  "
-msgstr ""
-
-msgid "Enigmalight"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
-msgid "E "
-msgstr ""
-
-msgid "F"
-msgstr ""
-
-msgid "G"
-msgstr ""
-
-msgid "H"
-msgstr ""
-
-msgid "I"
-msgstr ""
-
-msgid "J"
-msgstr ""
-
 msgid "AFP"
 msgstr ""
 
@@ -15176,106 +14967,6 @@ msgstr ""
 msgid "uShare"
 msgstr ""
 
-msgid "Check the internet connection"
-msgstr ""
-
-msgid "Check the internet connection again"
-msgstr ""
-
-msgid "Checking the internet connection"
-msgstr ""
-
-msgid "Do you want to install Plugins?"
-msgstr ""
-
-msgid "Exit the wizard"
-msgstr ""
-
-msgid "Please configure the fallback tuner setup"
-msgstr ""
-
-msgid "Please connect your %s %s (kernel %s) to the internet"
-msgstr ""
-
-msgid "Please set up tuner A"
-msgstr ""
-
-msgid "Please set up tuner B"
-msgstr ""
-
-msgid "Please set up tuner C"
-msgstr ""
-
-msgid "Please set up tuner D"
-msgstr ""
-
-msgid "Please set up tuner E"
-msgstr ""
-
-msgid "Please set up tuner F"
-msgstr ""
-
-msgid "Please set up tuner G"
-msgstr ""
-
-msgid "Please set up tuner H"
-msgstr ""
-
-msgid "Please set up tuner I"
-msgstr ""
-
-msgid "Please set up tuner J"
-msgstr ""
-
-msgid "Please set up tuner Q"
-msgstr ""
-
-msgid "Please set up tuner R"
-msgstr ""
-
-msgid "Please set your time options"
-msgstr ""
-
-msgid ""
-"Please set your time options.\n"
-"\n"
-"Press YELLOW to set the time zone via geolocation."
-msgstr ""
-
-msgid "Please setup the following basic configs!"
-msgstr ""
-
-msgid "Skip internet connection check (disables automatic package installation)"
-msgstr ""
-
-msgid "Speed up the performance"
-msgstr ""
-
-msgid ""
-"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
-"Press OK to start using Open Vision %s-%s"
-msgstr ""
-
-msgid ""
-"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
-"We detected your RC as %s (type %s id %s)"
-msgstr ""
-
-msgid "Use the wizard to set up basic features"
-msgstr ""
-
-msgid ""
-"Welcome to Open Vision %s-%s\n"
-"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
-"Press the OK button on your remote control to move to the next step."
-msgstr ""
-
-msgid "What type of service scan do you want?"
-msgstr ""
-
-msgid "Your %s %s (kernel %s) does not have an internet connection"
-msgstr ""
-
 msgid "About"
 msgstr ""
 
@@ -15288,6 +14979,9 @@ msgstr ""
 msgid "Benchmark information"
 msgstr ""
 
+msgid "C"
+msgstr ""
+
 msgid "Channellist menu"
 msgstr ""
 
@@ -15295,6 +14989,9 @@ msgid "Command execution..."
 msgstr ""
 
 msgid "Commit info"
+msgstr ""
+
+msgid "D"
 msgstr ""
 
 msgid "DVB information"
@@ -15439,6 +15136,181 @@ msgid "config menu"
 msgstr ""
 
 msgid "help..."
+msgstr ""
+
+msgid "Check the internet connection"
+msgstr ""
+
+msgid "Check the internet connection again"
+msgstr ""
+
+msgid "Checking the internet connection"
+msgstr ""
+
+msgid "Do you want to install Plugins?"
+msgstr ""
+
+msgid "Exit the wizard"
+msgstr ""
+
+msgid "Please configure the fallback tuner setup"
+msgstr ""
+
+msgid "Please connect your %s %s (kernel %s) to the internet"
+msgstr ""
+
+msgid "Please set up tuner A"
+msgstr ""
+
+msgid "Please set up tuner B"
+msgstr ""
+
+msgid "Please set up tuner C"
+msgstr ""
+
+msgid "Please set up tuner D"
+msgstr ""
+
+msgid "Please set up tuner E"
+msgstr ""
+
+msgid "Please set up tuner F"
+msgstr ""
+
+msgid "Please set up tuner G"
+msgstr ""
+
+msgid "Please set up tuner H"
+msgstr ""
+
+msgid "Please set up tuner I"
+msgstr ""
+
+msgid "Please set up tuner J"
+msgstr ""
+
+msgid "Please set up tuner Q"
+msgstr ""
+
+msgid "Please set up tuner R"
+msgstr ""
+
+msgid "Please set your time options"
+msgstr ""
+
+msgid ""
+"Please set your time options.\n"
+"\n"
+"Press YELLOW to set the time zone via geolocation."
+msgstr ""
+
+msgid "Please setup the following basic configs!"
+msgstr ""
+
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+msgid "Speed up the performance"
+msgstr ""
+
+msgid ""
+"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
+"Press OK to start using Open Vision %s-%s"
+msgstr ""
+
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
+"We detected your RC as %s (type %s id %s)"
+msgstr ""
+
+msgid "Use the wizard to set up basic features"
+msgstr ""
+
+msgid ""
+"Welcome to Open Vision %s-%s\n"
+"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
+"Press the OK button on your remote control to move to the next step."
+msgstr ""
+
+msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "Your %s %s (kernel %s) does not have an internet connection"
+msgstr ""
+
+msgid "EPG Selection"
+msgstr ""
+
+msgid "Enigmalight"
+msgstr ""
+
+msgid "EtPortal"
+msgstr ""
+
+msgid "Graphical EPG"
+msgstr ""
+
+msgid "IMDB Search"
+msgstr ""
+
+msgid "Quick EPG"
+msgstr ""
+
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
+msgid "®"
+msgstr ""
+
+msgid "TUNER:"
+msgstr ""
+
+msgid "  REC  "
+msgstr ""
+
+msgid " HI "
+msgstr ""
+
+msgid "REC "
+msgstr ""
+
+msgid "E "
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "J"
+msgstr ""
+
+msgid "EasyMedia"
+msgstr ""
+
+msgid "Ext. NumberZap"
+msgstr ""
+
+msgid "Timer+"
+msgstr ""
+
+msgid "Timerlist"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "Rec"
 msgstr ""
 
 msgid "12V output"
@@ -17082,9 +16954,6 @@ msgstr ""
 msgid "Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used."
 msgstr ""
 
-msgid "Virtual keyboard skin"
-msgstr ""
-
 msgid "Wake On LAN"
 msgstr ""
 
@@ -17367,9 +17236,6 @@ msgstr ""
 msgid "You can display PIP with or without OSD menu"
 msgstr ""
 
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
-
 msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
@@ -17380,4 +17246,126 @@ msgid "Zap key delay for channel number input"
 msgstr ""
 
 msgid "Zap mode"
+msgstr ""
+
+msgid "2678400000"
+msgstr ""
+
+msgid "Default task"
+msgstr ""
+
+msgid "IGNORE"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
+msgid "Configure interface"
+msgstr ""
+
+msgid "Configure your network again"
+msgstr ""
+
+msgid "List available networks"
+msgstr ""
+
+msgid "Manual configuration"
+msgstr ""
+
+msgid ""
+"Please configure or verify your Nameservers by filling out the required values.\n"
+"When you are ready press OK to continue."
+msgstr ""
+
+msgid ""
+"Please configure your internet connection by filling out the required values.\n"
+"When you are ready press OK to continue."
+msgstr ""
+
+msgid "Please follow the instructions on the TV"
+msgstr ""
+
+msgid ""
+"Please select the network interface that you want to use for your internet connection.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+
+msgid ""
+"Please select the wireless network that you want to connect to.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+
+msgid "Select wireless network"
+msgstr ""
+
+msgid ""
+"Thank you for using the wizard.\n"
+"Please press OK to continue."
+msgstr ""
+
+msgid ""
+"The wireless LAN plugin is not installed!\n"
+"Please install it and choose what you want to do next."
+msgstr ""
+
+msgid ""
+"Welcome.\n"
+"\n"
+"If you want to connect your receiver to the Internet, this wizard will guide you through the basic network setup of your receiver.\n"
+"\n"
+"Press OK to start configuring your network"
+msgstr ""
+
+msgid "Wireless network connection setup"
+msgstr ""
+
+msgid "Wireless network connection setup."
+msgstr ""
+
+msgid ""
+"Your internet connection is not working!\n"
+"Please choose what you want to do next."
+msgstr ""
+
+msgid ""
+"Your receiver is now ready to use.\n"
+"\n"
+"Your internet connection is working now.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+
+msgid ""
+"Your wireless LAN internet connection could not be started!\n"
+"Have you attached your USB WLAN Stick?\n"
+"\n"
+"Please choose what you want to do next."
+msgstr ""
+
+msgid "Refresh rate selection."
+msgstr ""
+
+msgid "Select refresh rate"
+msgstr ""
+
+msgid "Select video input with up/down buttons"
+msgstr ""
+
+msgid "Select video mode"
+msgstr ""
+
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV (or select a different input port).\n"
+"\n"
+"The next input port will be automatically probed in 20 seconds."
+msgstr ""
+
+msgid "Video mode selection."
 msgstr ""

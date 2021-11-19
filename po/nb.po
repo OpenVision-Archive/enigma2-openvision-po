@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-06-19 13:08+0200\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -6380,11 +6380,6 @@ msgstr "Feilsøkingsnivå for Enigma: %d\n"
 
 #
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "standard"
-
-#
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Informasjon"
 
@@ -10924,9 +10919,6 @@ msgstr "Bare etter oppstart"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Bare velg 'Ja' Hvis du bruker en multiswich som krever et DiSEqC Port-A kommando signal. For alle andre oppsett velger du \"nei\"."
-
-msgid "Open Vision"
-msgstr ""
 
 #
 #, fuzzy
@@ -18090,10 +18082,6 @@ msgstr "Virtuell tastatur tekst:"
 msgid "Virtual keyboard"
 msgstr "Virtuelt tastatur"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Virtuelt tastatur"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -18912,9 +18900,6 @@ msgstr "Du kan kun kopiere til DVD, mottakerens innspillinger!"
 #
 msgid "You can remove this plugin."
 msgstr "Du kan slette denne utvidelse."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 #
 msgid "You cannot delete this!"

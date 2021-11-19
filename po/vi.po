@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -5881,10 +5881,6 @@ msgid "Enigma2 debug level"
 msgstr "Mức gỡ lỗi Enigma: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "mặc định"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Thông tin"
 
@@ -10000,9 +9996,6 @@ msgstr "Chỉ khi khởi động"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Chỉ chọn 'có' nếu bạn đang sử dụng đa tín hiệu yêu cầu tín hiệu lệnh DiSEqC Port-A. Đối với tất cả các thiết lập khác, chọn 'không'."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16491,10 +16484,6 @@ msgstr "Văn bản KeyBoard ảo:"
 msgid "Virtual keyboard"
 msgstr "Bàn phím ảo"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Bàn phím ảo"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17278,9 +17267,6 @@ msgstr "Bạn chỉ có thể ghi bản ghi nhận!"
 
 msgid "You can remove this plugin."
 msgstr "Bạn có thể loại bỏ plugin này."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Bạn không thể xóa cái này!"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -5776,10 +5776,6 @@ msgid "Enigma2 debug level"
 msgstr "Ниво на дебагирање во енигма: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "стандардно"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Информации"
 
@@ -9895,9 +9891,6 @@ msgstr "На почеток"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Изберете „Да“ само ако користите multiswich за кој е потребен команден сигнал DiSEqC Port-A. За сите други поставувања, изберете \"Не\"."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16382,10 +16375,6 @@ msgstr "Текст на виртуелна тастатура:"
 msgid "Virtual keyboard"
 msgstr "Виртуелна тастатура"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Виртуелна тастатура"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17173,9 +17162,6 @@ msgstr "Може да снимате (на диск) снимки од прие�
 
 msgid "You can remove this plugin."
 msgstr "Може да го отстраните овој плагин."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Не можете да го избришете ова!"

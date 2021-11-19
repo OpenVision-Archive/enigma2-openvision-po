@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -5912,10 +5912,6 @@ msgid "Enigma2 debug level"
 msgstr "Энигма - уровень отладки: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "по умолчанию"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Информация"
 
@@ -10035,9 +10031,6 @@ msgstr "Только при старте"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Выберите 'да', тоьлко если вы используете мультисвич, для которого требуется командный сигнал DiSEqC Port-A. Для всех других установок выберите 'нет'."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16531,10 +16524,6 @@ msgstr "Текст виртуальной клавиатуры:"
 msgid "Virtual keyboard"
 msgstr "Виртуальная клавиатура"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Виртуальная клавиатура"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17318,9 +17307,6 @@ msgstr "Вы можете прожечь(технология burn) только
 
 msgid "You can remove this plugin."
 msgstr "Вы можете удалить это плагин."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Вы не можете удалить это!"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -5919,10 +5919,6 @@ msgid "Enigma2 debug level"
 msgstr ""
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "Öntanımlı"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Bilgi"
 
@@ -10053,9 +10049,6 @@ msgid "Only on startup"
 msgstr "Yalnız başlangıçta"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
-msgstr ""
-
-msgid "Open Vision"
 msgstr ""
 
 #, fuzzy
@@ -16608,10 +16601,6 @@ msgstr "Sanal klavye"
 msgid "Virtual keyboard"
 msgstr "Sanal klavye"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Sanal klavye"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17404,9 +17393,6 @@ msgstr "Sadece alıcıdaki kayıtlarını yazabilirsiniz!"
 
 msgid "You can remove this plugin."
 msgstr "Bu eklentiyi kaldırabilirsiniz."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Bunu silemezsiniz!"

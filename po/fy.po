@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -6452,9 +6452,6 @@ msgstr "Paraatmode / Nijstart"
 msgid "Enigma2 debug level"
 msgstr ""
 
-msgid "Enigma2 default"
-msgstr ""
-
 #
 #, fuzzy
 msgid "Enigma2 information"
@@ -11009,9 +11006,6 @@ msgid "Only on startup"
 msgstr ""
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
-msgstr ""
-
-msgid "Open Vision"
 msgstr ""
 
 msgid "Open Vision information"
@@ -18335,11 +18329,6 @@ msgstr "Virtueel Toetseboerd"
 msgid "Virtual keyboard"
 msgstr "Virtueel Toetseboerd"
 
-#
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Virtueel Toetseboerd"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -19130,9 +19119,6 @@ msgstr ""
 
 #
 msgid "You can remove this plugin."
-msgstr ""
-
-msgid "You can select the skin of virtual keyboard."
 msgstr ""
 
 #

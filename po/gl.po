@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-10-16 21:21+0200\n"
 "Last-Translator: Luis A. Martínez <luis.a.martinez@gmail.com>\n"
 "Language-Team: LAMS\n"
@@ -6423,11 +6423,6 @@ msgstr "Nivel de depuración de enigma: %d\n"
 
 #
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "por defecto"
-
-#
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Información"
 
@@ -10952,9 +10947,6 @@ msgstr "Só ao inicio"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Selecciona ‘si’ só se estás a usar un multiswich que require un sinal DiSEqC de comando Port-A. Para todas as demás configuracións, selecciona ‘non’."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -18137,11 +18129,6 @@ msgstr "Texto do teclado virtual:"
 msgid "Virtual keyboard"
 msgstr "Teclado virtual"
 
-#
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Teclado virtual"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -18962,9 +18949,6 @@ msgstr "Só se poden gravar as gravacións do receptor!"
 #
 msgid "You can remove this plugin."
 msgstr "Podes desinstalar este complemento."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 #
 msgid "You cannot delete this!"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-04-30 16:06+0200\n"
 "Last-Translator: kueken\n"
 "Language-Team: OpenPLi\n"
@@ -5902,10 +5902,6 @@ msgid "Enigma2 debug level"
 msgstr "Enigma Debug Level: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "Standard"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Informationen"
 
@@ -10024,9 +10020,6 @@ msgstr "Nur beim Start"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Wählen Sie nur “Ja”, wenn Sie einen Multiswitch verwenden, der ein DiSEqC Port-A-Befehlssignal benötigt. Für alle anderen Setups wählen Sie ‘Nein’."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16534,10 +16527,6 @@ msgstr "Virtueller Keyboard-Text:"
 msgid "Virtual keyboard"
 msgstr "Virtuelle Tastatur"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Virtuelle Tastatur"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17326,9 +17315,6 @@ msgstr "Sie können nur Receiver-Aufnahmen brennen!"
 
 msgid "You can remove this plugin."
 msgstr "Sie können dieses Plugin deinstallieren."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Löschen nicht möglich!"

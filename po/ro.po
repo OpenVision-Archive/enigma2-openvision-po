@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -5755,9 +5755,6 @@ msgstr "Asteptare / Restart"
 msgid "Enigma2 debug level"
 msgstr ""
 
-msgid "Enigma2 default"
-msgstr ""
-
 #, fuzzy
 msgid "Enigma2 information"
 msgstr "Informatii"
@@ -9850,9 +9847,6 @@ msgid "Only on startup"
 msgstr ""
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
-msgstr ""
-
-msgid "Open Vision"
 msgstr ""
 
 msgid "Open Vision information"
@@ -16366,10 +16360,6 @@ msgstr "Tastatura Virtuala"
 msgid "Virtual keyboard"
 msgstr "Tastatura Virtuala"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Tastatura Virtuala"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17124,9 +17114,6 @@ msgid "You can only burn receiver recordings!"
 msgstr ""
 
 msgid "You can remove this plugin."
-msgstr ""
-
-msgid "You can select the skin of virtual keyboard."
 msgstr ""
 
 msgid "You cannot delete this!"

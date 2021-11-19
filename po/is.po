@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -6284,11 +6284,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "Venjulegt"
-
-#
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Upplýsingar"
 
@@ -10843,9 +10838,6 @@ msgid "Only on startup"
 msgstr ""
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
-msgstr ""
-
-msgid "Open Vision"
 msgstr ""
 
 msgid "Open Vision information"
@@ -18132,11 +18124,6 @@ msgstr "Sýndar lyklaborð"
 msgid "Virtual keyboard"
 msgstr "Sýndar lyklaborð"
 
-#
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Sýndar lyklaborð"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -18934,9 +18921,6 @@ msgstr ""
 
 msgid "You can remove this plugin."
 msgstr "Þú getur tekið út þetta íforrit."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 #
 msgid "You cannot delete this!"

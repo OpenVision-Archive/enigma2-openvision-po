@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -5894,10 +5894,6 @@ msgid "Enigma2 debug level"
 msgstr "系统调试级别: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "默认"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "信息"
 
@@ -10011,9 +10007,6 @@ msgstr "仅仅在启动时"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "只有在使用需要DiSEqC端口A命令信号的多开关时,才选择'是'.对于所有其他设置,选择'否'."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16509,10 +16502,6 @@ msgstr "虚拟键盘文本:"
 msgid "Virtual keyboard"
 msgstr "虚拟键盘"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "虚拟键盘"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17296,9 +17285,6 @@ msgstr "您仅仅能烧录机顶盒录像!"
 
 msgid "You can remove this plugin."
 msgstr "你可以删除这个插件."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "这个文件不能删除!"

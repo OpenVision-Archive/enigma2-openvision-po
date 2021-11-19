@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -5918,10 +5918,6 @@ msgid "Enigma2 debug level"
 msgstr "Enigma derinimo lygis: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "numatytasis"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Informacija"
 
@@ -10035,9 +10031,6 @@ msgstr "Tik paleidimo metu"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Pasirinkite tik \"taip\", jei naudojate \"multiswich\", kurio komandinis signalas \"DiSEqC Port-A\" reikalingas. Visoms kitoms sąrankoms pasirinkite \"ne\"."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16536,10 +16529,6 @@ msgstr "Virtualus klaviatūros tekstas:"
 msgid "Virtual keyboard"
 msgstr "Virtuali klaviatūra"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Virtuali klaviatūra"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17323,9 +17312,6 @@ msgstr "Jūs galite įrašyti tik imtuvo įrašus!"
 
 msgid "You can remove this plugin."
 msgstr "Jūs galite pašalinti šį priedą."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Jūs negalite to ištrinti!"

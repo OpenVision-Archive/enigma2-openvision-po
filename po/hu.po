@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 01:53+0000\n"
+"POT-Creation-Date: 2021-11-19 06:23+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -5890,10 +5890,6 @@ msgid "Enigma2 debug level"
 msgstr "Enigma hibakeresési szint: %d\n"
 
 #, fuzzy
-msgid "Enigma2 default"
-msgstr "alapértelmezett"
-
-#, fuzzy
 msgid "Enigma2 information"
 msgstr "Információk"
 
@@ -10009,9 +10005,6 @@ msgstr "Csak indításkor"
 
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Csak akkor válassza az 'igen'-t, ha olyan multiswich-et használ, amely megköveteli a DiSEqC Port-A parancs jelet. Minden egyéb esetben válassza a 'nem'-et."
-
-msgid "Open Vision"
-msgstr ""
 
 #, fuzzy
 msgid "Open Vision information"
@@ -16508,10 +16501,6 @@ msgstr "Virtuális Billentyűzet Szöveg:"
 msgid "Virtual keyboard"
 msgstr "Virtuális Billentyűzet"
 
-#, fuzzy
-msgid "Virtual keyboard skin"
-msgstr "Virtuális Billentyűzet"
-
 msgid "Visually impaired commentary"
 msgstr ""
 
@@ -17292,9 +17281,6 @@ msgstr "Csak ezzel a készüléktípussal felvett anyagokat lehet kiírni!"
 
 msgid "You can remove this plugin."
 msgstr "A bővítmény eltávolítható."
-
-msgid "You can select the skin of virtual keyboard."
-msgstr ""
 
 msgid "You cannot delete this!"
 msgstr "Ez nem törölheti le!"
