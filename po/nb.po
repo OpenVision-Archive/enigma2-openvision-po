@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 06:23+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: 2021-06-19 13:08+0200\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -67,9 +67,6 @@ msgid ""
 msgstr ""
 "\n"
 "Timer '%s' frakoblet!"
-
-msgid " "
-msgstr ""
 
 #, fuzzy
 msgid "  Default: 0000 (disabled)"
@@ -1900,7 +1897,7 @@ msgstr "aktiv"
 msgid "Adapter settings"
 msgstr "Nettverks innstillinger"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 #
@@ -2193,6 +2190,9 @@ msgstr "Tillat ustøttet valg"
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Gjør at TV-fjernkontrollen brukes til å styre mottakeren."
 
+msgid "Allows you to assign the selected function to the this button."
+msgstr ""
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
 msgstr ""
 
@@ -2200,9 +2200,6 @@ msgid "Allows you to hide the extensions of known file types."
 msgstr ""
 
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
-msgstr ""
-
-msgid "Allows you to setup the button to do what you choose."
 msgstr ""
 
 #
@@ -2799,6 +2796,9 @@ msgstr "BER"
 msgid "BER:"
 msgstr "Signalfeil (BER):"
 
+msgid "BLUE button"
+msgstr ""
+
 msgid "BT 2020 CL"
 msgstr ""
 
@@ -3030,11 +3030,6 @@ msgstr "Slå av støy reduksjon"
 msgid "Blue"
 msgstr "Blå"
 
-#
-#, fuzzy
-msgid "Blue long"
-msgstr "Blå"
-
 msgid "Bolivia"
 msgstr ""
 
@@ -3200,11 +3195,42 @@ msgstr "Burundi"
 msgid "Bus: "
 msgstr "Buss: "
 
-msgid "Button"
+msgid "By date, then by name"
 msgstr ""
 
 msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
 msgstr "Som standard vil SNR (signalstyrke) vises i dB desibel (hvis tuneren støtter dette). Med denne innstillingen vil SNR vises i prosent."
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+#, fuzzy
+msgid "By reverse name, then by date"
+msgstr "bakover etter dato"
+
+msgid "By reverse name, then by reverse date"
+msgstr ""
 
 msgid "Bypass HDMI EDID checking"
 msgstr "Frakoble HDMI EDID skjermkontroll"
@@ -3690,16 +3716,16 @@ msgstr "Vis mediespiller på hovedmenyen"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -6885,20 +6911,17 @@ msgstr ""
 msgid "F"
 msgstr "F"
 
-#
 #, fuzzy
-msgid "F1"
-msgstr "1"
+msgid "F1 button"
+msgstr "Rød tast..."
 
-#
 #, fuzzy
-msgid "F2"
-msgstr "2"
+msgid "F2 button"
+msgstr "Rød tast..."
 
-#
 #, fuzzy
-msgid "F3"
-msgstr "3"
+msgid "F3 button"
+msgstr "Rød tast..."
 
 msgid "FAILED"
 msgstr "FEILET"
@@ -7242,9 +7265,15 @@ msgstr "sorter alfabetisk"
 msgid "Flat by key group on remote"
 msgstr ""
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 #, fuzzy
 msgid "Flat by position on remote"
 msgstr "Siste posisjon ved"
+
+msgid "Flat by reverse name, then by reverse date"
+msgstr ""
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Følgende oppgaver vil bli utført etter at du trykker OK!"
@@ -7413,6 +7442,10 @@ msgstr "G"
 #, fuzzy
 msgid "GCC version"
 msgstr "Inversjon"
+
+#, fuzzy
+msgid "GREEN button"
+msgstr "Rød tast..."
 
 #
 #, fuzzy
@@ -7659,11 +7692,6 @@ msgstr "Gresk"
 #
 msgid "Green"
 msgstr "Grønn"
-
-#
-#, fuzzy
-msgid "Green long"
-msgstr "Grønland"
 
 #
 msgid "Greenland"
@@ -9355,6 +9383,18 @@ msgstr "Bruker valg"
 msgid "Logs folder location *"
 msgstr "<Siste timer mappe>"
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long filenames"
 msgstr "Lange filnavn"
 
@@ -10047,12 +10087,17 @@ msgid "Movie List Actions"
 msgstr "Opptaksvalg"
 
 #, fuzzy
-msgid "Movie List Setup"
+msgid "Movie List Context Menu"
 msgstr "Opptaksliste meny"
 
 #, fuzzy
 msgid "Movie Player Actions"
 msgstr "Opptaksvalg"
+
+#
+#, fuzzy
+msgid "Movie Selection Setup"
+msgstr "Språkvalg"
 
 msgid "Movie selection"
 msgstr "Opptaksvalg"
@@ -10881,6 +10926,10 @@ msgstr "På"
 msgid "On end of movie"
 msgstr "På slutten av filmen"
 
+#, fuzzy
+msgid "On end of movie (As menu)"
+msgstr "På slutten av filmen (som meny)"
+
 msgid "On end of movie (as menu)"
 msgstr "På slutten av filmen (som meny)"
 
@@ -11401,11 +11450,9 @@ msgstr "Spill av musikk..."
 msgid "Play next"
 msgstr "Spill av neste"
 
-msgid "Play next (return to movie list)"
+#, fuzzy
+msgid "Play next in movie list"
 msgstr "Spill av neste (gå tilbake til opptaksliste)"
-
-msgid "Play next (return to previous service)"
-msgstr "Spill av neste (gå tilbake til siste kanal)"
 
 msgid "Play previous"
 msgstr "Spill av siste"
@@ -12267,6 +12314,10 @@ msgstr ""
 msgid "Quick zap"
 msgstr "Hurtig bytte"
 
+#, fuzzy
+msgid "RADIO button"
+msgstr "Rød tast..."
+
 msgid "RAM (Details)"
 msgstr ""
 
@@ -12328,6 +12379,10 @@ msgstr "Også etter standby"
 
 msgid "REC symbol in use"
 msgstr ""
+
+#, fuzzy
+msgid "RED button"
+msgstr "Rød tast..."
 
 msgid "RF Modulator Output Setup"
 msgstr ""
@@ -12512,6 +12567,9 @@ msgstr "Opptak innstilling"
 msgid "Recordings always have priority"
 msgstr "Opptak har alltid prioritet"
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 #, fuzzy
 msgid "Recover"
 msgstr "Opptaks innstilling"
@@ -12533,11 +12591,6 @@ msgstr "Rød tast..."
 
 msgid "Red colored"
 msgstr "Rød farget"
-
-#
-#, fuzzy
-msgid "Red long"
-msgstr "lang"
 
 msgid "Red/HbbTV Button Actions"
 msgstr ""
@@ -14957,6 +15010,10 @@ msgstr "Viser status for trådløs LAN forbindelse.\n"
 msgid "Shows the watched status of the movie."
 msgstr "Ingen merker er satt på disse opptakene."
 
+#, fuzzy
+msgid "Shuffle"
+msgstr "tilfeldig rekkefølge"
+
 #
 msgid "Shuffle playlist"
 msgstr "Miks avspillingsliste"
@@ -16077,6 +16134,9 @@ msgstr "T2MI RAW-modus"
 msgid "TEXT"
 msgstr "TEKST"
 
+msgid "TEXT button"
+msgstr ""
+
 msgid "TMBD Details"
 msgstr ""
 
@@ -16108,6 +16168,10 @@ msgstr "STILLER INN"
 
 msgid "TV"
 msgstr ""
+
+#, fuzzy
+msgid "TV button"
+msgstr "Rød tast..."
 
 msgid "TV physical address report"
 msgstr "TVs fysiske adresse"
@@ -16263,9 +16327,6 @@ msgstr "Prøvebilder"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Prøvebilder som kan brukes til å finjustere skjermen"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text View On"
 msgstr "Tekstvisning på"
@@ -16772,7 +16833,7 @@ msgstr "Det finnes ingen nye oppdateringer."
 msgid "This service is protected by a parental control PIN"
 msgstr "Denne kanalen er beskyttet av en foreldrekontroll kode"
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -17765,7 +17826,7 @@ msgstr "Bruk disse innstillinger for inndataenheter?"
 msgid "Use these settings?"
 msgstr "Bruk disse innstillinger?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 #
@@ -18639,7 +18700,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent."
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -18653,9 +18714,6 @@ msgstr ""
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
 msgstr "Når mottakeren slås på fra standby eller dyp standby, sender den en kommando til TV-en for å få den ut av standby også."
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
-msgstr ""
 
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Hvor skal midlertidige timeskift opptak lagres?"
@@ -18773,6 +18831,9 @@ msgstr ""
 msgid "YCbCr444"
 msgstr ""
 
+msgid "YELLOW button"
+msgstr ""
+
 msgid "YES"
 msgstr "JA"
 
@@ -18789,11 +18850,6 @@ msgstr "Gul"
 
 msgid "Yellow DVB subtitles"
 msgstr "DVB undertekst gulfarge"
-
-#
-#, fuzzy
-msgid "Yellow long"
-msgstr "Gul"
 
 msgid "Yemen"
 msgstr "Yemen"
@@ -19274,19 +19330,6 @@ msgstr "alle"
 msgid "all tuners"
 msgstr "alle tunere"
 
-msgid "alpha then oldest"
-msgstr ""
-
-#
-msgid "alphabetic"
-msgstr "alfabetisk"
-
-msgid "alphabetic reverse"
-msgstr "alfabetisk bakover"
-
-msgid "alpharev then newest"
-msgstr ""
-
 #
 msgid "always"
 msgstr "alltid"
@@ -19391,10 +19434,6 @@ msgstr "bunn"
 
 msgid "broadcasting/press"
 msgstr "kringkasting/presse"
-
-#
-msgid "by date"
-msgstr "etter dato"
 
 msgid "by hmmmdada"
 msgstr ""
@@ -19651,14 +19690,6 @@ msgstr "kunst"
 msgid "fitness & health"
 msgstr "trening & helse"
 
-#
-msgid "flat alphabetic"
-msgstr "sorter alfabetisk"
-
-#
-msgid "flat alphabetic reverse"
-msgstr "sorter alfabetisk baklengs"
-
 msgid "folk/traditional music"
 msgstr "folk/tradisjonell musikk"
 
@@ -19834,11 +19865,6 @@ msgstr "låst"
 
 #
 msgid "long"
-msgstr "lang"
-
-#
-#, fuzzy
-msgid "longest"
 msgstr "lang"
 
 msgid "magazines/reports/documentary"
@@ -20181,9 +20207,6 @@ msgstr "spol tilbake til forrige kapittel"
 msgid "restore previous cuts & exit"
 msgstr "spol tilbake til forrige kapittel"
 
-msgid "reverse by date"
-msgstr "bakover etter dato"
-
 #
 msgid "rewind to the previous chapter"
 msgstr "spol tilbake til forrige kapittel"
@@ -20243,11 +20266,6 @@ msgid "serious/classical/religious/historical movie/drama"
 msgstr "seriøs/klassisk/religiøs/historisk film/drama"
 
 #
-#, fuzzy
-msgid "shortest"
-msgstr "Nettverkstest"
-
-#
 msgid "show DVD main menu"
 msgstr "vis DVD hovedmeny"
 
@@ -20266,9 +20284,6 @@ msgstr "vis programvareoppsett på blå tast"
 
 msgid "show/game show (general)"
 msgstr "underholdning/spørreprogram (generelt)"
-
-msgid "shuffle"
-msgstr "tilfeldig rekkefølge"
 
 msgid "shut down"
 msgstr "slå av"

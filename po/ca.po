@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 06:23+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -68,9 +68,6 @@ msgid ""
 msgstr ""
 "\n"
 " temporitzador \" %s\" està desactivat!"
-
-msgid " "
-msgstr ""
 
 #, fuzzy
 msgid "  Default: 0000 (disabled)"
@@ -1953,7 +1950,7 @@ msgstr "actiu"
 msgid "Adapter settings"
 msgstr "Adaptar configuracions"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 #
@@ -2250,6 +2247,9 @@ msgstr "Permetre modes no compatibles"
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Permet utilitzar el comandament a distància del televisor per controlar el receptor."
 
+msgid "Allows you to assign the selected function to the this button."
+msgstr ""
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
 msgstr ""
 
@@ -2257,9 +2257,6 @@ msgid "Allows you to hide the extensions of known file types."
 msgstr ""
 
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
-msgstr ""
-
-msgid "Allows you to setup the button to do what you choose."
 msgstr ""
 
 #
@@ -2850,6 +2847,9 @@ msgstr "BER"
 msgid "BER:"
 msgstr "BER:"
 
+msgid "BLUE button"
+msgstr ""
+
 msgid "BT 2020 CL"
 msgstr ""
 
@@ -3083,10 +3083,6 @@ msgstr "Reducció de soroll bloqueig"
 msgid "Blue"
 msgstr "Blau"
 
-#, fuzzy
-msgid "Blue long"
-msgstr "Blau"
-
 msgid "Bolivia"
 msgstr ""
 
@@ -3250,11 +3246,42 @@ msgstr "Burundi"
 msgid "Bus: "
 msgstr "Bus: "
 
-msgid "Button"
+msgid "By date, then by name"
 msgstr ""
 
 msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
 msgstr "De manera predeterminada, es mostrarà SNR en dB (quan és compatible amb el sintonitzador). Aquest paràmetre obliga el SNR a mostrar-se en percentatge."
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+#, fuzzy
+msgid "By reverse name, then by date"
+msgstr "revertir per data"
+
+msgid "By reverse name, then by reverse date"
+msgstr ""
 
 msgid "Bypass HDMI EDID checking"
 msgstr "Eviteu la comprovació de l’edició HDMI"
@@ -3737,16 +3764,16 @@ msgstr "Mostra el reproductor multimèdia al menú principal"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -6941,20 +6968,17 @@ msgstr ""
 msgid "F"
 msgstr "F"
 
-#
 #, fuzzy
-msgid "F1"
-msgstr "1"
+msgid "F1 button"
+msgstr "Xarxa boto:"
 
-#
 #, fuzzy
-msgid "F2"
-msgstr "2"
+msgid "F2 button"
+msgstr "Xarxa boto:"
 
-#
 #, fuzzy
-msgid "F3"
-msgstr "3"
+msgid "F3 button"
+msgstr "Xarxa boto:"
 
 msgid "FAILED"
 msgstr "FRACAS"
@@ -7299,9 +7323,15 @@ msgstr "plana alfabètica"
 msgid "Flat by key group on remote"
 msgstr ""
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 #, fuzzy
 msgid "Flat by position on remote"
 msgstr "Posició final a"
+
+msgid "Flat by reverse name, then by reverse date"
+msgstr ""
 
 #
 msgid "Following tasks will be done after you press OK!"
@@ -7471,6 +7501,10 @@ msgstr "G"
 #, fuzzy
 msgid "GCC version"
 msgstr "Inversió"
+
+#, fuzzy
+msgid "GREEN button"
+msgstr "Xarxa boto:"
 
 #
 #, fuzzy
@@ -7718,10 +7752,6 @@ msgstr "Grec"
 
 msgid "Green"
 msgstr "Verd"
-
-#, fuzzy
-msgid "Green long"
-msgstr "Greenland"
 
 msgid "Greenland"
 msgstr "Greenland"
@@ -9400,6 +9430,18 @@ msgstr "Configuració d’ús"
 msgid "Logs folder location *"
 msgstr "<Ubicació del darrer temporitzador>"
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long filenames"
 msgstr "Els noms de fitxers llargs"
 
@@ -10097,13 +10139,18 @@ msgstr "Selecció de pel·lícules"
 
 #
 #, fuzzy
-msgid "Movie List Setup"
+msgid "Movie List Context Menu"
 msgstr "Menú Movielista"
 
 #
 #, fuzzy
 msgid "Movie Player Actions"
 msgstr "Selecció de pel·lícules"
+
+#
+#, fuzzy
+msgid "Movie Selection Setup"
+msgstr "Selecció d'idioma"
 
 #
 msgid "Movie selection"
@@ -10933,6 +10980,10 @@ msgstr "Activat"
 msgid "On end of movie"
 msgstr "Al final de la pel·lícula"
 
+#, fuzzy
+msgid "On end of movie (As menu)"
+msgstr "Al final de la pel·lícula (com a menú)"
+
 msgid "On end of movie (as menu)"
 msgstr "Al final de la pel·lícula (com a menú)"
 
@@ -11446,11 +11497,9 @@ msgstr "Reprodueix música…"
 msgid "Play next"
 msgstr "Reprodueix al següent"
 
-msgid "Play next (return to movie list)"
+#, fuzzy
+msgid "Play next in movie list"
 msgstr "Reprodueix al següent (torna a la llista de pel·lícules)"
-
-msgid "Play next (return to previous service)"
-msgstr "Reprodueix al següent (torna al servei anterior)"
 
 msgid "Play previous"
 msgstr "Reprodueix al següent (torna al servei anterior)"
@@ -12331,6 +12380,10 @@ msgstr ""
 msgid "Quick zap"
 msgstr "Zap ràpid"
 
+#, fuzzy
+msgid "RADIO button"
+msgstr "Xarxa boto:"
+
 msgid "RAM (Details)"
 msgstr ""
 
@@ -12390,6 +12443,10 @@ msgstr "També en espera"
 
 msgid "REC symbol in use"
 msgstr ""
+
+#, fuzzy
+msgid "RED button"
+msgstr "Xarxa boto:"
 
 msgid "RF Modulator Output Setup"
 msgstr ""
@@ -12581,6 +12638,9 @@ msgstr "Gravacions"
 msgid "Recordings always have priority"
 msgstr "Les gravacions tenen prioritat"
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Recover"
@@ -12603,10 +12663,6 @@ msgstr "Xarxa boto:"
 
 msgid "Red colored"
 msgstr "Xarxa color"
-
-#, fuzzy
-msgid "Red long"
-msgstr "llarg"
 
 msgid "Red/HbbTV Button Actions"
 msgstr ""
@@ -15019,6 +15075,10 @@ msgstr "Mostra l’estat de la connexió LAN sense fils.\n"
 msgid "Shows the watched status of the movie."
 msgstr "No s’ha establert cap etiqueta a aquestes pel·lícules."
 
+#, fuzzy
+msgid "Shuffle"
+msgstr "remenar"
+
 #
 msgid "Shuffle playlist"
 msgstr "Mostra l’estat de la connexió de fitxers de sentit LAN."
@@ -16139,6 +16199,9 @@ msgstr "T2MI Mode voltatge"
 msgid "TEXT"
 msgstr "TEXT"
 
+msgid "TEXT button"
+msgstr ""
+
 msgid "TMBD Details"
 msgstr ""
 
@@ -16172,6 +16235,10 @@ msgstr "Sintonització"
 
 msgid "TV"
 msgstr ""
+
+#, fuzzy
+msgid "TV button"
+msgstr "Xarxa boto:"
 
 msgid "TV physical address report"
 msgstr "Informe d’adreça física de TV"
@@ -16326,9 +16393,6 @@ msgstr "Pantalles de prova"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Proves de pantalla que serveixen per ajustar la pantalla"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text View On"
 msgstr "Visualització de text activada"
@@ -16837,7 +16901,7 @@ msgstr "No hi ha actualitzacions disponibles."
 msgid "This service is protected by a parental control PIN"
 msgstr "Aquest canal està protegit per un PIN de control parental"
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -17829,7 +17893,7 @@ msgstr "Feu servir aquesta configuració del dispositiu d’entrada?"
 msgid "Use these settings?"
 msgstr "Si, restaura la configuració ara?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 #
@@ -18718,7 +18782,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent."
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -18732,9 +18796,6 @@ msgstr ""
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
 msgstr "Quan el receptor es desperta en mode d’espera o d’espera profunda, enviarà una ordre al televisor per treure’l també del mode d’espera."
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
-msgstr ""
 
 #
 msgid "Where to save temporary timeshift recordings?"
@@ -18851,6 +18912,9 @@ msgstr ""
 msgid "YCbCr444"
 msgstr ""
 
+msgid "YELLOW button"
+msgstr ""
+
 msgid "YES"
 msgstr "SI"
 
@@ -18866,10 +18930,6 @@ msgstr "Groc"
 
 msgid "Yellow DVB subtitles"
 msgstr "Subtítols de DVB groc"
-
-#, fuzzy
-msgid "Yellow long"
-msgstr "Groc"
 
 msgid "Yemen"
 msgstr "Yemen"
@@ -19351,18 +19411,6 @@ msgstr "tot"
 msgid "all tuners"
 msgstr "configuració del sintonitzador automàtic"
 
-msgid "alpha then oldest"
-msgstr ""
-
-msgid "alphabetic"
-msgstr "alfabètic"
-
-msgid "alphabetic reverse"
-msgstr "inversa alfabètica"
-
-msgid "alpharev then newest"
-msgstr ""
-
 msgid "always"
 msgstr "sempre"
 
@@ -19467,9 +19515,6 @@ msgstr "boto"
 
 msgid "broadcasting/press"
 msgstr "broadcasting / press"
-
-msgid "by date"
-msgstr "per data"
 
 msgid "by hmmmdada"
 msgstr ""
@@ -19727,12 +19772,6 @@ msgstr "belles Arts"
 msgid "fitness & health"
 msgstr "condició física i salut"
 
-msgid "flat alphabetic"
-msgstr "plana alfabètica"
-
-msgid "flat alphabetic reverse"
-msgstr "inversa alfabètica plana"
-
 msgid "folk/traditional music"
 msgstr "música tradicional / tradicional"
 
@@ -19908,10 +19947,6 @@ msgid "locked"
 msgstr "bloquejat"
 
 msgid "long"
-msgstr "llarg"
-
-#, fuzzy
-msgid "longest"
 msgstr "llarg"
 
 msgid "magazines/reports/documentary"
@@ -20249,9 +20284,6 @@ msgstr "rebobina al capítol anterior"
 msgid "restore previous cuts & exit"
 msgstr "rebobina al capítol anterior"
 
-msgid "reverse by date"
-msgstr "revertir per data"
-
 #
 msgid "rewind to the previous chapter"
 msgstr "rebobina al capítol anterior"
@@ -20310,11 +20342,6 @@ msgid "serious/classical/religious/historical movie/drama"
 msgstr "pel·lícula / drama seriós / clàssic / religiós / històric"
 
 #
-#, fuzzy
-msgid "shortest"
-msgstr "Prova de xarxa"
-
-#
 msgid "show DVD main menu"
 msgstr "mostra el menú principal de DVD"
 
@@ -20333,9 +20360,6 @@ msgstr "mostra softwaremanager al botó blau"
 
 msgid "show/game show (general)"
 msgstr "espectacle / espectacle de joc (general)"
-
-msgid "shuffle"
-msgstr "remenar"
 
 #
 msgid "shut down"

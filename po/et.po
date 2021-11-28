@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 06:23+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -60,9 +60,6 @@ msgid ""
 msgstr ""
 "\n"
 "Taimer '%s' keelatud!"
-
-msgid " "
-msgstr ""
 
 #, fuzzy
 msgid "  Default: 0000 (disabled)"
@@ -1815,7 +1812,7 @@ msgstr "Suhteline"
 msgid "Adapter settings"
 msgstr "Võrgukaardi seaded"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -2080,6 +2077,9 @@ msgstr ""
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Kasuta teleri pulti"
 
+msgid "Allows you to assign the selected function to the this button."
+msgstr ""
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
 msgstr ""
 
@@ -2087,9 +2087,6 @@ msgid "Allows you to hide the extensions of known file types."
 msgstr ""
 
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
-msgstr ""
-
-msgid "Allows you to setup the button to do what you choose."
 msgstr ""
 
 #, fuzzy
@@ -2635,6 +2632,9 @@ msgstr "BER"
 msgid "BER:"
 msgstr "BER:"
 
+msgid "BLUE button"
+msgstr ""
+
 msgid "BT 2020 CL"
 msgstr ""
 
@@ -2849,10 +2849,6 @@ msgstr "Plokkmüra vähendamine"
 msgid "Blue"
 msgstr "Sinine"
 
-#, fuzzy
-msgid "Blue long"
-msgstr "Sinine"
-
 msgid "Bolivia"
 msgstr ""
 
@@ -2999,11 +2995,42 @@ msgstr "Burundi"
 msgid "Bus: "
 msgstr "Siin: "
 
-msgid "Button"
+msgid "By date, then by name"
 msgstr ""
 
 msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
 msgstr "Vaikimisi näidatakse SNR väärtust dB-s (kui tuuner seda toetab). See valik annab SNR näidu protsentides dB asemel."
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+#, fuzzy
+msgid "By reverse name, then by date"
+msgstr "tagurpidi kuupäevajärj."
+
+msgid "By reverse name, then by reverse date"
+msgstr ""
 
 msgid "Bypass HDMI EDID checking"
 msgstr "Möödu HDMI EDID kontrollist"
@@ -3435,16 +3462,16 @@ msgstr "Näita meediaesitajat peamenüüs"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -6370,16 +6397,16 @@ msgid "F"
 msgstr "F"
 
 #, fuzzy
-msgid "F1"
-msgstr "1"
+msgid "F1 button"
+msgstr "Punane nupp..."
 
 #, fuzzy
-msgid "F2"
-msgstr "2"
+msgid "F2 button"
+msgstr "Punane nupp..."
 
 #, fuzzy
-msgid "F3"
-msgstr "3"
+msgid "F3 button"
+msgstr "Punane nupp..."
 
 msgid "FAILED"
 msgstr "NURJUS"
@@ -6706,9 +6733,15 @@ msgstr "tähestikujärjekord"
 msgid "Flat by key group on remote"
 msgstr ""
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 #, fuzzy
 msgid "Flat by position on remote"
 msgstr "Lõplik asend"
+
+msgid "Flat by reverse name, then by reverse date"
+msgstr ""
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Järgmised toimingud tehakse pärast OK vajutamist!"
@@ -6861,6 +6894,10 @@ msgstr "G"
 #, fuzzy
 msgid "GCC version"
 msgstr "Inversioon"
+
+#, fuzzy
+msgid "GREEN button"
+msgstr "Punane nupp..."
 
 #, fuzzy
 msgid "GStreamer version"
@@ -7086,10 +7123,6 @@ msgstr "Kreeka"
 
 msgid "Green"
 msgstr "Roheline"
-
-#, fuzzy
-msgid "Green long"
-msgstr "Gröönimaa"
 
 msgid "Greenland"
 msgstr "Gröönimaa"
@@ -8630,6 +8663,18 @@ msgstr "Kasutuse seadistus"
 msgid "Logs folder location *"
 msgstr "<Viimase taimeri asukoht>"
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long filenames"
 msgstr "Pikad failinimed"
 
@@ -9262,12 +9307,16 @@ msgid "Movie List Actions"
 msgstr "Filmi valik"
 
 #, fuzzy
-msgid "Movie List Setup"
+msgid "Movie List Context Menu"
 msgstr "Salvestiste menüü"
 
 #, fuzzy
 msgid "Movie Player Actions"
 msgstr "Filmi valik"
+
+#, fuzzy
+msgid "Movie Selection Setup"
+msgstr "Keele valik"
 
 msgid "Movie selection"
 msgstr "Filmi valik"
@@ -10012,6 +10061,10 @@ msgstr "Sees"
 msgid "On end of movie"
 msgstr "Filmi lõpus"
 
+#, fuzzy
+msgid "On end of movie (As menu)"
+msgstr "Filmi lõpus (nagu menüü)"
+
 msgid "On end of movie (as menu)"
 msgstr "Filmi lõpus (nagu menüü)"
 
@@ -10487,11 +10540,9 @@ msgstr "Mängi muusikat..."
 msgid "Play next"
 msgstr "Esita järgmine"
 
-msgid "Play next (return to movie list)"
+#, fuzzy
+msgid "Play next in movie list"
 msgstr "Esita järgmine (naase filmilisti)"
-
-msgid "Play next (return to previous service)"
-msgstr "Esita järgmine (naase vaadatud kanalile)"
 
 msgid "Play previous"
 msgstr "Esita eelmine"
@@ -11264,6 +11315,10 @@ msgstr ""
 msgid "Quick zap"
 msgstr "Kiire kanalivalik"
 
+#, fuzzy
+msgid "RADIO button"
+msgstr "Punane nupp..."
+
 msgid "RAM (Details)"
 msgstr ""
 
@@ -11317,6 +11372,10 @@ msgstr "Ka ooteseisundis"
 
 msgid "REC symbol in use"
 msgstr ""
+
+#, fuzzy
+msgid "RED button"
+msgstr "Punane nupp..."
 
 msgid "RF Modulator Output Setup"
 msgstr ""
@@ -11485,6 +11544,9 @@ msgstr "Salvestised"
 msgid "Recordings always have priority"
 msgstr "Salvestused omavad alati eelist"
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 #, fuzzy
 msgid "Recover"
 msgstr "Salvestus"
@@ -11505,10 +11567,6 @@ msgstr "Punane nupp..."
 
 msgid "Red colored"
 msgstr "Punast värvi"
-
-#, fuzzy
-msgid "Red long"
-msgstr "pikalt"
 
 msgid "Red/HbbTV Button Actions"
 msgstr ""
@@ -13721,6 +13779,10 @@ msgstr "Näitab WiFi olekut.\n"
 msgid "Shows the watched status of the movie."
 msgstr "Salvestisele pole märksõnu määratud."
 
+#, fuzzy
+msgid "Shuffle"
+msgstr "segatud"
+
 msgid "Shuffle playlist"
 msgstr "Juhuslik esitusloend"
 
@@ -14736,6 +14798,9 @@ msgstr ""
 msgid "TEXT"
 msgstr ""
 
+msgid "TEXT button"
+msgstr ""
+
 msgid "TMBD Details"
 msgstr ""
 
@@ -14770,6 +14835,10 @@ msgstr "HÄÄLESTUS"
 
 msgid "TV"
 msgstr ""
+
+#, fuzzy
+msgid "TV button"
+msgstr "Punane nupp..."
 
 msgid "TV physical address report"
 msgstr "TV füüsilise aadressi raport"
@@ -14914,9 +14983,6 @@ msgstr "Testtabelid"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Testtabelid aitavad häälestada ekraani"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text View On"
 msgstr ""
@@ -15411,7 +15477,7 @@ msgstr "Uuendusi ei ole saadaval."
 msgid "This service is protected by a parental control PIN"
 msgstr "See kanal on kaitstud lapselukuga"
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -16315,7 +16381,7 @@ msgstr "Kas kasutad neid sisendseadme seadeid?"
 msgid "Use these settings?"
 msgstr "Kasutad neid seadeid?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17157,7 +17223,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent."
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -17170,9 +17236,6 @@ msgid "When the input cursor reaches this point (percentage of the width, from e
 msgstr ""
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
-msgstr ""
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
 msgstr ""
 
 msgid "Where to save temporary timeshift recordings?"
@@ -17287,6 +17350,9 @@ msgstr ""
 msgid "YCbCr444"
 msgstr ""
 
+msgid "YELLOW button"
+msgstr ""
+
 msgid "YES"
 msgstr "JAH"
 
@@ -17301,10 +17367,6 @@ msgstr "Kollane"
 
 msgid "Yellow DVB subtitles"
 msgstr "Kollased DVB subtiitrid"
-
-#, fuzzy
-msgid "Yellow long"
-msgstr "Kollane"
 
 msgid "Yemen"
 msgstr "Jeemen"
@@ -17760,18 +17822,6 @@ msgstr "kõik"
 msgid "all tuners"
 msgstr "Kaugvastuvõtja tuuneri seaded"
 
-msgid "alpha then oldest"
-msgstr ""
-
-msgid "alphabetic"
-msgstr "tähestikujärjekord"
-
-msgid "alphabetic reverse"
-msgstr "tagurpidi tähestikujärjekord"
-
-msgid "alpharev then newest"
-msgstr ""
-
 msgid "always"
 msgstr "alati"
 
@@ -17864,9 +17914,6 @@ msgstr "all"
 
 msgid "broadcasting/press"
 msgstr "ringhääling/ajakirjandus"
-
-msgid "by date"
-msgstr "ajaline järjestus"
 
 msgid "by hmmmdada"
 msgstr ""
@@ -18100,12 +18147,6 @@ msgstr "kaunid kunstid"
 msgid "fitness & health"
 msgstr "kehakultuur & tervis"
 
-msgid "flat alphabetic"
-msgstr "tähestikujärjekord"
-
-msgid "flat alphabetic reverse"
-msgstr "tähestikujärjekord ümberpöördult"
-
 msgid "folk/traditional music"
 msgstr "folk/rahvamuusika"
 
@@ -18267,10 +18308,6 @@ msgid "locked"
 msgstr "lukustatud"
 
 msgid "long"
-msgstr "pikalt"
-
-#, fuzzy
-msgid "longest"
 msgstr "pikalt"
 
 msgid "magazines/reports/documentary"
@@ -18570,9 +18607,6 @@ msgstr "tagasi eelmisele peatükile"
 msgid "restore previous cuts & exit"
 msgstr "tagasi eelmisele peatükile"
 
-msgid "reverse by date"
-msgstr "tagurpidi kuupäevajärj."
-
 msgid "rewind to the previous chapter"
 msgstr "tagasi eelmisele peatükile"
 
@@ -18626,10 +18660,6 @@ msgstr "süvamuusika/klassikaline muusika"
 msgid "serious/classical/religious/historical movie/drama"
 msgstr "tõsielu/klassika/usklik/ajalooline film/draama"
 
-#, fuzzy
-msgid "shortest"
-msgstr "Võrgu ühenduse test"
-
 msgid "show DVD main menu"
 msgstr "näita DVD peamenüüd"
 
@@ -18647,9 +18677,6 @@ msgstr "näita tarkvarahaldurit sinise nupu all"
 
 msgid "show/game show (general)"
 msgstr "show/telemäng (üldiselt)"
-
-msgid "shuffle"
-msgstr "segatud"
 
 msgid "shut down"
 msgstr "lülita välja"

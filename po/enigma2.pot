@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-21 01:54+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,9 +52,6 @@ msgstr ""
 msgid ""
 "\n"
 "Timer '%s' disabled!"
-msgstr ""
-
-msgid " "
 msgstr ""
 
 msgid "  Default: 0000 (disabled)"
@@ -1598,9 +1595,6 @@ msgstr ""
 msgid "Adapter settings"
 msgstr ""
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
-msgstr ""
-
 msgid "Add"
 msgstr ""
 
@@ -1836,16 +1830,7 @@ msgstr ""
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr ""
 
-msgid "Allows you to hide the extensions of known file types."
-msgstr ""
-
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
-msgstr ""
-
-msgid "Allows you to setup the button to do what you choose."
-msgstr ""
-
-msgid "Allows you to show images."
 msgstr ""
 
 msgid "Alphabetical"
@@ -2211,9 +2196,6 @@ msgstr ""
 msgid "Automatic Scan"
 msgstr ""
 
-msgid "Automatic bookmarks"
-msgstr ""
-
 msgid "Automatically put the TV in standby whenever the receiver goes into standby or deep standby."
 msgstr ""
 
@@ -2291,12 +2273,6 @@ msgid "Back"
 msgstr ""
 
 msgid "Background color"
-msgstr ""
-
-msgid "Background delete option"
-msgstr ""
-
-msgid "Background delete speed"
 msgstr ""
 
 #, python-format
@@ -2444,9 +2420,6 @@ msgstr ""
 msgid "Blue"
 msgstr ""
 
-msgid "Blue long"
-msgstr ""
-
 msgid "Bolivia"
 msgstr ""
 
@@ -2575,7 +2548,37 @@ msgstr ""
 msgid "Bus: "
 msgstr ""
 
-msgid "Button"
+msgid "By date, then by name"
+msgstr ""
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+msgid "By reverse name, then by date"
+msgstr ""
+
+msgid "By reverse name, then by reverse date"
 msgstr ""
 
 msgid "Bypass HDMI EDID checking"
@@ -2985,9 +2988,6 @@ msgstr ""
 msgid "City"
 msgstr ""
 
-msgid "Clean network trash cans"
-msgstr ""
-
 msgid "Cleanup"
 msgstr ""
 
@@ -3181,9 +3181,6 @@ msgstr ""
 msgid "Configure nameservers"
 msgstr ""
 
-msgid "Configure on which devices the background delete option should be used."
-msgstr ""
-
 msgid "Configure the aspect ratio of the screen."
 msgstr ""
 
@@ -3205,14 +3202,6 @@ msgstr ""
 msgid "Configure the general audio volume step size (limit 1-10)."
 msgstr ""
 
-msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
-msgstr ""
-
-msgid ""
-"Configure the number of days after which items are automatically removed from the trash can.\n"
-"A setting of 0 disables this."
-msgstr ""
-
 msgid "Configure the refresh rate of the screen."
 msgstr ""
 
@@ -3220,9 +3209,6 @@ msgid "Configure the screen resolution in PC output mode."
 msgstr ""
 
 msgid "Configure the sharpness of the video scaling."
-msgstr ""
-
-msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
 msgstr ""
 
 msgid "Configure the transparency of the OSD."
@@ -4088,9 +4074,6 @@ msgid "Disabled in configuration"
 msgstr ""
 
 msgid "Disabled or WPA/WPA2"
-msgstr ""
-
-msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
 msgid "Display 16:9 content as"
@@ -5066,15 +5049,6 @@ msgstr ""
 msgid "Extrude from left"
 msgstr ""
 
-msgid "F1"
-msgstr ""
-
-msgid "F2"
-msgstr ""
-
-msgid "F3"
-msgstr ""
-
 msgid "FAILED"
 msgstr ""
 
@@ -5329,13 +5303,16 @@ msgstr ""
 msgid "Flat by key group on remote"
 msgstr ""
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 msgid "Flat by position on remote"
 msgstr ""
 
-msgid "Following tasks will be done after you press OK!"
+msgid "Flat by reverse name, then by reverse date"
 msgstr ""
 
-msgid "Font size"
+msgid "Following tasks will be done after you press OK!"
 msgstr ""
 
 msgid "Force disabled"
@@ -5658,9 +5635,6 @@ msgstr ""
 msgid "Green"
 msgstr ""
 
-msgid "Green long"
-msgstr ""
-
 msgid "Greenland"
 msgstr ""
 
@@ -5839,9 +5813,6 @@ msgid "Hidden network"
 msgstr ""
 
 msgid "Hide"
-msgstr ""
-
-msgid "Hide known extensions"
 msgstr ""
 
 msgid "Hide parentel locked services"
@@ -6041,13 +6012,7 @@ msgstr ""
 msgid "If an action is user-configurable, its help entry will be flagged with a '(C)' suffix."
 msgstr ""
 
-msgid "If disabled, underline characters in file and directory names are not shown and are replaced with spaces."
-msgstr ""
-
 msgid "If enabled, a log will be kept of CEC protocol traffic ('hdmicec.log')"
-msgstr ""
-
-msgid "If enabled, bookmarks will be updated with the new location when you move or copy a recording."
 msgstr ""
 
 msgid "If set to 'yes' signal values (SNR, etc) will be calculated from API V3. This is an old API version that has now been superseded."
@@ -6486,9 +6451,6 @@ msgid "Kazakhstan"
 msgstr ""
 
 msgid "Keep service"
-msgstr ""
-
-msgid "Keeps the movie list open whilst playing audio files."
 msgstr ""
 
 msgid "Kenya"
@@ -7361,19 +7323,19 @@ msgstr ""
 msgid "Movie List Actions"
 msgstr ""
 
-msgid "Movie List Setup"
+msgid "Movie List Context Menu"
 msgstr ""
 
 msgid "Movie Player Actions"
+msgstr ""
+
+msgid "Movie Selection Setup"
 msgstr ""
 
 msgid "Movie selection"
 msgstr ""
 
 msgid "Movie/Drama"
-msgstr ""
-
-msgid "Movielist menu"
 msgstr ""
 
 msgid "Moving"
@@ -7897,12 +7859,6 @@ msgstr ""
 msgid "Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK."
 msgstr ""
 
-msgid "Number of rows"
-msgstr ""
-
-msgid "Number of rows to display"
-msgstr ""
-
 msgid "Number or SMS style data entry"
 msgstr ""
 
@@ -7977,6 +7933,9 @@ msgid "On"
 msgstr ""
 
 msgid "On end of movie"
+msgstr ""
+
+msgid "On end of movie (As menu)"
 msgstr ""
 
 msgid "On end of movie (as menu)"
@@ -8283,9 +8242,6 @@ msgstr ""
 msgid "Percentage right"
 msgstr ""
 
-msgid "Permanent sort key changes"
-msgstr ""
-
 msgid "Permanently delete all recordings in the trash can?"
 msgstr ""
 
@@ -8305,12 +8261,6 @@ msgid "PiP Actions"
 msgstr ""
 
 msgid "Picon"
-msgstr ""
-
-msgid "Picon Size"
-msgstr ""
-
-msgid "Picon Width"
 msgstr ""
 
 msgid "Picon and servicename"
@@ -8350,9 +8300,6 @@ msgstr ""
 msgid "Play as Picture in Picture"
 msgstr ""
 
-msgid "Play audio in background"
-msgstr ""
-
 msgid "Play audio-CD..."
 msgstr ""
 
@@ -8380,10 +8327,7 @@ msgstr ""
 msgid "Play next"
 msgstr ""
 
-msgid "Play next (return to movie list)"
-msgstr ""
-
-msgid "Play next (return to previous service)"
+msgid "Play next in movie list"
 msgstr ""
 
 msgid "Play previous"
@@ -9108,6 +9052,9 @@ msgstr ""
 msgid "Recordings"
 msgstr ""
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 msgid "Recover"
 msgstr ""
 
@@ -9121,9 +9068,6 @@ msgid "Red button..."
 msgstr ""
 
 msgid "Red colored"
-msgstr ""
-
-msgid "Red long"
 msgstr ""
 
 msgid "Red/HbbTV Button Actions"
@@ -9262,9 +9206,6 @@ msgid "Remove entry"
 msgstr ""
 
 msgid "Remove from parental protection"
-msgstr ""
-
-msgid "Remove items from trash can after (days)"
 msgstr ""
 
 msgid "Remove new found flag"
@@ -9514,9 +9455,6 @@ msgid "Romansh"
 msgstr ""
 
 msgid "Root"
-msgstr ""
-
-msgid "Root directory"
 msgstr ""
 
 msgid "Root file"
@@ -10313,9 +10251,6 @@ msgstr ""
 msgid "Service Selection/Zap Actions"
 msgstr ""
 
-msgid "Service Title mode"
-msgstr ""
-
 msgid "Service Zap Actions"
 msgstr ""
 
@@ -10442,9 +10377,6 @@ msgstr ""
 msgid "Set the User ID of the OpenWebif from your fallback tuner"
 msgstr ""
 
-msgid "Set the default sorting method."
-msgstr ""
-
 msgid "Set the global sort method"
 msgstr ""
 
@@ -10482,9 +10414,6 @@ msgid "Set time window to 6 hours"
 msgstr ""
 
 msgid "Set voltage and 22KHz"
-msgstr ""
-
-msgid "Sets the root directory of movie list, to remove the '..' from being shown in that folder."
 msgstr ""
 
 msgid "Settings"
@@ -10593,9 +10522,6 @@ msgstr ""
 msgid "Show eventinfo plugins"
 msgstr ""
 
-msgid "Show extended description"
-msgstr ""
-
 msgid "Show extension selection"
 msgstr ""
 
@@ -10606,12 +10532,6 @@ msgid "Show favourites list"
 msgstr ""
 
 msgid "Show help"
-msgstr ""
-
-msgid "Show icon for new/unseen items"
-msgstr ""
-
-msgid "Show image items"
 msgstr ""
 
 msgid "Show in extensions menu"
@@ -10632,16 +10552,10 @@ msgstr ""
 msgid "Show latest update log"
 msgstr ""
 
-msgid "Show live tv when movie stopped"
-msgstr ""
-
 msgid "Show log"
 msgstr ""
 
 msgid "Show media player on main menu"
-msgstr ""
-
-msgid "Show movie lengths in movie list"
 msgstr ""
 
 msgid "Show movies"
@@ -10665,13 +10579,7 @@ msgstr ""
 msgid "Show notification when import channels was successful"
 msgstr ""
 
-msgid "Show or hide the extended description, (skin dependant)."
-msgstr ""
-
 msgid "Show packages to be updated"
-msgstr ""
-
-msgid "Show picons in the movie list."
 msgstr ""
 
 msgid "Show previous image"
@@ -10701,9 +10609,6 @@ msgstr ""
 msgid "Show single service EPG"
 msgstr ""
 
-msgid "Show status icons in movie list"
-msgstr ""
-
 msgid "Show sub-menu"
 msgstr ""
 
@@ -10728,9 +10633,6 @@ msgstr ""
 msgid "Show transponder info"
 msgstr ""
 
-msgid "Show underline characters in filenames"
-msgstr ""
-
 msgid "Show vertical timelines"
 msgstr ""
 
@@ -10746,13 +10648,10 @@ msgstr ""
 msgid "Showiframe"
 msgstr ""
 
-msgid "Shows the icons when new/unseen, otherwise it will not show an icon."
-msgstr ""
-
 msgid "Shows the state of your wireless LAN connection.\n"
 msgstr ""
 
-msgid "Shows the watched status of the movie."
+msgid "Shuffle"
 msgstr ""
 
 msgid "Shuffle playlist"
@@ -11028,9 +10927,6 @@ msgstr ""
 
 #. TRANSLATORS: This must fit into the header button in the EPG-List
 msgid "Sort A-Z"
-msgstr ""
-
-msgid "Sort Trash by deletion time"
 msgstr ""
 
 msgid "Sort by"
@@ -11310,9 +11206,6 @@ msgstr ""
 msgid "Stop playing this movie?"
 msgstr ""
 
-msgid "Stop previous broadcasted service on return to movie list."
-msgstr ""
-
 msgid "Stop recording"
 msgstr ""
 
@@ -11323,9 +11216,6 @@ msgid "Stop recording:"
 msgstr ""
 
 msgid "Stop recordings:"
-msgstr ""
-
-msgid "Stop service on return to movie list"
 msgstr ""
 
 msgid "Stop test"
@@ -11699,9 +11589,6 @@ msgstr ""
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr ""
 
-msgid "Text"
-msgstr ""
-
 msgid "Text View On"
 msgstr ""
 
@@ -11880,9 +11767,6 @@ msgid ""
 msgstr ""
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
-msgstr ""
-
-msgid "This allows you change the font size relative to skin size, so 1 increases by 1 point size, and -1 decreases by 1 point size"
 msgstr ""
 
 msgid "This bouquet is protected by a parental control PIN"
@@ -12667,9 +12551,6 @@ msgstr ""
 msgid "Use a gateway"
 msgstr ""
 
-msgid "Use adaptive date display"
-msgstr ""
-
 msgid "Use as PiP if possible"
 msgstr ""
 
@@ -12691,9 +12572,6 @@ msgstr ""
 msgid "Use geolocation to set the current time zone location"
 msgstr ""
 
-msgid "Use individual settings for each directory"
-msgstr ""
-
 msgid "Use interface"
 msgstr ""
 
@@ -12703,21 +12581,10 @@ msgstr ""
 msgid "Use power measurement"
 msgstr ""
 
-msgid "Use slim screen"
-msgstr ""
-
 msgid "Use the UP and DOWN buttons to select your locale/language then press the OK button to continue."
 msgstr ""
 
-msgid "Use the alternative screen"
-msgstr ""
-
 msgid "Use the cursor keys to select an installed image then reboot."
-msgstr ""
-
-msgid ""
-"Use the deletion time to sort Trash directories.\n"
-"Most recently deleted at the top."
 msgstr ""
 
 msgid "Use the network wizard to configure selected network adapter"
@@ -12734,9 +12601,6 @@ msgid "Use these settings?"
 msgstr ""
 
 msgid "Use this video enhancement settings?"
-msgstr ""
-
-msgid "Use trash can in movie list"
 msgstr ""
 
 msgid "Used"
@@ -13168,15 +13032,6 @@ msgstr ""
 msgid "When enabled, content with an aspect ratio of 4:3 will be stretched to fit the screen."
 msgstr ""
 
-msgid "When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately."
-msgstr ""
-
-msgid "When enabled, network trash cans are probed for cleaning."
-msgstr ""
-
-msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
-msgstr ""
-
 msgid "When enabled, your receiver will detect activity on the VCR SCART input."
 msgstr ""
 
@@ -13186,15 +13041,6 @@ msgstr ""
 msgid "When selected this allows video modes to be selected even if they are not reported as supported."
 msgstr ""
 
-msgid "When set the PIG will return to live after a movie has stopped playing."
-msgstr ""
-
-msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
-msgstr ""
-
-msgid "When set, sort changes via the sort key will be permanent."
-msgstr ""
-
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
 msgstr ""
 
@@ -13202,9 +13048,6 @@ msgid "When the content has an aspect ratio of 4:3, choose whether to scale/stre
 msgstr ""
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
-msgstr ""
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
 msgstr ""
 
 msgid "Where to save temporary timeshift recordings?"
@@ -13281,9 +13124,6 @@ msgid "Year"
 msgstr ""
 
 msgid "Yellow"
-msgstr ""
-
-msgid "Yellow long"
 msgstr ""
 
 msgid "Yemen"
@@ -13648,18 +13488,6 @@ msgstr ""
 msgid "all tuners"
 msgstr ""
 
-msgid "alpha then oldest"
-msgstr ""
-
-msgid "alphabetic"
-msgstr ""
-
-msgid "alphabetic reverse"
-msgstr ""
-
-msgid "alpharev then newest"
-msgstr ""
-
 msgid "always"
 msgstr ""
 
@@ -13746,9 +13574,6 @@ msgid "bottom"
 msgstr ""
 
 msgid "broadcasting/press"
-msgstr ""
-
-msgid "by date"
 msgstr ""
 
 msgid "cancel"
@@ -13958,12 +13783,6 @@ msgstr ""
 msgid "fitness & health"
 msgstr ""
 
-msgid "flat alphabetic"
-msgstr ""
-
-msgid "flat alphabetic reverse"
-msgstr ""
-
 msgid "folk/traditional music"
 msgstr ""
 
@@ -14118,9 +13937,6 @@ msgid "locked"
 msgstr ""
 
 msgid "long"
-msgstr ""
-
-msgid "longest"
 msgstr ""
 
 msgid "magazines/reports/documentary"
@@ -14396,9 +14212,6 @@ msgstr ""
 msgid "restore previous cuts & exit"
 msgstr ""
 
-msgid "reverse by date"
-msgstr ""
-
 msgid "rewind to the previous chapter"
 msgstr ""
 
@@ -14447,9 +14260,6 @@ msgstr ""
 msgid "serious/classical/religious/historical movie/drama"
 msgstr ""
 
-msgid "shortest"
-msgstr ""
-
 msgid "show DVD main menu"
 msgstr ""
 
@@ -14466,9 +14276,6 @@ msgid "show softwaremanager on blue button"
 msgstr ""
 
 msgid "show/game show (general)"
-msgstr ""
-
-msgid "shuffle"
 msgstr ""
 
 msgid "shut down"
@@ -15042,6 +14849,9 @@ msgstr ""
 msgid "Message..."
 msgstr ""
 
+msgid "Movielist menu"
+msgstr ""
+
 msgid "Mute"
 msgstr ""
 
@@ -15322,6 +15132,9 @@ msgstr ""
 msgid "Activate the configured network settings."
 msgstr ""
 
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgstr ""
+
 msgid "Adjust the horizontal position of the letters used for teletext."
 msgstr ""
 
@@ -15337,7 +15150,16 @@ msgstr ""
 msgid "Allow subtitles for hearing impaired"
 msgstr ""
 
+msgid "Allows you to assign the selected function to the this button."
+msgstr ""
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
+msgstr ""
+
+msgid "Allows you to hide the extensions of known file types."
+msgstr ""
+
+msgid "Allows you to show images."
 msgstr ""
 
 msgid "Allows your %s %s to read the stored EPG data regularly."
@@ -15382,6 +15204,9 @@ msgstr ""
 msgid "Auto play last service in radio mode"
 msgstr ""
 
+msgid "Automatic bookmarks"
+msgstr ""
+
 msgid "Automatic refresh"
 msgstr ""
 
@@ -15392,6 +15217,15 @@ msgid "Automatically start timeshift after"
 msgstr ""
 
 msgid "Automatically turn on external subtitles"
+msgstr ""
+
+msgid "BLUE button"
+msgstr ""
+
+msgid "Background delete option"
+msgstr ""
+
+msgid "Background delete speed"
 msgstr ""
 
 msgid "Behavior of '0' button in PiP mode"
@@ -15433,16 +15267,16 @@ msgstr ""
 msgid "Choose style of main menus"
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -15458,6 +15292,9 @@ msgid "Choose the order in which items are displayed in Help windows"
 msgstr ""
 
 msgid "Choose which tuner to configure."
+msgstr ""
+
+msgid "Clean network trash cans"
 msgstr ""
 
 msgid "Clone TV screen to LCD"
@@ -15536,6 +15373,9 @@ msgid "Configure if service picons will be shown in the channel selection list."
 msgstr ""
 
 msgid "Configure if the subtitle should switch between normal, italic, bold and bolditalic"
+msgstr ""
+
+msgid "Configure on which devices the background delete option should be used."
 msgstr ""
 
 msgid "Configure separator type used in full description for separate short and extended descriptions."
@@ -15640,10 +15480,18 @@ msgstr ""
 msgid "Configure the longitude of your location."
 msgstr ""
 
+msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
+msgstr ""
+
 msgid "Configure the nameserver (DNS)."
 msgstr ""
 
 msgid "Configure the netmask."
+msgstr ""
+
+msgid ""
+"Configure the number of days after which items are automatically removed from the trash can.\n"
+"A setting of 0 disables this."
 msgstr ""
 
 msgid "Configure the number of days after which items are automaticaly removed from the trash can."
@@ -15689,6 +15537,9 @@ msgid "Configure the slow motion speeds."
 msgstr ""
 
 msgid "Configure the source of the frontend data as shown on the infobars. 'Settings' is as stored on the settings. 'Tuner' is as reported by the tuner."
+msgstr ""
+
+msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
 msgstr ""
 
 msgid "Configure the speed of the fan"
@@ -15838,6 +15689,9 @@ msgstr ""
 msgid "Disable the HDD Process on VFD"
 msgstr ""
 
+msgid "Disk space to reserve for recordings (in GB)"
+msgstr ""
+
 msgid "Display Setup"
 msgstr ""
 
@@ -15955,6 +15809,15 @@ msgstr ""
 msgid "External subtitle switch fonts"
 msgstr ""
 
+msgid "F1 button"
+msgstr ""
+
+msgid "F2 button"
+msgstr ""
+
+msgid "F3 button"
+msgstr ""
+
 msgid "Factory Reset Setup"
 msgstr ""
 
@@ -15979,6 +15842,9 @@ msgstr ""
 msgid "Finetune"
 msgstr ""
 
+msgid "Font size"
+msgstr ""
+
 msgid "Force zap to recording service in standby"
 msgstr ""
 
@@ -15986,6 +15852,9 @@ msgid "Frame rate"
 msgstr ""
 
 msgid "Full description separator"
+msgstr ""
+
+msgid "GREEN button"
 msgstr ""
 
 msgid "HDMI Recording Setup"
@@ -16006,10 +15875,19 @@ msgstr ""
 msgid "Hide channel list in radio mode"
 msgstr ""
 
+msgid "Hide known extensions"
+msgstr ""
+
 msgid "Hide number markers"
 msgstr ""
 
 msgid "Hide zap errors"
+msgstr ""
+
+msgid "If disabled, underline characters in file and directory names are not shown and are replaced with spaces."
+msgstr ""
+
+msgid "If enabled, bookmarks will be updated with the new location when you move or copy a recording."
 msgstr ""
 
 msgid "If enabled, display shows 12 chars instead 8, but in latin-1/translit only."
@@ -16087,6 +15965,9 @@ msgstr ""
 msgid "Interlaced"
 msgstr ""
 
+msgid "Keeps the movie list open whilst playing audio files."
+msgstr ""
+
 msgid "Keyboard map"
 msgstr ""
 
@@ -16153,6 +16034,18 @@ msgstr ""
 msgid "Logs folder location *"
 msgstr ""
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long press emulation with button"
 msgstr ""
 
@@ -16207,6 +16100,12 @@ msgstr ""
 msgid "Number of repeating text on display."
 msgstr ""
 
+msgid "Number of rows"
+msgstr ""
+
+msgid "Number of rows to display"
+msgstr ""
+
 msgid "OPKG clean mode"
 msgstr ""
 
@@ -16241,6 +16140,18 @@ msgid "Operating LED status in standby mode"
 msgstr ""
 
 msgid "Operating LED status while running."
+msgstr ""
+
+msgid "Permanent sort key changes"
+msgstr ""
+
+msgid "Picon Size"
+msgstr ""
+
+msgid "Picon Width"
+msgstr ""
+
+msgid "Play audio in background"
 msgstr ""
 
 msgid "Plugin Browser Setup"
@@ -16318,10 +16229,16 @@ msgstr ""
 msgid "Press this button to emulate a long press on a button pressed afterwards (this also overrides any other actions assigned to emulation button)."
 msgstr ""
 
+msgid "RADIO button"
+msgstr ""
+
 msgid "REC symbol in Standby"
 msgstr ""
 
 msgid "REC symbol in use"
+msgstr ""
+
+msgid "RED button"
 msgstr ""
 
 msgid "Recordings always have priority"
@@ -16334,6 +16251,9 @@ msgid "Remember last service in PiP"
 msgstr ""
 
 msgid "Remove completed timers after (days)"
+msgstr ""
+
+msgid "Remove items from trash can after (days)"
 msgstr ""
 
 msgid "Remove texts for the hearing impaired from external subtitles (instrumental music or environmental sounds, e.g., when a doorbell rings or a gun shot is heard)."
@@ -16355,6 +16275,9 @@ msgid "Rewind speeds"
 msgstr ""
 
 msgid "Rewrap subtitles"
+msgstr ""
+
+msgid "Root directory"
 msgstr ""
 
 msgid "Satellite Dish Setup"
@@ -16417,6 +16340,9 @@ msgstr ""
 msgid "Select your time zone area or region."
 msgstr ""
 
+msgid "Service Title mode"
+msgstr ""
+
 msgid "Set CI assignment for detection of available services."
 msgstr ""
 
@@ -16438,6 +16364,9 @@ msgstr ""
 msgid "Set the default location for your timeshift files. Press OK to add new locations, LEFT/RIGHT to select any existing locations."
 msgstr ""
 
+msgid "Set the default sorting method."
+msgstr ""
+
 msgid "Set the delay time between repeated loops, this is used by software renderer in some skins."
 msgstr ""
 
@@ -16454,6 +16383,9 @@ msgid "Set the vertical position of subtitles, measured from the bottom of the s
 msgstr ""
 
 msgid "Set to yes for debugging the root cause of a spinner."
+msgstr ""
+
+msgid "Sets the root directory of movie list, to remove the '..' from being shown in that folder."
 msgstr ""
 
 msgid "Setup mode"
@@ -16552,6 +16484,9 @@ msgstr ""
 msgid "Show event-progress in channel selection"
 msgstr ""
 
+msgid "Show extended description"
+msgstr ""
+
 msgid "Show firmware in plugin browser"
 msgstr ""
 
@@ -16565,6 +16500,12 @@ msgid "Show glibc-gconv in plugin browser"
 msgstr ""
 
 msgid "Show gstreamer1.0-plugins in plugin browser"
+msgstr ""
+
+msgid "Show icon for new/unseen items"
+msgstr ""
+
+msgid "Show image items"
 msgstr ""
 
 msgid "Show in Standby"
@@ -16582,16 +16523,25 @@ msgstr ""
 msgid "Show kernel-module in plugin browser"
 msgstr ""
 
+msgid "Show live tv when movie stopped"
+msgstr ""
+
 msgid "Show menu or plugin numbers"
 msgstr ""
 
 msgid "Show message when recording starts"
 msgstr ""
 
+msgid "Show movie lengths in movie list"
+msgstr ""
+
 msgid "Show movie lengths in movielist"
 msgstr ""
 
 msgid "Show mtd-utils in plugin browser"
+msgstr ""
+
+msgid "Show or hide the extended description, (skin dependant)."
 msgstr ""
 
 msgid "Show packagegroup-base in plugin browser"
@@ -16610,6 +16560,9 @@ msgid "Show picons in channel selection list"
 msgstr ""
 
 msgid "Show picons in display"
+msgstr ""
+
+msgid "Show picons in the movie list."
 msgstr ""
 
 msgid "Show positioner movement"
@@ -16645,6 +16598,9 @@ msgstr ""
 msgid "Show softcam setup in extensions menu"
 msgstr ""
 
+msgid "Show status icons in movie list"
+msgstr ""
+
 msgid "Show status icons in movielist"
 msgstr ""
 
@@ -16666,6 +16622,9 @@ msgstr ""
 msgid "Show tzdata in plugin browser"
 msgstr ""
 
+msgid "Show underline characters in filenames"
+msgstr ""
+
 msgid "Show util-linux in plugin browser"
 msgstr ""
 
@@ -16675,7 +16634,16 @@ msgstr ""
 msgid "Shows live tv or informations on LCD."
 msgstr ""
 
+msgid "Shows the icons when new/unseen, otherwise it will not show an icon."
+msgstr ""
+
+msgid "Shows the watched status of the movie."
+msgstr ""
+
 msgid "Slow motion speeds"
+msgstr ""
+
+msgid "Sort Trash by deletion time"
 msgstr ""
 
 msgid "Sort order for help screen"
@@ -16703,6 +16671,12 @@ msgid "Startup the set top box in standby"
 msgstr ""
 
 msgid "Startup to Standby"
+msgstr ""
+
+msgid "Stop previous broadcasted service on return to movie list."
+msgstr ""
+
+msgid "Stop service on return to movie list"
 msgstr ""
 
 msgid "Subtitle alignment"
@@ -16742,6 +16716,12 @@ msgid "Switch on the display during Suspend Mode"
 msgstr ""
 
 msgid "Switch on the display during operation."
+msgstr ""
+
+msgid "TEXT button"
+msgstr ""
+
+msgid "TV button"
 msgstr ""
 
 msgid "Teletext CleanAlgo (resolution reset algorithm)"
@@ -16816,6 +16796,9 @@ msgstr ""
 msgid "The width of the picture. The input will be scaled to match this value."
 msgstr ""
 
+msgid "This allows you change the font size relative to skin size, so 1 increases by 1 point size, and -1 decreases by 1 point size"
+msgstr ""
+
 msgid "This allows you to set the number of digits you can input when selecting channels using number input."
 msgstr ""
 
@@ -16870,7 +16853,7 @@ msgstr ""
 msgid "This option allows you to show the full screen path leading to the current screen."
 msgstr ""
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -16933,6 +16916,12 @@ msgstr ""
 msgid "Use Virgin EPG information when it is available."
 msgstr ""
 
+msgid "Use adaptive date display"
+msgstr ""
+
+msgid "Use individual settings for each directory"
+msgstr ""
+
 msgid "Use original DVB subtitle position"
 msgstr ""
 
@@ -16945,7 +16934,21 @@ msgstr ""
 msgid "Use separate picon pack for front panel display"
 msgstr ""
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+msgid "Use slim screen"
+msgstr ""
+
+msgid "Use the alternative screen"
+msgstr ""
+
+msgid ""
+"Use the deletion time to sort Trash directories.\n"
+"Most recently deleted at the top."
+msgstr ""
+
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgstr ""
+
+msgid "Use trash can in movie list"
 msgstr ""
 
 msgid "Use trash can in movielist"
@@ -17026,6 +17029,9 @@ msgstr ""
 msgid "When enabled, continue to the next bouquet when the last channel of the current bouquet is reached while changing channels."
 msgstr ""
 
+msgid "When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately."
+msgstr ""
+
 msgid "When enabled, encryption info will be shown in the infobar (when supported by the skin)."
 msgstr ""
 
@@ -17057,6 +17063,9 @@ msgid "When enabled, it will automatically play to the last saved radio service 
 msgstr ""
 
 msgid "When enabled, measure power consumption to detect when the rotor stops turning (when supported by the tuner)."
+msgstr ""
+
+msgid "When enabled, network trash cans are probed for cleaning."
 msgstr ""
 
 msgid "When enabled, number markers will be hidden."
@@ -17099,6 +17108,9 @@ msgid "When enabled, the infobar will be displayed when skipping forwards/backwa
 msgstr ""
 
 msgid "When enabled, the lenght of each recording will be shown in the movielist (this might cause some additional loading time)."
+msgstr ""
+
+msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr ""
 
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
@@ -17194,6 +17206,15 @@ msgstr ""
 msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
 msgstr ""
 
+msgid "When set the PIG will return to live after a movie has stopped playing."
+msgstr ""
+
+msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
+msgstr ""
+
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgstr ""
+
 msgid "When the input cursor reaches this point (percentage of the width, from either side) scroll the text to the cursor."
 msgstr ""
 
@@ -17225,6 +17246,9 @@ msgid "With this option you can switch the LED fade."
 msgstr ""
 
 msgid "Wizard Setup"
+msgstr ""
+
+msgid "YELLOW button"
 msgstr ""
 
 msgid "Yellow DVB subtitles"

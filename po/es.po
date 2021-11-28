@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 06:23+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -66,9 +66,6 @@ msgid ""
 msgstr ""
 "\n"
 "Temporizador ‘%s’ desactivado!"
-
-msgid " "
-msgstr ""
 
 msgid "  Default: 0000 (disabled)"
 msgstr "  Por Defecto: 0000 (desactivado)"
@@ -1830,7 +1827,8 @@ msgstr "Activo"
 msgid "Adapter settings"
 msgstr "Ajustes del adaptador"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
+#, fuzzy
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr "La visualización adaptable de la fecha permite que las fechas recientes se muestren como 'Hoy' o 'Ayer'. Oculta el año para las grabaciones realizadas este año. Oculta el día de la semana para las grabaciones realizadas en años anteriores."
 
 msgid "Add"
@@ -2088,6 +2086,10 @@ msgstr "Permitir modos no compatibles"
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Permite usar el mando a distancia del televisor para controlar el receptor."
 
+#, fuzzy
+msgid "Allows you to assign the selected function to the this button."
+msgstr "Le permite ocultar archivo completos con extensión .jpg, para tener lista sólo con películas, salga de la lista, espere unos segundos y vuelve a entrar si se habilita."
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
 msgstr "Le permite habilitar/deshabilitar la visualización de iconos en display."
 
@@ -2096,9 +2098,6 @@ msgstr "Le permite ocultar archivo completos con extensión .jpg, para tener lis
 
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
 msgstr "Le permite establecer un horario para importar la EPG y la lista de canales. La EPG y la lista de canales siempre se importarán al reiniciar o al reinicio de la GUI."
-
-msgid "Allows you to setup the button to do what you choose."
-msgstr "Le permite configurar el botón para hacer lo que elija."
 
 #, fuzzy
 msgid "Allows you to show images."
@@ -2622,6 +2621,10 @@ msgstr "BER"
 msgid "BER:"
 msgstr "BER:"
 
+#, fuzzy
+msgid "BLUE button"
+msgstr "Botón"
+
 msgid "BT 2020 CL"
 msgstr "BT 2020 CL"
 
@@ -2838,10 +2841,6 @@ msgstr "Bloquear la reducción de ruido"
 msgid "Blue"
 msgstr "Azúl"
 
-#, fuzzy
-msgid "Blue long"
-msgstr "Azul Prolongado"
-
 msgid "Bolivia"
 msgstr ""
 
@@ -2985,11 +2984,42 @@ msgstr "Burundi"
 msgid "Bus: "
 msgstr "Bus: "
 
-msgid "Button"
-msgstr "Botón"
+msgid "By date, then by name"
+msgstr ""
 
 msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
 msgstr "Por defecto, SNR se mostrará en dB (cuando el sintonizador lo admita). Esta configuración obliga a que SNR se muestre como un porcentaje."
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+#, fuzzy
+msgid "By reverse name, then by date"
+msgstr "por fecha más antigua plano"
+
+msgid "By reverse name, then by reverse date"
+msgstr ""
 
 msgid "Bypass HDMI EDID checking"
 msgstr "Omitir la verificación HDMI EDID"
@@ -3431,17 +3461,20 @@ msgstr "Elige el estilo de los menús principales"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+#, fuzzy
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr "Elija el estilo de formato de visualización para las fechas. 'D' / 'DD' es la fecha y 'M' / 'MM' es el mes en dígitos. ('DD' y 'MM' tienen ceros a la izquierda para valores de un solo dígito). La visualización del display se basará en su elección, pero puede verse influenciada por skin."
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+#, fuzzy
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr "Elija el estilo de formato de visualización para las horas. 'H' / 'HH' es la hora para un reloj de 24 horas, 'h' / 'hh' es la hora para un reloj de 12 horas, 'mm' son los minutos y 'ss' son los segundos. ('HH' y 'hh' tienen ceros a la izquierda para valores de un solo dígito). La visualización del display se basará en su elección, pero puede verse influenciada por skin."
 
 #, fuzzy
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr "Elija el estilo de formato de visualización para las fechas. 'D' / 'DD' es la fecha y 'M' / 'MM' es el mes en dígitos. ('DD' y 'MM' tienen ceros a la izquierda para valores de un solo dígito). La visualización del display se basará en su elección, pero puede verse influenciada por skin."
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+#, fuzzy
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr "Elija el estilo de formato de la pantalla del panel frontal para las horas. 'H' / 'HH' es la hora para un reloj de 24 horas, 'h' / 'hh' es la hora para un reloj de 12 horas, 'mm' son los minutos. ('HH' y 'hh' tienen ceros a la izquierda para valores de un solo dígito). El display se basará en su elección, pero se puede influir en cualquier aspecto aplicable."
 
 msgid "Choose the location for crash and debug logs folder."
@@ -6284,16 +6317,16 @@ msgid "F"
 msgstr "F"
 
 #, fuzzy
-msgid "F1"
-msgstr "1"
+msgid "F1 button"
+msgstr "Botón"
 
 #, fuzzy
-msgid "F2"
-msgstr "2"
+msgid "F2 button"
+msgstr "Botón"
 
 #, fuzzy
-msgid "F3"
-msgstr "3"
+msgid "F3 button"
+msgstr "Botón"
 
 msgid "FAILED"
 msgstr "FALLIDO"
@@ -6611,8 +6644,14 @@ msgstr "Alfabeto plano"
 msgid "Flat by key group on remote"
 msgstr "Plano por tecla en el mando"
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 msgid "Flat by position on remote"
 msgstr "Plano por posición en el mando"
+
+msgid "Flat by reverse name, then by reverse date"
+msgstr ""
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Las siguientes tareas se realizarán después de presionar OK!"
@@ -6764,6 +6803,10 @@ msgstr "G"
 #, fuzzy
 msgid "GCC version"
 msgstr "Versión GCC: "
+
+#, fuzzy
+msgid "GREEN button"
+msgstr "Botón rojo…"
 
 #, fuzzy
 msgid "GStreamer version"
@@ -6981,10 +7024,6 @@ msgstr "Griego"
 
 msgid "Green"
 msgstr "Verde"
-
-#, fuzzy
-msgid "Green long"
-msgstr "Verde Prolongado"
 
 msgid "Greenland"
 msgstr "Greenland"
@@ -8490,6 +8529,18 @@ msgstr "Ajustes Registros"
 msgid "Logs folder location *"
 msgstr "Ubicación de la carpeta de Logs *"
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long filenames"
 msgstr "Nombres largos de archivo"
 
@@ -9103,12 +9154,17 @@ msgstr "Moviendo"
 msgid "Movie List Actions"
 msgstr "Selección de película"
 
-msgid "Movie List Setup"
+#, fuzzy
+msgid "Movie List Context Menu"
 msgstr "Configuración Lista Películas"
 
 #, fuzzy
 msgid "Movie Player Actions"
 msgstr "Selección de película"
+
+#, fuzzy
+msgid "Movie Selection Setup"
+msgstr "Ajustes Selección Región"
 
 msgid "Movie selection"
 msgstr "Selección de película"
@@ -9842,6 +9898,10 @@ msgstr "Encendido"
 msgid "On end of movie"
 msgstr "En final de película"
 
+#, fuzzy
+msgid "On end of movie (As menu)"
+msgstr "En final de película (como menú)"
+
 msgid "On end of movie (as menu)"
 msgstr "En final de película (como menú)"
 
@@ -10313,11 +10373,9 @@ msgstr "Reproducir música…"
 msgid "Play next"
 msgstr "Reproducir siguiente"
 
-msgid "Play next (return to movie list)"
+#, fuzzy
+msgid "Play next in movie list"
 msgstr "Reproducir siguiente (volver a lista de películas)"
-
-msgid "Play next (return to previous service)"
-msgstr "Reproducir siguiente (volver a canal previo)"
 
 msgid "Play previous"
 msgstr "Reproduce anterior"
@@ -11068,6 +11126,10 @@ msgid "Quick zap"
 msgstr "Zapeo rápido"
 
 #, fuzzy
+msgid "RADIO button"
+msgstr "Botón rojo…"
+
+#, fuzzy
 msgid "RAM (Details)"
 msgstr "Detalles TMBD"
 
@@ -11120,6 +11182,10 @@ msgstr "Símbolo REC en reposo"
 
 msgid "REC symbol in use"
 msgstr "Símbolo REC en uso"
+
+#, fuzzy
+msgid "RED button"
+msgstr "Botón rojo…"
 
 msgid "RF Modulator Output Setup"
 msgstr "Ajustes de Salida Modulador RF"
@@ -11287,6 +11353,9 @@ msgstr "Grabaciones"
 msgid "Recordings always have priority"
 msgstr "Las grabaciones siempre tienen prioridad"
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 msgid "Recover"
 msgstr "Recuperar"
 
@@ -11304,10 +11373,6 @@ msgstr "Botón rojo…"
 
 msgid "Red colored"
 msgstr "Coloreado en rojo"
-
-#, fuzzy
-msgid "Red long"
-msgstr "Rojo Prolongado"
 
 msgid "Red/HbbTV Button Actions"
 msgstr "Acciones Botón Rojo/HbbTV"
@@ -13415,6 +13480,10 @@ msgstr "Muestra el estado de su conexión LAN inalámbrica.\n"
 msgid "Shows the watched status of the movie."
 msgstr "Muestra el estado visto de la película."
 
+#, fuzzy
+msgid "Shuffle"
+msgstr "aleatorio"
+
 msgid "Shuffle playlist"
 msgstr "Lista de reproducción aleatoria"
 
@@ -14402,6 +14471,9 @@ msgstr ""
 msgid "TEXT"
 msgstr ""
 
+msgid "TEXT button"
+msgstr ""
+
 msgid "TMBD Details"
 msgstr "Detalles TMBD"
 
@@ -14428,6 +14500,10 @@ msgstr "SINTONIZANDO"
 
 msgid "TV"
 msgstr ""
+
+#, fuzzy
+msgid "TV button"
+msgstr "Botón"
 
 msgid "TV physical address report"
 msgstr "Informe de la dirección física de TV"
@@ -14564,9 +14640,6 @@ msgstr "Brillo / Contraste / Color"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Pantallas de test son útiles para calibrar su pantalla"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text View On"
 msgstr "Vista de texto activada"
@@ -15037,7 +15110,8 @@ msgstr "No hay actualizaciones disponibles."
 msgid "This service is protected by a parental control PIN"
 msgstr "Este canal está protegido por un PIN de control parental"
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+#, fuzzy
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr "Esto establece el número máximo de archivos de registro que se conservarán. Se eliminarán los archivos que superen este número."
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15927,7 +16001,8 @@ msgstr "¿Usar esos ajustes de dispositivo de entrada?"
 msgid "Use these settings?"
 msgstr "¿Usar esos ajustes?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+#, fuzzy
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
 msgstr "Utilice esta opción para seleccionar si se crean registros de depuración de las actividades internas de enigma2 y, de ser así, cuántos detalles se registrarán. Estos registros pueden ser útiles para que los desarrolladores encuentren y solucionen problemas. Desactívelo cuando encuentre lo que busca!!."
 
 msgid "Use this video enhancement settings?"
@@ -16736,8 +16811,9 @@ msgstr "Cuando está configurado, el PIG volverá a vivir después de que una pe
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr "Cuando se establece, cada directorio mostrará el estado anterior utilizado. Cuando está apagado, se mostrarán los valores predeterminados."
 
-msgid "When set, sort changes via the sort key will be permanent."
-msgstr "Cuando se establece, los cambios de clasificación mediante la tecla de clasificación serán permanentes."
+#, fuzzy
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgstr "Cuando se cambia la configuración, los cambios de clasificación serán temporales, solo para esta vista de un directorio."
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
 msgstr "Cuando el contenido tenga una relación de aspecto de 16: 9, elija si desea escalar / estirar la imagen."
@@ -16750,9 +16826,6 @@ msgstr "Cuando el cursor de entrada alcanza este punto (porcentaje del ancho, de
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
 msgstr "Cuando el receptor se despierta del modo de espera o del modo de espera profundo, enviará un comando al televisor para que también salga del modo de espera."
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
-msgstr "Cuando se cambia la configuración, los cambios de clasificación serán temporales, solo para esta vista de un directorio."
 
 msgid "Where to save temporary timeshift recordings?"
 msgstr "¿Dónde guardar las grabaciones timeshift temporales?"
@@ -16860,6 +16933,9 @@ msgstr "YCbCr422"
 msgid "YCbCr444"
 msgstr "YCbCr444"
 
+msgid "YELLOW button"
+msgstr ""
+
 msgid "YES"
 msgstr "SI"
 
@@ -16874,10 +16950,6 @@ msgstr "Amarillo"
 
 msgid "Yellow DVB subtitles"
 msgstr "Subtítulos DVB amarillos"
-
-#, fuzzy
-msgid "Yellow long"
-msgstr "Amarillo Prolongado"
 
 msgid "Yemen"
 msgstr "Yemen"
@@ -17334,18 +17406,6 @@ msgstr "todo"
 msgid "all tuners"
 msgstr "Configuración del sintonizador de respaldo"
 
-msgid "alpha then oldest"
-msgstr "alfabético más antiguo"
-
-msgid "alphabetic"
-msgstr "alfabético"
-
-msgid "alphabetic reverse"
-msgstr "alfabético inverso fecha más antigua"
-
-msgid "alpharev then newest"
-msgstr "alfabético-inverso fecha más reciente"
-
 msgid "always"
 msgstr "siempre"
 
@@ -17434,9 +17494,6 @@ msgstr "abajo"
 
 msgid "broadcasting/press"
 msgstr "difusión/prensa"
-
-msgid "by date"
-msgstr "por fecha más reciente"
 
 msgid "by hmmmdada"
 msgstr ""
@@ -17670,12 +17727,6 @@ msgstr "bellas artes"
 msgid "fitness & health"
 msgstr "ejercicio y salud"
 
-msgid "flat alphabetic"
-msgstr "alfabético fecha más reciente"
-
-msgid "flat alphabetic reverse"
-msgstr "alfabético lista completa inversa"
-
 msgid "folk/traditional music"
 msgstr "música folk/tradicional"
 
@@ -17836,9 +17887,6 @@ msgstr "bloqueado"
 
 msgid "long"
 msgstr "largo"
-
-msgid "longest"
-msgstr "película más larga"
 
 msgid "magazines/reports/documentary"
 msgstr "revista/informe/documental"
@@ -18127,9 +18175,6 @@ msgstr "Restaurar cortes anteriores ..."
 msgid "restore previous cuts & exit"
 msgstr "Restaurar cortes anteriores ..."
 
-msgid "reverse by date"
-msgstr "por fecha más antigua plano"
-
 msgid "rewind to the previous chapter"
 msgstr "rebobinar al capítulo anterior"
 
@@ -18181,9 +18226,6 @@ msgstr "música clásica/seria"
 msgid "serious/classical/religious/historical movie/drama"
 msgstr "drama/clásico/religioso/histórico/serio"
 
-msgid "shortest"
-msgstr "película más corta"
-
 msgid "show DVD main menu"
 msgstr "mostrar menú principal del DVD"
 
@@ -18201,9 +18243,6 @@ msgstr "mostrar administrador de software al pulsar botón azul"
 
 msgid "show/game show (general)"
 msgstr "show/juego (general)"
-
-msgid "shuffle"
-msgstr "aleatorio"
 
 msgid "shut down"
 msgstr "apagar"

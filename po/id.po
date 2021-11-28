@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 06:23+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -61,9 +61,6 @@ msgid ""
 msgstr ""
 "\n"
 "Pewaktu '%s' dimatikan!"
-
-msgid " "
-msgstr ""
 
 #, fuzzy
 msgid "  Default: 0000 (disabled)"
@@ -1824,7 +1821,7 @@ msgstr "Relatif"
 msgid "Adapter settings"
 msgstr "Penyetelan adapter"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -2093,6 +2090,9 @@ msgstr "tidak didukung"
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Gunakan remote kontrol TV"
 
+msgid "Allows you to assign the selected function to the this button."
+msgstr ""
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
 msgstr ""
 
@@ -2100,9 +2100,6 @@ msgid "Allows you to hide the extensions of known file types."
 msgstr ""
 
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
-msgstr ""
-
-msgid "Allows you to setup the button to do what you choose."
 msgstr ""
 
 #, fuzzy
@@ -2650,6 +2647,9 @@ msgstr "BER"
 msgid "BER:"
 msgstr "BER:"
 
+msgid "BLUE button"
+msgstr ""
+
 msgid "BT 2020 CL"
 msgstr ""
 
@@ -2866,10 +2866,6 @@ msgstr "Pengurangan nois blok"
 msgid "Blue"
 msgstr "Biru"
 
-#, fuzzy
-msgid "Blue long"
-msgstr "Biru"
-
 msgid "Bolivia"
 msgstr ""
 
@@ -3019,11 +3015,42 @@ msgstr "Burundi"
 msgid "Bus: "
 msgstr "Bus: "
 
-msgid "Button"
+msgid "By date, then by name"
 msgstr ""
 
 msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
 msgstr "Secara bawaan, SNR akan ditampilkan dalam dB (jika didudukung oleh penala). Sebaliknya penyetelan ini membuat SNR ditampilkan dalam persentase."
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+#, fuzzy
+msgid "By reverse name, then by date"
+msgstr "putarbalik berdasarkan tanggal"
+
+msgid "By reverse name, then by reverse date"
+msgstr ""
 
 msgid "Bypass HDMI EDID checking"
 msgstr "Lewati pemeriksaan HDMI EDID"
@@ -3478,16 +3505,16 @@ msgstr "Tampilkan pemutar media pada menu utama"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -6452,16 +6479,16 @@ msgid "F"
 msgstr "F"
 
 #, fuzzy
-msgid "F1"
-msgstr "1"
+msgid "F1 button"
+msgstr "Tombol merah..."
 
 #, fuzzy
-msgid "F2"
-msgstr "2"
+msgid "F2 button"
+msgstr "Tombol merah..."
 
 #, fuzzy
-msgid "F3"
-msgstr "3"
+msgid "F3 button"
+msgstr "Tombol merah..."
 
 msgid "FAILED"
 msgstr "Gagal"
@@ -6793,9 +6820,15 @@ msgstr "flat alphabetic"
 msgid "Flat by key group on remote"
 msgstr ""
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 #, fuzzy
 msgid "Flat by position on remote"
 msgstr "Letak akhir pada"
+
+msgid "Flat by reverse name, then by reverse date"
+msgstr ""
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Tugas berikut akan dilakukan setelah anda tekan OK!"
@@ -6951,6 +6984,10 @@ msgstr "G"
 #, fuzzy
 msgid "GCC version"
 msgstr "Inversi"
+
+#, fuzzy
+msgid "GREEN button"
+msgstr "Tombol merah..."
 
 #, fuzzy
 msgid "GStreamer version"
@@ -7178,10 +7215,6 @@ msgstr "Yunani"
 
 msgid "Green"
 msgstr "Hijau"
-
-#, fuzzy
-msgid "Green long"
-msgstr "Tanahhijau"
 
 msgid "Greenland"
 msgstr "Tanahhijau"
@@ -8745,6 +8778,18 @@ msgstr "Pengaturan Penggunaan"
 msgid "Logs folder location *"
 msgstr "<Lokasi pewaktu terakhir>"
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long filenames"
 msgstr "Nama berkas panjang"
 
@@ -9391,12 +9436,16 @@ msgid "Movie List Actions"
 msgstr "Pemilihan film"
 
 #, fuzzy
-msgid "Movie List Setup"
+msgid "Movie List Context Menu"
 msgstr "Menu Dafarfilm"
 
 #, fuzzy
 msgid "Movie Player Actions"
 msgstr "Pemilihan film"
+
+#, fuzzy
+msgid "Movie Selection Setup"
+msgstr "Pilihan bahasa"
 
 msgid "Movie selection"
 msgstr "Pemilihan film"
@@ -10149,6 +10198,10 @@ msgstr "Hidup"
 msgid "On end of movie"
 msgstr "Pada akhir film"
 
+#, fuzzy
+msgid "On end of movie (As menu)"
+msgstr "Pada akhir film (sbg menu)"
+
 msgid "On end of movie (as menu)"
 msgstr "Pada akhir film (sbg menu)"
 
@@ -10631,11 +10684,9 @@ msgstr "Mainkan musik..."
 msgid "Play next"
 msgstr "Mainkan berikutnya"
 
-msgid "Play next (return to movie list)"
+#, fuzzy
+msgid "Play next in movie list"
 msgstr "Mainkan berikutnya (kembali ke daftar film)"
-
-msgid "Play next (return to previous service)"
-msgstr "Mainkan berikutnya (kembali ke kanal sebelumnya)"
 
 msgid "Play previous"
 msgstr "Mainkan sebelumnya"
@@ -11413,6 +11464,10 @@ msgstr ""
 msgid "Quick zap"
 msgstr "Zap cepat"
 
+#, fuzzy
+msgid "RADIO button"
+msgstr "Tombol merah..."
+
 msgid "RAM (Details)"
 msgstr ""
 
@@ -11466,6 +11521,10 @@ msgstr "Juga pada standby"
 
 msgid "REC symbol in use"
 msgstr ""
+
+#, fuzzy
+msgid "RED button"
+msgstr "Tombol merah..."
 
 msgid "RF Modulator Output Setup"
 msgstr ""
@@ -11635,6 +11694,9 @@ msgstr "Perekaman"
 msgid "Recordings always have priority"
 msgstr "Rekaman selalu diprioritaskan"
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 #, fuzzy
 msgid "Recover"
 msgstr "Rekam"
@@ -11655,10 +11717,6 @@ msgstr "Tombol merah..."
 
 msgid "Red colored"
 msgstr "Warnai merah"
-
-#, fuzzy
-msgid "Red long"
-msgstr "panjang"
 
 msgid "Red/HbbTV Button Actions"
 msgstr ""
@@ -13884,6 +13942,10 @@ msgstr "Tampilkan keadaan koneksi nirkabel anda.\n"
 msgid "Shows the watched status of the movie."
 msgstr "Tidak ada label diset pada film ini."
 
+#, fuzzy
+msgid "Shuffle"
+msgstr "acak"
+
 msgid "Shuffle playlist"
 msgstr "Putar acak daftarputar"
 
@@ -14913,6 +14975,9 @@ msgstr "Mode RAW T2MI"
 msgid "TEXT"
 msgstr ""
 
+msgid "TEXT button"
+msgstr ""
+
 msgid "TMBD Details"
 msgstr ""
 
@@ -14943,6 +15008,10 @@ msgstr "MENALA"
 
 msgid "TV"
 msgstr ""
+
+#, fuzzy
+msgid "TV button"
+msgstr "Tombol merah..."
 
 msgid "TV physical address report"
 msgstr "Laporan alamat fisik TV"
@@ -15087,9 +15156,6 @@ msgstr "Tes Layar"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Tes layar yg berguna untuk menyetel layar anda"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text View On"
 msgstr "Tampilan Teks Hidup"
@@ -15576,7 +15642,7 @@ msgstr "Tidak ada pembaruan yg tersedia."
 msgid "This service is protected by a parental control PIN"
 msgstr "Layanan ini dilindungi dgn PIN pengawasan orangtua"
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -16487,7 +16553,7 @@ msgstr "Gunakan setelan peralatan input ini?"
 msgid "Use these settings?"
 msgstr "Gunakan setelan ini?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17330,7 +17396,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent."
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -17344,9 +17410,6 @@ msgstr ""
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
 msgstr "Ketika rx bangun dari siaga atau siaga dalam, ia akan mengirim perintah ke TV untuk membangunkannya dari siaga juga."
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
-msgstr ""
 
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Di mana menyimpan rekaman timeshift temporer?"
@@ -17460,6 +17523,9 @@ msgstr ""
 msgid "YCbCr444"
 msgstr ""
 
+msgid "YELLOW button"
+msgstr ""
+
 msgid "YES"
 msgstr "YA"
 
@@ -17474,10 +17540,6 @@ msgstr "Kuning"
 
 msgid "Yellow DVB subtitles"
 msgstr "terjemahan DVB warna kuning"
-
-#, fuzzy
-msgid "Yellow long"
-msgstr "Kuning"
 
 #, fuzzy
 msgid "Yemen"
@@ -17940,18 +18002,6 @@ msgstr "semua"
 msgid "all tuners"
 msgstr "URL penggunaan rx dari jauh"
 
-msgid "alpha then oldest"
-msgstr ""
-
-msgid "alphabetic"
-msgstr "berdasarkan abjad"
-
-msgid "alphabetic reverse"
-msgstr "kebalikan berdasarkan abjad"
-
-msgid "alpharev then newest"
-msgstr ""
-
 msgid "always"
 msgstr "selalu"
 
@@ -18045,9 +18095,6 @@ msgstr "bawah"
 
 msgid "broadcasting/press"
 msgstr "penyiaran/press"
-
-msgid "by date"
-msgstr "berdasarkan tanggal"
 
 msgid "by hmmmdada"
 msgstr ""
@@ -18281,12 +18328,6 @@ msgstr "seni rupa"
 msgid "fitness & health"
 msgstr "kebugaran & kesehatan"
 
-msgid "flat alphabetic"
-msgstr "flat alphabetic"
-
-msgid "flat alphabetic reverse"
-msgstr "flat alphabetic reverse"
-
 msgid "folk/traditional music"
 msgstr "folk/traditional music"
 
@@ -18448,10 +18489,6 @@ msgid "locked"
 msgstr "terkunci"
 
 msgid "long"
-msgstr "panjang"
-
-#, fuzzy
-msgid "longest"
 msgstr "panjang"
 
 msgid "magazines/reports/documentary"
@@ -18751,9 +18788,6 @@ msgstr "mundur ke bab sebelumnya"
 msgid "restore previous cuts & exit"
 msgstr "mundur ke bab sebelumnya"
 
-msgid "reverse by date"
-msgstr "putarbalik berdasarkan tanggal"
-
 msgid "rewind to the previous chapter"
 msgstr "mundur ke bab sebelumnya"
 
@@ -18807,10 +18841,6 @@ msgstr "serious music/classic music"
 msgid "serious/classical/religious/historical movie/drama"
 msgstr "serious/classical/religious/historical movie/drama"
 
-#, fuzzy
-msgid "shortest"
-msgstr "Periksa Jaringan"
-
 msgid "show DVD main menu"
 msgstr "tampilkan menu utama DVD"
 
@@ -18828,9 +18858,6 @@ msgstr "tampilkan pengelola perangkat lunak pada tombol biru"
 
 msgid "show/game show (general)"
 msgstr "show/game show (general)"
-
-msgid "shuffle"
-msgstr "acak"
 
 msgid "shut down"
 msgstr "matikan"

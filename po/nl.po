@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 06:23+0000\n"
+"POT-Creation-Date: 2021-11-28 01:49+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -61,9 +61,6 @@ msgid ""
 msgstr ""
 "\n"
 "Timer '%s' uitgeschakeld!"
-
-msgid " "
-msgstr ""
 
 #, fuzzy
 msgid "  Default: 0000 (disabled)"
@@ -1815,7 +1812,7 @@ msgstr "actief"
 msgid "Adapter settings"
 msgstr "Adapterinstellingen"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.\t It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -2079,6 +2076,9 @@ msgstr "Sta niet ondersteunde video modi toe"
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Indien geactiveerd, dan kiest u ervoor om met de afstandsbediening van de TV de ontvanger te bedienen."
 
+msgid "Allows you to assign the selected function to the this button."
+msgstr ""
+
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
 msgstr ""
 
@@ -2086,9 +2086,6 @@ msgid "Allows you to hide the extensions of known file types."
 msgstr ""
 
 msgid "Allows you to set a schedule to import the EPG and channels list. The EPG and channels list will always be imported on reboot or GUI restart."
-msgstr ""
-
-msgid "Allows you to setup the button to do what you choose."
 msgstr ""
 
 #, fuzzy
@@ -2632,6 +2629,9 @@ msgstr "BER"
 msgid "BER:"
 msgstr "BER:"
 
+msgid "BLUE button"
+msgstr ""
+
 msgid "BT 2020 CL"
 msgstr ""
 
@@ -2846,10 +2846,6 @@ msgstr "Blokruisvermindering"
 msgid "Blue"
 msgstr "Blauw"
 
-#, fuzzy
-msgid "Blue long"
-msgstr "Blauw"
-
 msgid "Bolivia"
 msgstr ""
 
@@ -2996,7 +2992,7 @@ msgstr "Burundi"
 msgid "Bus: "
 msgstr "Bus: "
 
-msgid "Button"
+msgid "By date, then by name"
 msgstr ""
 
 msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
@@ -3004,6 +3000,37 @@ msgstr ""
 "Indien geactiveerd, dan wijzigt (indien mogelijk) de weergave van de signaalwaarde van % naar dB. Weergave in dB werkt enkel indien dit door de tuner wordt ondersteund.\n"
 "\n"
 "N.B. Dit is een relatieve waarde gegenereerd door de betreffende tuner. Vergelijken tussen verschillende type tuners is vaak niet zinvol."
+
+msgid "By description, then by name"
+msgstr ""
+
+msgid "By duration, then by name"
+msgstr ""
+
+msgid "By file size, then by name"
+msgstr ""
+
+msgid "By name, then by date"
+msgstr ""
+
+msgid "By name, then by reverse date"
+msgstr ""
+
+msgid "By reverse date, then by reverse name"
+msgstr ""
+
+msgid "By reverse duration, then by name"
+msgstr ""
+
+msgid "By reverse file size, then by name"
+msgstr ""
+
+#, fuzzy
+msgid "By reverse name, then by date"
+msgstr "Terug op datum"
+
+msgid "By reverse name, then by reverse date"
+msgstr ""
 
 msgid "Bypass HDMI EDID checking"
 msgstr "Sla de HDMI EDID controle over"
@@ -3458,16 +3485,16 @@ msgstr "Mediaplayer op hoofdmenu tonen"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -6576,16 +6603,16 @@ msgid "F"
 msgstr "F"
 
 #, fuzzy
-msgid "F1"
-msgstr "1"
+msgid "F1 button"
+msgstr "Rode toets..."
 
 #, fuzzy
-msgid "F2"
-msgstr "2"
+msgid "F2 button"
+msgstr "Rode toets..."
 
 #, fuzzy
-msgid "F3"
-msgstr "3"
+msgid "F3 button"
+msgstr "Rode toets..."
 
 msgid "FAILED"
 msgstr "MISLUKT"
@@ -6905,9 +6932,15 @@ msgstr "Enkel alfabetisch"
 msgid "Flat by key group on remote"
 msgstr ""
 
+msgid "Flat by name, then by date"
+msgstr ""
+
 #, fuzzy
 msgid "Flat by position on remote"
 msgstr "Eindpositie op"
+
+msgid "Flat by reverse name, then by reverse date"
+msgstr ""
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Nadat u op Ok drukt worden de volgende taken uitgevoerd!"
@@ -7061,6 +7094,10 @@ msgstr "G"
 #, fuzzy
 msgid "GCC version"
 msgstr "Inversie"
+
+#, fuzzy
+msgid "GREEN button"
+msgstr "Rode toets..."
 
 #, fuzzy
 msgid "GStreamer version"
@@ -7283,10 +7320,6 @@ msgstr "Grieks"
 
 msgid "Green"
 msgstr "Groen"
-
-#, fuzzy
-msgid "Green long"
-msgstr "Groenland"
 
 msgid "Greenland"
 msgstr "Groenland"
@@ -8838,6 +8871,18 @@ msgstr "Gebruikersinstellingen"
 msgid "Logs folder location *"
 msgstr "<Laatste timerlocatie>"
 
+msgid "Long BLUE button"
+msgstr ""
+
+msgid "Long GREEN button"
+msgstr ""
+
+msgid "Long RED button"
+msgstr ""
+
+msgid "Long YELLOW button"
+msgstr ""
+
 msgid "Long filenames"
 msgstr "Lange bestandsnamen"
 
@@ -9461,12 +9506,16 @@ msgid "Movie List Actions"
 msgstr "Filmselectie"
 
 #, fuzzy
-msgid "Movie List Setup"
+msgid "Movie List Context Menu"
 msgstr "Opnamelijstmenu"
 
 #, fuzzy
 msgid "Movie Player Actions"
 msgstr "Filmselectie"
+
+#, fuzzy
+msgid "Movie Selection Setup"
+msgstr "Taalkeuze"
 
 msgid "Movie selection"
 msgstr "Filmselectie"
@@ -10214,6 +10263,10 @@ msgstr "Aan"
 msgid "On end of movie"
 msgstr "Op het einde van de opname"
 
+#, fuzzy
+msgid "On end of movie (As menu)"
+msgstr "Aan het einde van de film (conform menu)"
+
 msgid "On end of movie (as menu)"
 msgstr "Aan het einde van de film (conform menu)"
 
@@ -10693,11 +10746,9 @@ msgstr "Muziek afspelen..."
 msgid "Play next"
 msgstr "Volgende afspelen"
 
-msgid "Play next (return to movie list)"
+#, fuzzy
+msgid "Play next in movie list"
 msgstr "Speel volgende (terug naar lijst)"
-
-msgid "Play next (return to previous service)"
-msgstr "Speel volgende (terug naar live TV)"
 
 msgid "Play previous"
 msgstr "Vorige afspelen"
@@ -11493,6 +11544,10 @@ msgstr ""
 msgid "Quick zap"
 msgstr "Snelzap"
 
+#, fuzzy
+msgid "RADIO button"
+msgstr "Rode toets..."
+
 msgid "RAM (Details)"
 msgstr ""
 
@@ -11546,6 +11601,10 @@ msgstr "Tevens bij stand-by"
 
 msgid "REC symbol in use"
 msgstr ""
+
+#, fuzzy
+msgid "RED button"
+msgstr "Rode toets..."
 
 msgid "RF Modulator Output Setup"
 msgstr ""
@@ -11713,6 +11772,9 @@ msgstr "Opnames"
 msgid "Recordings always have priority"
 msgstr "Een opname heeft altijd voorrang"
 
+msgid "Recordings by date, other media by name"
+msgstr ""
+
 #, fuzzy
 msgid "Recover"
 msgstr "Opname"
@@ -11733,10 +11795,6 @@ msgstr "Rode toets..."
 
 msgid "Red colored"
 msgstr "Rood gekleurd"
-
-#, fuzzy
-msgid "Red long"
-msgstr "lang"
 
 msgid "Red/HbbTV Button Actions"
 msgstr ""
@@ -13951,6 +14009,10 @@ msgstr "Geeft de status van uw WiFi verbinding weer.\n"
 msgid "Shows the watched status of the movie."
 msgstr "Geen markeringen geplaatst op deze opnames"
 
+#, fuzzy
+msgid "Shuffle"
+msgstr "Willekeurig"
+
 msgid "Shuffle playlist"
 msgstr "Afspeellijst in willekeurige volgorde"
 
@@ -14959,6 +15021,9 @@ msgstr "T2MI RAW Modus"
 msgid "TEXT"
 msgstr "Tekst"
 
+msgid "TEXT button"
+msgstr ""
+
 msgid "TMBD Details"
 msgstr ""
 
@@ -14990,6 +15055,10 @@ msgstr "AFSTEMMEN"
 
 msgid "TV"
 msgstr ""
+
+#, fuzzy
+msgid "TV button"
+msgstr "Rode toets..."
 
 msgid "TV physical address report"
 msgstr "TV fysiek adres overzicht"
@@ -15135,9 +15204,6 @@ msgstr "Testschermen"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Testschermen waarmee u de weergave van uw scherm kunt optimaliseren"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text View On"
 msgstr "‘Text View On’"
@@ -15637,7 +15703,7 @@ msgstr "Er zijn momenteel geen updates beschikbaar."
 msgid "This service is protected by a parental control PIN"
 msgstr "Dit kanaal is beveiligd met een kinderslot"
 
-msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -16535,7 +16601,7 @@ msgstr "Instellingen voor dit apparaat gebruiken?"
 msgid "Use these settings?"
 msgstr "Deze instellingen gebruiken?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17401,7 +17467,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent."
+msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -17424,9 +17490,6 @@ msgstr ""
 "Indien geactiveerd, dan zal de ontvanger, zodra deze aan gaat, ook de aangesloten TV activeren.\n"
 "\n"
 "Uiteraard enkel indien deze TV HDMI-CEC ondersteunt."
-
-msgid "When unset, sort changes will be temporary - just for this view of a directory."
-msgstr ""
 
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Waar wilt u de tijdelijke timeshift opnames opslaan?"
@@ -17537,6 +17600,9 @@ msgstr ""
 msgid "YCbCr444"
 msgstr ""
 
+msgid "YELLOW button"
+msgstr ""
+
 msgid "YES"
 msgstr "JA"
 
@@ -17551,10 +17617,6 @@ msgstr "Geel"
 
 msgid "Yellow DVB subtitles"
 msgstr "Activeer de gele DVB ondertiteling"
-
-#, fuzzy
-msgid "Yellow long"
-msgstr "Geel"
 
 msgid "Yemen"
 msgstr "Yemen"
@@ -18009,18 +18071,6 @@ msgstr "alles"
 msgid "all tuners"
 msgstr "alle tuners"
 
-msgid "alpha then oldest"
-msgstr ""
-
-msgid "alphabetic"
-msgstr "Alfabetisch"
-
-msgid "alphabetic reverse"
-msgstr "Alfabetisch terug"
-
-msgid "alpharev then newest"
-msgstr ""
-
 msgid "always"
 msgstr "altijd"
 
@@ -18113,9 +18163,6 @@ msgstr "onder"
 
 msgid "broadcasting/press"
 msgstr "feeds/pers"
-
-msgid "by date"
-msgstr "op datum"
 
 msgid "by hmmmdada"
 msgstr ""
@@ -18349,12 +18396,6 @@ msgstr "Fijne kunst"
 msgid "fitness & health"
 msgstr "Fitness & Gezondheid"
 
-msgid "flat alphabetic"
-msgstr "Enkel alfabetisch"
-
-msgid "flat alphabetic reverse"
-msgstr "Enkel alfabetisch achterwaarts"
-
 msgid "folk/traditional music"
 msgstr "Folk/Traditionele muziek"
 
@@ -18514,10 +18555,6 @@ msgid "locked"
 msgstr "locked"
 
 msgid "long"
-msgstr "lang"
-
-#, fuzzy
-msgid "longest"
 msgstr "lang"
 
 msgid "magazines/reports/documentary"
@@ -18814,9 +18851,6 @@ msgstr "terugspoelen naar vorig hoofdstuk"
 msgid "restore previous cuts & exit"
 msgstr "terugspoelen naar vorig hoofdstuk"
 
-msgid "reverse by date"
-msgstr "Terug op datum"
-
 msgid "rewind to the previous chapter"
 msgstr "terugspoelen naar vorig hoofdstuk"
 
@@ -18868,10 +18902,6 @@ msgstr "Serieuze muziek/Klassieke muziek"
 msgid "serious/classical/religious/historical movie/drama"
 msgstr "Serieuze/Klassiek/Religieus/Historische film/Drama"
 
-#, fuzzy
-msgid "shortest"
-msgstr "Netwerktest"
-
 msgid "show DVD main menu"
 msgstr "DVD hoofdmenu weergeven"
 
@@ -18889,9 +18919,6 @@ msgstr "Softwaremanager zichtbaar onder blauwe knop"
 
 msgid "show/game show (general)"
 msgstr "Show/Quiz (Algemeen)"
-
-msgid "shuffle"
-msgstr "Willekeurig"
 
 msgid "shut down"
 msgstr "uitschakelen"
