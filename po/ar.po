@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -1867,7 +1867,7 @@ msgstr "غير فعال"
 msgid "Adapter settings"
 msgstr "إعدادات المحول"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1890,6 +1890,10 @@ msgstr "أضف علامه"
 
 msgid "Add a nameserver entry"
 msgstr "إضافة أسم الخادم المدخل"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "إضافة عنوان جديد"
 
 msgid "Add a new title"
 msgstr "إضافة عنوان جديد"
@@ -1917,6 +1921,10 @@ msgstr "إضافة ملفات إلى قائمة التشغيل"
 
 msgid "Add marker"
 msgstr "إضافة علامة"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "إضافة عنوان جديد"
 
 msgid "Add provider"
 msgstr "إضافة مزود خدمة"
@@ -2953,10 +2961,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "معلومات"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "الوقت الأساسي"
 
@@ -3036,10 +3040,6 @@ msgstr "معلومات"
 #, fuzzy
 msgid "Build Model"
 msgstr "البنية: %s"
-
-#, fuzzy
-msgid "Build information"
-msgstr "معلومات"
 
 #, fuzzy
 msgid "Build information for"
@@ -3264,6 +3264,10 @@ msgstr ""
 
 msgid "Cancel any changed settings and exit all menus"
 msgstr ""
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "حفظ و خروج"
 
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
@@ -3557,16 +3561,16 @@ msgstr "عرض مشغل الوسائط على القائمة الرئيسية"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3799,10 +3803,6 @@ msgstr ""
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "مكتمل"
 
 msgid "Complete"
 msgstr "مكتمل"
@@ -5028,6 +5028,10 @@ msgid "Delete all logfiles"
 msgstr "حذف كل البدائل"
 
 #, fuzzy
+msgid "Delete all tags"
+msgstr "حذف كل البدائل"
+
+#, fuzzy
 msgid "Delete all the text"
 msgstr "حذف قائمة التشغيل المدخلة"
 
@@ -5086,8 +5090,16 @@ msgstr ""
 msgid "Delete the currently displayed log file"
 msgstr "حذف العنوان الحالي المختار"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "حذف المؤقت"
+
 msgid "Delete timer"
 msgstr "حذف المؤقت"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "حذف قائمة التشغيل المحفوظة"
 
 msgid "Deleted"
 msgstr "تم الحذف"
@@ -5388,6 +5400,10 @@ msgstr "عرض معلومات الحدث الأن/القادم في شريط ا�
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "محتوى أبعاد شاشة العرض 4:3"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5452,6 +5468,17 @@ msgstr "هل تريد فعلا مسح %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "هل تريد فعلا مسح %s?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "هل تريد فعلا مسح %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5808,6 +5835,10 @@ msgstr "تعديل"
 
 msgid "Edit DNS"
 msgstr "تعديل أسم النطاق"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "تحرير الاعدادات"
 
 msgid "Edit alternatives"
 msgstr "تعديل البديل"
@@ -6837,9 +6868,6 @@ msgstr "المفضلات"
 
 msgid "Favourites"
 msgstr "المفضلات"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "فيجي"
@@ -7893,30 +7921,7 @@ msgid "Ignore conflict"
 msgstr ""
 
 #, fuzzy
-msgid "Image"
-msgstr "مدير الصور"
-
-#, fuzzy
 msgid "Image View On"
-msgstr "مدير الصور"
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "مدير الصور"
-
-#, fuzzy
-msgid "Image build date"
-msgstr "البنية: %s"
-
-#, fuzzy
-msgid "Image file system"
-msgstr "إنشاء نظام الملفات"
-
-#, fuzzy
-msgid "Image folder"
 msgstr "مدير الصور"
 
 #, python-format
@@ -8442,10 +8447,6 @@ msgid "Kenya"
 msgstr "كينيا"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "حذف الملف"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "لم يتم العثور على الكامة"
 
@@ -8805,6 +8806,10 @@ msgid "Load playlist"
 msgstr "تحميل قائمة العرض"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "أيقاف تسجيل المؤقت"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "تحميل باقات المستخدم الغير مرتبطة"
 
@@ -9003,23 +9008,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 #, fuzzy
 msgid "MMC card"
 msgstr "بطاقة"
 
 msgid "MORE"
-msgstr ""
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
 msgstr ""
 
 msgid "MTU"
@@ -10421,6 +10414,10 @@ msgid "Open main menu"
 msgstr "حماية القائمة الرئيسية"
 
 #, fuzzy
+msgid "Open satellites list"
+msgstr "عرض قائمة القنوات"
+
+#, fuzzy
 msgid "Open select location"
 msgstr "حدد الموقع"
 
@@ -10958,6 +10955,10 @@ msgstr "من فضلك أدخل أسم الدليل الجديد"
 
 msgid "Please enter the new PIN code"
 msgstr "من فضلك أدخل الرقم السري الجديد"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "الرجاء إدخال اسم جديد:"
 
 msgid "Please enter the old PIN code"
 msgstr "الرجاء إدخال الرمز السري القديم"
@@ -12137,6 +12138,10 @@ msgstr "إعادة التسمية"
 msgid "Rename name and description for new events"
 msgstr "إعادة التسمية والوصف للأحداث الجديدة"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "حذف هذه العلامة"
+
 msgid "Repeat"
 msgstr "إعاده"
 
@@ -12164,6 +12169,12 @@ msgstr "إعادات"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "استبدال `-` في الحوارات مع نص ملون في مكبر الصوت (مثل ترجمات السوفت وير لضعاف السمع)"
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr ""
@@ -12394,10 +12405,6 @@ msgstr "الجذر"
 msgid "Root directory"
 msgstr "دليل الملفات"
 
-#, fuzzy
-msgid "Root file"
-msgstr "ملف الترجمة"
-
 msgid "Rose"
 msgstr ""
 
@@ -12619,6 +12626,10 @@ msgstr ""
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "حفظ و خروج"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "حفظ و خروج"
 
 #, fuzzy
@@ -15329,6 +15340,13 @@ msgstr "إعدادات الترجمة"
 msgid "Table of contents for collection"
 msgstr "جدول محتويات المجموعة"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "إختيار المؤقت"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15947,7 +15965,7 @@ msgstr "لا توجد تحديثات متوفرة."
 msgid "This service is protected by a parental control PIN"
 msgstr "هذه القناه محميه برقم سري بواسطه التحكم الأبوي"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -16271,6 +16289,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr ""
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "تبديل علامة القطع في المكان الحالي"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "إغلاق شاشة العرض الصغيرة"
 
@@ -16534,9 +16556,6 @@ msgstr "نوع اللأقط/الجهاز"
 
 msgid "Type of scan"
 msgstr "نوع البحث"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr ""
@@ -16884,7 +16903,7 @@ msgstr "هل تستخدم إعدادات جهاز الإدخال هذه؟"
 msgid "Use these settings?"
 msgstr "إستخدام هذه الإعدادات؟"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17748,7 +17767,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

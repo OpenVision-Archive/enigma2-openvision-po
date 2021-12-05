@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2021-08-02 08:54+0200\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -1824,7 +1824,7 @@ msgstr "aktívne"
 msgid "Adapter settings"
 msgstr "Nastavenie adaptéra"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1847,6 +1847,10 @@ msgstr "Pridať značku"
 
 msgid "Add a nameserver entry"
 msgstr "Pridať nameserver"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Pridať nový titul"
 
 msgid "Add a new title"
 msgstr "Pridať nový titul"
@@ -1874,6 +1878,10 @@ msgstr "Pridať súbory do zoznamu prehrávok"
 
 msgid "Add marker"
 msgstr "Pridať značku"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Pridať nový titul"
 
 msgid "Add provider"
 msgstr "Pridať poskytovateľa"
@@ -2874,10 +2882,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Informácie"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Čas štartu"
 
@@ -2957,10 +2961,6 @@ msgstr "Informácie"
 #, fuzzy
 msgid "Build Model"
 msgstr "Dátum buildu: "
-
-#, fuzzy
-msgid "Build information"
-msgstr "Informácie"
 
 #, fuzzy
 msgid "Build information for"
@@ -3200,6 +3200,10 @@ msgstr "Zrušiť všetky textové zmeny a ukončiť"
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
 msgstr "Zrušiť všetky zmeny aktívneho vzhľadu a opustiť menu"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Zrušiť všetky textové zmeny a ukončiť"
 
 #, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3479,16 +3483,16 @@ msgstr "Zobrazovať prehrávač médií v hlavnom menu"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3716,10 +3720,6 @@ msgstr "Compact Flash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Kompletné"
 
 msgid "Complete"
 msgstr "Kompletné"
@@ -4880,6 +4880,10 @@ msgstr "Odstrániť všetky log súbory"
 msgid "Delete all logfiles"
 msgstr "Odstrániť všetky log súbory"
 
+#, fuzzy
+msgid "Delete all tags"
+msgstr "Odstrániť všetky log súbory"
+
 msgid "Delete all the text"
 msgstr "Vymazať všetok text"
 
@@ -4939,8 +4943,16 @@ msgstr "Vymazať znak pod kurzorom"
 msgid "Delete the currently displayed log file"
 msgstr "Odstrániť aktuálne zvolený titul"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Vymazať image"
+
 msgid "Delete timer"
 msgstr "Zmazať časovač"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Zmazať uložený zoznam prehrávok"
 
 msgid "Deleted"
 msgstr "Zmazané"
@@ -5230,6 +5242,10 @@ msgstr "Zobraziť aktuálne/nasledujúce EPG na informačnej lište"
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Obraz 4:3 zobraziť ako"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5288,6 +5304,17 @@ msgstr "Naozaj chcete zmazať %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Naozaj chcete zmazať %s?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Naozaj chcete zmazať %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5631,6 +5658,10 @@ msgstr "Upraviť"
 
 msgid "Edit DNS"
 msgstr "Upraviť DNS"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Upraviť nastavenia"
 
 msgid "Edit alternatives"
 msgstr "Upraviť alternatívy"
@@ -6624,9 +6655,6 @@ msgstr "Obľúbené"
 
 msgid "Favourites"
 msgstr "Obľúbené"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Fidži"
@@ -7636,31 +7664,8 @@ msgstr "Ignorovať DVB-T namespace sub network"
 msgid "Ignore conflict"
 msgstr "Ignorovať konflikt"
 
-#, fuzzy
-msgid "Image"
-msgstr "Image: "
-
 msgid "Image View On"
 msgstr "Image View On"
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Image: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Dátum buildu: "
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Vytváram systém súborov"
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Image: "
 
 #, python-format
 msgid ""
@@ -8175,10 +8180,6 @@ msgid "Kenya"
 msgstr "Keňa"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "Zmazať súbor"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "modul nenájdený"
 
@@ -8532,6 +8533,10 @@ msgid "Load playlist"
 msgstr "Otvoriť zoznam prehrávok"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Zastaviť časovač nahrávania"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Načítať neprepojené prehľady"
 
@@ -8728,23 +8733,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
 msgstr "Karta MMC"
 
 msgid "MORE"
 msgstr "VIAC"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -10094,6 +10087,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Chrániť hlavné menu"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Zobraziť zoznam satelitov"
+
 msgid "Open select location"
 msgstr "Otvoriť voľbu umiestnenia"
 
@@ -10618,6 +10615,10 @@ msgstr "Prosím, zadajte názov nového adresára"
 
 msgid "Please enter the new PIN code"
 msgstr "Prosím, zadajte nový PIN kód"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Prosím, zadajte nový názov:"
 
 msgid "Please enter the old PIN code"
 msgstr "Prosím, zadajte starý PIN kód"
@@ -11768,6 +11769,10 @@ msgstr "Premenovať stanicu"
 msgid "Rename name and description for new events"
 msgstr "Premenujte názov a popis pre nové relácie"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "odstrániť túto značku"
+
 msgid "Repeat"
 msgstr "Opakovať"
 
@@ -11793,6 +11798,12 @@ msgstr "Opakovania"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Vymeniť `-` v dialógoch s farebne odlíšeným textom rečníka (podobne ako teletextové titulky pre sluchovo hendikepovaných)"
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr ""
@@ -12008,10 +12019,6 @@ msgstr "Root"
 
 msgid "Root directory"
 msgstr "Koreňový adresár"
-
-#, fuzzy
-msgid "Root file"
-msgstr "SRT file"
 
 msgid "Rose"
 msgstr ""
@@ -12231,6 +12238,10 @@ msgstr "Uložiť nastavenia a EPG údaje"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Uložiť / Vložiť text a ukončiť"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Uložiť / Vložiť text a ukončiť"
 
 msgid "Save and activate the currently selected skin"
@@ -14800,6 +14811,13 @@ msgstr "TXT titulky a jazyk"
 msgid "Table of contents for collection"
 msgstr "Obsah kompilácie"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Výber časovača"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15411,7 +15429,7 @@ msgstr "Nie sú dostupné žiadne aktualizácie."
 msgid "This service is protected by a parental control PIN"
 msgstr "Táto stanica je chránená rodičovskou kontrolou"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15718,6 +15736,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Prepnúť vkladanie nového vloženého textu alebo prepísať existujúci text"
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Prepnúť strihovú značku na tejto pozícii"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Zapnúť obrazovku"
 
@@ -15973,9 +15995,6 @@ msgstr "Typ LNB/zariadenia"
 
 msgid "Type of scan"
 msgstr "Druh vyhľadávania"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr "NEZNÁME"
@@ -16304,7 +16323,7 @@ msgstr "Použiť tieto nastavenia vstupného zariadenia?"
 msgid "Use these settings?"
 msgstr "Použiť tieto nastavenia?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17133,7 +17152,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

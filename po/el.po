@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -1781,7 +1781,7 @@ msgstr "ενεργό"
 msgid "Adapter settings"
 msgstr "Ρυθμίσεις προσαρμογέα δικτύου"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1804,6 +1804,10 @@ msgstr "Προσθήκη σημαδιού"
 
 msgid "Add a nameserver entry"
 msgstr "Προσθήκη διακομιστή ονομάτων"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Προσθήκη νέου τίτλου"
 
 msgid "Add a new title"
 msgstr "Προσθήκη νέου τίτλου"
@@ -1831,6 +1835,10 @@ msgstr "Προσθήκη αρχείων στη λίστα αναπαραγωγή
 
 msgid "Add marker"
 msgstr "Προσθήκη σημειωτή"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Προσθήκη νέου τίτλου"
 
 msgid "Add provider"
 msgstr "Προσθήκη παρόχου"
@@ -2815,10 +2823,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Πληροφορίες εκκίνησης"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Ώρα κατά την εκκίνηση"
 
@@ -2898,10 +2902,6 @@ msgstr "Πληροφορίες"
 #, fuzzy
 msgid "Build Model"
 msgstr "Ημερομηνία δημιουργίας: "
-
-#, fuzzy
-msgid "Build information"
-msgstr "Πληροφορίες"
 
 #, fuzzy
 msgid "Build information for"
@@ -3140,6 +3140,10 @@ msgstr "Ακύρωση όλων των αλλαγών κειμένου και έ
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
 msgstr "Ακύρωση αλλαγών στο τρέχον θέμα και έξοδος όλων των μενού"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Ακύρωση όλων των αλλαγών κειμένου και έξοδος"
 
 #, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3419,16 +3423,16 @@ msgstr "Εμφάνιση της αναπαραγωγής πολυμέσων στ
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3656,10 +3660,6 @@ msgstr "Compact Flash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Πλήρης"
 
 msgid "Complete"
 msgstr "Πλήρης"
@@ -4819,6 +4819,10 @@ msgstr "Διαγραφή όλων των αρχείων καταγραφής"
 msgid "Delete all logfiles"
 msgstr "Διαγραφή όλων των αρχείων καταγραφής"
 
+#, fuzzy
+msgid "Delete all tags"
+msgstr "Διαγραφή όλων των αρχείων καταγραφής"
+
 msgid "Delete all the text"
 msgstr "Διαγραφή όλου του κειμένου"
 
@@ -4878,8 +4882,16 @@ msgstr "Διαγραφή του χαρακτήρα κάτω από τον κέρ
 msgid "Delete the currently displayed log file"
 msgstr "Διαγραφή επιλεγμένου τίτλου"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Διαγραφή image"
+
 msgid "Delete timer"
 msgstr "Διαγραφή χρονοδιακόπτη"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Διαγραφή αποθηκευμένης λίστας αναπαραγωγής"
 
 msgid "Deleted"
 msgstr "Διαγραμμένα"
@@ -5165,6 +5177,10 @@ msgstr "Εμφάνιση ΕΙΤ τρέχον/επόμενο στη μπάρα π
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Εμφάνιση περιεχομένου 4:3 ως"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5223,6 +5239,17 @@ msgstr "Θέλετε σίγουρα να γίνει διαγραφή του %s;"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Θέλετε σίγουρα να γίνει διαγραφή του %s;"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Θέλετε σίγουρα να γίνει διαγραφή του %s;"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5556,6 +5583,10 @@ msgstr "Επεξεργασία"
 
 msgid "Edit DNS"
 msgstr "Επεξεργασία DNS"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Επεξεργασία ρυθμίσεων"
 
 msgid "Edit alternatives"
 msgstr "Επεξεργασία εναλλακτικών"
@@ -6549,9 +6580,6 @@ msgstr "Αγαπημένα"
 
 msgid "Favourites"
 msgstr "Αγαπημένα"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Φίτζι"
@@ -7561,31 +7589,8 @@ msgstr "Αγνόηση του υπο-δικτύου στον χώρο ονόμα
 msgid "Ignore conflict"
 msgstr "Αγνόηση διένεξης"
 
-#, fuzzy
-msgid "Image"
-msgstr "Λογισμικό δέκτη: "
-
 msgid "Image View On"
 msgstr "Επισκόπηση εικόνας ενεργή"
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Λογισμικό δέκτη: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Ημερομηνία δημιουργίας: "
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Δημιουργίας συστήματος αρχείων"
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Λογισμικό δέκτη: "
 
 #, python-format
 msgid ""
@@ -8100,10 +8105,6 @@ msgid "Kenya"
 msgstr "Κένυα"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "Διαγραφή αρχείου"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "δεν βρέθηκε άρθρωμα"
 
@@ -8456,6 +8457,10 @@ msgid "Load playlist"
 msgstr "Φόρτωση λίστας αναπαραγωγής"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Διακοπή εγγραφής χρονοδιακόπτη"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Φόρτωση ασύνδετων μπουκέτων χρήστη"
 
@@ -8652,23 +8657,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
 msgstr "Κάρτα MMC"
 
 msgid "MORE"
 msgstr "ΠΕΡΙΣΣΟΤΕΡΑ"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -10014,6 +10007,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Προστασία κύριου μενού"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Εμφάνιση λίστας δορυφόρων"
+
 msgid "Open select location"
 msgstr "Άνοιγμα επιλεγμένης θέσης"
 
@@ -10536,6 +10533,10 @@ msgstr "Εισάγετε όνομα νέου φάκελου"
 
 msgid "Please enter the new PIN code"
 msgstr "Εισαγωγή νέου κωδικού PIN"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Εισάγετε νέο όνομα:"
 
 msgid "Please enter the old PIN code"
 msgstr "Εισάγετε τον παλιό κωδικό PIN"
@@ -11686,6 +11687,10 @@ msgstr "Μετονομασία στοιχείου"
 msgid "Rename name and description for new events"
 msgstr "Αλλαγή ονόματος και περιγραφής για νέα προγράμματα"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "διαγραφή αυτού του σημειωτή"
+
 msgid "Repeat"
 msgstr "Επανάληψη"
 
@@ -11711,6 +11716,12 @@ msgstr "Επαναλήψεις"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Αντικατάσταση του `- ` στους διαλόγους με χρωματιστό κείμενο ανά ομιλούντα (όπως στους υπότιτλους τηλεκειμένου για άτομα με προβλήματα ακοής)"
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr "Αντικατάσταση νέων γραμμών στο EPG"
@@ -11925,10 +11936,6 @@ msgstr "Root"
 
 msgid "Root directory"
 msgstr "Αρχικός φάκελος"
-
-#, fuzzy
-msgid "Root file"
-msgstr "αρχείο SRT"
 
 msgid "Rose"
 msgstr ""
@@ -12148,6 +12155,10 @@ msgstr "Αποθήκευση ρυθμίσεων και δεδομένων EPG"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Αποθήκευση / Εισαγωγή κειμένου και έξοδος"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Αποθήκευση / Εισαγωγή κειμένου και έξοδος"
 
 msgid "Save and activate the currently selected skin"
@@ -14710,6 +14721,13 @@ msgstr "Σελίδα υποτίτλων TXT & γλώσσα"
 msgid "Table of contents for collection"
 msgstr "Πίνακας περιεχομένων για συλλογή"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Επιλογή χρονοδιακόπτη"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15321,7 +15339,7 @@ msgstr "Δεν υπάρχουν διαθέσιμες ενημερώσεις."
 msgid "This service is protected by a parental control PIN"
 msgstr "Αυτή η υπηρεσία προστατεύεται με γονικό κωδικό PIN"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15626,6 +15644,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Εναλλαγή νέων εισαγωγών κειμένου πριν ή αντικατάσταση υπάρχοντος κειμένου"
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Δημιουργία σημειωτή αποκοπής στην τρέχουσα θέση"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Ενεργοποίηση οθόνης πρόσοψης"
 
@@ -15879,9 +15901,6 @@ msgstr "Τύπος LNB/συσκευής"
 
 msgid "Type of scan"
 msgstr "Τύπος ανίχνευσης"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr "ΑΓΝΩΣΤΟ"
@@ -16209,7 +16228,7 @@ msgstr "Χρήση αυτών των ρυθμίσεων συσκευής εισ�
 msgid "Use these settings?"
 msgstr "Χρήση αυτών των ρυθμίσεων;"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17037,7 +17056,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

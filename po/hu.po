@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -1810,7 +1810,7 @@ msgstr "aktív"
 msgid "Adapter settings"
 msgstr "Adapter beállításai"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1833,6 +1833,10 @@ msgstr "Jelző hozzáadása"
 
 msgid "Add a nameserver entry"
 msgstr "Névszerver hozzáadása"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Új cím hozzáadása"
 
 msgid "Add a new title"
 msgstr "Új cím hozzáadása"
@@ -1860,6 +1864,10 @@ msgstr "Fájlok hozzáadása a lejátszási listához"
 
 msgid "Add marker"
 msgstr "Marker hozzáadása"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Új cím hozzáadása"
 
 msgid "Add provider"
 msgstr "Szolgáltató hozzáadása"
@@ -2858,10 +2866,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Információk"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Betöltési idő"
 
@@ -2941,10 +2945,6 @@ msgstr "Információk"
 #, fuzzy
 msgid "Build Model"
 msgstr "Képfájl dátuma: "
-
-#, fuzzy
-msgid "Build information"
-msgstr "Információk"
 
 #, fuzzy
 msgid "Build information for"
@@ -3184,6 +3184,10 @@ msgstr "Szöveg változások elvetése és kilépés"
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
 msgstr "A jelenleg aktív kinézet változtatásainak elvetése és kilépés"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Szöveg változások elvetése és kilépés"
 
 #, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3463,16 +3467,16 @@ msgstr "Médialejátszó megjelenítése a főmenüben"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3700,10 +3704,6 @@ msgstr "Compact Flash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Kész"
 
 msgid "Complete"
 msgstr "Kész"
@@ -4862,6 +4862,10 @@ msgstr "Hibanaplók eltávolítása"
 msgid "Delete all logfiles"
 msgstr "Hibanaplók eltávolítása"
 
+#, fuzzy
+msgid "Delete all tags"
+msgstr "Hibanaplók eltávolítása"
+
 msgid "Delete all the text"
 msgstr "Minden szöveg törlése"
 
@@ -4921,8 +4925,16 @@ msgstr "A kurzor alatti karakter törlése"
 msgid "Delete the currently displayed log file"
 msgstr "Kijelölt címek eltávolítása"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Image törlése"
+
 msgid "Delete timer"
 msgstr "Időzítő törlése"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Mentett lejátszási lista törlése"
 
 msgid "Deleted"
 msgstr "Törölve"
@@ -5212,6 +5224,10 @@ msgstr "Most/Következik információ EIT-ből származzon"
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "4:3 tartalom megjelenítése"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5270,6 +5286,17 @@ msgstr "Biztos benne, hogy törölni szeretné ezt a tételt: %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Biztos benne, hogy törölni szeretné ezt a tételt: %s?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Biztos benne, hogy törölni szeretné ezt a tételt: %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5610,6 +5637,10 @@ msgstr "Szerkesztés"
 
 msgid "Edit DNS"
 msgstr "DNS módosítása"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Beállítások módosítása"
 
 msgid "Edit alternatives"
 msgstr "Alternatívák módosítása"
@@ -6599,9 +6630,6 @@ msgstr "Kedvencek"
 
 msgid "Favourites"
 msgstr "Kedvencek"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Fidzsi"
@@ -7611,31 +7639,8 @@ msgstr "DVB-T alhálózati azonosító figyelmen kívül hagyása"
 msgid "Ignore conflict"
 msgstr "Hagyja figyelmen kívül az ütközést"
 
-#, fuzzy
-msgid "Image"
-msgstr "Image: "
-
 msgid "Image View On"
 msgstr "Image View On"
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Image: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Képfájl dátuma: "
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Fájlrendszer létrehozása"
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Image: "
 
 #, python-format
 msgid ""
@@ -8150,10 +8155,6 @@ msgid "Kenya"
 msgstr "Kenya"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "Fájl törlése"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "nincs behelyezve modul"
 
@@ -8506,6 +8507,10 @@ msgid "Load playlist"
 msgstr "Lejátszási lista betöltése"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Az időzített felvétel megállítása"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Leválasztott listák betöltése"
 
@@ -8702,23 +8707,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
 msgstr "MMC kártya"
 
 msgid "MORE"
 msgstr "MÉG"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -10070,6 +10063,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Főmenü védelme"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Műholdlista megjelenítése"
+
 msgid "Open select location"
 msgstr "Helyválasztó megnyitása"
 
@@ -10594,6 +10591,10 @@ msgstr "Kérem, adja meg az új mappa nevét"
 
 msgid "Please enter the new PIN code"
 msgstr "Kérem, adja meg az új PIN kódot"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Kérem, adja meg az új nevet:"
 
 msgid "Please enter the old PIN code"
 msgstr "Régi PIN kód"
@@ -11744,6 +11745,10 @@ msgstr "Átnevezés"
 msgid "Rename name and description for new events"
 msgstr "Új események nevének és leírásának szerkesztése"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "e jelzö eltávolítása"
+
 msgid "Repeat"
 msgstr "Ismétlés"
 
@@ -11769,6 +11774,12 @@ msgstr "Ismétlések"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "A párbeszédeknél hangszórónként lecseréli a \"-\" jelet színes szövegre (mint a hallássérült teletext-szöveg esetén)"
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr "Új sor cserélése az EPG-ben"
@@ -11984,10 +11995,6 @@ msgstr "Gyökér"
 
 msgid "Root directory"
 msgstr "Gyökérmappa"
-
-#, fuzzy
-msgid "Root file"
-msgstr "SRT fájl"
 
 msgid "Rose"
 msgstr ""
@@ -12207,6 +12214,10 @@ msgstr "Beállítások és EPG adat mentése"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Szöveg bevitele/mentése és kilépés"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Szöveg bevitele/mentése és kilépés"
 
 msgid "Save and activate the currently selected skin"
@@ -14775,6 +14786,13 @@ msgstr "Teletext-felirat oldal és nyelv"
 msgid "Table of contents for collection"
 msgstr "Gyűjtemény tartalmának táblázata"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Időzítés kiválasztása"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15386,7 +15404,7 @@ msgstr "Nincs elérhető frissítés."
 msgid "This service is protected by a parental control PIN"
 msgstr "Ez a csatorna gyermekzárral védett"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15693,6 +15711,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Az új szöveg a korábbi elé kerüljön, vagy törölje a meglévőt"
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Jelenlegi pozícióra vágási jelet tenni"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Előlapi kijelző"
 
@@ -15948,9 +15970,6 @@ msgstr "LNB/készülék típusa"
 
 msgid "Type of scan"
 msgstr "Keresés típusa"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr "ISMERETLEN"
@@ -16278,7 +16297,7 @@ msgstr "Használhatók ezek a beviteli eszköz beállítások?"
 msgid "Use these settings?"
 msgstr "Ezen beállítások használata?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17105,7 +17124,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1613,6 +1613,9 @@ msgstr ""
 msgid "Add a nameserver entry"
 msgstr ""
 
+msgid "Add a new tag"
+msgstr ""
+
 msgid "Add a new title"
 msgstr ""
 
@@ -1638,6 +1641,9 @@ msgid "Add files to playlist"
 msgstr ""
 
 msgid "Add marker"
+msgstr ""
+
+msgid "Add new tag"
 msgstr ""
 
 msgid "Add provider"
@@ -2441,9 +2447,6 @@ msgstr ""
 msgid "Boot ID"
 msgstr ""
 
-msgid "Boot information"
-msgstr ""
-
 msgid "Boot time"
 msgstr ""
 
@@ -2509,9 +2512,6 @@ msgid "Build Information"
 msgstr ""
 
 msgid "Build Model"
-msgstr ""
-
-msgid "Build information"
 msgstr ""
 
 msgid "Build information for"
@@ -2716,6 +2716,9 @@ msgid "Cancel any changed settings and exit"
 msgstr ""
 
 msgid "Cancel any changed settings and exit all menus"
+msgstr ""
+
+msgid "Cancel any changed tags and exit"
 msgstr ""
 
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3126,9 +3129,6 @@ msgid "Compact flash"
 msgstr ""
 
 msgid "Compatible to use on"
-msgstr ""
-
-msgid "Compiled by"
 msgstr ""
 
 msgid "Complete"
@@ -3844,6 +3844,9 @@ msgstr ""
 msgid "Delete all logfiles"
 msgstr ""
 
+msgid "Delete all tags"
+msgstr ""
+
 msgid "Delete all the text"
 msgstr ""
 
@@ -3895,7 +3898,13 @@ msgstr ""
 msgid "Delete the currently displayed log file"
 msgstr ""
 
+msgid "Delete this tag"
+msgstr ""
+
 msgid "Delete timer"
+msgstr ""
+
+msgid "Delete unused tags"
 msgstr ""
 
 msgid "Deleted"
@@ -4124,6 +4133,9 @@ msgstr ""
 msgid "Display skin"
 msgstr ""
 
+msgid "Display the tags context menu"
+msgstr ""
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -4177,6 +4189,17 @@ msgid "Do you really want to delete %s?"
 msgstr ""
 
 msgid "Do you really want to delete ?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
 msgstr ""
 
 #, python-format
@@ -4454,6 +4477,9 @@ msgid "Edit"
 msgstr ""
 
 msgid "Edit DNS"
+msgstr ""
+
+msgid "Edit Tags"
 msgstr ""
 
 msgid "Edit alternatives"
@@ -5217,9 +5243,6 @@ msgid "Favorites"
 msgstr ""
 
 msgid "Favourites"
-msgstr ""
-
-msgid "Feed URL"
 msgstr ""
 
 msgid "Fiji"
@@ -6057,25 +6080,7 @@ msgstr ""
 msgid "Ignore conflict"
 msgstr ""
 
-msgid "Image"
-msgstr ""
-
 msgid "Image View On"
-msgstr ""
-
-msgid "Image architecture"
-msgstr ""
-
-msgid "Image build"
-msgstr ""
-
-msgid "Image build date"
-msgstr ""
-
-msgid "Image file system"
-msgstr ""
-
-msgid "Image folder"
 msgstr ""
 
 #, python-format
@@ -6456,9 +6461,6 @@ msgstr ""
 msgid "Kenya"
 msgstr ""
 
-msgid "Kernel file"
-msgstr ""
-
 msgid "Kernel module layout"
 msgstr ""
 
@@ -6721,6 +6723,9 @@ msgstr ""
 msgid "Load playlist"
 msgstr ""
 
+msgid "Load tags from the timer and recordings"
+msgstr ""
+
 msgid "Loaded"
 msgstr ""
 
@@ -6851,19 +6856,7 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
-msgstr ""
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
 msgstr ""
 
 msgid "MTU"
@@ -7974,6 +7967,9 @@ msgstr ""
 msgid "Open main menu"
 msgstr ""
 
+msgid "Open satellites list"
+msgstr ""
+
 msgid "Open select location"
 msgstr ""
 
@@ -8385,6 +8381,9 @@ msgid "Please enter the name of the new directory"
 msgstr ""
 
 msgid "Please enter the new PIN code"
+msgstr ""
+
+msgid "Please enter the new tag:"
 msgstr ""
 
 msgid "Please enter the old PIN code"
@@ -9250,6 +9249,9 @@ msgstr ""
 msgid "Rename name and description for new events"
 msgstr ""
 
+msgid "Rename this tag"
+msgstr ""
+
 msgid "Repeat"
 msgstr ""
 
@@ -9269,6 +9271,12 @@ msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
 
 msgid "Repeats"
+msgstr ""
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
 msgstr ""
 
 msgid "Report problems to:"
@@ -9457,9 +9465,6 @@ msgstr ""
 msgid "Root"
 msgstr ""
 
-msgid "Root file"
-msgstr ""
-
 msgid "Rose"
 msgstr ""
 
@@ -9644,6 +9649,9 @@ msgid "Save / Enter text and exit"
 msgstr ""
 
 msgid "Save all changed settings and exit"
+msgstr ""
+
+msgid "Save all changed tags and exit"
 msgstr ""
 
 msgid "Save and activate the currently selected skin"
@@ -11520,6 +11528,12 @@ msgstr ""
 msgid "Table of contents for collection"
 msgstr ""
 
+msgid "Tag Editor"
+msgstr ""
+
+msgid "Tag Editor Actions"
+msgstr ""
+
 msgid "Tagalog"
 msgstr ""
 
@@ -12129,6 +12143,9 @@ msgstr ""
 msgid "Toggle new text inserts before or overwrites existing text"
 msgstr ""
 
+msgid "Toggle selection of the current tag"
+msgstr ""
+
 msgid "Toggle service name display"
 msgstr ""
 
@@ -12346,9 +12363,6 @@ msgid "Type of LNB/device"
 msgstr ""
 
 msgid "Type of scan"
-msgstr ""
-
-msgid "UBINIZE"
 msgstr ""
 
 msgid "UNKNOWN"
@@ -14564,6 +14578,183 @@ msgstr ""
 msgid "zapped"
 msgstr ""
 
+msgid "About"
+msgstr ""
+
+msgid "Automatic scan"
+msgstr ""
+
+msgid "BER"
+msgstr ""
+
+msgid "Benchmark information"
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid "Channellist menu"
+msgstr ""
+
+msgid "Command execution..."
+msgstr ""
+
+msgid "Commit info"
+msgstr ""
+
+msgid "D"
+msgstr ""
+
+msgid "DVB information"
+msgstr ""
+
+msgid "Downloadable plugins"
+msgstr ""
+
+msgid "EPG selection"
+msgstr ""
+
+msgid "Event view"
+msgstr ""
+
+msgid "Event view menu"
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "Fastscan"
+msgstr ""
+
+msgid "Geolocation"
+msgstr ""
+
+msgid "Harddisk"
+msgstr ""
+
+msgid "IPv6 setup"
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Info bar"
+msgstr ""
+
+msgid "Installing software..."
+msgstr ""
+
+msgid "MAC address setup"
+msgstr ""
+
+msgid "MORE"
+msgstr ""
+
+msgid "Manual scan"
+msgstr ""
+
+msgid "Message..."
+msgstr ""
+
+msgid "Movielist menu"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "NOW"
+msgstr ""
+
+msgid "Nameserver setup"
+msgstr ""
+
+msgid "Network configuration..."
+msgstr ""
+
+msgid "Network setup"
+msgstr ""
+
+msgid "Network test..."
+msgstr ""
+
+msgid "Now playing"
+msgstr ""
+
+msgid "NumberZapPicon"
+msgstr ""
+
+msgid "OSD settings"
+msgstr ""
+
+msgid "Open Vision information"
+msgstr ""
+
+msgid "PIN code needed"
+msgstr ""
+
+msgid "Parental control services editor"
+msgstr ""
+
+msgid "PiP setup"
+msgstr ""
+
+msgid "Reception settings"
+msgstr ""
+
+msgid "SNR"
+msgstr ""
+
+msgid "Seek"
+msgstr ""
+
+msgid "Select HDD"
+msgstr ""
+
+msgid "Select a bouquet"
+msgstr ""
+
+msgid "Select a movie"
+msgstr ""
+
+msgid "Select a tuner"
+msgstr ""
+
+msgid "Timer edit"
+msgstr ""
+
+msgid "Timeshift"
+msgstr ""
+
+msgid "Timeshift Live"
+msgstr ""
+
+msgid "Translation:"
+msgstr ""
+
+msgid "Troubleshoot"
+msgstr ""
+
+msgid "UnhandledKey"
+msgstr ""
+
+msgid "VideoMode"
+msgstr ""
+
+msgid "Virtual keyboard"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Welcome..."
+msgstr ""
+
+msgid "config menu"
+msgstr ""
+
+msgid "help..."
+msgstr ""
+
 msgid "AFP"
 msgstr ""
 
@@ -14616,9 +14807,6 @@ msgid "Filesystem Check"
 msgstr ""
 
 msgid "Front Panel Display"
-msgstr ""
-
-msgid "Geolocation"
 msgstr ""
 
 msgid "Images"
@@ -14774,355 +14962,6 @@ msgstr ""
 msgid "uShare"
 msgstr ""
 
-msgid "About"
-msgstr ""
-
-msgid "Automatic scan"
-msgstr ""
-
-msgid "BER"
-msgstr ""
-
-msgid "Benchmark information"
-msgstr ""
-
-msgid "C"
-msgstr ""
-
-msgid "Channellist menu"
-msgstr ""
-
-msgid "Command execution..."
-msgstr ""
-
-msgid "Commit info"
-msgstr ""
-
-msgid "D"
-msgstr ""
-
-msgid "DVB information"
-msgstr ""
-
-msgid "Downloadable plugins"
-msgstr ""
-
-msgid "EPG selection"
-msgstr ""
-
-msgid "Event view"
-msgstr ""
-
-msgid "Event view menu"
-msgstr ""
-
-msgid "Extensions"
-msgstr ""
-
-msgid "Fastscan"
-msgstr ""
-
-msgid "Harddisk"
-msgstr ""
-
-msgid "IPv6 setup"
-msgstr ""
-
-msgid "Index"
-msgstr ""
-
-msgid "Info bar"
-msgstr ""
-
-msgid "Installing software..."
-msgstr ""
-
-msgid "MAC address setup"
-msgstr ""
-
-msgid "MORE"
-msgstr ""
-
-msgid "Manual scan"
-msgstr ""
-
-msgid "Message..."
-msgstr ""
-
-msgid "Movielist menu"
-msgstr ""
-
-msgid "Mute"
-msgstr ""
-
-msgid "NOW"
-msgstr ""
-
-msgid "Nameserver setup"
-msgstr ""
-
-msgid "Network configuration..."
-msgstr ""
-
-msgid "Network setup"
-msgstr ""
-
-msgid "Network test..."
-msgstr ""
-
-msgid "Now playing"
-msgstr ""
-
-msgid "NumberZapPicon"
-msgstr ""
-
-msgid "OSD settings"
-msgstr ""
-
-msgid "Open Vision information"
-msgstr ""
-
-msgid "PIN code needed"
-msgstr ""
-
-msgid "Parental control services editor"
-msgstr ""
-
-msgid "PiP setup"
-msgstr ""
-
-msgid "Reception settings"
-msgstr ""
-
-msgid "SNR"
-msgstr ""
-
-msgid "Seek"
-msgstr ""
-
-msgid "Select HDD"
-msgstr ""
-
-msgid "Select a bouquet"
-msgstr ""
-
-msgid "Select a movie"
-msgstr ""
-
-msgid "Select a tuner"
-msgstr ""
-
-msgid "Timer edit"
-msgstr ""
-
-msgid "Timeshift"
-msgstr ""
-
-msgid "Timeshift Live"
-msgstr ""
-
-msgid "Translation:"
-msgstr ""
-
-msgid "Troubleshoot"
-msgstr ""
-
-msgid "UnhandledKey"
-msgstr ""
-
-msgid "VideoMode"
-msgstr ""
-
-msgid "Virtual keyboard"
-msgstr ""
-
-msgid "Volume"
-msgstr ""
-
-msgid "Welcome..."
-msgstr ""
-
-msgid "config menu"
-msgstr ""
-
-msgid "help..."
-msgstr ""
-
-msgid "Check the internet connection"
-msgstr ""
-
-msgid "Check the internet connection again"
-msgstr ""
-
-msgid "Checking the internet connection"
-msgstr ""
-
-msgid "Do you want to install Plugins?"
-msgstr ""
-
-msgid "Exit the wizard"
-msgstr ""
-
-msgid "Please configure the fallback tuner setup"
-msgstr ""
-
-msgid "Please connect your %s %s (kernel %s) to the internet"
-msgstr ""
-
-msgid "Please set up tuner A"
-msgstr ""
-
-msgid "Please set up tuner B"
-msgstr ""
-
-msgid "Please set up tuner C"
-msgstr ""
-
-msgid "Please set up tuner D"
-msgstr ""
-
-msgid "Please set up tuner E"
-msgstr ""
-
-msgid "Please set up tuner F"
-msgstr ""
-
-msgid "Please set up tuner G"
-msgstr ""
-
-msgid "Please set up tuner H"
-msgstr ""
-
-msgid "Please set up tuner I"
-msgstr ""
-
-msgid "Please set up tuner J"
-msgstr ""
-
-msgid "Please set up tuner Q"
-msgstr ""
-
-msgid "Please set up tuner R"
-msgstr ""
-
-msgid "Please set your time options"
-msgstr ""
-
-msgid ""
-"Please set your time options.\n"
-"\n"
-"Press YELLOW to set the time zone via geolocation."
-msgstr ""
-
-msgid "Please setup the following basic configs!"
-msgstr ""
-
-msgid "Skip internet connection check (disables automatic package installation)"
-msgstr ""
-
-msgid "Speed up the performance"
-msgstr ""
-
-msgid ""
-"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
-"Press OK to start using Open Vision %s-%s"
-msgstr ""
-
-msgid ""
-"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
-"We detected your RC as %s (type %s id %s)"
-msgstr ""
-
-msgid "Use the wizard to set up basic features"
-msgstr ""
-
-msgid ""
-"Welcome to Open Vision %s-%s\n"
-"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
-"Press the OK button on your remote control to move to the next step."
-msgstr ""
-
-msgid "What type of service scan do you want?"
-msgstr ""
-
-msgid "Your %s %s (kernel %s) does not have an internet connection"
-msgstr ""
-
-msgid "EPG Selection"
-msgstr ""
-
-msgid "Enigmalight"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "Graphical EPG"
-msgstr ""
-
-msgid "IMDB Search"
-msgstr ""
-
-msgid "Quick EPG"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
-msgid "TUNER:"
-msgstr ""
-
-msgid "  REC  "
-msgstr ""
-
-msgid " HI "
-msgstr ""
-
-msgid "REC "
-msgstr ""
-
-msgid "E "
-msgstr ""
-
-msgid "F"
-msgstr ""
-
-msgid "G"
-msgstr ""
-
-msgid "H"
-msgstr ""
-
-msgid "I"
-msgstr ""
-
-msgid "J"
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "-"
-msgstr ""
-
-msgid "Rec"
-msgstr ""
-
 msgid "12V output"
 msgstr ""
 
@@ -15132,7 +14971,7 @@ msgstr ""
 msgid "Activate the configured network settings."
 msgstr ""
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Adjust the horizontal position of the letters used for teletext."
@@ -15267,16 +15106,16 @@ msgstr ""
 msgid "Choose style of main menus"
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -16853,7 +16692,7 @@ msgstr ""
 msgid "This option allows you to show the full screen path leading to the current screen."
 msgstr ""
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -16945,7 +16784,7 @@ msgid ""
 "Most recently deleted at the top."
 msgstr ""
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use trash can in movie list"
@@ -17212,7 +17051,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the input cursor reaches this point (percentage of the width, from either side) scroll the text to the cursor."
@@ -17270,6 +17109,181 @@ msgid "Zap key delay for channel number input"
 msgstr ""
 
 msgid "Zap mode"
+msgstr ""
+
+msgid "TUNER:"
+msgstr ""
+
+msgid "EPG Selection"
+msgstr ""
+
+msgid "Graphical EPG"
+msgstr ""
+
+msgid "IMDB Search"
+msgstr ""
+
+msgid "Quick EPG"
+msgstr ""
+
+msgid " HI "
+msgstr ""
+
+msgid "REC "
+msgstr ""
+
+msgid "EasyMedia"
+msgstr ""
+
+msgid "Ext. NumberZap"
+msgstr ""
+
+msgid "Timer+"
+msgstr ""
+
+msgid "Timerlist"
+msgstr ""
+
+msgid "Rec"
+msgstr ""
+
+msgid "Enigmalight"
+msgstr ""
+
+msgid "EtPortal"
+msgstr ""
+
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
+msgid "®"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "E "
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "J"
+msgstr ""
+
+msgid "  REC  "
+msgstr ""
+
+msgid "Check the internet connection"
+msgstr ""
+
+msgid "Check the internet connection again"
+msgstr ""
+
+msgid "Checking the internet connection"
+msgstr ""
+
+msgid "Do you want to install Plugins?"
+msgstr ""
+
+msgid "Exit the wizard"
+msgstr ""
+
+msgid "Please configure the fallback tuner setup"
+msgstr ""
+
+msgid "Please connect your %s %s (kernel %s) to the internet"
+msgstr ""
+
+msgid "Please set up tuner A"
+msgstr ""
+
+msgid "Please set up tuner B"
+msgstr ""
+
+msgid "Please set up tuner C"
+msgstr ""
+
+msgid "Please set up tuner D"
+msgstr ""
+
+msgid "Please set up tuner E"
+msgstr ""
+
+msgid "Please set up tuner F"
+msgstr ""
+
+msgid "Please set up tuner G"
+msgstr ""
+
+msgid "Please set up tuner H"
+msgstr ""
+
+msgid "Please set up tuner I"
+msgstr ""
+
+msgid "Please set up tuner J"
+msgstr ""
+
+msgid "Please set up tuner Q"
+msgstr ""
+
+msgid "Please set up tuner R"
+msgstr ""
+
+msgid "Please set your time options"
+msgstr ""
+
+msgid ""
+"Please set your time options.\n"
+"\n"
+"Press YELLOW to set the time zone via geolocation."
+msgstr ""
+
+msgid "Please setup the following basic configs!"
+msgstr ""
+
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+msgid "Speed up the performance"
+msgstr ""
+
+msgid ""
+"Thank you for using the wizard. Your %s %s (kernel %s) is now ready for use.\n"
+"Press OK to start using Open Vision %s-%s"
+msgstr ""
+
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, press OK.\n"
+"We detected your RC as %s (type %s id %s)"
+msgstr ""
+
+msgid "Use the wizard to set up basic features"
+msgstr ""
+
+msgid ""
+"Welcome to Open Vision %s-%s\n"
+"This start wizard will guide you through the basic setup of your %s %s (kernel %s).\n"
+"Press the OK button on your remote control to move to the next step."
+msgstr ""
+
+msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr ""
 
 msgid "2678400000"

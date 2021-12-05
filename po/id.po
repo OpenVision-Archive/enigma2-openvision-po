@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -1821,7 +1821,7 @@ msgstr "Relatif"
 msgid "Adapter settings"
 msgstr "Penyetelan adapter"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1844,6 +1844,10 @@ msgstr "Tambah penanda"
 
 msgid "Add a nameserver entry"
 msgstr "Tambah entri namaserver"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Tambah judul baru"
 
 msgid "Add a new title"
 msgstr "Tambah judul baru"
@@ -1871,6 +1875,10 @@ msgstr "Tambah berkas-berkas ke daftarputar"
 
 msgid "Add marker"
 msgstr "Tambahkan penanda"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Tambah judul baru"
 
 msgid "Add provider"
 msgstr "Tambah penyedia"
@@ -2890,10 +2898,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Informasi"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Pilah waktu"
 
@@ -2974,10 +2978,6 @@ msgstr "Informasi"
 #, fuzzy
 msgid "Build Model"
 msgstr "Tgl pembuatan:"
-
-#, fuzzy
-msgid "Build information"
-msgstr "Informasi"
 
 #, fuzzy
 msgid "Build information for"
@@ -3217,6 +3217,10 @@ msgstr "Batalkan semua perubahan teks lalu keluar"
 
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
+msgstr "Batalkan semua perubahan teks lalu keluar"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
 msgstr "Batalkan semua perubahan teks lalu keluar"
 
 #, fuzzy
@@ -3505,16 +3509,16 @@ msgstr "Tampilkan pemutar media pada menu utama"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3744,10 +3748,6 @@ msgstr "Compact flash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Selesai"
 
 msgid "Complete"
 msgstr "Selesai"
@@ -4930,6 +4930,10 @@ msgid "Delete all logfiles"
 msgstr "Hapus semua berkaslog"
 
 #, fuzzy
+msgid "Delete all tags"
+msgstr "Hapus semua berkaslog"
+
+#, fuzzy
 msgid "Delete all the text"
 msgstr "Hapus entri daftar putar"
 
@@ -4992,8 +4996,16 @@ msgstr "Hapus karakter di bawah kursor tulisan"
 msgid "Delete the currently displayed log file"
 msgstr "Hapus judul yg saat ini dipilih"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Hapus pewaktu"
+
 msgid "Delete timer"
 msgstr "Hapus pewaktu"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Hapus daftar putar tersimpan"
 
 msgid "Deleted"
 msgstr "Dihapus"
@@ -5290,6 +5302,10 @@ msgstr "Tampilkan EIT sekarang/berikutnya di infobar"
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Tampilkan isi 4:3 sebagai"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5353,6 +5369,17 @@ msgstr "Anda yakin ingin menghapus %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Anda yakin ingin menghapus %s?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Anda yakin ingin menghapus %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5697,6 +5724,10 @@ msgstr "Ubah"
 
 msgid "Edit DNS"
 msgstr "Ubah DNS"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Ubah pengaturan"
 
 msgid "Edit alternatives"
 msgstr "Ubah alternatif"
@@ -6717,9 +6748,6 @@ msgstr "Favorit"
 
 msgid "Favourites"
 msgstr "Favorit"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Fiji"
@@ -7748,30 +7776,7 @@ msgid "Ignore conflict"
 msgstr "Abaikan konflik"
 
 #, fuzzy
-msgid "Image"
-msgstr "Image: "
-
-#, fuzzy
 msgid "Image View On"
-msgstr "Image: "
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Image: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Tgl pembuatan:"
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Membuat sistem berkas"
-
-#, fuzzy
-msgid "Image folder"
 msgstr "Image: "
 
 #, python-format
@@ -8293,10 +8298,6 @@ msgid "Kenya"
 msgstr "Kenya"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "Hapus file"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "Modul tidak ditemukan"
 
@@ -8653,6 +8654,10 @@ msgid "Load playlist"
 msgstr "Muat daftarputar"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Hentikan rekaman pewaktu"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Muat buket pengguna yg tak terhubung"
 
@@ -8851,23 +8856,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
 msgstr "Kartu MMC"
 
 msgid "MORE"
 msgstr "LAGI"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -10250,6 +10243,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Lindungi menu utama"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Tampilkan daftar layanan"
+
 msgid "Open select location"
 msgstr "Buka lokasi yg dipilih"
 
@@ -10778,6 +10775,10 @@ msgstr "Mohon masukkan nama direktori baru"
 
 msgid "Please enter the new PIN code"
 msgstr "Mohon masukkan kode PIN baru"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Mohon masukkan nama baru:"
 
 msgid "Please enter the old PIN code"
 msgstr "Mohon masukkan kode PIN lama"
@@ -11940,6 +11941,10 @@ msgstr "Ubah nama entri"
 msgid "Rename name and description for new events"
 msgstr "Ganti nama dan uraian acara baru"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "hapus penanda ini"
+
 msgid "Repeat"
 msgstr "Ulang"
 
@@ -11965,6 +11970,12 @@ msgstr "Ulang"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Ganti tanda `- ` pada dialog dengan teks berwarna per pembicara (seperti terjemahan teleteks pada tuna rungu)."
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr ""
@@ -12189,10 +12200,6 @@ msgstr ""
 msgid "Root directory"
 msgstr "Direktori root"
 
-#, fuzzy
-msgid "Root file"
-msgstr "bekas SRT"
-
 msgid "Rose"
 msgstr ""
 
@@ -12412,6 +12419,10 @@ msgstr "Simpan setelan dan data EPG"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Masukkan teks lalau keluar"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Masukkan teks lalau keluar"
 
 #, fuzzy
@@ -15026,6 +15037,13 @@ msgstr "Halaman Terjemahan TXT & bhs"
 msgid "Table of contents for collection"
 msgstr "Daftar isi koleksi"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Pilihan pewaktu"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15642,7 +15660,7 @@ msgstr "Tidak ada pembaruan yg tersedia."
 msgid "This service is protected by a parental control PIN"
 msgstr "Layanan ini dilindungi dgn PIN pengawasan orangtua"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15952,6 +15970,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Alihkan teks baru, sisipkan sebelum atau timpa teks yg ada"
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Alihkan tanda potong pada posisi saat ini"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Tampilan daya"
 
@@ -16216,9 +16238,6 @@ msgstr "Tipe LNB/peralatan"
 
 msgid "Type of scan"
 msgstr "Tipe Pelacakan"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr "TAK DIKENAL"
@@ -16553,7 +16572,7 @@ msgstr "Gunakan setelan peralatan input ini?"
 msgid "Use these settings?"
 msgstr "Gunakan setelan ini?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17396,7 +17415,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

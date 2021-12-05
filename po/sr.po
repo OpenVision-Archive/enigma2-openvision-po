@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2011-04-14 00:02+0200\n"
 "Last-Translator: majevica <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
@@ -1917,7 +1917,7 @@ msgstr ""
 msgid "Adapter settings"
 msgstr "Postavke adaptera"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 #
@@ -1947,6 +1947,11 @@ msgstr "Dodaj oznaku"
 #, fuzzy
 msgid "Add a nameserver entry"
 msgstr "Dodaj nejmserver"
+
+#
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Dodaj novi titl"
 
 #
 msgid "Add a new title"
@@ -1986,6 +1991,11 @@ msgstr "dodaj datoteke u plejlistu"
 #
 msgid "Add marker"
 msgstr "Dodaj oznaku"
+
+#
+#, fuzzy
+msgid "Add new tag"
+msgstr "Dodaj novi titl"
 
 #
 #, fuzzy
@@ -3128,11 +3138,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Boot information"
-msgstr "Informacije"
-
-#
-#, fuzzy
 msgid "Boot time"
 msgstr "Vreme sortiranja"
 
@@ -3218,11 +3223,6 @@ msgstr "Informacije"
 #, fuzzy
 msgid "Build Model"
 msgstr "Bit rata:"
-
-#
-#, fuzzy
-msgid "Build information"
-msgstr "Informacije"
 
 #
 #, fuzzy
@@ -3457,6 +3457,9 @@ msgid "Cancel any changed settings and exit"
 msgstr ""
 
 msgid "Cancel any changed settings and exit all menus"
+msgstr ""
+
+msgid "Cancel any changed tags and exit"
 msgstr ""
 
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3769,16 +3772,16 @@ msgstr ""
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -4034,11 +4037,6 @@ msgstr "Kompakt fleš"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#
-#, fuzzy
-msgid "Compiled by"
-msgstr "Kompletno"
 
 #
 msgid "Complete"
@@ -5333,6 +5331,11 @@ msgstr "Obriši datoteku"
 
 #
 #, fuzzy
+msgid "Delete all tags"
+msgstr "Obriši datoteku"
+
+#
+#, fuzzy
 msgid "Delete all the text"
 msgstr "obriši unos plejliste"
 
@@ -5406,8 +5409,18 @@ msgstr ""
 msgid "Delete the currently displayed log file"
 msgstr "Ukloni trenutno odabrani titl"
 
+#
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Obriši datoteku"
+
 msgid "Delete timer"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "obriši sačuvanu plejlistu"
 
 msgid "Deleted"
 msgstr ""
@@ -5736,6 +5749,11 @@ msgstr ""
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Prikaži 4:3 sadržaj kao"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5815,6 +5833,18 @@ msgstr "Jeste li sigurni da želite obrisati %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Jeste li sigurni da želite obrisati %s?"
+
+#
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Jeste li sigurni da želite obrisati %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #
 #, fuzzy, python-format
@@ -6211,6 +6241,11 @@ msgstr "Urediti"
 #
 msgid "Edit DNS"
 msgstr "Urediti DNS"
+
+#
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Urediti postavke"
 
 #
 msgid "Edit alternatives"
@@ -7302,9 +7337,6 @@ msgstr "Favoriti"
 #
 msgid "Favourites"
 msgstr "Favoriti"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr ""
@@ -8410,34 +8442,8 @@ msgstr ""
 msgid "Ignore conflict"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Image"
-msgstr "Fleš"
-
 msgid "Image View On"
 msgstr ""
-
-msgid "Image architecture"
-msgstr ""
-
-msgid "Image build"
-msgstr ""
-
-#
-#, fuzzy
-msgid "Image build date"
-msgstr "Bit rata:"
-
-#
-#, fuzzy
-msgid "Image file system"
-msgstr "Kontrola sistema datoteka"
-
-#
-#, fuzzy
-msgid "Image folder"
-msgstr "Izaberite ciljnu fasciklu"
 
 #, python-format
 msgid ""
@@ -9017,11 +9023,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Kernel file"
-msgstr "Obriši datoteku"
-
-#
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "nema modula "
 
@@ -9427,6 +9428,9 @@ msgstr ""
 msgid "Load playlist"
 msgstr "učitaj plejlistu"
 
+msgid "Load tags from the timer and recordings"
+msgstr ""
+
 msgid "Load unlinked user bouquets"
 msgstr ""
 
@@ -9646,9 +9650,6 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 #
 #, fuzzy
 msgid "MMC card"
@@ -9657,15 +9658,6 @@ msgstr "MMC Kartica"
 #
 msgid "MORE"
 msgstr "VIŠE"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -11217,6 +11209,11 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Glavni meni"
 
+#
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Sateliti"
+
 msgid "Open select location"
 msgstr ""
 
@@ -11807,6 +11804,11 @@ msgstr "Molimo unesite ime novog direktorijuma"
 
 msgid "Please enter the new PIN code"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Molim unesite novo ime datoteke"
 
 msgid "Please enter the old PIN code"
 msgstr "Molim unesite stari PIN kod"
@@ -13140,6 +13142,11 @@ msgstr ""
 msgid "Rename name and description for new events"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Rename this tag"
+msgstr "obriši ovu oznaku"
+
 msgid "Repeat"
 msgstr ""
 
@@ -13170,6 +13177,12 @@ msgid "Repeats"
 msgstr "Ponavljanja"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
+msgstr ""
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
 msgstr ""
 
 msgid "Replace newlines in EPG"
@@ -13429,11 +13442,6 @@ msgstr ""
 msgid "Root directory"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Root file"
-msgstr "Obriši datoteku"
-
 msgid "Rose"
 msgstr ""
 
@@ -13670,6 +13678,9 @@ msgid "Save EPG data"
 msgstr ""
 
 msgid "Save all changed settings and exit"
+msgstr ""
+
+msgid "Save all changed tags and exit"
 msgstr ""
 
 #
@@ -16616,6 +16627,14 @@ msgstr "Izbor subtitlova"
 msgid "Table of contents for collection"
 msgstr "Tabela sadržaja za kolekciju"
 
+msgid "Tag Editor"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Izbor tajmera "
+
 msgid "Tagalog"
 msgstr ""
 
@@ -17240,7 +17259,7 @@ msgstr "Nema dostupnih ažuriranja."
 msgid "This service is protected by a parental control PIN"
 msgstr "Kanal je zaštićen s PIN kodom roditeljske kontrole"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -17597,6 +17616,11 @@ msgstr ""
 msgid "Toggle new text inserts before or overwrites existing text"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "aktiviraj rezanje na trenutno označenoj poziciji"
+
 msgid "Toggle service name display"
 msgstr ""
 
@@ -17899,9 +17923,6 @@ msgstr "Tip skeniranja"
 #
 msgid "Type of scan"
 msgstr "Tip skeniranja"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr ""
@@ -18263,7 +18284,7 @@ msgstr "Koristi postavke ovog ulaznog uređaja?"
 msgid "Use these settings?"
 msgstr "Koristi ove postavke?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 #
@@ -19149,7 +19170,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -1886,7 +1886,7 @@ msgstr "Suhteellinen"
 msgid "Adapter settings"
 msgstr "Sovittimen asetukset"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 #
@@ -1915,6 +1915,11 @@ msgstr "Lisää merkki"
 #
 msgid "Add a nameserver entry"
 msgstr "lisää nimipalvelin"
+
+#
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Lisää uusi tallenne"
 
 #
 msgid "Add a new title"
@@ -1950,6 +1955,11 @@ msgstr "Lisää tiedostot soittolistalle"
 #
 msgid "Add marker"
 msgstr "Lisää väliotsikko"
+
+#
+#, fuzzy
+msgid "Add new tag"
+msgstr "Lisää uusi tallenne"
 
 #
 msgid "Add provider"
@@ -3046,11 +3056,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Boot information"
-msgstr "Tietoja"
-
-#
-#, fuzzy
 msgid "Boot time"
 msgstr "Aikajärj."
 
@@ -3137,11 +3142,6 @@ msgstr "Tietoja"
 #, fuzzy
 msgid "Build Model"
 msgstr "Käännöspäivä: "
-
-#
-#, fuzzy
-msgid "Build information"
-msgstr "Tietoja"
 
 #
 #, fuzzy
@@ -3374,6 +3374,10 @@ msgstr ""
 
 msgid "Cancel any changed settings and exit all menus"
 msgstr ""
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Tallenna teksti ja poistu"
 
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
@@ -3685,16 +3689,16 @@ msgstr "Näytä mediatoistin päävalikossa"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3949,11 +3953,6 @@ msgstr "CompactFlash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#
-#, fuzzy
-msgid "Compiled by"
-msgstr "Täysi"
 
 #
 msgid "Complete"
@@ -5193,6 +5192,11 @@ msgstr "Poista tiedosto"
 
 #
 #, fuzzy
+msgid "Delete all tags"
+msgstr "Poista tiedosto"
+
+#
+#, fuzzy
 msgid "Delete all the text"
 msgstr "Poista soittolistan valittu kohde"
 
@@ -5263,8 +5267,18 @@ msgid "Delete the currently displayed log file"
 msgstr "Poista valittu otsikko"
 
 #
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Poista ohjelmistokuva"
+
+#
 msgid "Delete timer"
 msgstr "Poista ajastus"
+
+#
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Poista tallennettu soittolista"
 
 msgid "Deleted"
 msgstr "Poistettu"
@@ -5597,6 +5611,11 @@ msgstr "Näytä EIT nyt/seuraava tietopalkissa"
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Näytä 4:3 sisältö näin:"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5667,6 +5686,18 @@ msgstr "Haluatko poistaa %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Haluatko poistaa %s?"
+
+#
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Haluatko poistaa %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #
 #, fuzzy, python-format
@@ -6059,6 +6090,11 @@ msgstr "Muokkaa"
 #
 msgid "Edit DNS"
 msgstr "Muuta DNS"
+
+#
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Muokkaa asetuksia"
 
 #
 msgid "Edit alternatives"
@@ -7141,9 +7177,6 @@ msgstr "Suosikit"
 #
 msgid "Favourites"
 msgstr "Suosikit"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Fiji"
@@ -8230,32 +8263,7 @@ msgid "Ignore conflict"
 msgstr ""
 
 #, fuzzy
-msgid "Image"
-msgstr "Ohjelmisto: "
-
-#, fuzzy
 msgid "Image View On"
-msgstr "Ohjelmisto: "
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Ohjelmisto: "
-
-#
-#, fuzzy
-msgid "Image build date"
-msgstr "Käännöspäivä: "
-
-#
-#, fuzzy
-msgid "Image file system"
-msgstr "Luodaan tiedostojärjestelmää"
-
-#, fuzzy
-msgid "Image folder"
 msgstr "Ohjelmisto: "
 
 #, python-format
@@ -8824,11 +8832,6 @@ msgstr "Kenia"
 
 #
 #, fuzzy
-msgid "Kernel file"
-msgstr "Poista tiedosto"
-
-#
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "(ei CA-moduulia)"
 
@@ -9224,6 +9227,11 @@ msgstr "Lataa soittolista"
 
 #
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Pysäytä ajastettu tallennus"
+
+#
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Näytä piilotetut suosikkilistat"
 
@@ -9443,9 +9451,6 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 #
 msgid "MMC card"
 msgstr "MMC-kortti"
@@ -9453,15 +9458,6 @@ msgstr "MMC-kortti"
 #
 msgid "MORE"
 msgstr "LISÄÄ"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -10998,6 +10994,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Suojaa päävalikko"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Avaa kanavalista"
+
 msgid "Open select location"
 msgstr ""
 
@@ -11572,6 +11572,11 @@ msgstr "Syötä uuden hakemiston nimi"
 
 msgid "Please enter the new PIN code"
 msgstr "Syötä uusi PIN-koodi"
+
+#
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Syötä uusi nimi:"
 
 msgid "Please enter the old PIN code"
 msgstr "Syötä vanha PIN-koodi"
@@ -12906,6 +12911,11 @@ msgid "Rename name and description for new events"
 msgstr "Muokkaa nimi ja kuvaus uusille tapahtumille"
 
 #
+#, fuzzy
+msgid "Rename this tag"
+msgstr "Poista tämä merkki"
+
+#
 msgid "Repeat"
 msgstr "Toistokerrat"
 
@@ -12936,6 +12946,12 @@ msgstr "Toistokerrat"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Korvaa `- ` tekstityksissä väreillä samaan tapaan kuin kuulovammaisten tekstityksissä."
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr ""
@@ -13184,10 +13200,6 @@ msgstr "Root"
 msgid "Root directory"
 msgstr "Päähakemisto"
 
-#, fuzzy
-msgid "Root file"
-msgstr "SRT-tiedosto"
-
 msgid "Rose"
 msgstr ""
 
@@ -13426,6 +13438,10 @@ msgstr "Tallenna asetukset ja ohjelmaoppaan tiedot"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Tallenna teksti ja poistu"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Tallenna teksti ja poistu"
 
 #
@@ -16296,6 +16312,14 @@ msgstr ""
 msgid "Table of contents for collection"
 msgstr "Kokoelman sisällysluettelo"
 
+msgid "Tag Editor"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Ajastinvalinta"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -16940,7 +16964,7 @@ msgstr "Päivityksiä ei ole saatavilla."
 msgid "This service is protected by a parental control PIN"
 msgstr "Tämä kanava on suojattu lapsilukolla"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -17287,6 +17311,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr ""
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Vaihda leikkausmerkki nykyiseen kohtaan"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Kanavanimien sijainti"
 
@@ -17580,9 +17608,6 @@ msgstr "LNB/laitteen tyyppi"
 #
 msgid "Type of scan"
 msgstr "Hakutapa"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr ""
@@ -17941,7 +17966,7 @@ msgstr "Käytä näitä syöttölaitteen asetuksia?"
 msgid "Use these settings?"
 msgstr "Käytetäänkö näitä asetuksia?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 #
@@ -18828,7 +18853,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

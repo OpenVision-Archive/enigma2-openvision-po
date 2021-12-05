@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -1690,7 +1690,7 @@ msgstr "активна"
 msgid "Adapter settings"
 msgstr "Поставки за адаптер"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1713,6 +1713,10 @@ msgstr "Додај ознака"
 
 msgid "Add a nameserver entry"
 msgstr "Додај запис на DNS-сервер"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Додај нов наслов"
 
 msgid "Add a new title"
 msgstr "Додај нов наслов"
@@ -1740,6 +1744,10 @@ msgstr "Додај датотеки во плејлиста"
 
 msgid "Add marker"
 msgstr "Додај маркер"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Додај нов наслов"
 
 msgid "Add provider"
 msgstr "Додај провајдер"
@@ -2740,10 +2748,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Информации"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Време за подигнување"
 
@@ -2823,10 +2827,6 @@ msgstr "Информации"
 #, fuzzy
 msgid "Build Model"
 msgstr "Датум на обработка: "
-
-#, fuzzy
-msgid "Build information"
-msgstr "Информации"
 
 #, fuzzy
 msgid "Build information for"
@@ -3066,6 +3066,10 @@ msgstr "Завршете ги сите промени во текстот и о�
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
 msgstr "Врати ги промените на активниот скин и затворете ги сите менија"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Завршете ги сите промени во текстот и откажете"
 
 #, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3345,16 +3349,16 @@ msgstr "Покажи медиа плеер на главното мени"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3582,10 +3586,6 @@ msgstr "Компактен флеш"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Полн"
 
 msgid "Complete"
 msgstr "Полн"
@@ -4746,6 +4746,10 @@ msgstr "Отстрани ги сите лог-датотеки"
 msgid "Delete all logfiles"
 msgstr "Отстрани ги сите лог-датотеки"
 
+#, fuzzy
+msgid "Delete all tags"
+msgstr "Отстрани ги сите лог-датотеки"
+
 msgid "Delete all the text"
 msgstr "Избришете го целиот текст"
 
@@ -4805,8 +4809,16 @@ msgstr "Избришете го знакот под курсорот"
 msgid "Delete the currently displayed log file"
 msgstr "Отстранете го моментално избраниот наслов"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Избриши имиџ"
+
 msgid "Delete timer"
 msgstr "Избришете го тајмерот"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Избришете ја зачуваната плејлиста"
 
 msgid "Deleted"
 msgstr "Избришано"
@@ -5096,6 +5108,10 @@ msgstr "Покажи ЕИТ сега / Следно во лентата за и�
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Прикажи екран 4: 3 како"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5154,6 +5170,17 @@ msgstr "Дали навистина сакате да избришете %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Дали навистина сакате да избришете %s?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Дали навистина сакате да избришете %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5496,6 +5523,10 @@ msgstr "Уреди"
 
 msgid "Edit DNS"
 msgstr "Уредете DNS"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Измени поставки"
 
 msgid "Edit alternatives"
 msgstr "Уредете ги алтернативите"
@@ -6489,9 +6520,6 @@ msgstr "Фаворити"
 
 msgid "Favourites"
 msgstr "Фаворити"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Фиџи"
@@ -7501,31 +7529,8 @@ msgstr "Игнорирај ја под-мрежата со именски про
 msgid "Ignore conflict"
 msgstr "Игнорирај го конфликтот"
 
-#, fuzzy
-msgid "Image"
-msgstr "Имиџ: "
-
 msgid "Image View On"
 msgstr "Прикажи слика"
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Имиџ: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Датум на обработка: "
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Креирај систем на датотеки"
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Имиџ: "
 
 #, python-format
 msgid ""
@@ -8039,10 +8044,6 @@ msgid "Kenya"
 msgstr "Кениа"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "Избриши датотека"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "не е пронајден модул"
 
@@ -8394,6 +8395,10 @@ msgid "Load playlist"
 msgstr "Вчитај ја плејлистата"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Стоп за снимање"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Вчитај неврзани кориснички букети"
 
@@ -8590,23 +8595,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
 msgstr "ММЦ картичка"
 
 msgid "MORE"
 msgstr "ПОВЕЌЕ"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -9956,6 +9949,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Заштитете го главното мени"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Покажи список со сателити"
+
 msgid "Open select location"
 msgstr "Отворете ја избраната локација"
 
@@ -10480,6 +10477,10 @@ msgstr "Внесете го името на новиот директориум"
 
 msgid "Please enter the new PIN code"
 msgstr "Внесете го новиот ПИН-код"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Внесете го новото име:"
 
 msgid "Please enter the old PIN code"
 msgstr "Внесете го стариот ПИН-код"
@@ -11630,6 +11631,10 @@ msgstr "Преименувај го записот"
 msgid "Rename name and description for new events"
 msgstr "Преименувајте го името и описот за нови настани"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "отстранете ја оваа ознака"
+
 msgid "Repeat"
 msgstr "Повтори"
 
@@ -11655,6 +11660,12 @@ msgstr "Повторувања"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Оваа опција го заменува `-` со обоен текст за секој звучник во дијалозите (како со Телетекст превод за оштетен слух).\""
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr ""
@@ -11870,10 +11881,6 @@ msgstr "Роот"
 
 msgid "Root directory"
 msgstr "Главен директориум"
-
-#, fuzzy
-msgid "Root file"
-msgstr "SRT-датотека"
 
 msgid "Rose"
 msgstr ""
@@ -12093,6 +12100,10 @@ msgstr "Зачувај ги поставките и податоците за EP
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Внесете текст и зачувајте, а потоа излезете"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Внесете текст и зачувајте, а потоа излезете"
 
 msgid "Save and activate the currently selected skin"
@@ -14654,6 +14665,13 @@ msgstr "Страница за преводи на TXT и јазик"
 msgid "Table of contents for collection"
 msgstr "Содржина на компилацијата"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Избор на тајмер"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15259,7 +15277,7 @@ msgstr "Нема достапни ажурирања."
 msgid "This service is protected by a parental control PIN"
 msgstr "Oвој канал е заштитена со родителска контрола"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15566,6 +15584,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Додава нови вметнувања на текст или го презапишува постојниот текст"
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Активирајте ознака за сечење на моменталната позиција"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Вклучете го екранот"
 
@@ -15821,9 +15843,6 @@ msgstr "Вид на LNB / уред"
 
 msgid "Type of scan"
 msgstr "Вид на пребарување"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr "Непознато"
@@ -16151,7 +16170,7 @@ msgstr "Користете ги поставките за влезниот ур�
 msgid "Use these settings?"
 msgstr "Користете ги овие поставки?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -16986,7 +17005,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

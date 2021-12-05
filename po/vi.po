@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -1800,7 +1800,7 @@ msgstr "hoạt động"
 msgid "Adapter settings"
 msgstr "Cài đặt bộ điều hợp"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1823,6 +1823,10 @@ msgstr "Thêm một dấu"
 
 msgid "Add a nameserver entry"
 msgstr "Thêm một mục nhập máy chủ tên"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Thêm một tiêu đề mới"
 
 msgid "Add a new title"
 msgstr "Thêm một tiêu đề mới"
@@ -1850,6 +1854,10 @@ msgstr "Thêm tệp vào danh sách phát"
 
 msgid "Add marker"
 msgstr "Thêm điểm đánh dấu"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Thêm một tiêu đề mới"
 
 msgid "Add provider"
 msgstr "Thêm nhà cung cấp"
@@ -2846,10 +2854,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Thông tin"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Thời gian khởi động"
 
@@ -2929,10 +2933,6 @@ msgstr "Thông tin"
 #, fuzzy
 msgid "Build Model"
 msgstr "Ngày xây dựng: "
-
-#, fuzzy
-msgid "Build information"
-msgstr "Thông tin"
 
 #, fuzzy
 msgid "Build information for"
@@ -3172,6 +3172,10 @@ msgstr "Hủy bỏ mọi thay đổi văn bản và thoát"
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
 msgstr "Hủy mọi thay đổi đối với giao diện hiện đang hoạt động và thoát khỏi tất cả các menu"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Hủy bỏ mọi thay đổi văn bản và thoát"
 
 #, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3451,16 +3455,16 @@ msgstr "Hiển thị trình phát đa phương tiện trên menu chính"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3688,10 +3692,6 @@ msgstr "Đèn flash nhỏ gọn"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Hoàn thành"
 
 msgid "Complete"
 msgstr "Hoàn thành"
@@ -4852,6 +4852,10 @@ msgstr "Xóa tất cả logfiles"
 msgid "Delete all logfiles"
 msgstr "Xóa tất cả logfiles"
 
+#, fuzzy
+msgid "Delete all tags"
+msgstr "Xóa tất cả logfiles"
+
 msgid "Delete all the text"
 msgstr "Xóa tất cả văn bản"
 
@@ -4911,8 +4915,16 @@ msgstr "Xóa ký tự dưới con trỏ văn bản"
 msgid "Delete the currently displayed log file"
 msgstr "Xóa tiêu đề hiện được chọn"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Xóa hình ảnh"
+
 msgid "Delete timer"
 msgstr "Xóa bộ đếm thời gian"
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Xóa danh sách phát đã lưu"
 
 msgid "Deleted"
 msgstr "Đã xóa"
@@ -5202,6 +5214,10 @@ msgstr "Hiển thị EIT ngay bây giờ / tiếp theo trong infobar"
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Hiển thị hình ảnh chuẩn 4: 3"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5260,6 +5276,17 @@ msgstr "Bạn có thực sự muốn xóa%s không?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Bạn có thực sự muốn xóa%s không?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Bạn có thực sự muốn xóa%s không?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5601,6 +5628,10 @@ msgstr "Chỉnh sửa"
 
 msgid "Edit DNS"
 msgstr "Chỉnh sửa DNS"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Chỉnh sửa cài đặt"
 
 msgid "Edit alternatives"
 msgstr "Chỉnh sửa thay thế"
@@ -6594,9 +6625,6 @@ msgstr "Yêu thích"
 
 msgid "Favourites"
 msgstr "Yêu thích"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr "Phi-gi"
@@ -7606,31 +7634,8 @@ msgstr "Bỏ qua mạng con không gian tên DVB-T"
 msgid "Ignore conflict"
 msgstr "Bỏ qua xung đột"
 
-#, fuzzy
-msgid "Image"
-msgstr "Hình ảnh: "
-
 msgid "Image View On"
 msgstr "Chế độ xem hình ảnh đang bật"
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Hình ảnh: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Ngày xây dựng: "
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Tạo hệ thống tập tin"
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Hình ảnh: "
 
 #, python-format
 msgid ""
@@ -8144,10 +8149,6 @@ msgid "Kenya"
 msgstr "Nước Kenya"
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "Xóa tài liệu"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "không tìm thấy mô-đun"
 
@@ -8499,6 +8500,10 @@ msgid "Load playlist"
 msgstr "Tải danh sách phát"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Dừng ghi âm hẹn giờ"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Tải các tập tin người dùng không liên kết"
 
@@ -8695,23 +8700,11 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 msgid "MMC card"
 msgstr "Thẻ MMC"
 
 msgid "MORE"
 msgstr "HƠN"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -10061,6 +10054,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Bảo vệ menu chính"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Hiển thị danh sách vệ tinh"
+
 msgid "Open select location"
 msgstr "Mở chọn địa điểm"
 
@@ -10585,6 +10582,10 @@ msgstr "Vui lòng nhập tên của thư mục mới"
 
 msgid "Please enter the new PIN code"
 msgstr "Vui lòng nhập mã PIN mới"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Vui lòng nhập tên mới:"
 
 msgid "Please enter the old PIN code"
 msgstr "Vui lòng nhập mã PIN cũ"
@@ -11735,6 +11736,10 @@ msgstr "Đổi tên mục nhập"
 msgid "Rename name and description for new events"
 msgstr "Đổi tên và mô tả cho các sự kiện mới"
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "xóa dấu này"
+
 msgid "Repeat"
 msgstr "Nói lại"
 
@@ -11760,6 +11765,12 @@ msgstr "Lặp lại"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Thay thế `-` trong các hộp thoại bằng văn bản màu trên mỗi loa (như phụ đề teletext cho người khiếm thính)"
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr ""
@@ -11975,10 +11986,6 @@ msgstr "Thư mục gốc"
 
 msgid "Root directory"
 msgstr "Thư mục gốc"
-
-#, fuzzy
-msgid "Root file"
-msgstr "Tệp SRT"
 
 msgid "Rose"
 msgstr ""
@@ -12198,6 +12205,10 @@ msgstr "Lưu cài đặt và dữ liệu EPG"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Lưu / Nhập văn bản và thoát"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Lưu / Nhập văn bản và thoát"
 
 msgid "Save and activate the currently selected skin"
@@ -14758,6 +14769,13 @@ msgstr "Trang phụ đề TXT & lang"
 msgid "Table of contents for collection"
 msgstr "Mục lục thu thập"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Lựa chọn hẹn giờ"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15369,7 +15387,7 @@ msgstr "Không có cập nhật có sẵn."
 msgid "This service is protected by a parental control PIN"
 msgstr "Dịch vụ này được bảo vệ bởi PIN kiểm soát của phụ huynh"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15676,6 +15694,10 @@ msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Chuyển đổi chèn văn bản mới trước hoặc ghi đè văn bản hiện có"
 
 #, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Chuyển đổi dấu cắt ở vị trí hiện tại"
+
+#, fuzzy
 msgid "Toggle service name display"
 msgstr "Năng lượng hiển thị"
 
@@ -15931,9 +15953,6 @@ msgstr "Loại LNB / thiết bị"
 
 msgid "Type of scan"
 msgstr "Loại quét"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr "KHÔNG XÁC ĐỊNH"
@@ -16260,7 +16279,7 @@ msgstr "Sử dụng các cài đặt thiết bị đầu vào?"
 msgid "Use these settings?"
 msgstr "Sử dụng các cài đặt này?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -17091,7 +17110,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

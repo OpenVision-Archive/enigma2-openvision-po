@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -1936,7 +1936,7 @@ msgstr "aktivní"
 msgid "Adapter settings"
 msgstr "Nastavení adaptéru"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 #
@@ -1965,6 +1965,11 @@ msgstr "Přidat značku"
 #
 msgid "Add a nameserver entry"
 msgstr "Přidat nameserver"
+
+#
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Přidat nový titul"
 
 #
 msgid "Add a new title"
@@ -2001,6 +2006,11 @@ msgstr "Přidat soubory do playlistu"
 #
 msgid "Add marker"
 msgstr "Přidat značku"
+
+#
+#, fuzzy
+msgid "Add new tag"
+msgstr "Přidat nový titul"
 
 #
 msgid "Add provider"
@@ -3134,11 +3144,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Boot information"
-msgstr "Informace"
-
-#
-#, fuzzy
 msgid "Boot time"
 msgstr "Čas spuštění"
 
@@ -3223,11 +3228,6 @@ msgstr "Informace"
 #, fuzzy
 msgid "Build Model"
 msgstr "Datum vytvoření: "
-
-#
-#, fuzzy
-msgid "Build information"
-msgstr "Informace"
 
 #
 #, fuzzy
@@ -3482,6 +3482,10 @@ msgstr "Zrušit všechny změny a zavřít"
 #, fuzzy
 msgid "Cancel any changed settings and exit all menus"
 msgstr "Zrušit všechny změny aktuálního aktivního skinu a zavřít všechna menu"
+
+#, fuzzy
+msgid "Cancel any changed tags and exit"
+msgstr "Zrušit všechny změny a zavřít"
 
 #, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3795,16 +3799,16 @@ msgstr "Zobrazovat Mediaplayer v hlavním menu"
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -4059,11 +4063,6 @@ msgstr "Compact flash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#
-#, fuzzy
-msgid "Compiled by"
-msgstr "kompletní"
 
 #
 msgid "Complete"
@@ -5336,6 +5335,10 @@ msgstr "Odstranit protokoly"
 msgid "Delete all logfiles"
 msgstr "Odstranit protokoly"
 
+#, fuzzy
+msgid "Delete all tags"
+msgstr "Odstranit protokoly"
+
 msgid "Delete all the text"
 msgstr "Smazat vše"
 
@@ -5406,9 +5409,18 @@ msgstr "Smazat znak pod kurzorem"
 msgid "Delete the currently displayed log file"
 msgstr "Odstranit vybraný titul"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "Odstranit image"
+
 #
 msgid "Delete timer"
 msgstr "Odstranit časovač"
+
+#
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "Smazat uložený playlist"
 
 msgid "Deleted"
 msgstr "Mazáno"
@@ -5756,6 +5768,11 @@ msgstr "Zobrazovat EIT nyní/další v infobaru"
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Zobrazovat obraz 4:3 jako"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5826,6 +5843,18 @@ msgstr "Opravdu chcete smazat \"%s\"?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Opravdu chcete smazat \"%s\"?"
+
+#
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Opravdu chcete smazat \"%s\"?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #
 #, fuzzy, python-format
@@ -6223,6 +6252,11 @@ msgstr "Upravit"
 #
 msgid "Edit DNS"
 msgstr "Upravit DNS"
+
+#
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Upravit nastavení"
 
 #
 msgid "Edit alternatives"
@@ -7338,9 +7372,6 @@ msgstr "Oblíbené"
 msgid "Favourites"
 msgstr "Oblíbené"
 
-msgid "Feed URL"
-msgstr ""
-
 msgid "Fiji"
 msgstr "Fidži"
 
@@ -8432,32 +8463,8 @@ msgstr "Ignorovat DVB-T namespace podsítě"
 msgid "Ignore conflict"
 msgstr "Ignorovat konflikt"
 
-#, fuzzy
-msgid "Image"
-msgstr "Image: "
-
 msgid "Image View On"
 msgstr ""
-
-msgid "Image architecture"
-msgstr ""
-
-#, fuzzy
-msgid "Image build"
-msgstr "Image: "
-
-#, fuzzy
-msgid "Image build date"
-msgstr "Datum vytvoření: "
-
-#
-#, fuzzy
-msgid "Image file system"
-msgstr "Zakládá se souborový systém"
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Image: "
 
 #, python-format
 msgid ""
@@ -9039,11 +9046,6 @@ msgstr "Keňa"
 
 #
 #, fuzzy
-msgid "Kernel file"
-msgstr "Smazat soubor"
-
-#
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "žádný modul nenalezen"
 
@@ -9442,6 +9444,10 @@ msgid "Load playlist"
 msgstr "Načíst playlist"
 
 #, fuzzy
+msgid "Load tags from the timer and recordings"
+msgstr "Ukončit nahrávání časovače"
+
+#, fuzzy
 msgid "Load unlinked user bouquets"
 msgstr "Načítat smazané přehledy"
 
@@ -9660,9 +9666,6 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 #
 msgid "MMC card"
 msgstr "MMC karta"
@@ -9670,15 +9673,6 @@ msgstr "MMC karta"
 #
 msgid "MORE"
 msgstr "VÍCE"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -11222,6 +11216,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "  Hlavní menu"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Ukázat přehled satelitů"
+
 msgid "Open select location"
 msgstr "Otevřít zvolené umístění"
 
@@ -11806,6 +11804,10 @@ msgstr "Zadejte jméno nového adresáře"
 
 msgid "Please enter the new PIN code"
 msgstr "Zadejte nový PIN"
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Zadejte nový název:"
 
 msgid "Please enter the old PIN code"
 msgstr "Zadejte starý PIN kód"
@@ -13145,6 +13147,11 @@ msgstr "Přejmenovat"
 msgid "Rename name and description for new events"
 msgstr "Přejmenovat název a popis pro nové události"
 
+#
+#, fuzzy
+msgid "Rename this tag"
+msgstr "odebrat tuto značku"
+
 msgid "Repeat"
 msgstr "Opakovat"
 
@@ -13175,6 +13182,12 @@ msgstr "Opakování"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
 msgstr "Nahradí `- ` v dialozích, které mají obarvený text jednotlivých mluvčích (jako teletextové titulky pro sluchově postižené)."
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr ""
 
 msgid "Replace newlines in EPG"
 msgstr "Nahrazovat odřádkování v EPG"
@@ -13431,10 +13444,6 @@ msgstr "Root"
 msgid "Root directory"
 msgstr "Kořenový adresář"
 
-#, fuzzy
-msgid "Root file"
-msgstr "SRT soubor"
-
 msgid "Rose"
 msgstr ""
 
@@ -13675,6 +13684,10 @@ msgstr "Uložit nastavení a EPG data"
 
 #, fuzzy
 msgid "Save all changed settings and exit"
+msgstr "Uložit / zadat text a zavřít"
+
+#, fuzzy
+msgid "Save all changed tags and exit"
 msgstr "Uložit / zadat text a zavřít"
 
 #
@@ -16559,6 +16572,14 @@ msgstr "TXT titulky - stránka a jazyk"
 msgid "Table of contents for collection"
 msgstr "Obsah kompilace"
 
+msgid "Tag Editor"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Výběr časovače"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -17203,7 +17224,7 @@ msgstr "Nejsou žádné dostupné aktualizace."
 msgid "This service is protected by a parental control PIN"
 msgstr "Tento program je chráněný rodičovským zámkem"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -17554,6 +17575,11 @@ msgstr "Přepínat infobar"
 msgid "Toggle new text inserts before or overwrites existing text"
 msgstr "Přepínání mezi vkládáním a přepisováním"
 
+#
+#, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "Přepnout střihovou značku na této pozici"
+
 #, fuzzy
 msgid "Toggle service name display"
 msgstr "Zapnout displej"
@@ -17850,9 +17876,6 @@ msgstr "Typ LNB/zařízení"
 #
 msgid "Type of scan"
 msgstr "Typ prohledávání"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr ""
@@ -18215,7 +18238,7 @@ msgstr "Použít nastavení tohoto vstupního zařízení?"
 msgid "Use these settings?"
 msgstr "Použít tato nastavení?"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 #
@@ -19115,7 +19138,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."

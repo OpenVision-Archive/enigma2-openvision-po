@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-28 01:49+0000\n"
+"POT-Creation-Date: 2021-12-05 01:59+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -1651,7 +1651,7 @@ msgstr ""
 msgid "Adapter settings"
 msgstr "Adaptare setari"
 
-msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'. It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
+msgid "Adaptive date display allows recent dates to be displayed as 'Today' or 'Yesterday'.  It hides the year for recordings made this year.  It hides the day of the week for recordings made in previous years."
 msgstr ""
 
 msgid "Add"
@@ -1675,6 +1675,10 @@ msgstr "Adauga un mark"
 #, fuzzy
 msgid "Add a nameserver entry"
 msgstr "adauga intrare de nameserver"
+
+#, fuzzy
+msgid "Add a new tag"
+msgstr "Adauga un nou titlu"
 
 msgid "Add a new title"
 msgstr "Adauga un nou titlu"
@@ -1706,6 +1710,10 @@ msgstr "adauga file-uri la playlist"
 
 msgid "Add marker"
 msgstr "Adauga marker"
+
+#, fuzzy
+msgid "Add new tag"
+msgstr "Adauga un nou titlu"
 
 #, fuzzy
 msgid "Add provider"
@@ -2725,10 +2733,6 @@ msgid "Boot ID"
 msgstr ""
 
 #, fuzzy
-msgid "Boot information"
-msgstr "Informatii"
-
-#, fuzzy
 msgid "Boot time"
 msgstr "Timpul de sortare"
 
@@ -2805,10 +2809,6 @@ msgstr "Informatii"
 #, fuzzy
 msgid "Build Model"
 msgstr "Mod"
-
-#, fuzzy
-msgid "Build information"
-msgstr "Informatii"
 
 #, fuzzy
 msgid "Build information for"
@@ -3029,6 +3029,9 @@ msgid "Cancel any changed settings and exit"
 msgstr ""
 
 msgid "Cancel any changed settings and exit all menus"
+msgstr ""
+
+msgid "Cancel any changed tags and exit"
 msgstr ""
 
 msgid "Cancel any changes the active locale/language and exit all menus"
@@ -3308,16 +3311,16 @@ msgstr ""
 msgid "Choose the CI protocol operation mode for standard CI or CI Plus."
 msgstr ""
 
-msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds. ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes and 'ss' is the seconds.  ('HH' and 'hh' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits. ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
+msgid "Choose the front panel display formatting style for dates. 'D' / 'DD' is the date and 'M' / 'MM' is the month in digits.  ('DD' and 'MM' have leading zeros for single digit values.) The screen display will be based on your choice but can be influenced by the skin."
 msgstr ""
 
-msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes. ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
+msgid "Choose the front panel display formatting style for times. 'H' / 'HH' is the hour for a 24 hour clock, 'h' / 'hh' is the hour for a 12 hour clock, 'mm' is the minutes.  ('HH' and 'hh' have leading zeros for single digit values.) The front panel display will be based on your choice but can be influenced any applicable skin."
 msgstr ""
 
 msgid "Choose the location for crash and debug logs folder."
@@ -3543,10 +3546,6 @@ msgstr "Compact Flash"
 
 msgid "Compatible to use on"
 msgstr ""
-
-#, fuzzy
-msgid "Compiled by"
-msgstr "Incheiat"
 
 msgid "Complete"
 msgstr "Incheiat"
@@ -4722,6 +4721,10 @@ msgid "Delete all logfiles"
 msgstr "sterge file"
 
 #, fuzzy
+msgid "Delete all tags"
+msgstr "sterge file"
+
+#, fuzzy
 msgid "Delete all the text"
 msgstr "sterge intrare playlist"
 
@@ -4783,8 +4786,16 @@ msgstr ""
 msgid "Delete the currently displayed log file"
 msgstr "Eliminare titlu curent selectat"
 
+#, fuzzy
+msgid "Delete this tag"
+msgstr "sterge file"
+
 msgid "Delete timer"
 msgstr ""
+
+#, fuzzy
+msgid "Delete unused tags"
+msgstr "sterge playlist salvat"
 
 msgid "Deleted"
 msgstr ""
@@ -5070,6 +5081,10 @@ msgstr ""
 msgid "Display the base locales or all locales for a language."
 msgstr ""
 
+#, fuzzy
+msgid "Display the tags context menu"
+msgstr "Afiseaza continutul format 4:3 ca"
+
 msgid "Display the virtual keyboard for data entry"
 msgstr ""
 
@@ -5136,6 +5151,17 @@ msgstr "Confirmati stergerea %s?"
 #, fuzzy
 msgid "Do you really want to delete ?"
 msgstr "Confirmati stergerea %s?"
+
+#, fuzzy, python-format
+msgid ""
+"Do you really want to delete all '%s' tags?\n"
+"(NOTE: 'Cancel' cannot undo this!)"
+msgstr "Confirmati stergerea %s?"
+
+msgid ""
+"Do you really want to delete all tags?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "Do you really want to delete the '%s' bookmark?"
@@ -5475,6 +5501,10 @@ msgstr "Editare"
 
 msgid "Edit DNS"
 msgstr "Editare DNS"
+
+#, fuzzy
+msgid "Edit Tags"
+msgstr "Editare setari"
 
 msgid "Edit alternatives"
 msgstr "Editeaza alternative"
@@ -6452,9 +6482,6 @@ msgstr "Favorite"
 
 msgid "Favourites"
 msgstr "Favorite"
-
-msgid "Feed URL"
-msgstr ""
 
 msgid "Fiji"
 msgstr ""
@@ -7455,29 +7482,8 @@ msgstr ""
 msgid "Ignore conflict"
 msgstr ""
 
-#, fuzzy
-msgid "Image"
-msgstr "Flash"
-
 msgid "Image View On"
 msgstr ""
-
-msgid "Image architecture"
-msgstr ""
-
-msgid "Image build"
-msgstr ""
-
-msgid "Image build date"
-msgstr ""
-
-#, fuzzy
-msgid "Image file system"
-msgstr "Se verifica sistemul de fisiere..."
-
-#, fuzzy
-msgid "Image folder"
-msgstr "Alege directorul destinatie"
 
 #, python-format
 msgid ""
@@ -7989,10 +7995,6 @@ msgid "Kenya"
 msgstr ""
 
 #, fuzzy
-msgid "Kernel file"
-msgstr "sterge file"
-
-#, fuzzy
 msgid "Kernel module layout"
 msgstr "niciun modul gasit"
 
@@ -8347,6 +8349,9 @@ msgstr ""
 msgid "Load playlist"
 msgstr "incarca playlist"
 
+msgid "Load tags from the timer and recordings"
+msgstr ""
+
 msgid "Load unlinked user bouquets"
 msgstr ""
 
@@ -8538,24 +8543,12 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
-msgid "MKUBIFS"
-msgstr ""
-
 #, fuzzy
 msgid "MMC card"
 msgstr "Card MMC"
 
 msgid "MORE"
 msgstr "MULT"
-
-msgid "MTD boot"
-msgstr ""
-
-msgid "MTD kernel"
-msgstr ""
-
-msgid "MTD root"
-msgstr ""
 
 msgid "MTU"
 msgstr ""
@@ -9911,6 +9904,10 @@ msgstr ""
 msgid "Open main menu"
 msgstr "Meniu principal"
 
+#, fuzzy
+msgid "Open satellites list"
+msgstr "Sateliti"
+
 msgid "Open select location"
 msgstr ""
 
@@ -10433,6 +10430,10 @@ msgstr "Va rugam introduceti numele noului director"
 
 msgid "Please enter the new PIN code"
 msgstr ""
+
+#, fuzzy
+msgid "Please enter the new tag:"
+msgstr "Va rugam introduceti un nou nume de fisier"
 
 msgid "Please enter the old PIN code"
 msgstr ""
@@ -11581,6 +11582,10 @@ msgstr ""
 msgid "Rename name and description for new events"
 msgstr ""
 
+#, fuzzy
+msgid "Rename this tag"
+msgstr "elimina aceasta marcare"
+
 msgid "Repeat"
 msgstr ""
 
@@ -11606,6 +11611,12 @@ msgid "Repeats"
 msgstr "Repeta"
 
 msgid "Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired)"
+msgstr ""
+
+#, python-format
+msgid ""
+"Replace all '%s' tags with:\n"
+"(NOTE: 'Cancel' cannot undo this!)"
 msgstr ""
 
 msgid "Replace newlines in EPG"
@@ -11827,10 +11838,6 @@ msgstr ""
 msgid "Root directory"
 msgstr ""
 
-#, fuzzy
-msgid "Root file"
-msgstr "sterge file"
-
 msgid "Rose"
 msgstr ""
 
@@ -12042,6 +12049,9 @@ msgid "Save EPG data"
 msgstr ""
 
 msgid "Save all changed settings and exit"
+msgstr ""
+
+msgid "Save all changed tags and exit"
 msgstr ""
 
 #, fuzzy
@@ -14649,6 +14659,13 @@ msgstr "Selectare subtitrare"
 msgid "Table of contents for collection"
 msgstr "Lista continuturilor pentru colectie"
 
+msgid "Tag Editor"
+msgstr ""
+
+#, fuzzy
+msgid "Tag Editor Actions"
+msgstr "Selectare timer"
+
 msgid "Tagalog"
 msgstr ""
 
@@ -15221,7 +15238,7 @@ msgstr ""
 msgid "This service is protected by a parental control PIN"
 msgstr "Acest serviciu este protejat de PIN pentru control parental"
 
-msgid "This sets the maximum number of log files that will be retained. Files in excess of this number will be deleted."
+msgid "This sets the maximum number of log files that will be retained.  Files in excess of this number will be deleted."
 msgstr ""
 
 msgid "This sets the prefix for each line in the debug log. The 'Boot time' is the number of seconds since your %s %s was last booted."
@@ -15531,6 +15548,10 @@ msgstr ""
 msgid "Toggle new text inserts before or overwrites existing text"
 msgstr ""
 
+#, fuzzy
+msgid "Toggle selection of the current tag"
+msgstr "schimba o marcare la pozitia curenta"
+
 msgid "Toggle service name display"
 msgstr ""
 
@@ -15792,9 +15813,6 @@ msgstr "Tipul scanarii"
 
 msgid "Type of scan"
 msgstr "Tipul scanarii"
-
-msgid "UBINIZE"
-msgstr ""
 
 msgid "UNKNOWN"
 msgstr ""
@@ -16124,7 +16142,7 @@ msgstr "Inchideti fara sa salvati setarile?"
 msgid "Use these settings?"
 msgstr "Revenire la setarile sistemului"
 
-msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged. These logs can be helpful for developers in finding and fixing problems."
+msgid "Use this option to select if debug logs of internal enigma2 activities are created and, if so, how much detail will be logged.  These logs can be helpful for developers in finding and fixing problems."
 msgstr ""
 
 msgid "Use this video enhancement settings?"
@@ -16940,7 +16958,7 @@ msgstr ""
 msgid "When set, each directory will show the previous state used. When off, the default values will be shown."
 msgstr ""
 
-msgid "When set, sort changes via the sort key will be permanent. When unset, sort changes will be temporary, just for this view of a directory."
+msgid "When set, sort changes via the sort key will be permanent.  When unset, sort changes will be temporary, just for this view of a directory."
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
