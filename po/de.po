@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-04-30 16:06+0200\n"
 "Last-Translator: kueken\n"
 "Language-Team: OpenPLi\n"
@@ -2146,6 +2146,10 @@ msgstr "Alternativer Nummerierungs-Modus"
 msgid "Alternative services tuner priority"
 msgstr "Tuner-Priorität bei alternativen Kanälen"
 
+#, fuzzy
+msgid "Always"
+msgstr "immer"
+
 msgid "Always ask"
 msgstr "Immer nachfragen"
 
@@ -3197,6 +3201,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Brechen Sie alle Textänderungen ab und beenden Sie sie"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Änderungen am aktiven Skin zurücknehmen"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Änderungen am aktiven Skin zurücknehmen und alle Menüs schliessen"
 
@@ -3569,6 +3577,9 @@ msgstr "Log löschen"
 
 msgid "Clear playlist"
 msgstr "Wiedergabeliste leeren"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4941,6 +4952,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Löschen Sie das Zeichen unterm Cursor"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Entferne aktuell ausgewählten Titel"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Entferne aktuell ausgewählten Titel"
 
@@ -4981,6 +4996,10 @@ msgstr "Dänemark"
 
 msgid "Depth"
 msgstr "Tiefe"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "Entschlüsseln und Aufnahme ECM"
 
 msgid "Descramble receiving http streams"
 msgstr "Empfangene HTTP-Streams entschlüsseln"
@@ -5460,6 +5479,10 @@ msgstr "Dominica"
 
 msgid "Dominican Republic"
 msgstr "Dominikanische Republik"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "Nicht entschlüsseln, Aufnahme ECM"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7034,6 +7057,10 @@ msgstr "Inversion"
 msgid "Go down the list"
 msgstr "Liste nach unten durchgehen"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "In Deep Standby gehen"
+
 msgid "Go to first movie or last item"
 msgstr "Zum ersten Film oder letzten Eintrag springen"
 
@@ -7057,6 +7084,10 @@ msgstr "Springe zur vorherigen Sendung"
 
 msgid "Go to previous page of service"
 msgstr "Springe zur vorherigen Kanal-Seite"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "In Standby gehen"
 
 msgid "Go up the list"
 msgstr "Liste nach oben durchgehen"
@@ -8634,6 +8665,10 @@ msgstr "Signal:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Zielverzeichnis"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9563,6 +9598,10 @@ msgstr "Netzwerkassistent"
 msgid "Network:"
 msgstr "Netzwerk: "
 
+#, fuzzy
+msgid "Never"
+msgstr "Niemals"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Entschlüsseln Sie den Inhalt niemals während der Aufnahme. Dies überschreibt die einzelnen Timer-Einstellungen global. Wenn diese Option aktiviert ist, werden Aufzeichnungen in verschlüsselter Form gespeichert und müssen anschließend entschlüsselt werden (manchmal als Offline-Decodierung bezeichnet). Standard: aus."
 
@@ -10041,6 +10080,9 @@ msgstr "Am Ende des Films (als Menü)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Ignoriere bei gültigen ONIDs die Frequenz vom Sub-Netzwerk."
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Eins"
 
@@ -10059,6 +10101,14 @@ msgstr "Nur Erweiterungen."
 
 msgid "Only free scan"
 msgstr "Nur frei empfangbare"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "Nur aus dem Deep-Standby"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "Nur im Standby"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Bewegen Sie die Satellitenschüssel erst nach dieser Stunde."
@@ -10545,6 +10595,14 @@ msgstr "Bitte fügen Sie Titel zur Ihrer Zusammenstellung hinzu."
 
 msgid "Please change recording endtime"
 msgstr "Bitte Aufnahmeendzeit ändern"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Bitte eine Erweiterung auswählen…"
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Bitte eine Erweiterung auswählen…"
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11790,6 +11848,10 @@ msgid "Repeat type"
 msgstr "Wiederholungstyp"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "Wiederholend"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
 "Wiederholender Aufnahmetimer ist zurzeit aktiv.\n"
@@ -12272,6 +12334,9 @@ msgstr "Wiedergabeliste beim Beenden speichern"
 
 msgid "Save settings and EPG data"
 msgstr "Speichern Sie Einstellungen und EPG-Daten"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Timeshift speichern und umschalten"
@@ -13770,6 +13835,10 @@ msgstr "Mischen"
 msgid "Shuffle playlist"
 msgstr "Wiedergabeliste mischen"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Ausschalten"
+
 msgid "Shutdown"
 msgstr "Ausschalten"
 
@@ -15161,10 +15230,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Die Timer-Datei (timers.xml) ist defekt und konnte nicht geladen werden."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Die Timer-Datei (timers.xml) ist defekt und konnte nicht geladen werden."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15599,9 +15669,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Timer"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Timer '%s' deaktiviert!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Timer-Liste"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Timer-Eintrag"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Timer-Logbuch"
 
 msgid "Timer Overview"
 msgstr "Timer-Übersicht"
@@ -15616,19 +15700,13 @@ msgid "Timer log"
 msgstr "Timer-Logbuch"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Timerüberlappung in der timers.xml entdeckt!\n"
 "Bitte überprüfen!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Timerüberlappung in der timers.xml entdeckt!\n"
-"Bitte überprüfen!"
 
 msgid "Timer overview"
 msgstr "Timer-Übersicht"
@@ -17624,6 +17702,10 @@ msgstr "Umschalten"
 msgid "Zap Up/Down"
 msgstr "Kanal +"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "Umschalten und aufnehmen"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Zurückschalten zum vorher laufenden Sender?"
 
@@ -17772,9 +17854,6 @@ msgstr "alle"
 
 msgid "all tuners"
 msgstr "Alle Tuner"
-
-msgid "always"
-msgstr "immer"
 
 #, fuzzy
 msgid "and"
@@ -17961,9 +18040,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Gelöscht"
 
-msgid "descramble and record ecm"
-msgstr "Entschlüsseln und Aufnahme ECM"
-
 msgid "detective/thriller"
 msgstr "Krimi/Thriller"
 
@@ -17985,9 +18061,6 @@ msgstr "Dokumentationen"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "Dokumentationen"
-
-msgid "don't descramble, record ecm"
-msgstr "Nicht entschlüsseln, Aufnahme ECM"
 
 msgid "done!"
 msgstr "Erledigt!"
@@ -18400,9 +18473,6 @@ msgstr "Kein Laufwerk gefunden"
 msgid "none"
 msgstr "Keine"
 
-msgid "normal"
-msgstr "Normal"
-
 msgid "not configured"
 msgstr "Nicht konfiguriert"
 
@@ -18457,12 +18527,6 @@ msgstr "auf dem nicht beschreibbaren Medium."
 
 msgid "once"
 msgstr "Einmal"
-
-msgid "only from deep standby"
-msgstr "Nur aus dem Deep-Standby"
-
-msgid "only from standby"
-msgstr "Nur im Standby"
 
 msgid "open nameserver configuration"
 msgstr "DNS-Server Konfiguration öffnen"

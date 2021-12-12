@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -2209,6 +2209,10 @@ msgstr "وضع الأرقام البديلة"
 msgid "Alternative services tuner priority"
 msgstr "أولوية المؤالف للقنوات البديله"
 
+#, fuzzy
+msgid "Always"
+msgstr "16:9 دائما"
+
 msgid "Always ask"
 msgstr "أسال دائما"
 
@@ -3268,6 +3272,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3655,6 +3662,9 @@ msgstr "مسح السجل"
 
 msgid "Clear playlist"
 msgstr "مسح قائمة التشغيل"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5092,6 +5102,10 @@ msgid "Delete the character under the text cursor"
 msgstr ""
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "حذف العنوان الحالي المختار"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "حذف العنوان الحالي المختار"
 
@@ -5133,6 +5147,10 @@ msgstr "الدنمارك"
 
 msgid "Depth"
 msgstr "العمق"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "فتح التشفير و تسجيل معلومات شفرة القنوات"
 
 msgid "Descramble receiving http streams"
 msgstr "فتح تشفير إستقبال رابط التدفق"
@@ -5636,6 +5654,10 @@ msgstr "دومينيكا"
 
 msgid "Dominican Republic"
 msgstr "جمهورية الدومينيكان"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "لا تفتح التشفير ولا تسجل معلومات شفرة القنوات"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7264,6 +7286,10 @@ msgstr "عكـس"
 msgid "Go down the list"
 msgstr "الانتقال إلى أخر القائمة"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "الذهاب الى وضع الاستعداد العميق"
+
 msgid "Go to first movie or last item"
 msgstr "الانتقال إلى الفيلم الأول أو العنصر الأخير"
 
@@ -7291,6 +7317,10 @@ msgstr "الانتقال إلى الحدث السابق"
 #, fuzzy
 msgid "Go to previous page of service"
 msgstr "الانتقال إلى الحدث السابق"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "الذهاب لوضع الاستعداد"
 
 msgid "Go up the list"
 msgstr "الانتقال إلى اعلي القائمة"
@@ -8918,6 +8948,10 @@ msgstr "القفل:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "مكان"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9873,6 +9907,10 @@ msgstr "نافذة ضبط شبكة الإنترنت"
 msgid "Network:"
 msgstr "الشبكة:"
 
+#, fuzzy
+msgid "Never"
+msgstr "أبدا"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -10374,6 +10412,9 @@ msgstr "الإيقاف عن نهاية الفيلم (إسال بالقائمة)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "غير صالح الرقم التعريفي، تجاهل جزء الشبكة الفرعية التردد"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "واحد"
 
@@ -10393,6 +10434,14 @@ msgstr "الملحقات فقط."
 
 msgid "Only free scan"
 msgstr "البحث عن القنوات المجانية فقط"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "الذهاب الى وضع الاستعداد العميق"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "الذهاب لوضع الاستعداد"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "فقط حرك الطبق بسرعة بعد هذه الساعة."
@@ -10893,6 +10942,14 @@ msgstr "من فضلك أدخل عناوين المجموعة."
 #, fuzzy
 msgid "Please change recording endtime"
 msgstr "من فضلك قم بتغيير وقت إنتهاء التسجيل"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "من فضلك أختار من الملحقات..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "من فضلك أختار من الملحقات..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -12167,6 +12224,10 @@ msgid "Repeat type"
 msgstr "نوع الإعاده"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "متكرر"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "تكرار الحدث حاليا تسجيل. ماذا تريد أن تفعل؟"
 
@@ -12669,6 +12730,9 @@ msgid "Save playlist on exit"
 msgstr "حفظ قائمة العرض عند الخروج"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -14267,6 +14331,10 @@ msgid "Shuffle playlist"
 msgstr "تشغيل القائمة عشوائيآ"
 
 #, fuzzy
+msgid "Shut down"
+msgstr "إيقاف التشغيل"
+
+#, fuzzy
 msgid "Shutdown"
 msgstr "إيقاف التشغيل"
 
@@ -15680,10 +15748,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "ملف المؤقت (المؤقتات.xml) غير صالح ولا يمكن تحميله."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "ملف المؤقت (المؤقتات.xml) غير صالح ولا يمكن تحميله."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -16142,9 +16211,23 @@ msgstr ""
 msgid "Timer"
 msgstr "المؤقت"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"تعطيل '%s' المؤقت!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "إختيار المؤقت"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "إدخال الوقت"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "المؤقت"
 
 #, fuzzy
 msgid "Timer Overview"
@@ -16162,19 +16245,13 @@ msgid "Timer log"
 msgstr "المؤقت"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "التداخل الموقت في المؤقتاتا.xml الكشف!\n"
 "الرجاء إعادة فحص ذلك!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"التداخل الموقت في المؤقتاتا.xml الكشف!\n"
-"الرجاء إعادة فحص ذلك!"
 
 #, fuzzy
 msgid "Timer overview"
@@ -18228,6 +18305,10 @@ msgstr "التنقل"
 msgid "Zap Up/Down"
 msgstr "أنتقل للاسفل"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "أنتقل و سجل"
+
 msgid "Zap back to previously tuned service?"
 msgstr "هل تريد الإنتقال إلى أخر قناة في البحث؟"
 
@@ -18379,10 +18460,6 @@ msgstr "صغير"
 #, fuzzy
 msgid "all tuners"
 msgstr "ضبط مؤالف التراجع"
-
-#, fuzzy
-msgid "always"
-msgstr "16:9 دائما"
 
 #, fuzzy
 msgid "and"
@@ -18575,9 +18652,6 @@ msgstr ""
 msgid "deleted"
 msgstr "تم الحذف"
 
-msgid "descramble and record ecm"
-msgstr "فتح التشفير و تسجيل معلومات شفرة القنوات"
-
 msgid "detective/thriller"
 msgstr "تحقيق/مثير"
 
@@ -18599,9 +18673,6 @@ msgstr "وثائقي"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "وثائقي"
-
-msgid "don't descramble, record ecm"
-msgstr "لا تفتح التشفير ولا تسجل معلومات شفرة القنوات"
 
 msgid "done!"
 msgstr "إنتهى!"
@@ -19025,9 +19096,6 @@ msgstr "لم يتم العثور علي أجهزه تخزين"
 msgid "none"
 msgstr "لا شي"
 
-msgid "normal"
-msgstr "طبيعى"
-
 msgid "not configured"
 msgstr "غير مكون"
 
@@ -19084,14 +19152,6 @@ msgstr "قراءة الوسيط فقط."
 
 msgid "once"
 msgstr "مره واحده"
-
-#, fuzzy
-msgid "only from deep standby"
-msgstr "الذهاب الى وضع الاستعداد العميق"
-
-#, fuzzy
-msgid "only from standby"
-msgstr "الذهاب لوضع الاستعداد"
 
 #, fuzzy
 msgid "open nameserver configuration"

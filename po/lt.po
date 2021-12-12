@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -2160,6 +2160,10 @@ msgstr "Alternatyvus numeravimo būdas"
 msgid "Alternative services tuner priority"
 msgstr "Imtuvų tarpusavio pirmenybė"
 
+#, fuzzy
+msgid "Always"
+msgstr "visada"
+
 msgid "Always ask"
 msgstr "Visada klausti"
 
@@ -3212,6 +3216,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Atšaukti bet kokius tekstinius pakeitimus ir užverti"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Atšaukti bet kokius šiuo metu aktyvios temos keitimus"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Atšaukite bet kokius, šiuo metu aktyvios temos keitimus ir užverkite visus meniu"
 
@@ -3584,6 +3592,9 @@ msgstr "Išvalyti žurnalą"
 
 msgid "Clear playlist"
 msgstr "Išvalyti grojaraštį"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4952,6 +4963,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Trinti po teksto žymekliu esantį simbolį"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Pašalinti dabar pasirinktą pavadinimą"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Pašalinti dabar pasirinktą pavadinimą"
 
@@ -4992,6 +5007,10 @@ msgstr "Danija"
 
 msgid "Depth"
 msgstr "Gylis"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "dekoduoti ir įrašyti ECM"
 
 msgid "Descramble receiving http streams"
 msgstr "Dekoduoti gaunamus http srautus"
@@ -5477,6 +5496,10 @@ msgstr "Dominika"
 
 msgid "Dominican Republic"
 msgstr "Dominikos Respublika"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "nereikia dekoduoti, įrašyti ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7046,6 +7069,10 @@ msgstr "Sukeitimas"
 msgid "Go down the list"
 msgstr "Sąrašu žemyn"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "eiti į visišką išjungimą"
+
 msgid "Go to first movie or last item"
 msgstr "Eiti prie pirmo filmo, arba paskutinio elemento"
 
@@ -7069,6 +7096,10 @@ msgstr "Į ankstesnį įvykį"
 
 msgid "Go to previous page of service"
 msgstr "Į ankstesnį kanalų puslapį"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "eiti į išjungimą"
 
 msgid "Go up the list"
 msgstr "Sąrašu aukštyn"
@@ -8647,6 +8678,10 @@ msgstr "Fiksuota:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Buvimo vieta"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9576,6 +9611,10 @@ msgstr "Tinklo vedlys"
 msgid "Network:"
 msgstr "Tinklas:"
 
+#, fuzzy
+msgid "Never"
+msgstr "niekada"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Niekada neiškoduoti įrašomo turinio. Tai atšaukia bendruosius visų laikmačių nustatymus. Jei įjungta, įrašai saugomi šifruoti ir vėliau turi būti iškoduojami (tai kartais vadimama iškodavimu atsijungus). Numatytasis: 'Ne'."
 
@@ -10052,6 +10091,9 @@ msgstr "Filmo pabaigoje (kaip meniu)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Esant galiojantiems ONID, ignoruokite dažnio sub tinklo dalį"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Vienas"
 
@@ -10070,6 +10112,14 @@ msgstr "Tik išplėtimai."
 
 msgid "Only free scan"
 msgstr "Ieškoti tik nekoduotų kanalų"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "tik iš išjungtos būsenos"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "tik iš budėjimo būsenos"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Tik greitai perkelti anteną po šios valandos."
@@ -10556,6 +10606,14 @@ msgstr "Prašome pridėti pavadinimus į kompiliaciją."
 
 msgid "Please change recording endtime"
 msgstr "Pakeiskite įrašymo pabaigos laiką"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Prašome išsirinkti papildymus..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Prašome išsirinkti papildymus..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11798,6 +11856,10 @@ msgid "Repeat type"
 msgstr "Kartojimo tipas"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "pakartotinis"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Pasikartojantis įvykis šiuo metu įrašomas. Ką norėtumėte daryti?"
 
@@ -12278,6 +12340,9 @@ msgstr "Užveriant išsaugoti grojaraštį"
 
 msgid "Save settings and EPG data"
 msgstr "Išsaugokite parametrus ir EPG duomenis"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Išsaugoti laiko poslinkį ir perjungti"
@@ -13778,6 +13843,10 @@ msgstr "sumaišyti"
 msgid "Shuffle playlist"
 msgstr "Maišyti grojaraštį"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Išjungimas"
+
 msgid "Shutdown"
 msgstr "Išjungimas"
 
@@ -15165,10 +15234,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Laikmačio failas (timers.xml) yra sugadintas ir nebuvo užkrautas."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Laikmačio failas (timers.xml) yra sugadintas ir nebuvo užkrautas."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15600,9 +15670,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Laikmatis"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Laikmatis '%s' išjungtas!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Laikmačio pasirinkimas"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Laikmačio įrašas"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Laikmačio žurnalas"
 
 msgid "Timer Overview"
 msgstr "Laikmačio apžvalga"
@@ -15617,19 +15701,13 @@ msgid "Timer log"
 msgstr "Laikmačio žurnalas"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Aptiktas laikmačio timers.xml sutapimas!\n"
 "prašome iš naujo tikrinti tai!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Aptiktas laikmačio timers.xml sutapimas!\n"
-"prašome iš naujo tikrinti tai!"
 
 msgid "Timer overview"
 msgstr "Laikmačio apžvaga"
@@ -17621,6 +17699,10 @@ msgstr "Perjungti"
 msgid "Zap Up/Down"
 msgstr "Perjungti žemyn"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "perjungti ir įrašyti"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Perjungti į ankstesnį suderintą kanalą?"
 
@@ -17767,9 +17849,6 @@ msgstr "visi"
 
 msgid "all tuners"
 msgstr "visi imtuvai"
-
-msgid "always"
-msgstr "visada"
 
 #, fuzzy
 msgid "and"
@@ -17956,9 +18035,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Ištrinta"
 
-msgid "descramble and record ecm"
-msgstr "dekoduoti ir įrašyti ECM"
-
 msgid "detective/thriller"
 msgstr "detektyvas/trileris"
 
@@ -17980,9 +18056,6 @@ msgstr "dokumentika"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "dokumentika"
-
-msgid "don't descramble, record ecm"
-msgstr "nereikia dekoduoti, įrašyti ecm"
 
 msgid "done!"
 msgstr "padaryta!"
@@ -18394,9 +18467,6 @@ msgstr "saugojimo įrenginių nerasta"
 msgid "none"
 msgstr "joks"
 
-msgid "normal"
-msgstr "normalus"
-
 msgid "not configured"
 msgstr "nesukonfigūruotas"
 
@@ -18450,12 +18520,6 @@ msgstr "diskas TIK SKAITYMUI."
 
 msgid "once"
 msgstr "vienąkart"
-
-msgid "only from deep standby"
-msgstr "tik iš išjungtos būsenos"
-
-msgid "only from standby"
-msgstr "tik iš budėjimo būsenos"
 
 msgid "open nameserver configuration"
 msgstr "atverti DNS serverio konfigūraciją"

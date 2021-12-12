@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -2147,6 +2147,10 @@ msgstr "Alternatiivne numeratsioon"
 msgid "Alternative services tuner priority"
 msgstr "Tuuneri eelistus asenduskanalitel"
 
+#, fuzzy
+msgid "Always"
+msgstr "alati"
+
 msgid "Always ask"
 msgstr "Küsi alati"
 
@@ -3185,6 +3189,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3560,6 +3567,9 @@ msgstr "Kustuta logi"
 
 msgid "Clear playlist"
 msgstr "Tühjenda esitusloend"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4936,6 +4946,10 @@ msgid "Delete the character under the text cursor"
 msgstr ""
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Eemalda valitud pealkiri"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Eemalda valitud pealkiri"
 
@@ -4977,6 +4991,10 @@ msgstr "Taani"
 
 msgid "Depth"
 msgstr "Sügavus"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "dekodeeri ja salvesta ecm"
 
 msgid "Descramble receiving http streams"
 msgstr "Dekodeeri sisenevad http vood"
@@ -5468,6 +5486,10 @@ msgstr "Dominica"
 
 msgid "Dominican Republic"
 msgstr "Dominikaani Vabariik"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "ära dekodeeri, salvesta ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7051,6 +7073,10 @@ msgstr "Inversioon"
 msgid "Go down the list"
 msgstr "Liigu nimekirjas alla"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "mine sügavootele"
+
 msgid "Go to first movie or last item"
 msgstr "Liigu esimesele nimetusele või viimasele kirjele"
 
@@ -7074,6 +7100,10 @@ msgstr "Mine eelmisele saatele"
 
 msgid "Go to previous page of service"
 msgstr "Mine kanalinimekirja eelmisele lehele"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "mine ooterežiimi"
 
 msgid "Go up the list"
 msgstr "Liigu nimekirjas üles"
@@ -8651,6 +8681,10 @@ msgstr "Lukus:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Asukoht"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9590,6 +9624,10 @@ msgstr "Võrgu abimees"
 msgid "Network:"
 msgstr "Võrk:"
 
+#, fuzzy
+msgid "Never"
+msgstr "mitte kunagi"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Ära dekrüpti sisu salvestamise ajal. See valik alistab üksiku taimeri seadistused globaalselt ja selle lubamisel salvestised talletatakse krüpteeritult. Lahtikrüptida saad hiljem (offlain dekodeerimine). Vaikimisi: välja lülitatud."
 
@@ -10068,6 +10106,9 @@ msgstr "Filmi lõpus (nagu menüü)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Kehtivate ONID puhul eira sageduse alavõrgu osa"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Üks"
 
@@ -10087,6 +10128,14 @@ msgstr "Ainult laiendused."
 
 msgid "Only free scan"
 msgstr "Ainult vabade otsimine"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "ainult sügavast ooterežiimist"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "ainult ooterežiimist"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Liiguta antenni kiiresti ainult pärast seda kellaaega."
@@ -10568,6 +10617,14 @@ msgstr "Palun lisa pealkirjad kogumikku."
 
 msgid "Please change recording endtime"
 msgstr "Muuda salvestamise lõpuaega"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Vali laiendus"
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Vali laiendus"
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11816,6 +11873,10 @@ msgid "Repeat type"
 msgstr "Kordamise liik"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "korduvalt"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Kordab sündmust mis just salvestub. Mida soovid teha?"
 
@@ -12300,6 +12361,9 @@ msgstr "Salvesta esitusloend"
 
 msgid "Save settings and EPG data"
 msgstr "Salvesta asetused ja EPG andmed"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Salvesta ajanihe ja vaheta kanalit"
@@ -13816,6 +13880,10 @@ msgstr "segatud"
 msgid "Shuffle playlist"
 msgstr "Juhuslik esitusloend"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Lülita välja"
+
 msgid "Shutdown"
 msgstr "Lülita välja"
 
@@ -15214,10 +15282,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Taimerite fail (timers.xml) on katki ja seda ei saa laadida."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Taimerite fail (timers.xml) on katki ja seda ei saa laadida."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15666,9 +15735,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Taimer"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Taimer '%s' keelatud!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Taimeri valik"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Taimeri sisestus"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Taimeri logi"
 
 msgid "Timer Overview"
 msgstr "Taimeri ülevaade"
@@ -15683,19 +15766,13 @@ msgid "Timer log"
 msgstr "Taimeri logi"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Taimerite ajad kattuvad!\n"
 "Palun kontrolli ajad üle!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Taimerite ajad kattuvad!\n"
-"Palun kontrolli ajad üle!"
 
 msgid "Timer overview"
 msgstr "Taimeri ülevaade"
@@ -17711,6 +17788,10 @@ msgstr "Mine kanalile"
 msgid "Zap Up/Down"
 msgstr "Kanalivahetus +"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "kanalivahetus ja salvesta"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Tagasi vaadatud kanalile?"
 
@@ -17859,9 +17940,6 @@ msgstr "kõik"
 #, fuzzy
 msgid "all tuners"
 msgstr "Kaugvastuvõtja tuuneri seaded"
-
-msgid "always"
-msgstr "alati"
 
 #, fuzzy
 msgid "and"
@@ -18048,9 +18126,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Kustutati"
 
-msgid "descramble and record ecm"
-msgstr "dekodeeri ja salvesta ecm"
-
 msgid "detective/thriller"
 msgstr "detektiiv/triller"
 
@@ -18072,9 +18147,6 @@ msgstr "dokumentaal"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "dokumentaal"
-
-msgid "don't descramble, record ecm"
-msgstr "ära dekodeeri, salvesta ecm"
 
 msgid "done!"
 msgstr "valmis!"
@@ -18488,9 +18560,6 @@ msgstr "andmekandjaid ei leitud"
 msgid "none"
 msgstr "midagi ei leitud"
 
-msgid "normal"
-msgstr "normaalne"
-
 msgid "not configured"
 msgstr "ei ole häälestatud"
 
@@ -18546,12 +18615,6 @@ msgstr "ainult LOETAV meedial."
 
 msgid "once"
 msgstr "üks kord"
-
-msgid "only from deep standby"
-msgstr "ainult sügavast ooterežiimist"
-
-msgid "only from standby"
-msgstr "ainult ooterežiimist"
 
 msgid "open nameserver configuration"
 msgstr "nimeserveri seaded"

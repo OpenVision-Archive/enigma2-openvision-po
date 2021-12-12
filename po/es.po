@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -2150,6 +2150,10 @@ msgstr "Modo de numeración alternativo"
 msgid "Alternative services tuner priority"
 msgstr "Prioridad de sintonizador de servicios alternativos"
 
+#, fuzzy
+msgid "Always"
+msgstr "siempre"
+
 msgid "Always ask"
 msgstr "Preguntar siempre"
 
@@ -3184,6 +3188,10 @@ msgstr "Cancelar cualquier configuración modificada y salir de todos los menús
 msgid "Cancel any changed tags and exit"
 msgstr "Cancelar las etiquetas modificadas y salir"
 
+#, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Cancelar cualquier cambio activo en el skin"
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Cancelar cualquier cambio regional/idioma activo y salir de todos los menús"
 
@@ -3555,6 +3563,9 @@ msgstr "Limpiar log"
 
 msgid "Clear playlist"
 msgstr "Limpiar lista de reproducción"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 #, fuzzy
 msgid "Clear the virtual memory caches"
@@ -4894,6 +4905,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Eliminar el carácter debajo del cursor del búfer de texto"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Agregar/eliminar la configuración regional/idioma resaltados actualmente"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Agregar/eliminar la configuración regional/idioma resaltados actualmente"
 
@@ -4932,6 +4947,10 @@ msgstr "Dinamarca"
 
 msgid "Depth"
 msgstr "Profundidad"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "descifrar y grabar ecm"
 
 msgid "Descramble receiving http streams"
 msgstr "Descifrar recibiendo streams http"
@@ -5408,6 +5427,10 @@ msgstr "Dominica"
 
 msgid "Dominican Republic"
 msgstr "República Dominicana"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "no descifrar, grabar ecm"
 
 msgid "Don't restart"
 msgstr "No reiniciar"
@@ -6940,6 +6963,10 @@ msgstr "Versión GCC: "
 msgid "Go down the list"
 msgstr "Ve abajo de la lista"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "ir a reposo profundo"
+
 msgid "Go to first movie or last item"
 msgstr "Ir a la primera película o al último artículo"
 
@@ -6963,6 +6990,10 @@ msgstr "Ir al evento previo"
 
 msgid "Go to previous page of service"
 msgstr "Ir a la página previa de canales"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "ir a reposo"
 
 msgid "Go up the list"
 msgstr "Sube la lista"
@@ -8500,6 +8531,10 @@ msgstr "Bloqueo:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Acciones Zoom"
+
 #, fuzzy, python-format
 msgid "Log file '%s' deleted."
 msgstr "Configuración Regional %s (%s) seleccionada."
@@ -9412,6 +9447,10 @@ msgstr "Asistente de red"
 msgid "Network:"
 msgstr "Red:"
 
+#, fuzzy
+msgid "Never"
+msgstr "nunca"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Nunca descifre el contenido mientras graba. Esto anula las configuraciones de temporizador individuales a nivel general. Si está habilitado, las grabaciones se almacenan en una presentación encriptada y se deben descifrar posteriormente (a veces llamadas decodificación sin conexión). Predeterminado: apagado."
 
@@ -9886,6 +9925,9 @@ msgstr "En final de película (Como menú)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "En ONID válidos, ignore la parte de la frecuencia de subred"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Uno"
 
@@ -9903,6 +9945,14 @@ msgstr "Solo extensiones."
 
 msgid "Only free scan"
 msgstr "Solo búsqueda canales gratuitos"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "solo desde el modo de reposo profundo"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "solo desde el modo de reposo"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Solo mueva el plato rápidamente después de esta hora."
@@ -10379,6 +10429,14 @@ msgstr "Añadir títulos a la compilación."
 
 msgid "Please change recording endtime"
 msgstr "Cambiar el tiempo final de la grabación"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Elegir Lector"
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Elegir extensión…"
 
 msgid "Please choose CCcam-Reader"
 msgstr "Elegir CCcam-Lector"
@@ -11583,6 +11641,10 @@ msgstr "Repetir lista de reproducción"
 msgid "Repeat type"
 msgstr "Tipo de repetición"
 
+#, fuzzy
+msgid "Repeated"
+msgstr "repetido"
+
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Repetir el evento que está grabando actualmente...Qué quieres hacer?"
 
@@ -12057,6 +12119,10 @@ msgstr "Guardar lista de reproducción al salir"
 
 msgid "Save settings and EPG data"
 msgstr "Guarde la configuración y los datos EPG"
+
+#, fuzzy
+msgid "Save the current contents of the log and close the screen"
+msgstr "Habilite el valor actual del control deslizante al final de la barra deslizante."
 
 msgid "Save timeshift and zap"
 msgstr "Guardar timeshift y zap"
@@ -13489,6 +13555,10 @@ msgstr "Aleatorio"
 msgid "Shuffle playlist"
 msgstr "Lista de reproducción aleatoria"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Apagar"
+
 msgid "Shutdown"
 msgstr "Apagar"
 
@@ -14841,10 +14911,12 @@ msgstr "La velocidad del ventilador cuando su %s %s está en standby."
 msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "El archivo del temporizador (pm_timers.xml) está dañado y no se pudo cargar."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "El archivo de temporizador (timers.xml) está dañado y no se pudo cargar."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15265,8 +15337,22 @@ msgstr "Se agotó el tiempo de espera, lo sentimos."
 msgid "Timer"
 msgstr "Temporizadores Grabaciones"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Temporizador ‘%s’ desactivado!"
+
 msgid "Timer Actions"
 msgstr "Acciones Temporizadores"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Entrada del temporizador"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Registro de temporizador"
 
 msgid "Timer Overview"
 msgstr "Resumen del Temporizador"
@@ -15280,19 +15366,14 @@ msgstr "Entrada del temporizador"
 msgid "Timer log"
 msgstr "Registro de temporizador"
 
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+#, fuzzy
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Superposición del temporizador en pm_timers.xml detectada!\n"
 "Por favor vuelva a verificarlo!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Superposición de temporizador en timers.xml detectado!\n"
-"Por favor, vuelva a verificarlo!"
 
 msgid "Timer overview"
 msgstr "Resumen del temporizador"
@@ -17262,6 +17343,10 @@ msgstr "Zapear"
 msgid "Zap Up/Down"
 msgstr "Zapeo abajo"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "zapea y graba"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Volver al canal previamente sintonizado?"
 
@@ -17411,9 +17496,6 @@ msgstr "todo"
 #, fuzzy
 msgid "all tuners"
 msgstr "Configuración del sintonizador de respaldo"
-
-msgid "always"
-msgstr "siempre"
 
 msgid "and"
 msgstr "y"
@@ -17596,9 +17678,6 @@ msgstr "tiempo de borrado: muestra el tiempo de grabación (Solo Papelera)"
 msgid "deleted"
 msgstr "eliminar"
 
-msgid "descramble and record ecm"
-msgstr "descifrar y grabar ecm"
-
 msgid "detective/thriller"
 msgstr "detective/intriga"
 
@@ -17620,9 +17699,6 @@ msgstr "documental"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "documental"
-
-msgid "don't descramble, record ecm"
-msgstr "no descifrar, grabar ecm"
 
 msgid "done!"
 msgstr "hecho!"
@@ -18031,9 +18107,6 @@ msgstr "no se encontraron dispositivos de almacenamiento"
 msgid "none"
 msgstr "ninguno"
 
-msgid "normal"
-msgstr "normal"
-
 msgid "not configured"
 msgstr "no configurado"
 
@@ -18088,12 +18161,6 @@ msgstr "en medio de SOLO LECTURA."
 
 msgid "once"
 msgstr "una vez"
-
-msgid "only from deep standby"
-msgstr "solo desde el modo de reposo profundo"
-
-msgid "only from standby"
-msgstr "solo desde el modo de reposo"
 
 msgid "open nameserver configuration"
 msgstr "abrir la configuración del servidor de nombres"

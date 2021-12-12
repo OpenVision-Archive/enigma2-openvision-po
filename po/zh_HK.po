@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -2057,6 +2057,10 @@ msgstr ""
 msgid "Alternative services tuner priority"
 msgstr "可選調諧器優先順序"
 
+#, fuzzy
+msgid "Always"
+msgstr "始終"
+
 msgid "Always ask"
 msgstr ""
 
@@ -3070,6 +3074,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3433,6 +3440,9 @@ msgid "Clear log"
 msgstr "清除日誌"
 
 msgid "Clear playlist"
+msgstr ""
+
+msgid "Clear the contents of the log"
 msgstr ""
 
 msgid "Clear the virtual memory caches"
@@ -4793,6 +4803,10 @@ msgid "Delete the character under the text cursor"
 msgstr ""
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "移除當前選擇的標題"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "移除當前選擇的標題"
 
@@ -4833,6 +4847,9 @@ msgid "Denmark"
 msgstr "週末標記:"
 
 msgid "Depth"
+msgstr ""
+
+msgid "Descramble and record ecm"
 msgstr ""
 
 msgid "Descramble receiving http streams"
@@ -5306,6 +5323,9 @@ msgstr ""
 #, fuzzy
 msgid "Dominican Republic"
 msgstr "捷克共和國"
+
+msgid "Don't descramble, record ecm"
+msgstr ""
 
 #, fuzzy
 msgid "Don't restart"
@@ -6834,6 +6854,10 @@ msgstr "反向"
 msgid "Go down the list"
 msgstr ""
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "深度休眠"
+
 msgid "Go to first movie or last item"
 msgstr ""
 
@@ -6857,6 +6881,10 @@ msgstr ""
 
 msgid "Go to previous page of service"
 msgstr ""
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "待機"
 
 msgid "Go up the list"
 msgstr ""
@@ -8401,6 +8429,10 @@ msgstr "鎖定:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "位置"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9319,6 +9351,10 @@ msgstr ""
 msgid "Network:"
 msgstr "網路:"
 
+#, fuzzy
+msgid "Never"
+msgstr "從不"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -9798,6 +9834,9 @@ msgstr ""
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "1"
 
@@ -9815,6 +9854,14 @@ msgstr "僅增加部分."
 
 msgid "Only free scan"
 msgstr ""
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "深度休眠"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "沒有待機"
 
 msgid "Only move the dish quickly after this hour."
 msgstr ""
@@ -10284,6 +10331,14 @@ msgstr "請添加標題."
 
 msgid "Please change recording endtime"
 msgstr "請更改錄製結束時間"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "請選擇增加部分..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "請選擇增加部分..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11514,6 +11569,10 @@ msgid "Repeat type"
 msgstr ""
 
 #, fuzzy
+msgid "Repeated"
+msgstr "重複"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
 "重複的定時錄製事件.\n"
@@ -11988,6 +12047,9 @@ msgid "Save playlist on exit"
 msgstr "退出時保存播放列表"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -13452,6 +13514,10 @@ msgstr ""
 msgid "Shuffle playlist"
 msgstr ""
 
+#, fuzzy
+msgid "Shut down"
+msgstr "關機"
+
 msgid "Shutdown"
 msgstr "關機"
 
@@ -14802,10 +14868,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "計時器文件（timers.xml）已損壞，無法載入."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "計時器文件（timers.xml）已損壞，無法載入."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15214,9 +15281,21 @@ msgstr ""
 msgid "Timer"
 msgstr "計時器"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr "字幕"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "計時器選擇"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "計時器項目"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "計時器日誌"
 
 msgid "Timer Overview"
 msgstr ""
@@ -15231,19 +15310,13 @@ msgid "Timer log"
 msgstr "計時器日誌"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "測驗timers.xml有重疊部分！\n"
 "請重新檢視它!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"測驗timers.xml有重疊部分！\n"
-"請重新檢視它!"
 
 msgid "Timer overview"
 msgstr ""
@@ -17145,6 +17218,10 @@ msgstr ""
 msgid "Zap Up/Down"
 msgstr ""
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "錄音"
+
 msgid "Zap back to previously tuned service?"
 msgstr ""
 
@@ -17291,9 +17368,6 @@ msgstr ""
 
 msgid "all tuners"
 msgstr ""
-
-msgid "always"
-msgstr "始終"
 
 #, fuzzy
 msgid "and"
@@ -17474,9 +17548,6 @@ msgstr ""
 msgid "deleted"
 msgstr "刪除"
 
-msgid "descramble and record ecm"
-msgstr ""
-
 msgid "detective/thriller"
 msgstr ""
 
@@ -17496,9 +17567,6 @@ msgid "documentary"
 msgstr ""
 
 msgid "documentary (general)"
-msgstr ""
-
-msgid "don't descramble, record ecm"
 msgstr ""
 
 msgid "done!"
@@ -17905,9 +17973,6 @@ msgstr ""
 msgid "none"
 msgstr "無"
 
-msgid "normal"
-msgstr ""
-
 msgid "not configured"
 msgstr ""
 
@@ -17962,12 +18027,6 @@ msgstr "唯讀介質."
 
 msgid "once"
 msgstr "一次"
-
-msgid "only from deep standby"
-msgstr ""
-
-msgid "only from standby"
-msgstr ""
 
 msgid "open nameserver configuration"
 msgstr "打開DNS設定"

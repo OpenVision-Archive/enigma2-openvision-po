@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1863,6 +1863,9 @@ msgstr ""
 msgid "Alternative URLs for DVB-T/C or ATSC"
 msgstr ""
 
+msgid "Always"
+msgstr ""
+
 msgid "Always ask"
 msgstr ""
 
@@ -2721,6 +2724,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3013,6 +3019,9 @@ msgid "Clear log"
 msgstr ""
 
 msgid "Clear playlist"
+msgstr ""
+
+msgid "Clear the contents of the log"
 msgstr ""
 
 msgid "Clear the virtual memory caches"
@@ -3901,6 +3910,9 @@ msgstr ""
 msgid "Delete the character under the text cursor"
 msgstr ""
 
+msgid "Delete the current entry from the log"
+msgstr ""
+
 msgid "Delete the currently displayed log file"
 msgstr ""
 
@@ -3936,6 +3948,9 @@ msgid "Denmark"
 msgstr ""
 
 msgid "Depth"
+msgstr ""
+
+msgid "Descramble and record ecm"
 msgstr ""
 
 msgid "Description"
@@ -4336,6 +4351,9 @@ msgid "Dominica"
 msgstr ""
 
 msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't descramble, record ecm"
 msgstr ""
 
 msgid "Don't restart"
@@ -5565,6 +5583,9 @@ msgstr ""
 msgid "Go down the list"
 msgstr ""
 
+msgid "Go to deep standby"
+msgstr ""
+
 msgid "Go to first movie or last item"
 msgstr ""
 
@@ -5587,6 +5608,9 @@ msgid "Go to previous event"
 msgstr ""
 
 msgid "Go to previous page of service"
+msgstr ""
+
+msgid "Go to standby"
 msgstr ""
 
 msgid "Go up the list"
@@ -6803,6 +6827,9 @@ msgstr ""
 msgid "Log"
 msgstr ""
 
+msgid "Log Actions"
+msgstr ""
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -7550,6 +7577,9 @@ msgstr ""
 msgid "Network:"
 msgstr ""
 
+msgid "Never"
+msgstr ""
+
 msgid "New"
 msgstr ""
 
@@ -7940,6 +7970,9 @@ msgstr ""
 msgid "On end of movie (as menu)"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr ""
 
@@ -7956,6 +7989,12 @@ msgid "Only extensions."
 msgstr ""
 
 msgid "Only free scan"
+msgstr ""
+
+msgid "Only from deep standby"
+msgstr ""
+
+msgid "Only from standby"
 msgstr ""
 
 msgid "Only move the dish quickly after this hour."
@@ -8345,6 +8384,12 @@ msgid "Please add titles to the compilation."
 msgstr ""
 
 msgid "Please change recording endtime"
+msgstr ""
+
+msgid "Please check all timers!"
+msgstr ""
+
+msgid "Please check all timers."
 msgstr ""
 
 msgid "Please choose CCcam-Reader"
@@ -9276,6 +9321,9 @@ msgstr ""
 msgid "Repeat type"
 msgstr ""
 
+msgid "Repeated"
+msgstr ""
+
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
 
@@ -9685,6 +9733,9 @@ msgid "Save playlist on exit"
 msgstr ""
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -10684,6 +10735,9 @@ msgid "Shuffle"
 msgstr ""
 
 msgid "Shuffle playlist"
+msgstr ""
+
+msgid "Shut down"
 msgstr ""
 
 msgid "Shutdown when in Standby"
@@ -11751,10 +11805,10 @@ msgstr ""
 msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr ""
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr ""
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -12050,26 +12104,26 @@ msgstr ""
 msgid "Timer"
 msgstr ""
 
+#, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+
 msgid "Timer Actions"
+msgstr ""
+
+msgid "Timer Entry"
+msgstr ""
+
+msgid "Timer Log"
 msgstr ""
 
 msgid "Timer Overview"
 msgstr ""
 
-msgid "Timer entry"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 
-msgid "Timer log"
-msgstr ""
-
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
-msgstr ""
-
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
 
 msgid "Timer overview"
@@ -13389,6 +13443,9 @@ msgstr ""
 msgid "Zap Up/Down"
 msgstr ""
 
+msgid "Zap and record"
+msgstr ""
+
 msgid "Zap back to previously tuned service?"
 msgstr ""
 
@@ -13521,9 +13578,6 @@ msgid "all"
 msgstr ""
 
 msgid "all tuners"
-msgstr ""
-
-msgid "always"
 msgstr ""
 
 msgid "and"
@@ -13692,9 +13746,6 @@ msgstr ""
 msgid "deleted"
 msgstr ""
 
-msgid "descramble and record ecm"
-msgstr ""
-
 msgid "detective/thriller"
 msgstr ""
 
@@ -13714,9 +13765,6 @@ msgid "documentary"
 msgstr ""
 
 msgid "documentary (general)"
-msgstr ""
-
-msgid "don't descramble, record ecm"
 msgstr ""
 
 msgid "done!"
@@ -14103,9 +14151,6 @@ msgstr ""
 msgid "none"
 msgstr ""
 
-msgid "normal"
-msgstr ""
-
 msgid "not configured"
 msgstr ""
 
@@ -14158,12 +14203,6 @@ msgid "on READ ONLY medium."
 msgstr ""
 
 msgid "once"
-msgstr ""
-
-msgid "only from deep standby"
-msgstr ""
-
-msgid "only from standby"
 msgstr ""
 
 msgid "open nameserver configuration"
@@ -14741,6 +14780,12 @@ msgid "Select a tuner"
 msgstr ""
 
 msgid "Timer edit"
+msgstr ""
+
+msgid "Timer entry"
+msgstr ""
+
+msgid "Timer log"
 msgstr ""
 
 msgid "Timeshift"

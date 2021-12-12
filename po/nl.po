@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -2145,6 +2145,10 @@ msgstr "Alternatieve telmodus"
 msgid "Alternative services tuner priority"
 msgstr "Alternatieve tunerprioriteit"
 
+#, fuzzy
+msgid "Always"
+msgstr "altijd"
+
 msgid "Always ask"
 msgstr "Altijd vragen"
 
@@ -3207,6 +3211,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Annuleer alle wijzigingen en stop"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Annuleer alle wijzigingen in de huidig actieve skin"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Annuleer alle wijzigingen in de huidig ​​actieve skin en verlaat het menu"
 
@@ -3584,6 +3592,9 @@ msgstr "Log wissen"
 
 msgid "Clear playlist"
 msgstr "Afspeellijst leeg maken"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5140,6 +5151,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Verwijder het teken onder de tekst-cursor"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Verwijder de huidig geselecteerde titel"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Verwijder de huidig geselecteerde titel"
 
@@ -5180,6 +5195,10 @@ msgstr "Denemarken"
 
 msgid "Depth"
 msgstr "Diepte"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "ECM decoderen en opnemen"
 
 msgid "Descramble receiving http streams"
 msgstr "Decodeer ontvangen http streams"
@@ -5670,6 +5689,10 @@ msgstr "Gemenebest Dominica"
 
 msgid "Dominican Republic"
 msgstr "Dominicaanse republiek"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "ECM niet decoderen maar wel opnemen"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7251,6 +7274,10 @@ msgstr "Inversie"
 msgid "Go down the list"
 msgstr "Ga naar beneden"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "uitschakelen"
+
 msgid "Go to first movie or last item"
 msgstr "Ga naar de eerste film of einde van de lijst"
 
@@ -7274,6 +7301,10 @@ msgstr "Ga naar de vorige EPG info"
 
 msgid "Go to previous page of service"
 msgstr "Ga naar de vorige pagina met kanalen"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "ga naar stand-by"
 
 msgid "Go up the list"
 msgstr "Ga naar boven"
@@ -8860,6 +8891,10 @@ msgstr "Lock:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Locatie"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9789,6 +9824,10 @@ msgstr "Netwerkwizard"
 msgid "Network:"
 msgstr "Netwerk:"
 
+#, fuzzy
+msgid "Never"
+msgstr "nooit"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 "Indien geactiveerd decodeert u een lopende opname nooit. Dit overschrijft de algemene instelling van een individueel ingestelde timer. Indien geactiveerd worden opnames gecodeerd opgeslagen en moeten achteraf worden gedecodeerd. Dit wordt ook wel offline decoding genoemd.\n"
@@ -10272,6 +10311,9 @@ msgstr "Aan het einde van de film (conform menu)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Indien geactiveerd, dan wordt het frequentie sub-netwerk deel op correcte ONID's genegeerd."
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Een"
 
@@ -10290,6 +10332,14 @@ msgstr "Alleen applicaties."
 
 msgid "Only free scan"
 msgstr "Alleen naar FTA zenders zoeken"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "enkel vanuit 'deep stand-by '"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "alléén vanuit stand-by"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Verplaats de schotel alléén met hoge snelheid na dit tijdstip."
@@ -10776,6 +10826,14 @@ msgstr "Voeg aub titels toe aan de compilatie"
 
 msgid "Please change recording endtime"
 msgstr "Wijzig de opname-eindtijd aub."
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Kies een plugin aub..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Kies een plugin aub..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -12046,6 +12104,10 @@ msgid "Repeat type"
 msgstr "Herhaal type"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "herhalen"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Een herhaalde timer maakt nu een opname. Wat wilt u doen?"
 
@@ -12530,6 +12592,9 @@ msgstr "Bewaar afspeellijst bij het beëindigen"
 
 msgid "Save settings and EPG data"
 msgstr "Sla de instellingen plus EPG data op"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Sla de timeshift op en schakel om"
@@ -14048,6 +14113,10 @@ msgstr "Willekeurig"
 msgid "Shuffle playlist"
 msgstr "Afspeellijst in willekeurige volgorde"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Afsluiten"
+
 msgid "Shutdown"
 msgstr "Afsluiten"
 
@@ -15441,10 +15510,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Het timer bestand (timer.xml) is beschadigd en kan niet worden geladen."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Het timer bestand (timer.xml) is beschadigd en kan niet worden geladen."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15892,9 +15962,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Timer"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Timer '%s' uitgeschakeld!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Timerselectie"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Timerinvoer"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Timerlog"
 
 msgid "Timer Overview"
 msgstr "Timeroverzicht"
@@ -15909,19 +15993,13 @@ msgid "Timer log"
 msgstr "Timerlog"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Overlappende timers gevonden in timers.xml!\n"
 "Controleer deze!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Overlappende timers gevonden in timers.xml!\n"
-"Controleer deze!"
 
 msgid "Timer overview"
 msgstr "Timeroverzicht"
@@ -17964,6 +18042,10 @@ msgstr "Zap"
 msgid "Zap Up/Down"
 msgstr "Zap naar beneden"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "Zap en neem op"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Wilt u terugkeren naar het vorige kanaal?"
 
@@ -18110,9 +18192,6 @@ msgstr "alles"
 
 msgid "all tuners"
 msgstr "alle tuners"
-
-msgid "always"
-msgstr "altijd"
 
 #, fuzzy
 msgid "and"
@@ -18299,9 +18378,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Verwijderd"
 
-msgid "descramble and record ecm"
-msgstr "ECM decoderen en opnemen"
-
 msgid "detective/thriller"
 msgstr "Detective/Thriller"
 
@@ -18323,9 +18399,6 @@ msgstr "Documentaire"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "Documentaire"
-
-msgid "don't descramble, record ecm"
-msgstr "ECM niet decoderen maar wel opnemen"
 
 msgid "done!"
 msgstr "gereed!"
@@ -18736,9 +18809,6 @@ msgstr "geen opslagmedia gevonden"
 msgid "none"
 msgstr "geen"
 
-msgid "normal"
-msgstr "normaal"
-
 msgid "not configured"
 msgstr "niet ingesteld"
 
@@ -18792,12 +18862,6 @@ msgstr "op ALLEEN LEZEN medium."
 
 msgid "once"
 msgstr "éénmalig"
-
-msgid "only from deep standby"
-msgstr "enkel vanuit 'deep stand-by '"
-
-msgid "only from standby"
-msgstr "alléén vanuit stand-by"
 
 msgid "open nameserver configuration"
 msgstr "Open nameserver-configuratie"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -2138,6 +2138,10 @@ msgstr "Alternatív számozás"
 msgid "Alternative services tuner priority"
 msgstr "Alternatív csatornák tuner prioritása"
 
+#, fuzzy
+msgid "Always"
+msgstr "mindig"
+
 msgid "Always ask"
 msgstr "Mindig rákérdez"
 
@@ -3190,6 +3194,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Szöveg változások elvetése és kilépés"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "A jelenleg aktív kinézet változtatásainak elvetése"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "A jelenleg aktív kinézet változtatásainak elvetése és kilépés"
 
@@ -3562,6 +3570,9 @@ msgstr "Napló törlése"
 
 msgid "Clear playlist"
 msgstr "Lejátszási lista törlése"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4928,6 +4939,10 @@ msgid "Delete the character under the text cursor"
 msgstr "A kurzor alatti karakter törlése"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Kijelölt címek eltávolítása"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Kijelölt címek eltávolítása"
 
@@ -4968,6 +4983,10 @@ msgstr "Dánia"
 
 msgid "Depth"
 msgstr "Mélység"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "ECM felvétel és dekódolás"
 
 msgid "Descramble receiving http streams"
 msgstr "Fogadott HTTP stream dekódolása"
@@ -5451,6 +5470,10 @@ msgstr "Dominikai Közösség"
 
 msgid "Dominican Republic"
 msgstr "Dominikai Köztársaság"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "ECM felvétel dekódolás nélkül"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7018,6 +7041,10 @@ msgstr "Invertálás"
 msgid "Go down the list"
 msgstr "A listán lefelé"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "kikapcsolás"
+
 msgid "Go to first movie or last item"
 msgstr "Az első filmre vagy utolsó elemre ugrás"
 
@@ -7041,6 +7068,10 @@ msgstr "Ugrás az előző eseményre"
 
 msgid "Go to previous page of service"
 msgstr "Ugrás az előző csatornalapra"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "lekapcsolás készenléti módba"
 
 msgid "Go up the list"
 msgstr "A listán felfelé"
@@ -8619,6 +8650,10 @@ msgstr "Hangolás:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Tárhely"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9548,6 +9583,10 @@ msgstr "Hálózati Varázsló"
 msgid "Network:"
 msgstr "Hálózat:"
 
+#, fuzzy
+msgid "Never"
+msgstr "soha"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Felvétel közben sosem végez dekódolást. Ez általánosan felülírja az egyes időzítő beállításokat. Ha bekapcsolja ezt, a felvételek kódolt formában kerülnek tárolásra, és később kell dekódolni (ezt általában offline dekódolásnak hívják). Alapértelmezett: 'ki'."
 
@@ -10026,6 +10065,9 @@ msgstr "Film végén (menü)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Érvényes ONID-k esetén a frekvencia alhálózat-rész figyelmen kívül hagyása"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Egy"
 
@@ -10044,6 +10086,14 @@ msgstr "Csak bővítmények."
 
 msgid "Only free scan"
 msgstr "Csak FTA keresés"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "csak kikapcsolt állapotból"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "csak készenléti állapotból"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Az antenna gyors forgatása ezen óra után."
@@ -10530,6 +10580,14 @@ msgstr "Kérem, adjon a válogatáshoz hozzá tételeket."
 
 msgid "Please change recording endtime"
 msgstr "Kérem, változtassa meg a felvétel vége idejét"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Kérem, válasszon egy funkciót..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Kérem, válasszon egy funkciót..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11772,6 +11830,10 @@ msgid "Repeat type"
 msgstr "Ismétlés típusa"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "többszöri"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Ismétlődő felvétel megy. Mit csináljak?"
 
@@ -12252,6 +12314,9 @@ msgstr "Lejátszási lista mentése kilépéskor"
 
 msgid "Save settings and EPG data"
 msgstr "Beállítások és EPG adat mentése"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Időcsúsztatás felvételének megtartása és csatornaváltás"
@@ -13748,6 +13813,10 @@ msgstr "összekever"
 msgid "Shuffle playlist"
 msgstr "Lejátszási lista megkeverése"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Kikapcsolás"
+
 msgid "Shutdown"
 msgstr "Kikapcsolás"
 
@@ -15139,10 +15208,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "A timer fájl (timers.xml) sérült és nem lehet betölteni."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "A timer fájl (timers.xml) sérült és nem lehet betölteni."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15574,9 +15644,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Időzítő"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Időzítő '%s' kikapcsolva!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Időzítés kiválasztása"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Időzítés megadása"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Időzítő lognapló"
 
 msgid "Timer Overview"
 msgstr "Időzítő áttekintés"
@@ -15591,19 +15675,13 @@ msgid "Timer log"
 msgstr "Időzítő lognapló"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Időzítési átfedést találtam a timers.xml fájlban!\n"
 "Kérem, ellenőrizze!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Időzítési átfedést találtam a timers.xml fájlban!\n"
-"Kérem, ellenőrizze!"
 
 msgid "Timer overview"
 msgstr "Időzítések áttekintése"
@@ -17591,6 +17669,10 @@ msgstr "Ugrás"
 msgid "Zap Up/Down"
 msgstr "Ugrás lefelé"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "ugrás és felvétel"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Ugorjunk vissza az elöbb nézett csatornára?"
 
@@ -17737,9 +17819,6 @@ msgstr "minden"
 
 msgid "all tuners"
 msgstr "minden tuner"
-
-msgid "always"
-msgstr "mindig"
 
 #, fuzzy
 msgid "and"
@@ -17926,9 +18005,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Törölve"
 
-msgid "descramble and record ecm"
-msgstr "ECM felvétel és dekódolás"
-
 msgid "detective/thriller"
 msgstr "dekektív/thriller"
 
@@ -17950,9 +18026,6 @@ msgstr "dokumentum"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "dokumentum"
-
-msgid "don't descramble, record ecm"
-msgstr "ECM felvétel dekódolás nélkül"
 
 msgid "done!"
 msgstr "kész!"
@@ -18363,9 +18436,6 @@ msgstr "nem található semmilyen háttértár"
 msgid "none"
 msgstr "nincs"
 
-msgid "normal"
-msgstr "hagyományos"
-
 msgid "not configured"
 msgstr "nem konfigurált"
 
@@ -18419,12 +18489,6 @@ msgstr "a csak olvasható hordozón."
 
 msgid "once"
 msgstr "egyszeri"
-
-msgid "only from deep standby"
-msgstr "csak kikapcsolt állapotból"
-
-msgid "only from standby"
-msgstr "csak készenléti állapotból"
 
 msgid "open nameserver configuration"
 msgstr "névszerver konfiguráció megnyítása"

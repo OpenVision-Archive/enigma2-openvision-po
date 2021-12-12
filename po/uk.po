@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -2154,6 +2154,10 @@ msgstr "Альтернативний режим нумерації"
 msgid "Alternative services tuner priority"
 msgstr "Пріоритет використання тюнерів"
 
+#, fuzzy
+msgid "Always"
+msgstr "завжди"
+
 msgid "Always ask"
 msgstr "Завжди запитувати"
 
@@ -3206,6 +3210,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Скасувати будь-які зміни тексту та вийти"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Скасувати будь-які зміни на поточно активному скіні"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Скасувати будь-які зміни на поточно активному скіні та вийти з усіх меню"
 
@@ -3578,6 +3586,9 @@ msgstr "Очистити лог"
 
 msgid "Clear playlist"
 msgstr "Очистити список відтворення"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4946,6 +4957,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Видалити символ під текстовим курсором"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Видалити вибрану назву"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Видалити вибрану назву"
 
@@ -4986,6 +5001,10 @@ msgstr "Данія"
 
 msgid "Depth"
 msgstr "Глибина"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "розкодувати і записати ecm"
 
 msgid "Descramble receiving http streams"
 msgstr "Розкодувати приймачем http-потоку"
@@ -5471,6 +5490,10 @@ msgstr "Домініка"
 
 msgid "Dominican Republic"
 msgstr "Домініканська республіка"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "не розкодовувати, запис ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7043,6 +7066,10 @@ msgstr "Інверсія"
 msgid "Go down the list"
 msgstr "Перейти вниз списку"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "вимкнути приймач"
+
 msgid "Go to first movie or last item"
 msgstr "Перейти до першого або останнього фільму"
 
@@ -7066,6 +7093,10 @@ msgstr "Перейти до попередньої передачі"
 
 msgid "Go to previous page of service"
 msgstr "Перейти на поперню сторінку каналів"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "перейти в Режим очікування"
 
 msgid "Go up the list"
 msgstr "Перейти до початку списку"
@@ -8644,6 +8675,10 @@ msgstr "З’єднання:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Розташування"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9573,6 +9608,10 @@ msgstr "Майстер налаштування мережі"
 msgid "Network:"
 msgstr "Мережа:"
 
+#, fuzzy
+msgid "Never"
+msgstr "ніколи"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Ніколи не розкодовувати передачі під час запису. При цьому будуть проігноровані деякі параметри таймерів. Коли ввімкнено, записи зберігаються в закодованому вигляді, при відтворенні вони будуть розкодовані (називається декодуванням в автономному режимі). Стандартно: вимкнено."
 
@@ -10049,6 +10088,9 @@ msgstr "На кінець фільму (як меню)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "На дійсних ONID, ігноруйте частину частот підмережі"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Один"
 
@@ -10067,6 +10109,14 @@ msgstr "Тільки розширення."
 
 msgid "Only free scan"
 msgstr "Сканувати тільки відкриті"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "лише з глибокого режиму очікування"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "лише в режимі очікування"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Швидко переміщувати антену після цього часу."
@@ -10553,6 +10603,14 @@ msgstr "Будь ласка, додайте назву до компіляції
 
 msgid "Please change recording endtime"
 msgstr "Будь ласка, змініть час закінчення запису"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Будь ласка, виберіть розширення..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Будь ласка, виберіть розширення..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11795,6 +11853,10 @@ msgid "Repeat type"
 msgstr "Тип повторення"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "декілька раз"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Повторення завдання, яке вже записується. Що хочете зробити?"
 
@@ -12275,6 +12337,9 @@ msgstr "Зберегти список відтворення при виході
 
 msgid "Save settings and EPG data"
 msgstr "Зберегти налаштування і дані ЕПГ"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Зберегти таймшифт і переключити"
@@ -13774,6 +13839,10 @@ msgstr "перемішати"
 msgid "Shuffle playlist"
 msgstr "Перемішати список відтворення"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Вимкнути"
+
 msgid "Shutdown"
 msgstr "Вимкнути"
 
@@ -15160,10 +15229,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Файл таймера (timers.xml) є пошкодженим і не може бути виконаний."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Файл таймера (timers.xml) є пошкодженим і не може бути виконаний."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15595,9 +15665,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Таймер"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Таймер '%s' відключений!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Вибір таймера"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Додати таймер"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Лог таймера"
 
 msgid "Timer Overview"
 msgstr "Огляд таймера"
@@ -15612,19 +15696,13 @@ msgid "Timer log"
 msgstr "Лог таймера"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "В файлі timers.xml виявлено дублювання!\n"
 "Будь-ласка, перевірте його!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"В файлі timers.xml виявлено дублювання!\n"
-"Будь-ласка, перевірте його!"
 
 msgid "Timer overview"
 msgstr "Огляд завдань таймера"
@@ -17617,6 +17695,10 @@ msgstr "Переключити"
 msgid "Zap Up/Down"
 msgstr "Переключити вниз"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "переключити і записати"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Переключити на попередній канал?"
 
@@ -17763,9 +17845,6 @@ msgstr "всі"
 
 msgid "all tuners"
 msgstr "всі тюнера"
-
-msgid "always"
-msgstr "завжди"
 
 #, fuzzy
 msgid "and"
@@ -17952,9 +18031,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Видалено"
 
-msgid "descramble and record ecm"
-msgstr "розкодувати і записати ecm"
-
 msgid "detective/thriller"
 msgstr "детектив/трілер"
 
@@ -17976,9 +18052,6 @@ msgstr "документальний"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "документальний"
-
-msgid "don't descramble, record ecm"
-msgstr "не розкодовувати, запис ecm"
 
 msgid "done!"
 msgstr "виконано!"
@@ -18389,9 +18462,6 @@ msgstr "пристрої не знайдені"
 msgid "none"
 msgstr "жодного"
 
-msgid "normal"
-msgstr "нормальний"
-
 msgid "not configured"
 msgstr "не налаштований"
 
@@ -18445,12 +18515,6 @@ msgstr "на носії тільки для читання."
 
 msgid "once"
 msgstr "один раз"
-
-msgid "only from deep standby"
-msgstr "лише з глибокого режиму очікування"
-
-msgid "only from standby"
-msgstr "лише в режимі очікування"
 
 msgid "open nameserver configuration"
 msgstr "відкрити DNS конфігурацію"

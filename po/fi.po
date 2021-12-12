@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -2268,6 +2268,10 @@ msgstr "Vaihtoehtoinen numerointitapa"
 msgid "Alternative services tuner priority"
 msgstr "Virittimien prioriteetti"
 
+#, fuzzy
+msgid "Always"
+msgstr "Aina"
+
 msgid "Always ask"
 msgstr "Kysy aina"
 
@@ -3378,6 +3382,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3795,6 +3802,9 @@ msgstr "Tyhjennä loki"
 #
 msgid "Clear playlist"
 msgstr "Tyhjennä soittolista"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5268,6 +5278,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Poista valittu otsikko"
+
+#
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Poista valittu otsikko"
 
@@ -5314,6 +5329,10 @@ msgstr "Tanska"
 
 msgid "Depth"
 msgstr "Syvyys"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "Pura ja tallenna ECM"
 
 msgid "Descramble receiving http streams"
 msgstr "Pura vastaanotettavat http-striimit"
@@ -5873,6 +5892,10 @@ msgstr "Dominica"
 
 msgid "Dominican Republic"
 msgstr "Dominikaaninen tasavalta"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "Älä pura, tallenna ECM"
 
 #
 #, fuzzy
@@ -7593,6 +7616,11 @@ msgstr "Inversio"
 msgid "Go down the list"
 msgstr "Mene luettelossa alaspäin"
 
+#
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "Siirry virransäästötilaan"
+
 msgid "Go to first movie or last item"
 msgstr "Mene ensimmäiseen tallenteeseen tai viimeiseen kohteeseen"
 
@@ -7616,6 +7644,11 @@ msgstr "Mene edelliseen ohjelmaan"
 
 msgid "Go to previous page of service"
 msgstr "Mene edelliselle kanavasivulle"
+
+#
+#, fuzzy
+msgid "Go to standby"
+msgstr "Siirry valmiustilaan"
 
 msgid "Go up the list"
 msgstr "Mene luettelossa ylöspäin"
@@ -9351,6 +9384,11 @@ msgstr "Lukittu:"
 msgid "Log"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Log Actions"
+msgstr "Hakemisto"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -10413,6 +10451,11 @@ msgstr "Ohjattu verkkoasennus"
 msgid "Network:"
 msgstr "Sovitin:"
 
+#
+#, fuzzy
+msgid "Never"
+msgstr "Ei koskaan"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Älä pura salausta tallennettaessa. Tallennukset tallentuvat suojatussa tilassa ja ne pitää purkaa myöhemmin (offline decoding). Jos päällä, tämä asetus ohittaa aina ajastusten erilliset asetukset."
 
@@ -10950,6 +10993,9 @@ msgstr "Vaihda tallenteen lopun toimintoa"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Jätä huomioimatta taajuuksien aliverkon osuus"
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "Yksi"
@@ -10970,6 +11016,14 @@ msgstr "Vain laajennukset."
 #
 msgid "Only free scan"
 msgstr "Hae vain salaamattomat"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "Vain virransäästötilasta"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "Vain valmiustilasta"
 
 msgid "Only move the dish quickly after this hour."
 msgstr ""
@@ -11492,6 +11546,16 @@ msgstr "Lisää tallenteita kokoelmaan."
 #
 msgid "Please change recording endtime"
 msgstr "Aseta tallennuksen päättymisaika"
+
+#
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Valitse laajennus..."
+
+#
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Valitse laajennus..."
 
 #
 #, fuzzy
@@ -12936,6 +13000,11 @@ msgstr "Ajastus toistetaan"
 
 #
 #, fuzzy
+msgid "Repeated"
+msgstr "Useita kertoja"
+
+#
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Toistuvaa ajastusta tallennetaan. Mitä haluat tehdä?"
 
@@ -13474,6 +13543,9 @@ msgstr "Tallenna soittolista suljettaessa"
 
 msgid "Save settings and EPG data"
 msgstr "Tallenna asetukset ja ohjelmaoppaan tiedot"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Tallenna ajansiirto ja vaihda kanavaa"
@@ -15125,6 +15197,11 @@ msgid "Shuffle playlist"
 msgstr "Arvo soittolista"
 
 #
+#, fuzzy
+msgid "Shut down"
+msgstr "Sammuta"
+
+#
 msgid "Shutdown"
 msgstr "Sammuta"
 
@@ -16680,11 +16757,12 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Ajastusluettelo (timers.xml) on korruptoitunut eikä sitä voida ladata"
 
 #
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Ajastusluettelo (timers.xml) on korruptoitunut eikä sitä voida ladata"
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -17148,10 +17226,27 @@ msgstr ""
 msgid "Timer"
 msgstr "Ajastukset"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Ajastus '%s' on pois päältä!"
+
 #
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Ajastinvalinta"
+
+#
+#  Ajastusikkunan otsikkopalkin teksti
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Ajastettava ohjelma"
+
+#
+#, fuzzy
+msgid "Timer Log"
+msgstr "Ajastinloki"
 
 msgid "Timer Overview"
 msgstr "Ajastukset"
@@ -17171,20 +17266,13 @@ msgstr "Ajastinloki"
 
 #
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Ajastusten päällekkäisyys havaittu!\n"
 "Tarkista ajastusasetukset!"
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Ajastusten päällekkäisyys havaittu!\n"
-"Tarkista ajastusasetukset!"
 
 msgid "Timer overview"
 msgstr "Ajastukset"
@@ -19335,6 +19423,11 @@ msgstr "Kanavanvaihto"
 msgid "Zap Up/Down"
 msgstr "Kanava alas"
 
+#
+#, fuzzy
+msgid "Zap and record"
+msgstr "Vaihda kanavaa ja tallenna"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Palataanko aikaisemmalle kanavalle?"
 
@@ -19494,9 +19587,6 @@ msgstr "Kaikki"
 #, fuzzy
 msgid "all tuners"
 msgstr "Etävastaanotin"
-
-msgid "always"
-msgstr "Aina"
 
 #
 #, fuzzy
@@ -19705,9 +19795,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Poistettu"
 
-msgid "descramble and record ecm"
-msgstr "Pura ja tallenna ECM"
-
 msgid "detective/thriller"
 msgstr "etsivä/trilleri"
 
@@ -19732,9 +19819,6 @@ msgstr "dokumentti"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "dokumentti"
-
-msgid "don't descramble, record ecm"
-msgstr "Älä pura, tallenna ECM"
 
 #
 msgid "done!"
@@ -20195,9 +20279,6 @@ msgstr "Tallennuslaitteita ei löytynyt"
 msgid "none"
 msgstr "Ei mitään"
 
-msgid "normal"
-msgstr "Normaali"
-
 #
 msgid "not configured"
 msgstr "Ei määritetty"
@@ -20263,12 +20344,6 @@ msgstr "Vain-luku levystä."
 #
 msgid "once"
 msgstr "Kerran"
-
-msgid "only from deep standby"
-msgstr "Vain virransäästötilasta"
-
-msgid "only from standby"
-msgstr "Vain valmiustilasta"
 
 #
 msgid "open nameserver configuration"

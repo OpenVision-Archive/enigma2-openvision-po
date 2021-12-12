@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -2159,6 +2159,9 @@ msgstr "Alternative radio mode"
 msgid "Alternative services tuner priority"
 msgstr "Alternative services tuner priority"
 
+msgid "Always"
+msgstr ""
+
 msgid "Always ask"
 msgstr ""
 
@@ -3239,6 +3242,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3624,6 +3630,9 @@ msgstr "נקה לוג"
 #, fuzzy
 msgid "Clear playlist"
 msgstr "clear playlist"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5044,6 +5053,10 @@ msgid "Delete the character under the text cursor"
 msgstr ""
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Remove currently selected title"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Remove currently selected title"
 
@@ -5084,6 +5097,9 @@ msgid "Denmark"
 msgstr ""
 
 msgid "Depth"
+msgstr ""
+
+msgid "Descramble and record ecm"
 msgstr ""
 
 msgid "Descramble receiving http streams"
@@ -5592,6 +5608,9 @@ msgid "Dominica"
 msgstr ""
 
 msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't descramble, record ecm"
 msgstr ""
 
 #, fuzzy
@@ -7222,6 +7241,10 @@ msgstr "Inversion"
 msgid "Go down the list"
 msgstr ""
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "go to deep standby"
+
 msgid "Go to first movie or last item"
 msgstr ""
 
@@ -7252,6 +7275,10 @@ msgstr "move up to previous entry"
 #, fuzzy
 msgid "Go to previous page of service"
 msgstr "Return to previous service"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "go to standby"
 
 msgid "Go up the list"
 msgstr ""
@@ -8907,6 +8934,10 @@ msgstr ""
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "מיקום"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9893,6 +9924,10 @@ msgstr "אשף הרשת"
 msgid "Network:"
 msgstr ":רשת"
 
+#, fuzzy
+msgid "Never"
+msgstr "לעולם"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -10410,6 +10445,9 @@ msgstr ""
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "אחד"
@@ -10429,6 +10467,15 @@ msgstr ".רק תוספים"
 #
 #, fuzzy
 msgid "Only free scan"
+msgstr "Only Free scan"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "go to deep standby"
+
+#
+#, fuzzy
+msgid "Only from standby"
 msgstr "Only Free scan"
 
 msgid "Only move the dish quickly after this hour."
@@ -10943,6 +10990,14 @@ msgstr "Please add titles to the compilation."
 
 msgid "Please change recording endtime"
 msgstr "אנא שנה את זמן סוף ההקלטה"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Please choose an extension..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Please choose an extension..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -12243,6 +12298,11 @@ msgstr "Repeat playlist"
 msgid "Repeat type"
 msgstr "Repeat Type"
 
+#
+#, fuzzy
+msgid "Repeated"
+msgstr "repeated"
+
 #, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
@@ -12753,6 +12813,9 @@ msgid "Save playlist on exit"
 msgstr "Save playlist on exit"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -14336,6 +14399,11 @@ msgid "Shuffle playlist"
 msgstr "clear playlist"
 
 #
+#, fuzzy
+msgid "Shut down"
+msgstr "כיבוי"
+
+#
 msgid "Shutdown"
 msgstr "כיבוי"
 
@@ -15836,10 +15904,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "The timer file (timers.xml) is corrupt and could not be loaded."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "The timer file (timers.xml) is corrupt and could not be loaded."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -16275,9 +16344,23 @@ msgid "Timer"
 msgstr "טיימר"
 
 #
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr "תרגום"
+
+#
 #, fuzzy
 msgid "Timer Actions"
 msgstr "בחירת טיימר"
+
+#
+#, fuzzy
+msgid "Timer Entry"
+msgstr "רשומת טיימר"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "טיימר לוג"
 
 msgid "Timer Overview"
 msgstr ""
@@ -16294,15 +16377,10 @@ msgstr "רשומת טיימר"
 msgid "Timer log"
 msgstr "טיימר לוג"
 
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
 
 #
@@ -18342,6 +18420,10 @@ msgstr ""
 msgid "Zap Up/Down"
 msgstr ""
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "אל תקליט"
+
 #
 msgid "Zap back to previously tuned service?"
 msgstr "?לזפזפ אחורנית לערוץ הקודם"
@@ -18492,9 +18574,6 @@ msgid "all"
 msgstr ""
 
 msgid "all tuners"
-msgstr ""
-
-msgid "always"
 msgstr ""
 
 #, fuzzy
@@ -18686,9 +18765,6 @@ msgstr ""
 msgid "deleted"
 msgstr "מחק"
 
-msgid "descramble and record ecm"
-msgstr ""
-
 msgid "detective/thriller"
 msgstr ""
 
@@ -18708,9 +18784,6 @@ msgid "documentary"
 msgstr ""
 
 msgid "documentary (general)"
-msgstr ""
-
-msgid "don't descramble, record ecm"
 msgstr ""
 
 msgid "done!"
@@ -19132,9 +19205,6 @@ msgstr ""
 msgid "none"
 msgstr "none"
 
-msgid "normal"
-msgstr ""
-
 msgid "not configured"
 msgstr "not configured"
 
@@ -19192,12 +19262,6 @@ msgstr "on READ ONLY medium."
 #
 msgid "once"
 msgstr "once"
-
-msgid "only from deep standby"
-msgstr ""
-
-msgid "only from standby"
-msgstr ""
 
 msgid "open nameserver configuration"
 msgstr "open nameserver configuration"

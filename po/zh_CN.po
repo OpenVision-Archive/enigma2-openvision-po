@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -2144,6 +2144,10 @@ msgstr "替代编号模式"
 msgid "Alternative services tuner priority"
 msgstr "可选调谐器优先顺序"
 
+#, fuzzy
+msgid "Always"
+msgstr "总是"
+
 msgid "Always ask"
 msgstr "总是询问"
 
@@ -3196,6 +3200,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "取消任何文本更改并退出"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "取消对当前活动皮肤的任何更改"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "取消对当前活动皮肤的任何更改并退出所有菜单"
 
@@ -3568,6 +3576,9 @@ msgstr "清除日志"
 
 msgid "Clear playlist"
 msgstr "清除播放列表"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4936,6 +4947,10 @@ msgid "Delete the character under the text cursor"
 msgstr "删除文本光标下的字符"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "移除当前选择的标题"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "移除当前选择的标题"
 
@@ -4976,6 +4991,10 @@ msgstr "丹麦"
 
 msgid "Depth"
 msgstr "深度"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "解扰开始录制"
 
 msgid "Descramble receiving http streams"
 msgstr "解扰接收中的媒体流"
@@ -5455,6 +5474,10 @@ msgstr "多米尼加"
 
 msgid "Dominican Republic"
 msgstr "多米尼加共和国"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "不解扰录制"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7026,6 +7049,10 @@ msgstr "反向"
 msgid "Go down the list"
 msgstr "转到列表末尾"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "深度休眠"
+
 msgid "Go to first movie or last item"
 msgstr "转到第一部电影或最后一项"
 
@@ -7049,6 +7076,10 @@ msgstr "转到上一事件"
 
 msgid "Go to previous page of service"
 msgstr "转到上一频道页面"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "待机"
 
 msgid "Go up the list"
 msgstr "添加到泪飙上去"
@@ -8623,6 +8654,10 @@ msgstr "锁定:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "位置"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9552,6 +9587,10 @@ msgstr "网络向导"
 msgid "Network:"
 msgstr "网络:"
 
+#, fuzzy
+msgid "Never"
+msgstr "从不"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "当录制时从不解密内容,这将会覆盖全部范围内的定时器设置.如果启用,录制的节目将处于加扰状态,且需要事后解码.(有时称离线解码).此项设置默认为:关闭."
 
@@ -10028,6 +10067,9 @@ msgstr "电影的一端（作为菜单）"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "在有效的ONID上,忽略频率子网络部分"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "一"
 
@@ -10046,6 +10088,14 @@ msgstr "仅扩展."
 
 msgid "Only free scan"
 msgstr "只搜索免费频道"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "仅仅从深度睡眠"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "唤醒电视"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "在这段时间后才能快速转动卫星天线."
@@ -10532,6 +10582,14 @@ msgstr "添加编辑标题."
 
 msgid "Please change recording endtime"
 msgstr "请更改录制结束时间"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "请选择增加部分..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "请选择增加部分..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11774,6 +11832,10 @@ msgid "Repeat type"
 msgstr "重复类型"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "重复"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "正在重复当前录制的事件.你要做什么?"
 
@@ -12254,6 +12316,9 @@ msgstr "退出时保存播放列表"
 
 msgid "Save settings and EPG data"
 msgstr "保存设置和EPG数据"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "保存时移并跳转"
@@ -13751,6 +13816,10 @@ msgstr "随机播放"
 msgid "Shuffle playlist"
 msgstr "随机播放列表的频道"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "关机"
+
 msgid "Shutdown"
 msgstr "关机"
 
@@ -15137,10 +15206,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "定时器文件(timers.xml)已损坏,无法加载."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "定时器文件(timers.xml)已损坏,无法加载."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15572,9 +15642,23 @@ msgstr ""
 msgid "Timer"
 msgstr "定时器"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"定时器 %s 已禁用!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "定时器选择"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "定时器项目"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "定时器日志"
 
 msgid "Timer Overview"
 msgstr "自动定时器概述"
@@ -15589,19 +15673,13 @@ msgid "Timer log"
 msgstr "定时器日志"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "检测timers.xml有重叠部分！\n"
 "请重新检查它!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"检测timers.xml有重叠部分！\n"
-"请重新检查它!"
 
 msgid "Timer overview"
 msgstr "自动定时器概述"
@@ -17593,6 +17671,10 @@ msgstr "跳转"
 msgid "Zap Up/Down"
 msgstr "向下切换频道"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "跳转并录制"
+
 msgid "Zap back to previously tuned service?"
 msgstr "是否回到上次的频道？"
 
@@ -17739,9 +17821,6 @@ msgstr "全部"
 
 msgid "all tuners"
 msgstr "所有调谐器"
-
-msgid "always"
-msgstr "总是"
 
 #, fuzzy
 msgid "and"
@@ -17928,9 +18007,6 @@ msgstr ""
 msgid "deleted"
 msgstr "删除"
 
-msgid "descramble and record ecm"
-msgstr "解扰开始录制"
-
 msgid "detective/thriller"
 msgstr "侦探/惊悚"
 
@@ -17952,9 +18028,6 @@ msgstr "纪录片"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "纪录片"
-
-msgid "don't descramble, record ecm"
-msgstr "不解扰录制"
 
 msgid "done!"
 msgstr "完成!"
@@ -18367,9 +18440,6 @@ msgstr "无存储设备"
 msgid "none"
 msgstr "无"
 
-msgid "normal"
-msgstr "标准"
-
 msgid "not configured"
 msgstr "未设置"
 
@@ -18424,12 +18494,6 @@ msgstr "只读介质."
 
 msgid "once"
 msgstr "一次"
-
-msgid "only from deep standby"
-msgstr "仅仅从深度睡眠"
-
-msgid "only from standby"
-msgstr "唤醒电视"
 
 msgid "open nameserver configuration"
 msgstr "打开DNS设置"

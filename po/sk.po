@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -2155,6 +2155,10 @@ msgstr "Režim alternatívneho číslovania"
 msgid "Alternative services tuner priority"
 msgstr "Priorita tunera pri alternatívnych staniciach"
 
+#, fuzzy
+msgid "Always"
+msgstr "vždy"
+
 msgid "Always ask"
 msgstr "Vždy sa spýtať"
 
@@ -3207,6 +3211,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Zrušiť všetky textové zmeny a ukončiť"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Zrušiť všetky zmeny aktívneho vzhľadu"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Zrušiť všetky zmeny aktívneho vzhľadu a opustiť menu"
 
@@ -3579,6 +3587,9 @@ msgstr "Vymazať log"
 
 msgid "Clear playlist"
 msgstr "Vymazať zoznam prehrávania"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4947,6 +4958,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Vymazať znak pod kurzorom"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Odstrániť aktuálne zvolený titul"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Odstrániť aktuálne zvolený titul"
 
@@ -4987,6 +5002,10 @@ msgstr "Dánsko"
 
 msgid "Depth"
 msgstr "Hĺbka"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "dekódovať a zaznamenávať ecm"
 
 msgid "Descramble receiving http streams"
 msgstr "Dekódovať prijímané http streamy"
@@ -5472,6 +5491,10 @@ msgstr "Dominika"
 
 msgid "Dominican Republic"
 msgstr "Dominikánska republika"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "nedekódovať, zaznamenávať ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7044,6 +7067,10 @@ msgstr "Inverzia"
 msgid "Go down the list"
 msgstr "Prechádzať v zozname nadol"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "prejsť do vypnutia"
+
 msgid "Go to first movie or last item"
 msgstr "Prejsť na prvý film alebo na posledná položku"
 
@@ -7067,6 +7094,10 @@ msgstr "Nahor na predchádzajúci program"
 
 msgid "Go to previous page of service"
 msgstr "Prejsť na predchádzajúcu stranu služby"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "prejsť do pohotovostného režimu"
 
 msgid "Go up the list"
 msgstr "Prechádzať v zozname nahor"
@@ -8645,6 +8676,10 @@ msgstr "Zámok:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Umiestnenie"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9574,6 +9609,10 @@ msgstr "Sprievodca sieťou"
 msgid "Network:"
 msgstr "Sieť:"
 
+#, fuzzy
+msgid "Never"
+msgstr "nikdy"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Nedekódovať obsah počas nahrávania. Táto voľba zmení nastavenie všetkých časovačov. Ak je povolená, nahrávky sú ukladané v kódovanej podobe a musia byť dekódované neskôr (offline dekódovanie). Predvolené: vypnuté."
 
@@ -10050,6 +10089,9 @@ msgstr "Na konci filmu (ako menu)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Pre platné ONIDy, ignorovať frekvenciu sub network part"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Jeden"
 
@@ -10068,6 +10110,14 @@ msgstr "Iba rozšírenia."
 
 msgid "Only free scan"
 msgstr "Vyhľadať iba nekódované (FTA)"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "iba z hlbokého spánku"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "iba z pohotovostného režimu"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Po tejto hodine iba rýchlo presunúť parabolu."
@@ -10554,6 +10604,14 @@ msgstr "Prosím, pridajte titulky do kompilácie."
 
 msgid "Please change recording endtime"
 msgstr "Prosím, zmeňte koniec nahrávania"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Prosím, zvoľte rozšírenie..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Prosím, zvoľte rozšírenie..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11796,6 +11854,10 @@ msgid "Repeat type"
 msgstr "Druh opakovania"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "opakované"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Práve sa nahráva opakovaná udalosť. Čo chcete urobiť?"
 
@@ -12276,6 +12338,9 @@ msgstr "Pri ukončení uložiť zoznam prehrávok"
 
 msgid "Save settings and EPG data"
 msgstr "Uložiť nastavenia a EPG údaje"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Uložiť časový posun a prepnúť"
@@ -13775,6 +13840,10 @@ msgstr "premiešať"
 msgid "Shuffle playlist"
 msgstr "Premiešať zoznam prehrávok"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Vypnúť"
+
 msgid "Shutdown"
 msgstr "Vypnúť"
 
@@ -15161,10 +15230,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Súbor časovača (timers.xml) je porušený a nedá sa otvoriť."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Súbor časovača (timers.xml) je porušený a nedá sa otvoriť."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15596,9 +15666,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Časovač"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Časovač '%s' zakázaný!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Výber časovača"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Zadanie časovača"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Protokol časovača"
 
 msgid "Timer Overview"
 msgstr "Prehľad časovačov"
@@ -15613,19 +15697,13 @@ msgid "Timer log"
 msgstr "Protokol časovača"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Zistené prekrývanie časovačov v súbore timers.xml!\n"
 "Skontrolujte to, prosím!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Zistené prekrývanie časovačov v súbore timers.xml!\n"
-"Skontrolujte to, prosím!"
 
 msgid "Timer overview"
 msgstr "Prehľad časovačov"
@@ -17616,6 +17694,10 @@ msgstr "Prepnúť"
 msgid "Zap Up/Down"
 msgstr "Prepnúť dozadu"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "prepnúť a nahrať"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Prepnúť späť na predtým naladenú stanicu?"
 
@@ -17762,9 +17844,6 @@ msgstr "všetky"
 
 msgid "all tuners"
 msgstr "všetky tunery"
-
-msgid "always"
-msgstr "vždy"
 
 #, fuzzy
 msgid "and"
@@ -17951,9 +18030,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Zmazané"
 
-msgid "descramble and record ecm"
-msgstr "dekódovať a zaznamenávať ecm"
-
 msgid "detective/thriller"
 msgstr "detektívka/triler"
 
@@ -17975,9 +18051,6 @@ msgstr "dokumentárny"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "dokumentárny"
-
-msgid "don't descramble, record ecm"
-msgstr "nedekódovať, zaznamenávať ecm"
 
 msgid "done!"
 msgstr "Hotovo!"
@@ -18388,9 +18461,6 @@ msgstr "nenájdené žiadne zariadenie pre ukladanie dát"
 msgid "none"
 msgstr "nie je"
 
-msgid "normal"
-msgstr "normálny"
-
 msgid "not configured"
 msgstr "nenakonfigurované"
 
@@ -18444,12 +18514,6 @@ msgstr "na nezapisovateľné médium."
 
 msgid "once"
 msgstr "raz"
-
-msgid "only from deep standby"
-msgstr "iba z hlbokého spánku"
-
-msgid "only from standby"
-msgstr "iba z pohotovostného režimu"
 
 msgid "open nameserver configuration"
 msgstr "Otvoriť nastavenia DNS"

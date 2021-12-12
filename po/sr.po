@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2011-04-14 00:02+0200\n"
 "Last-Translator: majevica <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
@@ -2312,6 +2312,10 @@ msgstr "Alternativni radio mod"
 msgid "Alternative services tuner priority"
 msgstr "Prioritet alternativnih kanala tjunera"
 
+#, fuzzy
+msgid "Always"
+msgstr "Uvek pitaj"
+
 msgid "Always ask"
 msgstr "Uvek pitaj"
 
@@ -3462,6 +3466,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3870,6 +3877,9 @@ msgstr "Obriši log"
 #, fuzzy
 msgid "Clear playlist"
 msgstr "očisti Plejlistu"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5412,6 +5422,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Ukloni trenutno odabrani titl"
+
+#
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Ukloni trenutno odabrani titl"
 
@@ -5455,6 +5470,9 @@ msgid "Denmark"
 msgstr ""
 
 msgid "Depth"
+msgstr ""
+
+msgid "Descramble and record ecm"
 msgstr ""
 
 msgid "Descramble receiving http streams"
@@ -6018,6 +6036,9 @@ msgid "Dominica"
 msgstr ""
 
 msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't descramble, record ecm"
 msgstr ""
 
 #
@@ -7763,6 +7784,11 @@ msgstr "Inverzija"
 msgid "Go down the list"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "pokreni isključivanje drimboxa"
+
 msgid "Go to first movie or last item"
 msgstr ""
 
@@ -7798,6 +7824,11 @@ msgstr "Pomeri gore na prethodni unos"
 #, fuzzy
 msgid "Go to previous page of service"
 msgstr "Vratite se na prethodni kanal"
+
+#
+#, fuzzy
+msgid "Go to standby"
+msgstr "pođi u pripravnost"
 
 msgid "Go up the list"
 msgstr ""
@@ -9557,6 +9588,11 @@ msgstr "Zaključaj:"
 msgid "Log"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Log Actions"
+msgstr "Lokacija"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -10624,6 +10660,11 @@ msgstr "Mrežni čarobnjak"
 msgid "Network:"
 msgstr "Mreža:"
 
+#
+#, fuzzy
+msgid "Never"
+msgstr "nikad"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -11169,6 +11210,9 @@ msgstr ""
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "Jedan"
@@ -11189,6 +11233,16 @@ msgstr "Samo proširenja:"
 #
 #, fuzzy
 msgid "Only free scan"
+msgstr "Samo slobodno traženje"
+
+#
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "pokreni isključivanje drimboxa"
+
+#
+#, fuzzy
+msgid "Only from standby"
 msgstr "Samo slobodno traženje"
 
 msgid "Only move the dish quickly after this hour."
@@ -11730,6 +11784,16 @@ msgstr "Molim,dodaj naziv kompilaciji."
 #
 msgid "Please change recording endtime"
 msgstr "Molim promenite završno vreme snimanja"
+
+#
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Molim odaberite proširenje..."
+
+#
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Molim odaberite proširenje..."
 
 #
 #, fuzzy
@@ -13171,6 +13235,11 @@ msgstr "Tip ponavljanja"
 
 #
 #, fuzzy
+msgid "Repeated"
+msgstr "ponavljam"
+
+#
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Snimanje ponovljenog događaja je u toku. Šta želite da učinite?"
 
@@ -13716,6 +13785,9 @@ msgid "Save playlist on exit"
 msgstr "Sačuvajte listu za reprodukciju kod izlaska "
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -15410,6 +15482,11 @@ msgid "Shuffle playlist"
 msgstr "sam biraj iz plejliste"
 
 #
+#, fuzzy
+msgid "Shut down"
+msgstr "Isključivanje"
+
+#
 msgid "Shutdown"
 msgstr "Isključivanje"
 
@@ -16985,11 +17062,12 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Tajmer datoteka (timers.xml) je nepravilna i ne može biti ubačena."
 
 #
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Tajmer datoteka (timers.xml) je nepravilna i ne može biti ubačena."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -17453,9 +17531,24 @@ msgid "Timer"
 msgstr "Tajmer"
 
 #
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr "Subtitlovi"
+
+#
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Izbor tajmera "
+
+#
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Unos Tajmera"
+
+#
+#, fuzzy
+msgid "Timer Log"
+msgstr "Tajmer log"
 
 msgid "Timer Overview"
 msgstr ""
@@ -17475,20 +17568,13 @@ msgstr "Tajmer log"
 
 #
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Otkriveno preklapanje tajmera u timers.xml!\n"
 "Molimo ponovo proverite!"
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Otkriveno preklapanje tajmera u timers.xml!\n"
-"Molimo ponovo proverite!"
 
 #
 #, fuzzy
@@ -19646,6 +19732,11 @@ msgid "Zap Up/Down"
 msgstr ""
 
 #
+#, fuzzy
+msgid "Zap and record"
+msgstr "ne snimaj"
+
+#
 msgid "Zap back to previously tuned service?"
 msgstr "Vratiti se nazad na prethodni kanal?"
 
@@ -19806,9 +19897,6 @@ msgid "all"
 msgstr ""
 
 msgid "all tuners"
-msgstr ""
-
-msgid "always"
 msgstr ""
 
 #
@@ -20013,9 +20101,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Obriši"
 
-msgid "descramble and record ecm"
-msgstr ""
-
 msgid "detective/thriller"
 msgstr ""
 
@@ -20038,9 +20123,6 @@ msgid "documentary"
 msgstr ""
 
 msgid "documentary (general)"
-msgstr ""
-
-msgid "don't descramble, record ecm"
 msgstr ""
 
 #
@@ -20490,9 +20572,6 @@ msgstr ""
 msgid "none"
 msgstr "prazno"
 
-msgid "normal"
-msgstr ""
-
 #
 msgid "not configured"
 msgstr "nije konfigurisano"
@@ -20557,12 +20636,6 @@ msgstr "na mediju samo za čitanje"
 #
 msgid "once"
 msgstr "jednom"
-
-msgid "only from deep standby"
-msgstr ""
-
-msgid "only from standby"
-msgstr ""
 
 #
 msgid "open nameserver configuration"

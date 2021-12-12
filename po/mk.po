@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -2020,6 +2020,10 @@ msgstr "Алтернативен режим на нумерирање"
 msgid "Alternative services tuner priority"
 msgstr "Приоритет на тјунер за алтернативни канали"
 
+#, fuzzy
+msgid "Always"
+msgstr "секогаш"
+
 msgid "Always ask"
 msgstr "Секогаш прашуваj"
 
@@ -3072,6 +3076,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Завршете ги сите промени во текстот и откажете"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Прекини и врати ги промени на активниот скин"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Врати ги промените на активниот скин и затворете ги сите менија"
 
@@ -3444,6 +3452,9 @@ msgstr "Исчистете го дневникот"
 
 msgid "Clear playlist"
 msgstr "Исчистете ја плејлистата"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4812,6 +4823,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Избришете го знакот под курсорот"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Отстранете го моментално избраниот наслов"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Отстранете го моментално избраниот наслов"
 
@@ -4852,6 +4867,10 @@ msgstr "Данска"
 
 msgid "Depth"
 msgstr "Длабочина"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "декодирање и снимање ECM"
 
 msgid "Descramble receiving http streams"
 msgstr "Дешифрирај ги примените HTTP-стримови"
@@ -5337,6 +5356,10 @@ msgstr "Доминика"
 
 msgid "Dominican Republic"
 msgstr "Доминиканска Република"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "не декодирај, снимај ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -6908,6 +6931,10 @@ msgstr "Инверзија"
 msgid "Go down the list"
 msgstr "Движете се надолу по листот"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "одете во дееп стендбај"
+
 msgid "Go to first movie or last item"
 msgstr "Одете на првиот филм или последната ставка"
 
@@ -6931,6 +6958,10 @@ msgstr "Оди на претходната емисија"
 
 msgid "Go to previous page of service"
 msgstr "Оди на претходната страница на каналот"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "оди во стендбај"
 
 msgid "Go up the list"
 msgstr "Оди горе по листот"
@@ -8507,6 +8538,10 @@ msgstr "Сигнал:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Локациjа"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9436,6 +9471,10 @@ msgstr "Волшебник за поставување мрежа"
 msgid "Network:"
 msgstr "Мрежа:"
 
+#, fuzzy
+msgid "Never"
+msgstr "никогаш"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Никогаш не ја дешифрирајте содржината додека снимате. Ова ги пребришува индивидуалните поставки на тајмерот на глобално ниво. Кога е избрана оваа опција, снимките се зачувуваат во шифрирана форма и потоа мора да се декриптираат (понекогаш се нарекува и офлајн декодирање). Стандардно: исклучено."
 
@@ -9912,6 +9951,9 @@ msgstr "На крајот на филмот (како мени)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Ако ONID-овите се валидни, игнорирај ја фреквенцијата на делот на под-мрежата"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Еден"
 
@@ -9930,6 +9972,14 @@ msgstr "Само екстензии."
 
 msgid "Only free scan"
 msgstr "Пребарувај само бесплатни канали"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "само од дееп стендбај"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "само од стендбај"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Завртете ја сателитскиот антена само после овој час."
@@ -10416,6 +10466,14 @@ msgstr "Ве молиме, додајте наслови во вашата ко�
 
 msgid "Please change recording endtime"
 msgstr "Променете го времето на завршување на снимањето"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Ве молиме изберете екстензија ..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Ве молиме изберете екстензија ..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11658,6 +11716,10 @@ msgid "Repeat type"
 msgstr "Тип на повторување"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "повтори"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Тајмерот за повторување на снимањето е активен. Што сакате да направите?"
 
@@ -12138,6 +12200,9 @@ msgstr "Зачувај плејлиста на излез"
 
 msgid "Save settings and EPG data"
 msgstr "Зачувај ги поставките и податоците за EPG"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Зачувај timeshift и zap"
@@ -13636,6 +13701,10 @@ msgstr "мешање"
 msgid "Shuffle playlist"
 msgstr "Измешајте ја плејлистата"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Исклучи"
+
 msgid "Shutdown"
 msgstr "Исклучи"
 
@@ -15012,10 +15081,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Датотеката со тајмерот (timers.xml) е неисправна и не може да се вчита."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Датотеката со тајмерот (timers.xml) е неисправна и не може да се вчита."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15447,9 +15517,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Тајмер"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Тајмерот „%s“ е деактивиран!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Избор на тајмер"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Внес на тајмер"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Дневник на тајмер"
 
 msgid "Timer Overview"
 msgstr "Преглед на тајмер"
@@ -15464,19 +15548,13 @@ msgid "Timer log"
 msgstr "Дневник на тајмер"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Откриено преклопување во timers.xml!\n"
 "Ве молам проверете!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Откриено преклопување во timers.xml!\n"
-"Ве молам проверете!"
 
 msgid "Timer overview"
 msgstr "Преглед на тајмер"
@@ -17464,6 +17542,10 @@ msgstr "Префрлување"
 msgid "Zap Up/Down"
 msgstr "Префрли го каналот надолу"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "зап и снимки"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Назад на претходниот канал?"
 
@@ -17611,9 +17693,6 @@ msgstr "се"
 #, fuzzy
 msgid "all tuners"
 msgstr "Поставки на резервниот тјунер"
-
-msgid "always"
-msgstr "секогаш"
 
 #, fuzzy
 msgid "and"
@@ -17800,9 +17879,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Избришано"
 
-msgid "descramble and record ecm"
-msgstr "декодирање и снимање ECM"
-
 msgid "detective/thriller"
 msgstr "детектив / трилер"
 
@@ -17824,9 +17900,6 @@ msgstr "документарен"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "документарен"
-
-msgid "don't descramble, record ecm"
-msgstr "не декодирај, снимај ecm"
 
 msgid "done!"
 msgstr "готово!"
@@ -18239,9 +18312,6 @@ msgstr "не се пронајдени уреди за меморија"
 msgid "none"
 msgstr "нема"
 
-msgid "normal"
-msgstr "нормално"
-
 msgid "not configured"
 msgstr "не е конфигуриран"
 
@@ -18297,12 +18367,6 @@ msgstr "на READ ONLY медиум."
 
 msgid "once"
 msgstr "еднаш"
-
-msgid "only from deep standby"
-msgstr "само од дееп стендбај"
-
-msgid "only from standby"
-msgstr "само од стендбај"
 
 msgid "open nameserver configuration"
 msgstr "отвори ги поставките за DNS"

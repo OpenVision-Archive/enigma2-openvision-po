@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2017-01-18 16:38+0100\n"
 "Last-Translator: lupine <a_ecklon@hotmail.com>\n"
 "Language-Team: \n"
@@ -2281,6 +2281,10 @@ msgstr "Alternativ nummererings type"
 msgid "Alternative services tuner priority"
 msgstr "Alternativ kanal tuner prioritet"
 
+#, fuzzy
+msgid "Always"
+msgstr "altid"
+
 msgid "Always ask"
 msgstr "Spørg altid"
 
@@ -3425,6 +3429,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3836,6 +3843,9 @@ msgstr "Slet log"
 #
 msgid "Clear playlist"
 msgstr "Slet spilleliste"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5353,6 +5363,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Fjerne nuværende valgte titel"
+
+#
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Fjerne nuværende valgte titel"
 
@@ -5395,6 +5410,10 @@ msgstr ""
 
 msgid "Depth"
 msgstr "Dybde"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "afkod og gem ecm"
 
 msgid "Descramble receiving http streams"
 msgstr "Afkod modtagende http streams"
@@ -5960,6 +5979,10 @@ msgstr ""
 
 msgid "Dominican Republic"
 msgstr ""
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "afkod ikke, gem ecm"
 
 #
 #, fuzzy
@@ -7712,6 +7735,11 @@ msgstr "Invertering"
 msgid "Go down the list"
 msgstr "Gå ned af listen"
 
+#
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "gå til dyb standby"
+
 msgid "Go to first movie or last item"
 msgstr "Gå til første film, eller sidste emne"
 
@@ -7735,6 +7763,11 @@ msgstr "Gå til forrige udsendelse"
 
 msgid "Go to previous page of service"
 msgstr "Gå til forrige side af kanaler"
+
+#
+#, fuzzy
+msgid "Go to standby"
+msgstr "gå til standby"
 
 msgid "Go up the list"
 msgstr "Gå op af listen"
@@ -9474,6 +9507,11 @@ msgstr "Lås:"
 msgid "Log"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Log Actions"
+msgstr "Placering"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -10527,6 +10565,11 @@ msgstr "Netværks opsætningshjælper"
 msgid "Network:"
 msgstr "Netværk:"
 
+#
+#, fuzzy
+msgid "Never"
+msgstr "aldrig"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Aldrig dekrypter indholdet under optagelsen. Dette tilsidesætter de individuelle timer indstillinger globalt. Hvis aktiveret, bliver optagelser gemt krypteret og skal dekrypteres bagefter (nogen gange kaldt offline decoding). Standardindstilling: fra."
 
@@ -11065,6 +11108,9 @@ msgstr "Ved slutningen af film (som menu)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "En"
@@ -11086,6 +11132,14 @@ msgstr "Kun udvidelser."
 #
 msgid "Only free scan"
 msgstr "Søg kun ukodet"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "kun fra dyb standby"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "kun fra standby"
 
 msgid "Only move the dish quickly after this hour."
 msgstr ""
@@ -11609,6 +11663,16 @@ msgstr "Tilføj titler til kompileringen"
 #
 msgid "Please change recording endtime"
 msgstr "Venligst skift optagelses sluttid"
+
+#
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Vælg venligst en udvidelse..."
+
+#
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Vælg venligst en udvidelse..."
 
 #
 #, fuzzy
@@ -13040,6 +13104,11 @@ msgstr "Gentagelses type"
 
 #
 #, fuzzy
+msgid "Repeated"
+msgstr "gentaget"
+
+#
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Gentage program optagelse som er igang. Hvad vil du foretage dig?"
 
@@ -13588,6 +13657,9 @@ msgid "Save playlist on exit"
 msgstr "Gem afspilningsliste ved afbrydelse"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -15238,6 +15310,11 @@ msgid "Shuffle playlist"
 msgstr "Tilfældig spilleliste"
 
 #
+#, fuzzy
+msgid "Shut down"
+msgstr "Luk ned"
+
+#
 msgid "Shutdown"
 msgstr "Luk ned"
 
@@ -16785,11 +16862,12 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Timer filen (timers.xml) er korrupt og kan ikke bruges."
 
 #
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Timer filen (timers.xml) er korrupt og kan ikke bruges."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -17279,10 +17357,26 @@ msgstr ""
 msgid "Timer"
 msgstr "Timer"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Timer '%s' deaktiveret!"
+
 #
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Timer valg"
+
+#
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Timer punkt"
+
+#
+#, fuzzy
+msgid "Timer Log"
+msgstr "Timer log"
 
 msgid "Timer Overview"
 msgstr "Timer oversigt"
@@ -17301,20 +17395,13 @@ msgstr "Timer log"
 
 #
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Konstateret timer overlap i timers.xml!\n"
 "Vær venlig at undersøge det!"
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Konstateret timer overlap i timers.xml!\n"
-"Vær venlig at undersøge det!"
 
 msgid "Timer overview"
 msgstr "Timer oversigt"
@@ -19498,6 +19585,10 @@ msgstr "Zap"
 msgid "Zap Up/Down"
 msgstr "Zap ned"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "zap og skift"
+
 #
 msgid "Zap back to previously tuned service?"
 msgstr "Zap tilbage til tidligere kanal"
@@ -19661,9 +19752,6 @@ msgstr "alle"
 #, fuzzy
 msgid "all tuners"
 msgstr "Fallback remote receiver URL"
-
-msgid "always"
-msgstr "altid"
 
 #
 #, fuzzy
@@ -19872,9 +19960,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Slettet"
 
-msgid "descramble and record ecm"
-msgstr "afkod og gem ecm"
-
 msgid "detective/thriller"
 msgstr "detektiv/thriller"
 
@@ -19899,9 +19984,6 @@ msgstr "dokumentar"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "dokumentar"
-
-msgid "don't descramble, record ecm"
-msgstr "afkod ikke, gem ecm"
 
 #
 msgid "done!"
@@ -20358,9 +20440,6 @@ msgstr "ingen lagerenhed fundet"
 msgid "none"
 msgstr "ingen"
 
-msgid "normal"
-msgstr "normal"
-
 #
 msgid "not configured"
 msgstr "ikke konfigureret"
@@ -20426,12 +20505,6 @@ msgstr "på LÆS KUN medie"
 #
 msgid "once"
 msgstr "en gang"
-
-msgid "only from deep standby"
-msgstr "kun fra dyb standby"
-
-msgid "only from standby"
-msgstr "kun fra standby"
 
 #
 msgid "open nameserver configuration"

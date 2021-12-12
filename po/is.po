@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -2270,6 +2270,10 @@ msgstr "Möguleika útvarps stilling"
 msgid "Alternative services tuner priority"
 msgstr "Móttakara forgangur við rásaval"
 
+#, fuzzy
+msgid "Always"
+msgstr "Spyrja alltaf"
+
 msgid "Always ask"
 msgstr "Spyrja alltaf"
 
@@ -3348,6 +3352,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3724,6 +3731,9 @@ msgstr "Tæma lista"
 #, fuzzy
 msgid "Clear playlist"
 msgstr "hreinsa spilunarlista"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5187,6 +5197,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Taka út þegar valinn titil"
+
+#
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Taka út þegar valinn titil"
 
@@ -5230,6 +5245,9 @@ msgid "Denmark"
 msgstr ""
 
 msgid "Depth"
+msgstr ""
+
+msgid "Descramble and record ecm"
 msgstr ""
 
 msgid "Descramble receiving http streams"
@@ -5787,6 +5805,9 @@ msgid "Dominica"
 msgstr ""
 
 msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't descramble, record ecm"
 msgstr ""
 
 #
@@ -7491,6 +7512,11 @@ msgstr "Umbreyting"
 msgid "Go down the list"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "fara í djúpsvefn"
+
 msgid "Go to first movie or last item"
 msgstr ""
 
@@ -7526,6 +7552,11 @@ msgstr "fara upp í næsta atriði"
 #, fuzzy
 msgid "Go to previous page of service"
 msgstr "Til baka á síðustu rás"
+
+#
+#, fuzzy
+msgid "Go to standby"
+msgstr "fara í biðstöðu"
 
 msgid "Go up the list"
 msgstr ""
@@ -9255,6 +9286,11 @@ msgstr "Lás:"
 msgid "Log"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Log Actions"
+msgstr "Staðsetning"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -10310,6 +10346,11 @@ msgstr "Netkerfis ráðgjafi"
 msgid "Network:"
 msgstr "Nettenging:"
 
+#
+#, fuzzy
+msgid "Never"
+msgstr "aldrei"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -10853,6 +10894,9 @@ msgstr ""
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "Einn"
@@ -10872,6 +10916,16 @@ msgstr "Bara viðbætur."
 #
 #, fuzzy
 msgid "Only free scan"
+msgstr "Bara fríar rásir"
+
+#
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "fara í djúpsvefn"
+
+#
+#, fuzzy
+msgid "Only from standby"
 msgstr "Bara fríar rásir"
 
 msgid "Only move the dish quickly after this hour."
@@ -11404,6 +11458,14 @@ msgstr "Vinsamlega bætið við titlum við efnið."
 
 msgid "Please change recording endtime"
 msgstr "Vinsamlega breytið lokatíma upptöku"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Vinsamlega veldu viðbót..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Vinsamlega veldu viðbót..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -12827,6 +12889,11 @@ msgstr "Gerð endurtekningar"
 
 #
 #, fuzzy
+msgid "Repeated"
+msgstr "endurtekinn"
+
+#
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Endurtaka atriði sem er í upptöku. hvað viltu gera núna?"
 
@@ -13363,6 +13430,9 @@ msgid "Save playlist on exit"
 msgstr "Vista spilunarlista þegar hætt er"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -15026,6 +15096,10 @@ msgstr "spila af handahófi úr lista"
 msgid "Shuffle playlist"
 msgstr "spila af handahófi úr lista"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Slökkva"
+
 msgid "Shutdown"
 msgstr "Slökkva"
 
@@ -16586,11 +16660,12 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana."
 
 #
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -17045,9 +17120,24 @@ msgid "Timer"
 msgstr "Tímastilling"
 
 #
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr "Undirtextar"
+
+#
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Tímastillinga val"
+
+#
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Innsláttur tímastilltra atriða"
+
+#
+#, fuzzy
+msgid "Timer Log"
+msgstr "Tíma skrá"
 
 msgid "Timer Overview"
 msgstr ""
@@ -17067,20 +17157,13 @@ msgstr "Tíma skrá"
 
 #
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Tímastillingar ná yfir hvorn annan!\n"
 "Vinsamlega athugið það!"
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Tímastillingar ná yfir hvorn annan!\n"
-"Vinsamlega athugið það!"
 
 #
 #, fuzzy
@@ -19211,6 +19294,11 @@ msgstr ""
 msgid "Zap Up/Down"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Zap and record"
+msgstr "ekki taka upp"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Fara aftur á rás sem áður var stillt á?"
 
@@ -19369,9 +19457,6 @@ msgid "all"
 msgstr ""
 
 msgid "all tuners"
-msgstr ""
-
-msgid "always"
 msgstr ""
 
 #, fuzzy
@@ -19573,9 +19658,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Eyða"
 
-msgid "descramble and record ecm"
-msgstr ""
-
 msgid "detective/thriller"
 msgstr ""
 
@@ -19598,9 +19680,6 @@ msgid "documentary"
 msgstr ""
 
 msgid "documentary (general)"
-msgstr ""
-
-msgid "don't descramble, record ecm"
 msgstr ""
 
 #
@@ -20047,9 +20126,6 @@ msgstr ""
 msgid "none"
 msgstr "engin"
 
-msgid "normal"
-msgstr ""
-
 msgid "not configured"
 msgstr "ekki stillt"
 
@@ -20113,12 +20189,6 @@ msgstr "á READ ONLY disk."
 #
 msgid "once"
 msgstr "einu sinni"
-
-msgid "only from deep standby"
-msgstr ""
-
-msgid "only from standby"
-msgstr ""
 
 #
 msgid "open nameserver configuration"

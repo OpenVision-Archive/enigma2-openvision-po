@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -2323,6 +2323,10 @@ msgstr "Modalitat de numeració alternativa"
 msgid "Alternative services tuner priority"
 msgstr "Prioritat del sintonitzador de serveis alternatius"
 
+#, fuzzy
+msgid "Always"
+msgstr "sempre"
+
 msgid "Always ask"
 msgstr "Pregunteu sempre"
 
@@ -3463,6 +3467,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Cancel·la els canvis de text i surt"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Cancel·la qualsevol canvi a la pell actualment activa"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Cancel·la qualsevol canvi a la pell actualment activa i abandona tots els menús"
 
@@ -3869,6 +3877,9 @@ msgstr "Esborrar log"
 #
 msgid "Clear playlist"
 msgstr "Netejar la llista"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5349,6 +5360,11 @@ msgstr "Suprimeix el personatge sota el cursor de text"
 
 #
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Esborra el títol seleccionat"
+
+#
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Esborra el títol seleccionat"
 
@@ -5393,6 +5409,10 @@ msgstr "Dinamarca"
 
 msgid "Depth"
 msgstr "Profunditat"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "descramble i record record"
 
 msgid "Descramble receiving http streams"
 msgstr "Descramble rebent streams http"
@@ -5943,6 +5963,10 @@ msgstr "Dominica"
 
 msgid "Dominican Republic"
 msgstr "Dominicana Republica"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "no descramble, enregistra l’ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7673,6 +7697,11 @@ msgstr "Inversió"
 msgid "Go down the list"
 msgstr "Baixeu a la llista"
 
+#
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "aturar completament"
+
 msgid "Go to first movie or last item"
 msgstr "Vés a la primera pel·lícula o al darrer article"
 
@@ -7701,6 +7730,11 @@ msgstr "Vés a l’esdeveniment anterior"
 #
 msgid "Go to previous page of service"
 msgstr "Vés a la pàgina anterior del servei"
+
+#
+#, fuzzy
+msgid "Go to standby"
+msgstr "posar en repòs"
 
 msgid "Go up the list"
 msgstr "Vés a la llista"
@@ -9422,6 +9456,11 @@ msgstr "Bloqueig:"
 msgid "Log"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Log Actions"
+msgstr "Localitzar"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -10467,6 +10506,11 @@ msgstr "Assistent de xarxa"
 msgid "Network:"
 msgstr "Xarxa:"
 
+#
+#, fuzzy
+msgid "Never"
+msgstr "mai"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "No desxifreu el contingut mentre enregistreu. Això substitueix les configuracions del temporitzador individual a nivell mundial. Si està habilitat, les gravacions s’emmagatzemen en presentació encriptada i s’han de desxifrar després (de vegades es denomina descodificació fora de línia). Per defecte: desactivat."
 
@@ -10991,6 +11035,9 @@ msgstr "Al final de la pel·lícula (com a menú)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "En ONIDs vàlids, ignora la part de subxarxa de freqüència"
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "Un"
@@ -11012,6 +11059,14 @@ msgstr "Només extensions."
 #
 msgid "Only free scan"
 msgstr "Només exploració gratuïta"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "només des del mode d’espera profunda"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "només des del mode d’espera"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Moure el plat només ràpidament després d’aquesta hora."
@@ -11532,6 +11587,16 @@ msgstr "Afegiu títols a la compilació."
 #
 msgid "Please change recording endtime"
 msgstr "Sisplau canvia l'hora d'aturar la gravació"
+
+#
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Sisplau escull una extensió..."
+
+#
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Sisplau escull una extensió..."
 
 #
 #, fuzzy
@@ -12949,6 +13014,11 @@ msgstr "Repetiu els missatges de reserva"
 msgid "Repeat type"
 msgstr "Repetir el tipu"
 
+#
+#, fuzzy
+msgid "Repeated"
+msgstr "repetit"
+
 #, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "S'està gravant un canal programat repetidament. Què vols fer?"
@@ -13492,6 +13562,9 @@ msgstr "Guardar la llista de reproducció en sortir"
 
 msgid "Save settings and EPG data"
 msgstr "Guardar la configuració i les dades d’EPG"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Guardar horari i zap"
@@ -15117,6 +15190,11 @@ msgid "Shuffle playlist"
 msgstr "Mostra l’estat de la connexió de fitxers de sentit LAN."
 
 #
+#, fuzzy
+msgid "Shut down"
+msgstr "Tancar"
+
+#
 msgid "Shutdown"
 msgstr "Tancar"
 
@@ -16640,11 +16718,12 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "El fitxer de temporitzador (timers.xml) està malmès i no s’ha pogut carregar."
 
 #
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "El fitxer de temporitzador (timers.xml) està malmès i no s’ha pogut carregar."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -17103,10 +17182,26 @@ msgstr ""
 msgid "Timer"
 msgstr "Programació"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+" temporitzador \" %s\" està desactivat!"
+
 #
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Selecció de gravació"
+
+#
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Gravació"
+
+#
+#, fuzzy
+msgid "Timer Log"
+msgstr "Registre de gravació"
 
 msgid "Timer Overview"
 msgstr "Escala de temps"
@@ -17125,20 +17220,13 @@ msgstr "Registre de gravació"
 
 #
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "La superposició del temporitzador es detecta a timers.xml.\n"
 "Torneu-ho a comprovar."
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"La superposició del temporitzador es detecta a timers.xml.\n"
-"Torneu-ho a comprovar."
 
 #
 msgid "Timer overview"
@@ -19292,6 +19380,10 @@ msgstr "Zappejar"
 msgid "Zap Up/Down"
 msgstr "Zap cap avall"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "zap i registre"
+
 #
 msgid "Zap back to previously tuned service?"
 msgstr "Tornaràs al servei prèviament ajustat?"
@@ -19453,9 +19545,6 @@ msgstr "tot"
 
 msgid "all tuners"
 msgstr "configuració del sintonitzador automàtic"
-
-msgid "always"
-msgstr "sempre"
 
 #
 #, fuzzy
@@ -19664,9 +19753,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Eliminat"
 
-msgid "descramble and record ecm"
-msgstr "descramble i record record"
-
 msgid "detective/thriller"
 msgstr "detectiu / thriller"
 
@@ -19691,9 +19777,6 @@ msgstr "documental"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "documental"
-
-msgid "don't descramble, record ecm"
-msgstr "no descramble, enregistra l’ecm"
 
 #
 msgid "done!"
@@ -20147,9 +20230,6 @@ msgstr "no s’han trobat dispositius d’emmagatzematge"
 msgid "none"
 msgstr "cap"
 
-msgid "normal"
-msgstr "normal"
-
 #
 msgid "not configured"
 msgstr "no configurat"
@@ -20213,12 +20293,6 @@ msgstr "a LLEGIR NOMÉS el mitjà."
 #
 msgid "once"
 msgstr "un sol cop"
-
-msgid "only from deep standby"
-msgstr "només des del mode d’espera profunda"
-
-msgid "only from standby"
-msgstr "només des del mode d’espera"
 
 #
 msgid "open nameserver configuration"

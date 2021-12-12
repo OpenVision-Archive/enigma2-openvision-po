@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -2142,6 +2142,10 @@ msgstr "Εναλλακτική λειτουργία αρίθμησης"
 msgid "Alternative services tuner priority"
 msgstr "Προτεραιότητα tuner εναλλακτικών υπηρεσιών"
 
+#, fuzzy
+msgid "Always"
+msgstr "πάντα"
+
 msgid "Always ask"
 msgstr "Πάντα ερώτηση"
 
@@ -3185,6 +3189,10 @@ msgid "Cancel any changed tags and exit"
 msgstr "Ακύρωση όλων των αλλαγών κειμένου και έξοδος"
 
 #, fuzzy
+msgid "Cancel any changes and close the log and the screen"
+msgstr "Ακύρωση αλλαγών στο τρέχον θέμα"
+
+#, fuzzy
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr "Ακύρωση αλλαγών στο τρέχον θέμα και έξοδος όλων των μενού"
 
@@ -3557,6 +3565,9 @@ msgstr "Εκκαθάριση καταγραφολογίου"
 
 msgid "Clear playlist"
 msgstr "Εκκαθάριση λίστας αναπαραγωγής"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4925,6 +4936,10 @@ msgid "Delete the character under the text cursor"
 msgstr "Διαγραφή του χαρακτήρα κάτω από τον κέρσορα"
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Διαγραφή επιλεγμένου τίτλου"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Διαγραφή επιλεγμένου τίτλου"
 
@@ -4965,6 +4980,10 @@ msgstr "Δανία"
 
 msgid "Depth"
 msgstr "Βάθος"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "αποκρυπτογράφηση και εγγραφή ecm"
 
 msgid "Descramble receiving http streams"
 msgstr "Αποκρυπτογράφηση των λαμβανομένων ροών http"
@@ -5444,6 +5463,10 @@ msgstr "Δομίνικα"
 
 msgid "Dominican Republic"
 msgstr "Δομινικανική Δημοκρατία"
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "χωρίς αποκρυπτογράφηση, εγγραφή ecm"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7015,6 +7038,10 @@ msgstr "Αναστροφή"
 msgid "Go down the list"
 msgstr "Μετάβαση προς τα κάτω"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "μετάβαση σε βαθιά αναμονή"
+
 msgid "Go to first movie or last item"
 msgstr "Μετάβαση στην πρώτη ταινία ή το τελευταίο στοιχείο"
 
@@ -7038,6 +7065,10 @@ msgstr "Επιστροφή στο προηγούμενο πρόγραμμα"
 
 msgid "Go to previous page of service"
 msgstr "Επιστροφή στην προηγούμενη σελίδα υπηρεσιών"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "μετάβαση σε αναμονή"
 
 msgid "Go up the list"
 msgstr "Μετάβαση προς τα πάνω"
@@ -8616,6 +8647,10 @@ msgstr "Κλείδ:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Τοποθεσία"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9545,6 +9580,10 @@ msgstr "Οδηγός δικτύου"
 msgid "Network:"
 msgstr "Δίκτυο:"
 
+#, fuzzy
+msgid "Never"
+msgstr "ποτέ"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Να μη γίνεται ποτέ αποκωδικοποίηση του περιεχομένου κατά την εγγραφή. Αυτό παρακάμπτει όλες τις ιδιαίτερες ρυθμίσεις χρονοδιακοπτών γενικά. Όταν είναι ενεργό, οι εγγραφές αποθηκεύονται ως κωδικοποιημένες και πρέπει να αποκωδικοποιηθούν μετέπειτα (ενίοτε ονομάζεται κωδικοποίηση εκτός σύνδεσης). Προεπιλογή: ανενεργό."
 
@@ -10021,6 +10060,9 @@ msgstr "Στο τέλος της ταινίας (ως μενού)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr "Σε έγκυρα ONIDs, να αγνοείται το κομμάτι του υπο-δικτύου της συχνότητας"
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Ένα"
 
@@ -10039,6 +10081,14 @@ msgstr "Μόνο επεκτάσεις."
 
 msgid "Only free scan"
 msgstr "Μόνο τα ελεύθερα"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "μόνο από τη βαθιά αναμονή"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "μόνο από αναμονή"
 
 msgid "Only move the dish quickly after this hour."
 msgstr "Γρήγορη κίνηση του κατόπτρου μόνο μετά από αυτό το χρονικό διάστημα."
@@ -10525,6 +10575,14 @@ msgstr "Προσθέστε τίτλους στη συλλογή."
 
 msgid "Please change recording endtime"
 msgstr "Αλλάξτε την ώρα τερματισμού της εγγραφής"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Επιλέξτε μία επέκταση..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Επιλέξτε μία επέκταση..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11767,6 +11825,10 @@ msgid "Repeat type"
 msgstr "Τύπος επανάληψης"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "επαναλαμβανόμενο"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Γίνεται εγγραφή ενός επαναλαμβανόμενου προγράμματος. Τι θα θέλατε να κάνετε;"
 
@@ -12247,6 +12309,9 @@ msgstr "Αποθήκευση λίστας αναπαραγωγής κατά τη
 
 msgid "Save settings and EPG data"
 msgstr "Αποθήκευση ρυθμίσεων και δεδομένων EPG"
+
+msgid "Save the current contents of the log and close the screen"
+msgstr ""
 
 msgid "Save timeshift and zap"
 msgstr "Αποθήκευση χρονομετατόπισης και μετάβαση"
@@ -13743,6 +13808,10 @@ msgstr "τυχαία ανακατανομή"
 msgid "Shuffle playlist"
 msgstr "Τυχαία αναπαραγωγή"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Τερματισμός"
+
 msgid "Shutdown"
 msgstr "Τερματισμός"
 
@@ -15130,10 +15199,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Το αρχείο timers.xml είναι άκυρο και δεν φορτώθηκε."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Το αρχείο timers.xml είναι άκυρο και δεν φορτώθηκε."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15565,9 +15635,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Χρονοδιακόπτης"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Ο χρονοδιακόπτης '%s' απενεργοποιήθηκε!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Επιλογή χρονοδιακόπτη"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Καταχώρηση χρονοδιακόπτη"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Καταγραφή χρονοδιακόπτη"
 
 msgid "Timer Overview"
 msgstr "Επισκόπηση χρονοδιακοπτών"
@@ -15582,19 +15666,13 @@ msgid "Timer log"
 msgstr "Καταγραφή χρονοδιακόπτη"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Εντοπίστηκε επικάλυψη χρονοδιακόπτη στο timers.xml!\n"
 "Ελέγξτε ξανά!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Εντοπίστηκε επικάλυψη χρονοδιακόπτη στο timers.xml!\n"
-"Ελέγξτε ξανά!"
 
 msgid "Timer overview"
 msgstr "Επισκόπηση χρονοδιακόπτη"
@@ -17584,6 +17662,10 @@ msgstr "Μετάβαση"
 msgid "Zap Up/Down"
 msgstr "Ζάπινγκ προς τα κάτω"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "μετάβαση και εγγραφή"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Επιστροφή στην προηγούμενη υπηρεσία;"
 
@@ -17730,9 +17812,6 @@ msgstr "όλα"
 
 msgid "all tuners"
 msgstr "όλα τα tuners"
-
-msgid "always"
-msgstr "πάντα"
 
 #, fuzzy
 msgid "and"
@@ -17919,9 +17998,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Διαγραμμένα"
 
-msgid "descramble and record ecm"
-msgstr "αποκρυπτογράφηση και εγγραφή ecm"
-
 msgid "detective/thriller"
 msgstr "αστυνομικά/θρίλερ"
 
@@ -17943,9 +18019,6 @@ msgstr "ντοκυμαντέρ"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "ντοκυμαντέρ"
-
-msgid "don't descramble, record ecm"
-msgstr "χωρίς αποκρυπτογράφηση, εγγραφή ecm"
 
 msgid "done!"
 msgstr "ολοκληρώθηκε!"
@@ -18356,9 +18429,6 @@ msgstr "δεν βρέθηκαν συσκευές αποθήκευσης"
 msgid "none"
 msgstr "κανένα"
 
-msgid "normal"
-msgstr "κανονικό"
-
 msgid "not configured"
 msgstr "μη ρυθμισμένο"
 
@@ -18412,12 +18482,6 @@ msgstr "σε μέσο ΜΟΝΟ ΓΙΑ ΑΝΑΓΝΩΣΗ."
 
 msgid "once"
 msgstr "μία φορά"
-
-msgid "only from deep standby"
-msgstr "μόνο από τη βαθιά αναμονή"
-
-msgid "only from standby"
-msgstr "μόνο από αναμονή"
 
 msgid "open nameserver configuration"
 msgstr "άνοιγμα της ρύθμισης διακομιστών ονομάτων"

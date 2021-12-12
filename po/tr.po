@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -2137,6 +2137,10 @@ msgstr "Alternatif numaralandırma modu"
 msgid "Alternative services tuner priority"
 msgstr "Alternatifli kanallarda tuner önceliği"
 
+#, fuzzy
+msgid "Always"
+msgstr "Her Zaman"
+
 msgid "Always ask"
 msgstr "Her zaman sor"
 
@@ -3177,6 +3181,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3551,6 +3558,9 @@ msgstr "Kayıt günlüğünü sil"
 
 msgid "Clear playlist"
 msgstr "Çalma listesini temizle"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -4937,6 +4947,10 @@ msgid "Delete the character under the text cursor"
 msgstr ""
 
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Seçilen geçerli başlığı sil"
+
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Seçilen geçerli başlığı sil"
 
@@ -4977,6 +4991,10 @@ msgstr ""
 
 msgid "Depth"
 msgstr "Derinlik"
+
+#, fuzzy
+msgid "Descramble and record ecm"
+msgstr "Çözmeden ECM kaydet"
 
 msgid "Descramble receiving http streams"
 msgstr "Alınan http akışlarını çöz."
@@ -5473,6 +5491,10 @@ msgstr ""
 
 msgid "Dominican Republic"
 msgstr ""
+
+#, fuzzy
+msgid "Don't descramble, record ecm"
+msgstr "Çözmeden ECM kaydet"
 
 #, fuzzy
 msgid "Don't restart"
@@ -7046,6 +7068,10 @@ msgstr "Tersine çevir"
 msgid "Go down the list"
 msgstr "Listede aşağı git"
 
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "Derin uyku"
+
 msgid "Go to first movie or last item"
 msgstr "İlk film ya da son öğeye git"
 
@@ -7069,6 +7095,10 @@ msgstr "Önceki olay"
 
 msgid "Go to previous page of service"
 msgstr "Önceki Servis sayfasına git"
+
+#, fuzzy
+msgid "Go to standby"
+msgstr "Bekleme"
 
 msgid "Go up the list"
 msgstr "Listenin başına git"
@@ -8651,6 +8681,10 @@ msgstr "Kilitli:"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
+msgid "Log Actions"
+msgstr "Konum"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -9585,6 +9619,10 @@ msgstr "Ağ kurulum sihirbazı"
 msgid "Network:"
 msgstr "Ağ:"
 
+#, fuzzy
+msgid "Never"
+msgstr "Hiç"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr "Kayıt sırasında asla içeriğin şifresini eklemez. Bu global bireysel zamanlayıcı ayarları geçersiz kılar. Etkinse, kayıtlar şifrelenmiş sunum saklanır ve daha sonra (bazen çevrimdışı çözme) deşifre edilmelidir. Varsayılan: Kapalı."
 
@@ -10070,6 +10108,9 @@ msgstr "Filmi bitir (menüdeki gibi)"
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 msgid "One"
 msgstr "Bir"
 
@@ -10088,6 +10129,14 @@ msgstr "Yalnızca eklentiler"
 
 msgid "Only free scan"
 msgstr "Şifresiz arama"
+
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "Yalnız Derin Uyku"
+
+#, fuzzy
+msgid "Only from standby"
+msgstr "Yanlız Hazırda Beklet"
 
 msgid "Only move the dish quickly after this hour."
 msgstr ""
@@ -10571,6 +10620,14 @@ msgstr "Derleme için başlık ekleyin."
 
 msgid "Please change recording endtime"
 msgstr "Lütfen kayıt bitiş saatini değiştirin"
+
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Lütfen kullanmak istediğiniz eklentiyi seçin..."
+
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Lütfen kullanmak istediğiniz eklentiyi seçin..."
 
 #, fuzzy
 msgid "Please choose CCcam-Reader"
@@ -11823,6 +11880,10 @@ msgid "Repeat type"
 msgstr "Çeşidi yineleyin"
 
 #, fuzzy
+msgid "Repeated"
+msgstr "Tekrarla"
+
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Tekrarlama görevi verilmiş kayıt işlemi yapılıyor. Ne yapmak istersiniz?"
 
@@ -12308,6 +12369,9 @@ msgid "Save playlist on exit"
 msgstr "Çıkışta, oynatma listesini kaydet"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -13821,6 +13885,10 @@ msgstr "Karışık"
 msgid "Shuffle playlist"
 msgstr "Karışık çalma listesi"
 
+#, fuzzy
+msgid "Shut down"
+msgstr "Kapat"
+
 msgid "Shutdown"
 msgstr "Kapat"
 
@@ -15211,10 +15279,11 @@ msgid "The team relies on donations to fund OpenVision development."
 msgstr ""
 
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "Zamanlayıcı dosyası (timers.xml) bozuk ve yüklenemiyor."
 
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "Zamanlayıcı dosyası (timers.xml) bozuk ve yüklenemiyor."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -15660,9 +15729,23 @@ msgstr ""
 msgid "Timer"
 msgstr "Zamanlayıcı"
 
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr ""
+"\n"
+"'%s' Zamanlayıcı devre dışı!"
+
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Zamanlayıcı seçimi"
+
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Zamanlayıcı girişi"
+
+#, fuzzy
+msgid "Timer Log"
+msgstr "Zamanlayıcı günlüğü"
 
 msgid "Timer Overview"
 msgstr "Zamanlayıcı Özeti"
@@ -15677,19 +15760,13 @@ msgid "Timer log"
 msgstr "Zamanlayıcı günlüğü"
 
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "timers.xml zamanlayıcı çakışması saptanmıştır!\n"
 "Bunu tekrar kontrol edin!"
 
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"timers.xml zamanlayıcı çakışması saptanmıştır!\n"
-"Bunu tekrar kontrol edin!"
 
 msgid "Timer overview"
 msgstr "Zamanlayıcı çakışması"
@@ -17687,6 +17764,10 @@ msgstr "Bak"
 msgid "Zap Up/Down"
 msgstr "Zap Aşağı"
 
+#, fuzzy
+msgid "Zap and record"
+msgstr "Değiştir ve Kaydet"
+
 msgid "Zap back to previously tuned service?"
 msgstr "Ayarlı kanala geri dönmek istiyor musunuz?"
 
@@ -17836,9 +17917,6 @@ msgstr "Hepsi"
 #, fuzzy
 msgid "all tuners"
 msgstr "Yedek cihaz URL"
-
-msgid "always"
-msgstr "Her Zaman"
 
 #, fuzzy
 msgid "and"
@@ -18026,9 +18104,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Silinmiş"
 
-msgid "descramble and record ecm"
-msgstr "Çözmeden ECM kaydet"
-
 msgid "detective/thriller"
 msgstr "Dedektif/Gerilim"
 
@@ -18050,9 +18125,6 @@ msgstr "Belgesel"
 #, fuzzy
 msgid "documentary (general)"
 msgstr "Belgesel"
-
-msgid "don't descramble, record ecm"
-msgstr "Çözmeden ECM kaydet"
 
 msgid "done!"
 msgstr "Tamamlandı!"
@@ -18465,9 +18537,6 @@ msgstr "Hiçbir depolama aygıtı bulunamadı"
 msgid "none"
 msgstr "Yok"
 
-msgid "normal"
-msgstr "Normal"
-
 msgid "not configured"
 msgstr "Henüz yapılandırılmamış"
 
@@ -18523,12 +18592,6 @@ msgstr "Yalnızca okunabilir (READ ONLY) ortam."
 
 msgid "once"
 msgstr "Birkez"
-
-msgid "only from deep standby"
-msgstr "Yalnız Derin Uyku"
-
-msgid "only from standby"
-msgstr "Yanlız Hazırda Beklet"
 
 msgid "open nameserver configuration"
 msgstr "isim sunucu yapılandırmasını aç"

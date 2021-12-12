@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09 08:09+0000\n"
+"POT-Creation-Date: 2021-12-12 01:57+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -2288,6 +2288,9 @@ msgstr "Oare Radio mode"
 msgid "Alternative services tuner priority"
 msgstr "Alternatief kanaal tuner prioriteit"
 
+msgid "Always"
+msgstr ""
+
 msgid "Always ask"
 msgstr ""
 
@@ -3418,6 +3421,9 @@ msgstr ""
 msgid "Cancel any changed tags and exit"
 msgstr ""
 
+msgid "Cancel any changes and close the log and the screen"
+msgstr ""
+
 msgid "Cancel any changes the active locale/language and exit all menus"
 msgstr ""
 
@@ -3826,6 +3832,9 @@ msgstr "Log wiskje"
 #, fuzzy
 msgid "Clear playlist"
 msgstr "ofspiellyst leeg meitsje"
+
+msgid "Clear the contents of the log"
+msgstr ""
 
 msgid "Clear the virtual memory caches"
 msgstr ""
@@ -5344,6 +5353,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Delete the current entry from the log"
+msgstr "Ferwiderje it selektearre bestan"
+
+#
+#, fuzzy
 msgid "Delete the currently displayed log file"
 msgstr "Ferwiderje it selektearre bestan"
 
@@ -5387,6 +5401,9 @@ msgid "Denmark"
 msgstr ""
 
 msgid "Depth"
+msgstr ""
+
+msgid "Descramble and record ecm"
 msgstr ""
 
 msgid "Descramble receiving http streams"
@@ -5941,6 +5958,9 @@ msgid "Dominica"
 msgstr ""
 
 msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't descramble, record ecm"
 msgstr ""
 
 #
@@ -7669,6 +7689,11 @@ msgstr "Infertearring"
 msgid "Go down the list"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Go to deep standby"
+msgstr "gean nei djip paraatstand"
+
 msgid "Go to first movie or last item"
 msgstr ""
 
@@ -7704,6 +7729,11 @@ msgstr "Nei it foarige menu item "
 #, fuzzy
 msgid "Go to previous page of service"
 msgstr "Werom nei foariche service"
+
+#
+#, fuzzy
+msgid "Go to standby"
+msgstr "gean nei paraatstand"
 
 msgid "Go up the list"
 msgstr ""
@@ -9425,6 +9455,11 @@ msgstr "Slot:"
 msgid "Log"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Log Actions"
+msgstr "Doel"
+
 #, python-format
 msgid "Log file '%s' deleted."
 msgstr ""
@@ -10482,6 +10517,11 @@ msgstr "Netwurk gûcheler"
 msgid "Network:"
 msgstr "Netwurk:"
 
+#
+#, fuzzy
+msgid "Never"
+msgstr "nea"
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -11018,6 +11058,9 @@ msgstr ""
 msgid "On valid ONIDs, ignore frequency sub network part"
 msgstr ""
 
+msgid "Once"
+msgstr ""
+
 #
 msgid "One"
 msgstr "Ien"
@@ -11038,6 +11081,16 @@ msgstr ""
 #
 #, fuzzy
 msgid "Only free scan"
+msgstr "Allinne Freie útstjoeringen"
+
+#
+#, fuzzy
+msgid "Only from deep standby"
+msgstr "gean nei djip paraatstand"
+
+#
+#, fuzzy
+msgid "Only from standby"
 msgstr "Allinne Freie útstjoeringen"
 
 msgid "Only move the dish quickly after this hour."
@@ -11577,6 +11630,16 @@ msgstr ""
 #
 msgid "Please change recording endtime"
 msgstr "Graach eintiid fan it opnimmen feroarje."
+
+#
+#, fuzzy
+msgid "Please check all timers!"
+msgstr "Kies in uitbreiding..."
+
+#
+#, fuzzy
+msgid "Please check all timers."
+msgstr "Kies in uitbreiding..."
 
 #
 #, fuzzy
@@ -13005,6 +13068,11 @@ msgstr "Herhelje Type"
 
 #
 #, fuzzy
+msgid "Repeated"
+msgstr "herhelle"
+
+#
+#, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Herhelle barren an it opnimmen. Wat wolle jo dwaan ?"
 
@@ -13548,6 +13616,9 @@ msgid "Save playlist on exit"
 msgstr "Ofspiellyst opslaan by ôfsluten"
 
 msgid "Save settings and EPG data"
+msgstr ""
+
+msgid "Save the current contents of the log and close the screen"
 msgstr ""
 
 msgid "Save timeshift and zap"
@@ -15223,6 +15294,9 @@ msgstr "meitsje willekeurige ôfspiellyst"
 msgid "Shuffle playlist"
 msgstr "meitsje willekeurige ôfspiellyst"
 
+msgid "Shut down"
+msgstr ""
+
 #
 msgid "Shutdown"
 msgstr ""
@@ -16770,11 +16844,12 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "The timer file (pm_timers.xml) is corrupt and could not be loaded."
+msgid "The timer file 'pm_timers.xml' is corrupt and could not be loaded."
 msgstr "De tiidsbarrenlyst is korrupt en koe net laden wurde."
 
 #
-msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+#, fuzzy
+msgid "The timer file 'timers.xml' is corrupt and could not be loaded."
 msgstr "De tiidsbarrenlyst is korrupt en koe net laden wurde."
 
 msgid "The user interface of the receiver will now restart to select the selected skin"
@@ -17230,9 +17305,24 @@ msgid "Timer"
 msgstr "Tiidssjtoering"
 
 #
+#, fuzzy, python-format
+msgid "Timer '%s' disabled!"
+msgstr "Undertitels"
+
+#
 #, fuzzy
 msgid "Timer Actions"
 msgstr "Tiidsbarren seleksje"
+
+#
+#, fuzzy
+msgid "Timer Entry"
+msgstr "Tiidsbarren item"
+
+#
+#, fuzzy
+msgid "Timer Log"
+msgstr "Tiidsbarren log"
 
 msgid "Timer Overview"
 msgstr ""
@@ -17252,20 +17342,13 @@ msgstr "Tiidsbarren log"
 
 #
 #, fuzzy
-msgid ""
-"Timer overlap in pm_timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in pm_timers.xml!"
 msgstr ""
 "Tiidstjoerings conflicten fûn yn timers.xml\n"
 "Graach nei sjen en meitsje!"
 
-#
-msgid ""
-"Timer overlap in timers.xml detected!\n"
-"Please recheck it!"
+msgid "Timer overlaps detected in timers.xml!"
 msgstr ""
-"Tiidstjoerings conflicten fûn yn timers.xml\n"
-"Graach nei sjen en meitsje!"
 
 #
 #, fuzzy
@@ -19394,6 +19477,11 @@ msgid "Zap Up/Down"
 msgstr ""
 
 #
+#, fuzzy
+msgid "Zap and record"
+msgstr "net opnimme"
+
+#
 msgid "Zap back to previously tuned service?"
 msgstr ""
 
@@ -19554,9 +19642,6 @@ msgid "all"
 msgstr ""
 
 msgid "all tuners"
-msgstr ""
-
-msgid "always"
 msgstr ""
 
 #
@@ -19761,9 +19846,6 @@ msgstr ""
 msgid "deleted"
 msgstr "Ferwiderje"
 
-msgid "descramble and record ecm"
-msgstr ""
-
 msgid "detective/thriller"
 msgstr ""
 
@@ -19786,9 +19868,6 @@ msgid "documentary"
 msgstr ""
 
 msgid "documentary (general)"
-msgstr ""
-
-msgid "don't descramble, record ecm"
 msgstr ""
 
 #
@@ -20236,9 +20315,6 @@ msgstr ""
 msgid "none"
 msgstr "gjin"
 
-msgid "normal"
-msgstr ""
-
 #
 msgid "not configured"
 msgstr ""
@@ -20303,12 +20379,6 @@ msgstr "fan in ALLINNE-LEZE medium"
 #
 msgid "once"
 msgstr "ienmalig"
-
-msgid "only from deep standby"
-msgstr ""
-
-msgid "only from standby"
-msgstr ""
 
 #
 msgid "open nameserver configuration"
