@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-12 01:57+0000\n"
+"POT-Creation-Date: 2021-12-19 02:02+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -2092,7 +2092,8 @@ msgstr "Permitir modos no compatibles"
 msgid "Allows the TV remote to be used to control the receiver."
 msgstr "Permite usar el mando a distancia del televisor para controlar el receptor."
 
-msgid "Allows you to assign the selected function to the this button."
+#, fuzzy
+msgid "Allows you to assign the selected function to this button."
 msgstr "Le permite asignar la función seleccionada a este botón."
 
 msgid "Allows you to enable/disable displaying icons on the frontpanel."

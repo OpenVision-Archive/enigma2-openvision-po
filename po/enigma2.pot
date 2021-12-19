@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-12 01:57+0000\n"
+"POT-Creation-Date: 2021-12-19 02:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15055,7 +15055,7 @@ msgstr ""
 msgid "Allow subtitles for hearing impaired"
 msgstr ""
 
-msgid "Allows you to assign the selected function to the this button."
+msgid "Allows you to assign the selected function to this button."
 msgstr ""
 
 msgid "Allows you to enable/disable displaying icons on the frontpanel."
@@ -17177,10 +17177,10 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
-msgid "TUNER:"
+msgid "EPG Selection"
 msgstr ""
 
-msgid "EPG Selection"
+msgid "EtPortal"
 msgstr ""
 
 msgid "Graphical EPG"
@@ -17192,31 +17192,10 @@ msgstr ""
 msgid "Quick EPG"
 msgstr ""
 
-msgid " HI "
-msgstr ""
-
-msgid "REC "
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "Rec"
+msgid "®"
 msgstr ""
 
 msgid "Enigmalight"
-msgstr ""
-
-msgid "EtPortal"
 msgstr ""
 
 msgid "VMC"
@@ -17225,10 +17204,19 @@ msgstr ""
 msgid "by hmmmdada"
 msgstr ""
 
-msgid "®"
+msgid "Rec"
 msgstr ""
 
-msgid "-"
+msgid "TUNER:"
+msgstr ""
+
+msgid "  REC  "
+msgstr ""
+
+msgid " HI "
+msgstr ""
+
+msgid "REC "
 msgstr ""
 
 msgid "E "
@@ -17249,7 +17237,19 @@ msgstr ""
 msgid "J"
 msgstr ""
 
-msgid "  REC  "
+msgid "EasyMedia"
+msgstr ""
+
+msgid "Ext. NumberZap"
+msgstr ""
+
+msgid "Timer+"
+msgstr ""
+
+msgid "Timerlist"
+msgstr ""
+
+msgid "-"
 msgstr ""
 
 msgid "Check the internet connection"
@@ -17367,6 +17367,29 @@ msgstr ""
 msgid "true"
 msgstr ""
 
+msgid "Refresh rate selection."
+msgstr ""
+
+msgid "Select refresh rate"
+msgstr ""
+
+msgid "Select video input with up/down buttons"
+msgstr ""
+
+msgid "Select video mode"
+msgstr ""
+
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV (or select a different input port).\n"
+"\n"
+"The next input port will be automatically probed in 20 seconds."
+msgstr ""
+
+msgid "Video mode selection."
+msgstr ""
+
 msgid "Configure interface"
 msgstr ""
 
@@ -17449,27 +17472,4 @@ msgid ""
 "Have you attached your USB WLAN Stick?\n"
 "\n"
 "Please choose what you want to do next."
-msgstr ""
-
-msgid "Refresh rate selection."
-msgstr ""
-
-msgid "Select refresh rate"
-msgstr ""
-
-msgid "Select video input with up/down buttons"
-msgstr ""
-
-msgid "Select video mode"
-msgstr ""
-
-msgid ""
-"Video input selection\n"
-"\n"
-"Please press OK if you can see this page on your TV (or select a different input port).\n"
-"\n"
-"The next input port will be automatically probed in 20 seconds."
-msgstr ""
-
-msgid "Video mode selection."
 msgstr ""
