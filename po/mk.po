@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -3505,6 +3505,10 @@ msgstr "Затвори го насловот избор"
 msgid "Close the screen and exit all menus"
 msgstr "Врати ги промените на активниот скин и затворете ги сите менија"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Затвори го насловот избор"
+
 msgid "Close title selection"
 msgstr "Затвори го насловот избор"
 
@@ -6363,13 +6367,6 @@ msgstr ""
 "FBC автоматски\n"
 "неактивен"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8871,6 +8868,10 @@ msgstr "Сортирање на Мени (%s)"
 msgid "Message"
 msgstr "Порака"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Понатамошни Опции"
+
 msgid "Message..."
 msgstr "Порака..."
 
@@ -9046,6 +9047,10 @@ msgid "Move down a line"
 msgstr "Движете се надолу по листот"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Движете се надолу по листот"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "движете се надолу до последниот влез"
 
@@ -9107,8 +9112,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Поместете го курсорот за текст на последниот знак"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "преминете нагоре до првиот влез"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Поместете се на следниот Скин"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "движете се надолу до последниот влез"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9131,6 +9144,10 @@ msgstr "Поместете се на претходниот Скин"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Преместено во позиција на индекс"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Преместено во позиција на индекс"
 
 msgid "Move up a screen"
@@ -11907,6 +11924,9 @@ msgstr "Се вчитуваат информации за Плагин. Ве м�
 msgid "Retrieving system information, please wait..."
 msgstr "Се вчитуваат информации за Плагин. Ве молам почекајте..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Вратете се на списокот со филмови"
 
@@ -12680,6 +12700,10 @@ msgstr "Изберете метод на сортирање:"
 msgid "Select target folder"
 msgstr "Изберете целна папка"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Изберете ја локацијата од менито"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Изберете го каналот корисничка лента што ќе му биде доделен на овој приемник. Ова е индекс во табелата на фреквенции што го користи SCR прекинувачот или SCR LNB за да го предаде бараниот транспондер до тјунерот."
 
@@ -12688,6 +12712,9 @@ msgstr "Изберете ја фреквенцијата на корисничк
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Изберете ја корисничката лента што ќе му биде доделена на овој тјунер. Ова е бројот во фреквентната табела што му е потребен на прекинувачот SCR или на SCR LNB за да го пренесе бараниот транспондер на тјунерот."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Изберете го карактерот или дејството под курсорот на тастатурата"
@@ -13878,6 +13905,14 @@ msgstr "Горе и долу"
 msgid "Slot %d"
 msgstr "Слот %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "Словачки"
 
@@ -14162,11 +14197,12 @@ msgid "Standard"
 msgstr "Стандард"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Стандардна листа"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Стандард"
-
-msgid "Standart list"
-msgstr "Стандардна листа"
 
 msgid "Standby"
 msgstr "Стендбај"

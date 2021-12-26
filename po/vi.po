@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -3611,6 +3611,10 @@ msgstr "Đóng lựa chọn tiêu đề"
 msgid "Close the screen and exit all menus"
 msgstr "Hủy mọi thay đổi đối với giao diện hiện đang hoạt động và thoát khỏi tất cả các menu"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Đóng lựa chọn tiêu đề"
+
 msgid "Close title selection"
 msgstr "Đóng lựa chọn tiêu đề"
 
@@ -6468,13 +6472,6 @@ msgstr ""
 "FBC tự động\n"
 "không hoạt động"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "Ổ cắm FBC%s"
-
-msgid "FBC virtual"
-msgstr "FBC ảo"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8976,6 +8973,10 @@ msgstr "Menu (%s)"
 msgid "Message"
 msgstr "Thông điệp"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Tùy chọn khác"
+
 msgid "Message..."
 msgstr "Thông điệp..."
 
@@ -9151,6 +9152,10 @@ msgid "Move down a line"
 msgstr "Đi xuống danh sách"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Đi xuống danh sách"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "di chuyển xuống mục cuối cùng"
 
@@ -9212,8 +9217,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Di chuyển con trỏ văn bản đến ký tự cuối cùng"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "di chuyển đến mục đầu tiên"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Chuyển sang giao diện tiếp theo"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "di chuyển xuống mục cuối cùng"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9236,6 +9249,10 @@ msgstr "Di chuyển đến giao diện trước đó"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Đã chuyển đến vị trí tại chỉ mục"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Đã chuyển đến vị trí tại chỉ mục"
 
 msgid "Move up a screen"
@@ -12012,6 +12029,9 @@ msgstr "Lấy thông tin plugin. Xin vui lòng chờ ..."
 msgid "Retrieving system information, please wait..."
 msgstr "Lấy thông tin plugin. Xin vui lòng chờ ..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Quay trở lại danh sách phim"
 
@@ -12782,6 +12802,10 @@ msgstr "Chọn phương pháp sắp xếp:"
 msgid "Select target folder"
 msgstr "Chọn thư mục đích"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Chọn ngôn ngữ từ menu"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Chọn kênh Nhóm người dùng sẽ được chỉ định cho bộ chỉnh này. Đây là một chỉ mục trong bảng tần số mà công tắc SCR hoặc SCR LNB sử dụng để truyền bộ phát đáp được yêu cầu đến bộ chỉnh tần số."
 
@@ -12790,6 +12814,9 @@ msgstr "Chọn tần số Dải người dùng sẽ được chỉ định cho b
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Chọn Dải người dùng sẽ được chỉ định cho bộ chỉnh này. Đây là một chỉ mục trong bảng tần số mà công tắc SCR hoặc SCR LNB sử dụng để truyền bộ phát đáp được yêu cầu đến bộ chỉnh tần số."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Chọn ký tự hoặc hành động dưới con trỏ bàn phím"
@@ -13979,6 +14006,14 @@ msgstr "Trên và dưới"
 msgid "Slot %d"
 msgstr "Khe %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC ảo"
+
 msgid "Slovak"
 msgstr "Tiếng Slovak"
 
@@ -14265,11 +14300,12 @@ msgid "Standard"
 msgstr "Tiêu chuẩn"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Danh sách tiêu chuẩn"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Tiêu chuẩn"
-
-msgid "Standart list"
-msgstr "Danh sách tiêu chuẩn"
 
 msgid "Standby"
 msgstr "Tắt ở chế độ chờ"

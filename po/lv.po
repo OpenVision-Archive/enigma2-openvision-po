@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -3641,6 +3641,10 @@ msgstr "Aizvērt virsrakstu atlasi"
 msgid "Close the screen and exit all menus"
 msgstr "Atcelt jebkuras izmaiņas pašreizējā noformējumā un aizvērt visas izvēlnes"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Aizvērt virsrakstu atlasi"
+
 msgid "Close title selection"
 msgstr "Aizvērt virsrakstu atlasi"
 
@@ -6500,13 +6504,6 @@ msgstr ""
 "FBC automātiski\n"
 "neaktīvs"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC ligzda %s"
-
-msgid "FBC virtual"
-msgstr "Virtuālais FBC"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9008,6 +9005,10 @@ msgstr "Izvēlnes izkārtojums (%s)"
 msgid "Message"
 msgstr "Paziņojums"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Papildus iestatījumi"
+
 msgid "Message..."
 msgstr "Paziņojums..."
 
@@ -9183,6 +9184,10 @@ msgid "Move down a line"
 msgstr "Iet uz saraksta leju"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Iet uz saraksta leju"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "pārvietot lejup uz pēdējo ierakstu"
 
@@ -9244,8 +9249,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Pārvietot kursoru uz pēdējo burtu"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "pārvietot augšup uz pirmo ierakstu"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Pārvietot uz nākamo noformējumu"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "pārvietot lejup uz pēdējo ierakstu"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9268,6 +9281,10 @@ msgstr "Pārvietot uz iepriekšējo noformējumu"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Griezt uz pozīciju indeksā"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Griezt uz pozīciju indeksā"
 
 msgid "Move up a screen"
@@ -12043,6 +12060,9 @@ msgstr "Iegūst spraudņa informāciju. Lūdzu gaidiet..."
 msgid "Retrieving system information, please wait..."
 msgstr "Iegūst spraudņa informāciju. Lūdzu gaidiet..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Atgriezties uz mediju sarakstu"
 
@@ -12818,6 +12838,10 @@ msgstr "Izvēlieties kārtošanas metodi:"
 msgid "Select target folder"
 msgstr "Izvēlieties mērķa mapi"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Izvēlieties lokalizāciju"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Izvēlieties joslas kanālu (User Band channel) kuru piešķirt šim uztvērējam. Tas ir indekss SCR slēdža frekvenču tabulā vai SCR LNB, kuru tie izmanto lai piešķirtu pieprasīto transponderi uztvērējam."
 
@@ -12826,6 +12850,9 @@ msgstr "Izvēlieties joslas frekvenci (User Band frequency) kuru piešķirt šim
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Izvēlieties joslu (User Band) kuru piešķirt šim uztvērējam. Tas ir indekss SCR slēdža frekvenču tabulā vai SCR LNB, kuru tie izmanto lai piešķirtu pieprasīto transponderi uztvērējam."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Izvēlieties darbību virtuālās tastatūras kursoram"
@@ -14013,6 +14040,14 @@ msgstr "Vertikāli"
 msgid "Slot %d"
 msgstr "Karšu lasītājs %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "Virtuālais FBC"
+
 msgid "Slovak"
 msgstr "Slovāku"
 
@@ -14299,11 +14334,12 @@ msgid "Standard"
 msgstr "Standarta"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Standarta saraksts"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standarta"
-
-msgid "Standart list"
-msgstr "Standarta saraksts"
 
 msgid "Standby"
 msgstr "Gaidstāve"

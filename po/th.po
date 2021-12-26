@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -3552,6 +3552,10 @@ msgstr "ปิดหน้าเลือกชื่อเรื่อง"
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+#, fuzzy
+msgid "Close the window"
+msgstr "ปิดหน้าเลือกชื่อเรื่อง"
+
 msgid "Close title selection"
 msgstr "ปิดหน้าเลือกชื่อเรื่อง"
 
@@ -6429,13 +6433,6 @@ msgid ""
 "inactive"
 msgstr ""
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8928,6 +8925,10 @@ msgstr ""
 msgid "Message"
 msgstr "ข้อความ"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "เลือกผังรายการ"
+
 msgid "Message..."
 msgstr "ข้อความ..."
 
@@ -9103,6 +9104,10 @@ msgid "Move down a line"
 msgstr "ย้ายลงไปท้ายสุด"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "ย้ายลงไปท้ายสุด"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "ย้ายลงไปท้ายสุด"
 
@@ -9166,8 +9171,16 @@ msgid "Move the text cursor to the last character"
 msgstr ""
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "ย้ายไปบนสุด"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "ย้ายลงไป"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "ย้ายลงไปท้ายสุด"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9194,6 +9207,10 @@ msgstr "ย้ายไปก่อนหน้านี้"
 
 msgid "Move up a line"
 msgstr ""
+
+#, fuzzy
+msgid "Move up a page"
+msgstr "เลือกมุมมองอันต่อไป"
 
 msgid "Move up a screen"
 msgstr ""
@@ -11992,6 +12009,9 @@ msgstr "กำลังโหลดข้อมูล Plugin กรุณาร�
 msgid "Retrieving system information, please wait..."
 msgstr "กำลังโหลดข้อมูล Plugin กรุณารอสักครู่..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "กลับไปยังสารบัญภาพยนต์"
 
@@ -12779,6 +12799,10 @@ msgstr ""
 msgid "Select target folder"
 msgstr "เลือกโฟล์เดอร์ปลายทาง"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "เลือกพาธของภาพยนต์"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr ""
 
@@ -12786,6 +12810,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -13979,6 +14006,14 @@ msgstr ""
 msgid "Slot %d"
 msgstr "ช่อง %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr ""
 
@@ -14272,11 +14307,12 @@ msgid "Standard"
 msgstr "มาตรฐาน"
 
 #, fuzzy
-msgid "Standard menu"
+msgid "Standard list"
 msgstr "มาตรฐาน"
 
-msgid "Standart list"
-msgstr ""
+#, fuzzy
+msgid "Standard menu"
+msgstr "มาตรฐาน"
 
 msgid "Standby"
 msgstr "Standby"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-11-27 11:53+0100\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -3886,6 +3886,11 @@ msgid "Close the screen and exit all menus"
 msgstr "Avbryt eventuelle endringer i det aktive utseende og avslutt alle menyer"
 
 #
+#, fuzzy
+msgid "Close the window"
+msgstr "Lukk navnevalg"
+
+#
 msgid "Close title selection"
 msgstr "Lukk navnevalg"
 
@@ -7022,13 +7027,6 @@ msgstr ""
 "FBC automatisk\n"
 "ubrukt"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC-kontakt %s"
-
-msgid "FBC virtual"
-msgstr "FBC virtuell"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9773,6 +9771,10 @@ msgstr "Menysort (%s)"
 msgid "Message"
 msgstr "Beskjed"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Flere innstillinger"
+
 msgid "Message..."
 msgstr "Beskjed..."
 
@@ -9965,6 +9967,10 @@ msgstr "Flytt bilde i bilde"
 msgid "Move down a line"
 msgstr "Gå nedover listen"
 
+#, fuzzy
+msgid "Move down a page"
+msgstr "Gå nedover listen"
+
 #
 #, fuzzy
 msgid "Move down a screen"
@@ -10036,8 +10042,18 @@ msgstr "Flytt tekstmarkøren til det siste tegnet"
 
 #
 #, fuzzy
+msgid "Move to first line"
+msgstr "gå til til første oppføring"
+
+#
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Gå til neste skin"
+
+#
+#, fuzzy
+msgid "Move to last line"
+msgstr "gå til til siste oppføring"
 
 #
 #, fuzzy
@@ -10064,6 +10080,10 @@ msgstr "Gå til forrige skin"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Flyttet til startposisjon"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Flyttet til startposisjon"
 
 msgid "Move up a screen"
@@ -13150,6 +13170,9 @@ msgstr "Henter informasjon om utvidelser. Vennligst vent litt..."
 msgid "Retrieving system information, please wait..."
 msgstr "Henter informasjon om utvidelser. Vennligst vent litt..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Gå tilbake til opptaksliste"
 
@@ -13999,6 +14022,10 @@ msgstr "Velg sorteringsmetode:"
 msgid "Select target folder"
 msgstr "Velg målmappe"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Velg nasjonale innstillinger fra en meny"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Velg bruker bånd-kanalen som skal tilordnes til denne mottakeren. Dette er en indeks i frekvenstabellen som SCR-bryteren eller SCR LNB bruker for å sende den forespurte transponder til tuneren."
 
@@ -14007,6 +14034,9 @@ msgstr "Velg bruker bånd frekvensen som skal tilordnes til denne mottakeren. De
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Velg bruker båndet som skal tilordnes til denne mottakeren. Dette er en indeks i frekvenstabellen som SCR-bryteren eller SCR LNB bruker for å sende den forespurte transponder til tuneren."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Velg tegnet eller handlingen under tastaturmarkøren"
@@ -15321,6 +15351,14 @@ msgstr "Topp og bunn"
 msgid "Slot %d"
 msgstr "Spor %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC virtuell"
+
 msgid "Slovak"
 msgstr "Slovakisk"
 
@@ -15632,12 +15670,13 @@ msgstr "Standard"
 
 #
 #, fuzzy
-msgid "Standard menu"
-msgstr "Standard"
+msgid "Standard list"
+msgstr "Standard liste"
 
 #
-msgid "Standart list"
-msgstr "Standard liste"
+#, fuzzy
+msgid "Standard menu"
+msgstr "Standard"
 
 msgid "Standby"
 msgstr "Slå av"

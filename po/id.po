@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -3664,6 +3664,10 @@ msgstr "Tutup pemilihan judul"
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Tutup pemilihan judul"
+
 msgid "Close title selection"
 msgstr "Tutup pemilihan judul"
 
@@ -6581,13 +6585,6 @@ msgstr ""
 "FBC otomatis\n"
 "tidak aktif"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9138,6 +9135,10 @@ msgstr "Menusortir (%s)"
 msgid "Message"
 msgstr "Pesan"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Pilihan Selanjutnya"
+
 msgid "Message..."
 msgstr "Pesan..."
 
@@ -9317,6 +9318,10 @@ msgid "Move down a line"
 msgstr "Menuju bawah daftar"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Menuju bawah daftar"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "gerak ke bawah menuju entri terakhir"
 
@@ -9386,8 +9391,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Pindahkan kursor tulisan ke karakter akhir"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "gerak ke atas menuju entri pertama"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "gerak ke bawah menuju entri selanjutnya"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "gerak ke bawah menuju entri terakhir"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9414,6 +9427,10 @@ msgstr "gerak ke atas menuju entri sebelumnya"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Bergerak ke posisi pada indeks"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Bergerak ke posisi pada indeks"
 
 msgid "Move up a screen"
@@ -12224,6 +12241,9 @@ msgstr "Mendapatkan info plugin. Silakan tunggu..."
 msgid "Retrieving system information, please wait..."
 msgstr "Mendapatkan info plugin. Silakan tunggu..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Kembali ke daftar film"
 
@@ -13007,6 +13027,10 @@ msgstr "Pilih metode sortir:"
 msgid "Select target folder"
 msgstr "Pilih folder tujuan"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Pilih lokal papankunci virtual dari menu"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Pilih saluran Pita Pengguna untuk ditetapkan pada penala ini. Ini adalah indeks pada tabel frekuensi yg saklar SCR atau LNB SCR gunakan untuk meneruskan transponder diminta ke penala."
 
@@ -13015,6 +13039,9 @@ msgstr "Pilih frekuensi Pita Pengguna untuk ditetapkan pada penala ini. Ini adal
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Pilih Pita Pengguna untuk ditetapkan pada tuner ini. Ini adalah indeks pada tabel frekuensi yg saklar SCR atau LNB SCR gunakan untuk meneruskan transponder diminta ke penala."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 #, fuzzy
 msgid "Select the character or action under the keyboard cursor"
@@ -14226,6 +14253,14 @@ msgstr "Atas dan bawah"
 msgid "Slot %d"
 msgstr "Slot %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "Slowakia"
 
@@ -14518,11 +14553,12 @@ msgid "Standard"
 msgstr "Standar"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Daftar standar"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standar"
-
-msgid "Standart list"
-msgstr "Daftar standar"
 
 msgid "Standby"
 msgstr "Standby"

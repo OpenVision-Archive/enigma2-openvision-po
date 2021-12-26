@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -3618,6 +3618,10 @@ msgstr "Κλείσιμο επιλογής τίτλου"
 msgid "Close the screen and exit all menus"
 msgstr "Ακύρωση αλλαγών στο τρέχον θέμα και έξοδος όλων των μενού"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Κλείσιμο επιλογής τίτλου"
+
 msgid "Close title selection"
 msgstr "Κλείσιμο επιλογής τίτλου"
 
@@ -6470,13 +6474,6 @@ msgstr ""
 "FBC αυτόματο\n"
 "ανενεργό"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "Υποδοχή FBC %s"
-
-msgid "FBC virtual"
-msgstr "Εικονικό FBC"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8980,6 +8977,10 @@ msgstr "Ταξινόμηση μενού (%s)"
 msgid "Message"
 msgstr "Μήνυμα"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Περαιτέρω επιλογές"
+
 msgid "Message..."
 msgstr "Μήνυμα..."
 
@@ -9155,6 +9156,10 @@ msgid "Move down a line"
 msgstr "Μετάβαση προς τα κάτω"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Μετάβαση προς τα κάτω"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "μετάβαση στο τελευταίο στοιχείο"
 
@@ -9216,8 +9221,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Μετακίνηση του κέρσορα στον τελευταίο χαρακτήρα"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "μετάβαση στο πρώτο στοιχείο"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Μετάβαση στο επόμενο θέμα"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "μετάβαση στο τελευταίο στοιχείο"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9240,6 +9253,10 @@ msgstr "Μετάβαση στο προηγούμενο θέμα"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Κίνηση στην αποθηκευμένη θέση"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Κίνηση στην αποθηκευμένη θέση"
 
 msgid "Move up a screen"
@@ -12016,6 +12033,9 @@ msgstr "Λήψη πληροφοριών προσθέτου. Παρακαλώ π�
 msgid "Retrieving system information, please wait..."
 msgstr "Λήψη πληροφοριών προσθέτου. Παρακαλώ περιμένετε..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Επιστροφή στη λίστα ταινίων"
 
@@ -12788,6 +12808,10 @@ msgstr "Επιλογή τρόπου ταξινόμησης:"
 msgid "Select target folder"
 msgstr "Επιλογή φάκελου προορισμού"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Επιλογή της γλώσσας του πληκτρολογίου μέσω μενού"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Επιλέξτε το κανάλι μπάντας χρήστη για αυτό το tuner. Πρόκειται για ένα ευρετήριο του πίνακα συχνοτήτων που χρησιμοποιεί ο διακόπτης SCR ή το SCR LNB για να περάσει τον επιλεγμένο αναμεταδότη στο tuner."
 
@@ -12796,6 +12820,9 @@ msgstr "Επιλέξτε τη συχνότητα της μπάντας χρήσ�
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Επιλέξτε την μπάντα χρήστη για αυτό το tuner. Πρόκειται για ένα ευρετήριο του πίνακα συχνοτήτων που χρησιμοποιεί ο διακόπτης SCR ή το SCR LNB για να περάσει τον επιλεγμένο αναμεταδότη στο tuner."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Επιλογή του χαρακτήρα ή της εντολής κάτω από τον κέρσορα του πληκτρολογίου"
@@ -13985,6 +14012,14 @@ msgstr "Πάνω και Κάτω"
 msgid "Slot %d"
 msgstr "Θύρα %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "Εικονικό FBC"
+
 msgid "Slovak"
 msgstr "Σλοβακικά"
 
@@ -14271,11 +14306,12 @@ msgid "Standard"
 msgstr "Στάνταρ"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Στάνταρ λίστα"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Στάνταρ"
-
-msgid "Standart list"
-msgstr "Στάνταρ λίστα"
 
 msgid "Standby"
 msgstr "Αναμονή"

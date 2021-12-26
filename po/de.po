@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-04-30 16:06+0200\n"
 "Last-Translator: kueken\n"
 "Language-Team: OpenPLi\n"
@@ -3630,6 +3630,10 @@ msgstr "Titelauswahl schließen"
 msgid "Close the screen and exit all menus"
 msgstr "Änderungen am aktiven Skin zurücknehmen und alle Menüs schliessen"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Titelauswahl schließen"
+
 msgid "Close title selection"
 msgstr "Titelauswahl schließen"
 
@@ -6489,13 +6493,6 @@ msgstr ""
 "FBC automatisch\n"
 "inaktiv"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8998,6 +8995,10 @@ msgstr "Menüsortierung (%s)"
 msgid "Message"
 msgstr "Nachricht"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Weitere Optionen"
+
 msgid "Message..."
 msgstr "Nachricht…"
 
@@ -9173,6 +9174,10 @@ msgid "Move down a line"
 msgstr "Liste nach unten durchgehen"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Liste nach unten durchgehen"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "Zum letzten Eintrag gehen"
 
@@ -9234,8 +9239,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Verschieben Sie den Cursor auf das letzte Zeichen"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "Zum ersten Eintrag gehen"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Zum nächsten Skin wechseln"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "Zum letzten Eintrag gehen"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9258,6 +9271,10 @@ msgstr "Zum vorherigen Skin wechseln"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Zur Index Position bewegt"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Zur Index Position bewegt"
 
 msgid "Move up a screen"
@@ -12041,6 +12058,9 @@ msgstr "Lade Plugin-Informationen. Bitte warten…"
 msgid "Retrieving system information, please wait..."
 msgstr "Lade Plugin-Informationen. Bitte warten…"
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Zurück zur Videoliste"
 
@@ -12814,6 +12834,10 @@ msgstr "Sortierungmodus festlegen:"
 msgid "Select target folder"
 msgstr "Wähle Zielverzeichnis"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Wählen Sie das Gebietsschema der virtuellen Tastatur aus einem Menü"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Wählen Sie den User-Band-Kanal aus welcher diesem Tuner zugewiesen werden soll. Dies ist die Kennzahl in der Frequenz-Tabelle, die der SCR-Umschalter, oder der SCR-LNB benötigt um den angeforderten Transponder an den Tuner zu übergeben."
 
@@ -12822,6 +12846,9 @@ msgstr "Wählen Sie die User-Band-Frequenz aus welche diesem Tuner zugewiesen we
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Wählen Sie das User-Band aus welches diesem Tuner zugewiesen werden soll. Dies ist die Kennzahl in der Frequenz-Tabelle, die der SCR-Umschalter, oder der SCR-LNB benötigt um den angeforderten Transponder an den Tuner zu übergeben."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Wählen Sie das Zeichen oder die Aktion für den Cursor aus"
@@ -14012,6 +14039,14 @@ msgstr "Oben und Unten"
 msgid "Slot %d"
 msgstr "Steckplatz %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "Slowakisch"
 
@@ -14302,11 +14337,12 @@ msgid "Standard"
 msgstr "Standard"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Standard-Liste"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standard"
-
-msgid "Standart list"
-msgstr "Standard-Liste"
 
 msgid "Standby"
 msgstr "Standby"

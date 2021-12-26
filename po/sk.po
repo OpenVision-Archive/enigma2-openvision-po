@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -3640,6 +3640,10 @@ msgstr "Zatvoriť výber titulkov"
 msgid "Close the screen and exit all menus"
 msgstr "Zrušiť všetky zmeny aktívneho vzhľadu a opustiť menu"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Zatvoriť výber titulkov"
+
 msgid "Close title selection"
 msgstr "Zatvoriť výber titulkov"
 
@@ -6499,13 +6503,6 @@ msgstr ""
 "Automatický FBC\n"
 "neaktívny"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC soket %s"
-
-msgid "FBC virtual"
-msgstr "Virtuálne FBC"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9009,6 +9006,10 @@ msgstr "Zoradenie menu (%s)"
 msgid "Message"
 msgstr "Správa"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Ďalšie možnosti"
+
 msgid "Message..."
 msgstr "Správa..."
 
@@ -9184,6 +9185,10 @@ msgid "Move down a line"
 msgstr "Prechádzať v zozname nadol"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Prechádzať v zozname nadol"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "nadol na poslednú položku"
 
@@ -9245,8 +9250,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Presunúť textový kurzor na posledný znak"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "nahor na prvú položku"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Presun na ďalší vzhľad"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "nadol na poslednú položku"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9269,6 +9282,10 @@ msgstr "Presun na predchádzajúci vzhľad"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Otočené na východziu pozíciu"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Otočené na východziu pozíciu"
 
 msgid "Move up a screen"
@@ -12045,6 +12062,9 @@ msgstr "Získavam informácie o doplnku. Prosím čakajte..."
 msgid "Retrieving system information, please wait..."
 msgstr "Získavam informácie o doplnku. Prosím čakajte..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Návrat do zoznamu filmov"
 
@@ -12820,6 +12840,10 @@ msgstr "Zvoľte systém usporiadania:"
 msgid "Select target folder"
 msgstr "Zvoliť cieľový adresár"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Vyberte jazyk z menu"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Vyberte kanál užívateľského pásma, ktorý bude priradený k tomuto tuneru. Toto je index do tabuľky frekvencií, ktorý používa SCR prepínač alebo SCR LNB na prechod požadovaného transpondéra to tuneru."
 
@@ -12828,6 +12852,9 @@ msgstr "Vyberte frekvenciu užívateľského pásma, ktorý bude priradený k to
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Vyberte užívateľské pásmo, ktoré bude priradené k tomuto tuneru. Toto je index do tabuľky frekvencií, ktorý používa SCR prepínač alebo SCR LNB na prechod požadovaného transpondéra to tuneru."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Vyberte znak alebo akciu pod kurzorom klávesnice"
@@ -14017,6 +14044,14 @@ msgstr "Hore a dole"
 msgid "Slot %d"
 msgstr "Slot %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "Virtuálne FBC"
+
 msgid "Slovak"
 msgstr "Slovenčina"
 
@@ -14303,11 +14338,12 @@ msgid "Standard"
 msgstr "Štandardné"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Štandardný zoznam"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Štandardné"
-
-msgid "Standart list"
-msgstr "Štandardný zoznam"
 
 msgid "Standby"
 msgstr "Pohotovostný režim"

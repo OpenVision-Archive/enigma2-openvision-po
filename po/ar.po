@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -3715,6 +3715,10 @@ msgstr "إغلاق إختيار العنوان"
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+#, fuzzy
+msgid "Close the window"
+msgstr "إغلاق إختيار العنوان"
+
 msgid "Close title selection"
 msgstr "إغلاق إختيار العنوان"
 
@@ -6695,13 +6699,6 @@ msgstr ""
 "لاقط أف بي سي التلقائي\n"
 "غير نشط"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9290,6 +9287,10 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "مزيد من التعليم"
+
 msgid "Message..."
 msgstr ""
 
@@ -9468,6 +9469,10 @@ msgid "Move down a line"
 msgstr "الانتقال إلى أخر القائمة"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "الانتقال إلى أخر القائمة"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "أنتقل للأسفل إلى الإدخال السابق"
 
@@ -9529,8 +9534,16 @@ msgid "Move the text cursor to the last character"
 msgstr ""
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "تحرك للأعلى إلى المدخل الأول"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "أنتقل للأسفل إلى الإدخال التالي"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "أنتقل للأسفل إلى الإدخال السابق"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9557,6 +9570,10 @@ msgstr "تحرك للأعلى المدخل السابق"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "انتقل إلى المكان في الفهرس"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "انتقل إلى المكان في الفهرس"
 
 msgid "Move up a screen"
@@ -12429,6 +12446,9 @@ msgstr "جاري الحصول على معلومات عن البلج إنز. رج
 msgid "Retrieving system information, please wait..."
 msgstr "جاري الحصول على معلومات عن البلج إنز. رجاء الانتظار..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "العوده إلى قائمة الأفلام"
 
@@ -13247,6 +13267,10 @@ msgid "Select target folder"
 msgstr "أختار المجلد المراد"
 
 #, fuzzy
+msgid "Select the No / False response"
+msgstr "أختار مسار الفيلم"
+
+#, fuzzy
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "أختار قناة تعمل بدون كيبل ليتم تعيينها إلى هذا المؤالف. هذه قيمة مفردة. تأكد من عدم وجود أي جهاز آخر متصل بهذا اللاقط بدون كيبل "
 
@@ -13254,6 +13278,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -14516,6 +14543,14 @@ msgstr "فوق وأسفل"
 msgid "Slot %d"
 msgstr "فتحة %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "السلوفاكية"
 
@@ -14809,11 +14844,12 @@ msgid "Standard"
 msgstr "عادي"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "القائمة العادية"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "عادي"
-
-msgid "Standart list"
-msgstr "القائمة العادية"
 
 msgid "Standby"
 msgstr "وضع الإستعداد"

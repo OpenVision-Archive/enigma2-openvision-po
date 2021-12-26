@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -3645,6 +3645,10 @@ msgstr "Užverti pavadinimo pasirinkimą"
 msgid "Close the screen and exit all menus"
 msgstr "Atšaukite bet kokius, šiuo metu aktyvios temos keitimus ir užverkite visus meniu"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Užverti pavadinimo pasirinkimą"
+
 msgid "Close title selection"
 msgstr "Užverti pavadinimo pasirinkimą"
 
@@ -6501,13 +6505,6 @@ msgstr ""
 "FBC automatinis\n"
 "neaktyvus"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC lizdas %s"
-
-msgid "FBC virtual"
-msgstr "FBC virtualus"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9011,6 +9008,10 @@ msgstr "Meniu rūšiavimas (%s)"
 msgid "Message"
 msgstr "Pranešimas"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Kitos parinktys"
+
 msgid "Message..."
 msgstr "Pranešimas..."
 
@@ -9186,6 +9187,10 @@ msgid "Move down a line"
 msgstr "Sąrašu žemyn"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Sąrašu žemyn"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "perkelti žemyn prie paskutinio įrašo"
 
@@ -9247,8 +9252,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Perkelkite teksto žymeklį į paskutinį simbolį"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "perkelti aukštyn prie pirmo įrašo"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Pereiti į kitą temą"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "perkelti žemyn prie paskutinio įrašo"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9271,6 +9284,10 @@ msgstr "Pereiti prie ankstesnės temos"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Pasukta į poziciją ties žyme"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Pasukta į poziciją ties žyme"
 
 msgid "Move up a screen"
@@ -12047,6 +12064,9 @@ msgstr "Gaunama informacija apie priedus. Prašome laukti..."
 msgid "Retrieving system information, please wait..."
 msgstr "Gaunama informacija apie priedus. Prašome laukti..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Grįžti į filmų sąrašą"
 
@@ -12823,6 +12843,10 @@ msgstr "Pasirinkite rūšiavimo būdą:"
 msgid "Select target folder"
 msgstr "Pasirinkite paskirties katalogą"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Pasirinkite lokalę iš meniu"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Pasirinkite vartotojo juostos kanalą, kuris bus priskirtas šiam imtuvui. Tai yra dažnių lentelėje esantis indeksas, kurį SCR jungiklis arba SCR LNB naudoja prašomam transponderiui perduoti į imtuvą."
 
@@ -12831,6 +12855,9 @@ msgstr "Pasirinkite vartotojo juostos dažnį, kuris bus priskirtas šiam imtuvu
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Pasirinkite vartotojo diapazoną, kuris bus priskirtas šiam imtuvui. Tai yra dažnių lentelėje esantis indeksas, kurį SCR jungiklis arba SCR LNB naudoja prašomam atsakikliui perduoti į imtuvą."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Pasirinkite simbolį arba veiksmą po klaviatūros žymekliu"
@@ -14020,6 +14047,14 @@ msgstr "Viršuje ir apačioje"
 msgid "Slot %d"
 msgstr "Lizdas %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC virtualus"
+
 msgid "Slovak"
 msgstr "Slovakų"
 
@@ -14306,11 +14341,12 @@ msgid "Standard"
 msgstr "Standartinis"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Standartinis sąrašas"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standartinis"
-
-msgid "Standart list"
-msgstr "Standartinis sąrašas"
 
 msgid "Standby"
 msgstr "Budėjimo režimas"

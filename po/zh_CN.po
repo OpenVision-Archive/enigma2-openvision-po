@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -3629,6 +3629,10 @@ msgstr "关闭标题选择"
 msgid "Close the screen and exit all menus"
 msgstr "取消对当前活动皮肤的任何更改并退出所有菜单"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "关闭标题选择"
+
 msgid "Close title selection"
 msgstr "关闭标题选择"
 
@@ -6481,13 +6485,6 @@ msgstr ""
 "FBC自动\n"
 "非活动"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC插座 %s"
-
-msgid "FBC virtual"
-msgstr "虚拟FBC"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8987,6 +8984,10 @@ msgstr "菜单排序(%s)"
 msgid "Message"
 msgstr "消息"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "高级选项"
+
 msgid "Message..."
 msgstr "消息..."
 
@@ -9162,6 +9163,10 @@ msgid "Move down a line"
 msgstr "转到列表末尾"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "转到列表末尾"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "向下移动到最后项目"
 
@@ -9223,8 +9228,16 @@ msgid "Move the text cursor to the last character"
 msgstr "将文本光标移到最后一个字符"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "向上移动到第一个项目"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "移到下一个皮肤"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "向下移动到最后项目"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9247,6 +9260,10 @@ msgstr "移到上一个皮肤"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "移动到索引位置"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "移动到索引位置"
 
 msgid "Move up a screen"
@@ -12023,6 +12040,9 @@ msgstr "正在下载插件信息,请稍候..."
 msgid "Retrieving system information, please wait..."
 msgstr "正在下载插件信息,请稍候..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "返回电影列表"
 
@@ -12796,6 +12816,10 @@ msgstr "排序方式:"
 msgid "Select target folder"
 msgstr "选择目标文件夹"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "从菜单中选择区域设置"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "选择要分配给此调谐器的用户波段频道.这是一个索引 在频率表中,SCR开关或SCR LNB用于通过请求将收发器发送到调谐器."
 
@@ -12804,6 +12828,9 @@ msgstr "选择要分配给此调谐器的用户波段频率.这就是 SCR开关�
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "选择要分配给此调谐器的用户波段.这是SCR开关或SCR LNB用于 将请求的收发器传递到调谐器的频率表的索引."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "选择键盘光标下的字符或操作"
@@ -13993,6 +14020,14 @@ msgstr "顶部和底部"
 msgid "Slot %d"
 msgstr "分区 %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "虚拟FBC"
+
 msgid "Slovak"
 msgstr "斯洛伐克语"
 
@@ -14280,11 +14315,12 @@ msgid "Standard"
 msgstr "标准"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "标准列表"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "标准"
-
-msgid "Standart list"
-msgstr "标准列表"
 
 msgid "Standby"
 msgstr "一般待机"

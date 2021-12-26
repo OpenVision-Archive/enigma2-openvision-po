@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -3955,6 +3955,11 @@ msgid "Close the screen and exit all menus"
 msgstr ""
 
 #
+#, fuzzy
+msgid "Close the window"
+msgstr "Zapri izbirnik imena"
+
+#
 msgid "Close title selection"
 msgstr "Zapri izbirnik imena"
 
@@ -7188,13 +7193,6 @@ msgid ""
 "inactive"
 msgstr ""
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9983,6 +9981,10 @@ msgstr ""
 msgid "Message"
 msgstr "Obvestilo"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Nadaljne možnosti"
+
 #
 msgid "Message..."
 msgstr "Obestilo"
@@ -10183,6 +10185,10 @@ msgstr "Prestavi Sliko v Sliki"
 msgid "Move down a line"
 msgstr "Pojdi dol po seznamu"
 
+#, fuzzy
+msgid "Move down a page"
+msgstr "Pojdi dol po seznamu"
+
 #
 #, fuzzy
 msgid "Move down a screen"
@@ -10258,8 +10264,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Move to first line"
+msgstr "premik gor, na prvi vnos"
+
+#
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "premik dol, na naslednji vnos"
+
+#
+#, fuzzy
+msgid "Move to last line"
+msgstr "premik dol, na zadnji vnos"
 
 #
 #, fuzzy
@@ -10291,6 +10307,10 @@ msgstr "premik gor, prejšnji vnos"
 
 msgid "Move up a line"
 msgstr ""
+
+#, fuzzy
+msgid "Move up a page"
+msgstr "Pojdi gor po seznamu"
 
 msgid "Move up a screen"
 msgstr ""
@@ -13482,6 +13502,9 @@ msgstr "Poteka pridobivanje informacij o vtičniku... Prosim počakajte!"
 msgid "Retrieving system information, please wait..."
 msgstr "Poteka pridobivanje informacij o vtičniku... Prosim počakajte!"
 
+msgid "Return the current selection response"
+msgstr ""
+
 #
 msgid "Return to movie list"
 msgstr "Nazaj na seznam datotek"
@@ -14370,6 +14393,11 @@ msgstr "Izbor načina razvrščanja:"
 msgid "Select target folder"
 msgstr "Izberite ciljno mapo"
 
+#
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Izberite pot do posnetka"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr ""
 
@@ -14377,6 +14405,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -15726,6 +15757,14 @@ msgstr "Zgoraj in spodaj"
 msgid "Slot %d"
 msgstr "Slot %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr ""
 
@@ -16048,12 +16087,13 @@ msgstr "Standardno"
 
 #
 #, fuzzy
-msgid "Standard menu"
+msgid "Standard list"
 msgstr "Standardno"
 
 #
-msgid "Standart list"
-msgstr ""
+#, fuzzy
+msgid "Standard menu"
+msgstr "Standardno"
 
 #
 msgid "Standby"

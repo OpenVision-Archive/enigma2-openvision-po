@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -3887,6 +3887,9 @@ msgstr ""
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+msgid "Close the window"
+msgstr ""
+
 #
 msgid "Close title selection"
 msgstr ""
@@ -7071,13 +7074,6 @@ msgid ""
 "inactive"
 msgstr ""
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9819,6 +9815,11 @@ msgid "Message"
 msgstr "Berjocht"
 
 #
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "EPG Seleksje"
+
+#
 msgid "Message..."
 msgstr ""
 
@@ -10017,6 +10018,11 @@ msgstr "Nei it lêste menu item gean"
 
 #
 #, fuzzy
+msgid "Move down a page"
+msgstr "Nei it lêste menu item gean"
+
+#
+#, fuzzy
 msgid "Move down a screen"
 msgstr "Nei it lêste menu item gean"
 
@@ -10090,8 +10096,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Move to first line"
+msgstr "Neit it earste menu item gean"
+
+#
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Nei it folgende menu item gean"
+
+#
+#, fuzzy
+msgid "Move to last line"
+msgstr "Nei it lêste menu item gean"
 
 #
 #, fuzzy
@@ -10123,6 +10139,11 @@ msgstr "Nei it foarige menu item "
 
 msgid "Move up a line"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Move up a page"
+msgstr "foarút nei it folgende haadstik"
 
 msgid "Move up a screen"
 msgstr ""
@@ -13300,6 +13321,9 @@ msgstr "Binnenhelje fan ynstekker ynformaasje...."
 msgid "Retrieving system information, please wait..."
 msgstr "Binnenhelje fan ynstekker ynformaasje...."
 
+msgid "Return the current selection response"
+msgstr ""
+
 #
 msgid "Return to movie list"
 msgstr "Werom nei de film lyst"
@@ -14183,6 +14207,11 @@ msgstr ""
 msgid "Select target folder"
 msgstr "Kies doel map"
 
+#
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "kies it film paad"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr ""
 
@@ -14190,6 +14219,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -15504,6 +15536,14 @@ msgstr ""
 msgid "Slot %d"
 msgstr "Slot %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr ""
 
@@ -15817,11 +15857,13 @@ msgstr "standert"
 
 #
 #, fuzzy
-msgid "Standard menu"
+msgid "Standard list"
 msgstr "standert"
 
-msgid "Standart list"
-msgstr ""
+#
+#, fuzzy
+msgid "Standard menu"
+msgstr "standert"
 
 #
 msgid "Standby"

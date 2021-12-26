@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -3639,6 +3639,10 @@ msgstr "Закрити вибір назви"
 msgid "Close the screen and exit all menus"
 msgstr "Скасувати будь-які зміни на поточно активному скіні та вийти з усіх меню"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Закрити вибір назви"
+
 msgid "Close title selection"
 msgstr "Закрити вибір назви"
 
@@ -6498,13 +6502,6 @@ msgstr ""
 "FBC автоматичний\n"
 "неактивний"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC роз’єм %s"
-
-msgid "FBC virtual"
-msgstr "Віртуальний FBC"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9008,6 +9005,10 @@ msgstr "Меню сортування (%s)"
 msgid "Message"
 msgstr "Повідомлення"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Розширені можливості пошуку"
+
 msgid "Message..."
 msgstr "Повідомлення..."
 
@@ -9183,6 +9184,10 @@ msgid "Move down a line"
 msgstr "Перейти вниз списку"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Перейти вниз списку"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "перейти до останнього запису"
 
@@ -9244,8 +9249,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Перемістіть текстовий курсор до останнього символу"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "перемістити вгору до першого запису"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Перейти до наступного скіну"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "перейти до останнього запису"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9268,6 +9281,10 @@ msgstr "Перейти до попереднього скіну"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Переміститися на позицію під номером"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Переміститися на позицію під номером"
 
 msgid "Move up a screen"
@@ -12044,6 +12061,9 @@ msgstr "Отримання інформації про додатки. Прох�
 msgid "Retrieving system information, please wait..."
 msgstr "Отримання інформації про додатки. Прохання зачекати..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Повернутись до списку фільмів"
 
@@ -12819,6 +12839,10 @@ msgstr "Виберіть метод сортування:"
 msgid "Select target folder"
 msgstr "Виберіть папку призначення"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Виберіть необхідну мову в меню"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Виберіть Канал Користувача, який буде призначено цьому тюнеру. Це значення в таблиці частот, який використовує LNB SCR для передачі вибраного транспондера в тюнер."
 
@@ -12827,6 +12851,9 @@ msgstr "Виберіть частоту Користувацької Смуги,
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Виберіть частоту Користувацької Смуги, яку буде призначено цьому тюнеру. Це частота, яку перемикач SCR використовує для передачі вибраного транспондера в тюнер."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Виберіть символ, або дію під курсором клавіатури"
@@ -14016,6 +14043,14 @@ msgstr "Зверху і Знизу"
 msgid "Slot %d"
 msgstr "Слот %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "Віртуальний FBC"
+
 msgid "Slovak"
 msgstr "Словацька"
 
@@ -14302,11 +14337,12 @@ msgid "Standard"
 msgstr "Стандарт"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Стандартний список"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Стандарт"
-
-msgid "Standart list"
-msgstr "Стандартний список"
 
 msgid "Standby"
 msgstr "Режим очікування"

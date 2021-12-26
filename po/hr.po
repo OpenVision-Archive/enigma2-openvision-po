@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -3641,6 +3641,10 @@ msgstr "Zatvorite odabir naslova"
 msgid "Close the screen and exit all menus"
 msgstr "Poništite sve promjene u trenutno aktivnom skinu i izađite iz svih izbornika"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Zatvorite odabir naslova"
+
 msgid "Close title selection"
 msgstr "Zatvorite odabir naslova"
 
@@ -6504,13 +6508,6 @@ msgstr ""
 "FBC - automatski\n"
 "neaktivan"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC utičnica %s"
-
-msgid "FBC virtual"
-msgstr "FBC virtualni"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9015,6 +9012,10 @@ msgstr "Sortiranje izbornika (%s)"
 msgid "Message"
 msgstr "Poruka"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Dodatne mogućnosti"
+
 msgid "Message..."
 msgstr "Poruka..."
 
@@ -9190,6 +9191,10 @@ msgid "Move down a line"
 msgstr "Idite niz popis"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Idite niz popis"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "pomaknite dolje na zadnji unos"
 
@@ -9251,8 +9256,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Pomaknite tekstualni pokazivač na zadnjii znak"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "pomaknite gore na prvi unos"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "prebacite na sljedeći skin"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "pomaknite dolje na zadnji unos"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9275,6 +9288,10 @@ msgstr "prebacite na prijašnji skin"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Premjesti na poziciju broja"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Premjesti na poziciju broja"
 
 msgid "Move up a screen"
@@ -12051,6 +12068,9 @@ msgstr "Dobivanje informacija o dodacima. Molim pričekajte..."
 msgid "Retrieving system information, please wait..."
 msgstr "Dobivanje informacija o dodacima. Molim pričekajte..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Povratak na popis filmova"
 
@@ -12826,6 +12846,10 @@ msgstr "Odaberite način sortiranja:"
 msgid "Select target folder"
 msgstr "Odaberite ciljnu mapu"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Odaberite lokaciju iz izbornika"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Odaberite korisnički opseg kanala koji će biti dodijeljen ovom tjuneru. Ovo je indeks u tablici frekvencija koje SCR preklopnik ili SCR LNB koristi za prijenos traženog transpondera u tjuner."
 
@@ -12834,6 +12858,9 @@ msgstr "Odaberite korisnički opseg frekvencije koju želite dodijeliti ovom tju
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Odaberite korisnički opseg koji će biti dodijeljen ovom tjuneru. Ovo je indeks u tablici frekvencija koje SCR preklopnik ili SCR LNB koristi za prijenos traženog transpondera u tjuner."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Odaberite znak ili radnju ispod pokazivača tipkovnice"
@@ -14023,6 +14050,14 @@ msgstr "Iznad i ispod"
 msgid "Slot %d"
 msgstr "Utor %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC virtualni"
+
 msgid "Slovak"
 msgstr "Slovački"
 
@@ -14309,11 +14344,12 @@ msgid "Standard"
 msgstr "Standard"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Standardni popis"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standard"
-
-msgid "Standart list"
-msgstr "Standardni popis"
 
 msgid "Standby"
 msgstr "Na čekanju"

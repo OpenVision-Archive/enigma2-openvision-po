@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -3629,6 +3629,10 @@ msgstr "Затвори избора на заглавие"
 msgid "Close the screen and exit all menus"
 msgstr "Отмени промените за текущо активирания скин и излез от менютата"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Затвори избора на заглавие"
+
 msgid "Close title selection"
 msgstr "Затвори избора на заглавие"
 
@@ -6486,13 +6490,6 @@ msgstr ""
 "FBC - автоматично\n"
 "неактивен"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8991,6 +8988,10 @@ msgstr "Меню за подреждане (%s)"
 msgid "Message"
 msgstr "Съобщение"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Допълнителни Опции"
+
 msgid "Message..."
 msgstr "Съобщение..."
 
@@ -9166,6 +9167,10 @@ msgid "Move down a line"
 msgstr "Отидете в края списъка"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Отидете в края списъка"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "премести надолу към последния запис"
 
@@ -9227,8 +9232,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Преместете текстовия курсор към последния символ"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "премести нагоре към първия запис"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Преминаване към следващия скин"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "премести надолу към последния запис"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9251,6 +9264,10 @@ msgstr "Преминаване към предишния скин"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Завъртян към позиция с номер"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Завъртян към позиция с номер"
 
 msgid "Move up a screen"
@@ -12026,6 +12043,9 @@ msgstr "Приемам инфо за плъгина. Моля изчакайте
 msgid "Retrieving system information, please wait..."
 msgstr "Приемам инфо за плъгина. Моля изчакайте..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Връщане към списъка с филми"
 
@@ -12799,6 +12819,10 @@ msgstr "Избор на метод за подреждане:"
 msgid "Select target folder"
 msgstr "Изберете целева папка"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Изберете място от менюто"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Изберете канал от потребителска лента, който ще бъде присвоен на този тунер. Това е индекс в таблицата на честотите, който превключвателят SCR или SCR LNB използва, за да предаде искания транспондер на тунера."
 
@@ -12807,6 +12831,9 @@ msgstr "Изберете честотата от потребителската 
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Изберете потребителската лента, която ще бъде присвоена на този тунер. Това е индекс в таблицата на честотите, който превключвателят SCR или SCR LNB използва, за да предаде искания транспондер на тунера."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Изберете знака или действието под курсора на клавиатурата"
@@ -13998,6 +14025,14 @@ msgstr "Горе и долу"
 msgid "Slot %d"
 msgstr "Слот %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "Словашки"
 
@@ -14284,11 +14319,12 @@ msgid "Standard"
 msgstr "Cтандарт"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Стандартен списък"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Cтандарт"
-
-msgid "Standart list"
-msgstr "Стандартен списък"
 
 msgid "Standby"
 msgstr "Готовност"

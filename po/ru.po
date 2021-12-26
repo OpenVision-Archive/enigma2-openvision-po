@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -3640,6 +3640,10 @@ msgstr "Закрыть выбор названий"
 msgid "Close the screen and exit all menus"
 msgstr "Отмените любые изменения в текущем активном скине и выйдите из всех меню."
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Закрыть выбор названий"
+
 msgid "Close title selection"
 msgstr "Закрыть выбор названий"
 
@@ -6499,13 +6503,6 @@ msgstr ""
 "FBC - автоматически\n"
 "неактивен"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC вход %s"
-
-msgid "FBC virtual"
-msgstr "FBC виртуальный"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9009,6 +9006,10 @@ msgstr "Сортировка меню (%s)"
 msgid "Message"
 msgstr "Сообщение"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Дополнительные опции"
+
 msgid "Message..."
 msgstr "Сообщение..."
 
@@ -9184,6 +9185,10 @@ msgid "Move down a line"
 msgstr "Перейти вниз списка"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Перейти вниз списка"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "переместить вниз к последней записи"
 
@@ -9245,8 +9250,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Переместите курсор текстового буфера на последний символ"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "переместить вверх к первой записи"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Перейти к следующему скину"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "переместить вниз к последней записи"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9269,6 +9282,10 @@ msgstr "Перейти к предыдущему скину"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Перемещение к позиции номера"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Перемещение к позиции номера"
 
 msgid "Move up a screen"
@@ -12049,6 +12066,9 @@ msgstr "Получение информации о плагине. Пожалу�
 msgid "Retrieving system information, please wait..."
 msgstr "Получение информации о плагине. Пожалуйста, подождите..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Вернуться к списку видео"
 
@@ -12824,6 +12844,10 @@ msgstr "Выбор способа сортировки:"
 msgid "Select target folder"
 msgstr "Выбрать целевую папку"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Выберите язык виртуальной клавиатуры из меню"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Выберите канал User Band для назначения этому тюнеру. Это индекс в таблице частот, который коммутатор SCR или LNB SCR использует для передачи запрошенного транспондера тюнеру."
 
@@ -12832,6 +12856,9 @@ msgstr "Выберите частоту полосы пользователя, �
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Выберите пользовательский диапазон, который будет назначен данному тюнеру. Это индекс в таблице частот, который коммутатор SCR или LNB SCR использует для передачи запрошенного транспондера тюнеру."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Выберите символ или действие под курсором виртуальной клавиатуры"
@@ -14021,6 +14048,14 @@ msgstr "Сверху и снизу"
 msgid "Slot %d"
 msgstr "Слот %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC виртуальный"
+
 msgid "Slovak"
 msgstr "Словацкий"
 
@@ -14307,11 +14342,12 @@ msgid "Standard"
 msgstr "Cтандарт"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Стандартный список"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Cтандарт"
-
-msgid "Standart list"
-msgstr "Стандартный список"
 
 msgid "Standby"
 msgstr "Режим ожидания"

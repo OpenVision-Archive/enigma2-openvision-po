@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -3967,6 +3967,11 @@ msgid "Close the screen and exit all menus"
 msgstr "Zrušit všechny změny aktuálního aktivního skinu a zavřít všechna menu"
 
 #
+#, fuzzy
+msgid "Close the window"
+msgstr "Zavřít výběr titulu"
+
+#
 msgid "Close title selection"
 msgstr "Zavřít výběr titulu"
 
@@ -7191,13 +7196,6 @@ msgstr ""
 "FBC automaticky\n"
 "neaktivní"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC socket %s"
-
-msgid "FBC virtual"
-msgstr "FBC virtuální"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9983,6 +9981,11 @@ msgid "Message"
 msgstr "Zpráva"
 
 #
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Další možnosti"
+
+#
 msgid "Message..."
 msgstr "Zpráva..."
 
@@ -10182,6 +10185,11 @@ msgstr "V seznamu dolů"
 
 #
 #, fuzzy
+msgid "Move down a page"
+msgstr "V seznamu dolů"
+
+#
+#, fuzzy
 msgid "Move down a screen"
 msgstr "přesunout na poslední záznam"
 
@@ -10251,8 +10259,18 @@ msgstr "Kurzor na konec textu"
 
 #
 #, fuzzy
+msgid "Move to first line"
+msgstr "přesunout na první záznam"
+
+#
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Přesun na další skin"
+
+#
+#, fuzzy
+msgid "Move to last line"
+msgstr "přesunout na poslední záznam"
 
 #
 #, fuzzy
@@ -10280,6 +10298,10 @@ msgstr "Přesun na předchozí skin"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Natočeno na pozici podle indexu"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Natočeno na pozici podle indexu"
 
 msgid "Move up a screen"
@@ -13470,6 +13492,9 @@ msgstr "Získávám informace o pluginu. Prosím, čekejte..."
 msgid "Retrieving system information, please wait..."
 msgstr "Získávám informace o pluginu. Prosím, čekejte..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 #
 msgid "Return to movie list"
 msgstr "Zpět na seznam filmů"
@@ -14347,6 +14372,10 @@ msgstr "Zvolte způsob třídění:"
 msgid "Select target folder"
 msgstr "Vyberte cílovou složku"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Výběr lokalizaci z menu"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Vyberte kanál uživatelského pásma, který bude přiřazen tomuto tuneru. Tento kanál používá přepínač SCR nebo SCN LNB k předání požadovaného transponderu do tuneru."
 
@@ -14355,6 +14384,9 @@ msgstr "Vyberte frekvenci uživatelského pásma, která bude přiřazena tomuto
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Vyberte uživatelské pásmo, které bude přiřazeno tomuto tuneru. Jde o index do tabulky kmitočtů, který přepínač SCR nebo SCN LNB používá k předání požadovaného transponderu do tuneru."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Vybrat znak nebo akci pod kurzorem"
@@ -15672,6 +15704,14 @@ msgstr "Nahoru a dolů"
 msgid "Slot %d"
 msgstr "Slot %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC virtuální"
+
 #
 msgid "Slovak"
 msgstr "Slovensky"
@@ -15995,12 +16035,13 @@ msgstr "Standardní"
 
 #
 #, fuzzy
-msgid "Standard menu"
-msgstr "Standardní"
+msgid "Standard list"
+msgstr "Standardní seznam"
 
 #
-msgid "Standart list"
-msgstr "Standardní seznam"
+#, fuzzy
+msgid "Standard menu"
+msgstr "Standardní"
 
 #
 msgid "Standby"

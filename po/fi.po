@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -3858,6 +3858,10 @@ msgstr "Sulje otsikon valinta"
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Sulje otsikon valinta"
+
 msgid "Close title selection"
 msgstr "Sulje otsikon valinta"
 
@@ -6997,13 +7001,6 @@ msgstr ""
 "FBC automaattinen\n"
 "ei käytössä"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9759,6 +9756,11 @@ msgid "Message"
 msgstr "Viesti"
 
 #
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Muokkaa valintaa"
+
+#
 msgid "Message..."
 msgstr "Viesti..."
 
@@ -9949,6 +9951,10 @@ msgstr "Siirrä PiP-kuvaa"
 msgid "Move down a line"
 msgstr "Mene luettelossa alaspäin"
 
+#, fuzzy
+msgid "Move down a page"
+msgstr "Mene luettelossa alaspäin"
+
 #
 #, fuzzy
 msgid "Move down a screen"
@@ -10024,8 +10030,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Move to first line"
+msgstr "siirry ensimmäiseen kohtaan"
+
+#
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "siirry seuraavaan kohtaan"
+
+#
+#, fuzzy
+msgid "Move to last line"
+msgstr "siirry viimeiseen kohtaan"
 
 #
 #, fuzzy
@@ -10059,6 +10075,11 @@ msgstr "siirry edelliseen kohtaan"
 #
 #, fuzzy
 msgid "Move up a line"
+msgstr "Siirryttiin muistipaikan sijaintiin"
+
+#
+#, fuzzy
+msgid "Move up a page"
 msgstr "Siirryttiin muistipaikan sijaintiin"
 
 msgid "Move up a screen"
@@ -13221,6 +13242,9 @@ msgstr "Haetaan tietoja lisäosista. Odota..."
 msgid "Retrieving system information, please wait..."
 msgstr "Haetaan tietoja lisäosista. Odota..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 #
 msgid "Return to movie list"
 msgstr "Avaa tallenneluettelo"
@@ -14076,6 +14100,11 @@ msgstr "Valitse lajittelutapa"
 msgid "Select target folder"
 msgstr "Valitse kohdehakemisto"
 
+#
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Valitse tallennehakemisto"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr ""
 
@@ -14083,6 +14112,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -15411,6 +15443,14 @@ msgstr "Ylä ja ala"
 msgid "Slot %d"
 msgstr "Portti %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "Slovakia"
 
@@ -15718,11 +15758,12 @@ msgid "Standard"
 msgstr "Vakio"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Normaali lista"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Vakio"
-
-msgid "Standart list"
-msgstr "Normaali lista"
 
 #
 msgid "Standby"

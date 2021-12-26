@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -3615,6 +3615,10 @@ msgstr "بستن انتخاب کردن عنوان"
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+#, fuzzy
+msgid "Close the window"
+msgstr "بستن انتخاب کردن عنوان"
+
 msgid "Close title selection"
 msgstr "بستن انتخاب کردن عنوان"
 
@@ -6489,13 +6493,6 @@ msgid ""
 "inactive"
 msgstr ""
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8990,6 +8987,10 @@ msgstr ""
 msgid "Message"
 msgstr "پیام"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "EPG انتخاب"
+
 msgid "Message..."
 msgstr "پیام..."
 
@@ -9169,6 +9170,10 @@ msgid "Move down a line"
 msgstr "برو پایین لیست"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "برو پایین لیست"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "نگه داشتن صفحه نمایش"
 
@@ -9228,8 +9233,16 @@ msgid "Move the text cursor to the last character"
 msgstr ""
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "مراجعه به اولین کانال"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "مراجعه به اولین کانال"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "به موقعیت 0 جابجا شد"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9254,6 +9267,10 @@ msgstr "مراجعه به رخداد قبلی"
 
 msgid "Move up a line"
 msgstr ""
+
+#, fuzzy
+msgid "Move up a page"
+msgstr "برو بالای لیست"
 
 msgid "Move up a screen"
 msgstr ""
@@ -12051,6 +12068,9 @@ msgstr "در حال جمع آوری اطلاعات پلاگین ها - لطفا 
 msgid "Retrieving system information, please wait..."
 msgstr "در حال جمع آوری اطلاعات پلاگین ها - لطفا صبر کنید"
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "بازگشت به لیست فیلم"
 
@@ -12831,6 +12851,10 @@ msgstr ""
 msgid "Select target folder"
 msgstr "انتخاب پوشه مقصد"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "لطفا مسیر فیلم را انتخاب کنید"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr ""
 
@@ -12838,6 +12862,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -14049,6 +14076,14 @@ msgstr ""
 msgid "Slot %d"
 msgstr "شکاف %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "اسلواکی"
 
@@ -14346,11 +14381,12 @@ msgid "Standard"
 msgstr "خاموشی موقت"
 
 #, fuzzy
-msgid "Standard menu"
+msgid "Standard list"
 msgstr "خاموشی موقت"
 
-msgid "Standart list"
-msgstr ""
+#, fuzzy
+msgid "Standard menu"
+msgstr "خاموشی موقت"
 
 msgid "Standby"
 msgstr "خاموشی موقت"

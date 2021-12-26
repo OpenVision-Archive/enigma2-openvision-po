@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -3645,6 +3645,10 @@ msgstr "Sluit titelselectie"
 msgid "Close the screen and exit all menus"
 msgstr "Annuleer alle wijzigingen in de huidig ​​actieve skin en verlaat het menu"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Sluit titelselectie"
+
 msgid "Close title selection"
 msgstr "Sluit titelselectie"
 
@@ -6705,13 +6709,6 @@ msgstr ""
 "FBC automatisch doorlussen\n"
 "aktief"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC slot %s"
-
-msgid "FBC virtual"
-msgstr "FBC virtueel slot"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9224,6 +9221,10 @@ msgstr "Sorteer menu (%s)"
 msgid "Message"
 msgstr "Bericht"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Extra opties"
+
 msgid "Message..."
 msgstr "Bericht..."
 
@@ -9399,6 +9400,10 @@ msgid "Move down a line"
 msgstr "Ga naar beneden"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Ga naar beneden"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "verplaats omlaag naar laatste ingave"
 
@@ -9460,8 +9465,16 @@ msgid "Move the text cursor to the last character"
 msgstr "Beweeg de tekst-cursor naar het laatste teken"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "verplaats omhoog naar eerste ingave"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Verplaats naar de volgende skin"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "verplaats omlaag naar laatste ingave"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9484,6 +9497,10 @@ msgstr "Verplaats naar de vorige skin"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Gedraaid naar positie op index"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Gedraaid naar positie op index"
 
 msgid "Move up a screen"
@@ -12299,6 +12316,9 @@ msgstr "Gegevens worden opgehaald. Een ogenblik geduld aub..."
 msgid "Retrieving system information, please wait..."
 msgstr "Gegevens worden opgehaald. Een ogenblik geduld aub..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Terug naar de opnamelijst"
 
@@ -13075,6 +13095,10 @@ msgstr "Kies de sorteermethode:"
 msgid "Select target folder"
 msgstr "Kies de doelmap"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Kies de landinstelling vanuit een menu"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Selecteer het User Band kanaal dat aan deze tuner wordt toegewezen. Dit is een index voor de frequentietabel die de SCR-switch of SCR LNB gebruikt om de gevraagde transponder toe te kennen aan de tuner."
 
@@ -13083,6 +13107,9 @@ msgstr "Selecteer het User Band frequentie dat aan deze tuner wordt toegewezen. 
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Selecteer het User Band die aan deze tuner wordt toegewezen. Dit is een index voor de frequentietabel die de SCR switch of SCR LNB gebruikt om de gevraagde transponder toe te kennen aan de tuner."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Kies het teken of de actie wat zich onder de toetsenbord cursor bevindt"
@@ -14290,6 +14317,14 @@ msgstr "Boven en onderzijde"
 msgid "Slot %d"
 msgstr "Slot %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC virtueel slot"
+
 msgid "Slovak"
 msgstr "Slovaaks"
 
@@ -14576,11 +14611,12 @@ msgid "Standard"
 msgstr "Standaard"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Standaard lijst"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standaard"
-
-msgid "Standart list"
-msgstr "Standaard lijst"
 
 msgid "Standby"
 msgstr "Stand-by"

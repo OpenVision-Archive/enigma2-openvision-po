@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -3623,6 +3623,10 @@ msgstr "Címválasztás bezárása"
 msgid "Close the screen and exit all menus"
 msgstr "A jelenleg aktív kinézet változtatásainak elvetése és kilépés"
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Címválasztás bezárása"
+
 msgid "Close title selection"
 msgstr "Címválasztás bezárása"
 
@@ -6473,13 +6477,6 @@ msgstr ""
 "FBC automatikus\n"
 "inaktív"
 
-#, python-format
-msgid "FBC socket %s"
-msgstr "FBC socket %s"
-
-msgid "FBC virtual"
-msgstr "FBC virtuális"
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -8983,6 +8980,10 @@ msgstr "Menü rendezés (%s)"
 msgid "Message"
 msgstr "Üzenet"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "További beállítások"
+
 msgid "Message..."
 msgstr "Üzenet..."
 
@@ -9158,6 +9159,10 @@ msgid "Move down a line"
 msgstr "A listán lefelé"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "A listán lefelé"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "ugrás a legutolsó tételhez"
 
@@ -9219,8 +9224,16 @@ msgid "Move the text cursor to the last character"
 msgstr "A szövegkurzor mozgatása az utolsó karakterhez"
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "ugrás az első tételhez"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Áthelyezés a következő kinézethez"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "ugrás a legutolsó tételhez"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9243,6 +9256,10 @@ msgstr "Áthelyezés az előző kinézethez"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Mozgatás sorszámra"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Mozgatás sorszámra"
 
 msgid "Move up a screen"
@@ -12021,6 +12038,9 @@ msgstr "Bővítmény betöltése folyamatban. Kérem, várjon..."
 msgid "Retrieving system information, please wait..."
 msgstr "Bővítmény betöltése folyamatban. Kérem, várjon..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Visszatérés a filmlistához"
 
@@ -12793,6 +12813,10 @@ msgstr "Rendezési módszer választása:"
 msgid "Select target folder"
 msgstr "Válassza ki a célmappát"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "A hely kiválasztása a menüből"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Válassza ki a tunerhez rendelt felhasználói sáv csatornáját. Ez egy olyan index a frekvenciatáblázatban, amelyet az Unicable switch vagy az Unicable LNB használ a tuner és a kívánt transzponder között."
 
@@ -12801,6 +12825,9 @@ msgstr "Válassza ki a tunerhez rendelt felhasználói sáv frekvenciáját. Ez 
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr "Válassza ki a tunerhez rendelt felhasználói sávot. Ez egy olyan index a frekvenciatáblázatban, amelyet az Unicable switch vagy az Unicable LNB használ a tuner és a kívánt transzponder között."
+
+msgid "Select the Yes / True response"
+msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
 msgstr "Váltás karakter vagy művelet mód között a virtuális billentyűzeten"
@@ -13990,6 +14017,14 @@ msgstr "Teteje és Alja"
 msgid "Slot %d"
 msgstr "%d partíció"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr "FBC virtuális"
+
 msgid "Slovak"
 msgstr "Szlovák"
 
@@ -14276,11 +14311,12 @@ msgid "Standard"
 msgstr "Hagyományos"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Hagyományos lista"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Hagyományos"
-
-msgid "Standart list"
-msgstr "Hagyományos lista"
 
 msgid "Standby"
 msgstr "Készenlét"

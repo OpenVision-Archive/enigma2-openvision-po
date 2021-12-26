@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-19 02:02+0000\n"
+"POT-Creation-Date: 2021-12-26 02:01+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -3610,6 +3610,10 @@ msgstr "Başlık seçimini kapat"
 msgid "Close the screen and exit all menus"
 msgstr ""
 
+#, fuzzy
+msgid "Close the window"
+msgstr "Başlık seçimini kapat"
+
 msgid "Close title selection"
 msgstr "Başlık seçimini kapat"
 
@@ -6493,13 +6497,6 @@ msgid ""
 "inactive"
 msgstr ""
 
-#, python-format
-msgid "FBC socket %s"
-msgstr ""
-
-msgid "FBC virtual"
-msgstr ""
-
 msgid "FCC 1953"
 msgstr ""
 
@@ -9012,6 +9009,10 @@ msgstr ""
 msgid "Message"
 msgstr "Mesaj"
 
+#, fuzzy
+msgid "Message Box Actions"
+msgstr "Ek Seçenekler"
+
 msgid "Message..."
 msgstr "Mesaj..."
 
@@ -9189,6 +9190,10 @@ msgid "Move down a line"
 msgstr "Listede aşağı git"
 
 #, fuzzy
+msgid "Move down a page"
+msgstr "Listede aşağı git"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "En sona taşı"
 
@@ -9252,8 +9257,16 @@ msgid "Move the text cursor to the last character"
 msgstr ""
 
 #, fuzzy
+msgid "Move to first line"
+msgstr "En üste taşı"
+
+#, fuzzy
 msgid "Move to first line / screen"
 msgstr "Bir alta taşı"
+
+#, fuzzy
+msgid "Move to last line"
+msgstr "En sona taşı"
 
 #, fuzzy
 msgid "Move to last line / screen"
@@ -9280,6 +9293,10 @@ msgstr "Bir üste taşı"
 
 #, fuzzy
 msgid "Move up a line"
+msgstr "Dizinindeki konuma taşınır"
+
+#, fuzzy
+msgid "Move up a page"
 msgstr "Dizinindeki konuma taşınır"
 
 msgid "Move up a screen"
@@ -12076,6 +12093,9 @@ msgstr "Eklenti bilgisi getiriliyor. Lütfen bekleyin..."
 msgid "Retrieving system information, please wait..."
 msgstr "Eklenti bilgisi getiriliyor. Lütfen bekleyin..."
 
+msgid "Return the current selection response"
+msgstr ""
+
 msgid "Return to movie list"
 msgstr "Film listesine geri dön"
 
@@ -12852,6 +12872,10 @@ msgstr "Seçileni sıralama yöntemi:"
 msgid "Select target folder"
 msgstr "Hedef klasörü seçin"
 
+#, fuzzy
+msgid "Select the No / False response"
+msgstr "Film yolunu seçin"
+
 msgid "Select the User Band channel to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
 msgstr ""
 
@@ -12859,6 +12883,9 @@ msgid "Select the User Band frequency to be assigned to this tuner. This is the 
 msgstr ""
 
 msgid "Select the User Band to be assigned to this tuner. This is an index into the table of frequencies the SCR switch or SCR LNB uses to pass the requested transponder to the tuner."
+msgstr ""
+
+msgid "Select the Yes / True response"
 msgstr ""
 
 msgid "Select the character or action under the keyboard cursor"
@@ -14065,6 +14092,14 @@ msgstr "Üst ve alt"
 msgid "Slot %d"
 msgstr "Yuva (slot) %d"
 
+#, python-format
+msgid "Slot %s / FBC in %s"
+msgstr ""
+
+#, python-format
+msgid "Slot %s / FBC virtual %s"
+msgstr ""
+
 msgid "Slovak"
 msgstr "Slovakca"
 
@@ -14355,11 +14390,12 @@ msgid "Standard"
 msgstr "Standart"
 
 #, fuzzy
+msgid "Standard list"
+msgstr "Standart Liste"
+
+#, fuzzy
 msgid "Standard menu"
 msgstr "Standart"
-
-msgid "Standart list"
-msgstr "Standart Liste"
 
 msgid "Standby"
 msgstr "Hazırda beklet"
