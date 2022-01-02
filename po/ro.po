@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -1222,25 +1222,18 @@ msgstr ""
 msgid "16:10 PanScan"
 msgstr ""
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "Letterbox"
-
-msgid "16:10 panscan"
-msgstr ""
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 mereu"
 
 msgid "16:9 Letterbox"
 msgstr ""
 
 msgid "16:9 always"
 msgstr "16:9 mereu"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1342,14 +1335,6 @@ msgstr ""
 
 msgid "4:3 PanScan"
 msgstr ""
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
-msgstr "Pan&Scan"
 
 msgid "4K"
 msgstr ""
@@ -1669,6 +1654,10 @@ msgstr "adauga Serviciu"
 msgid "Add Bookmark"
 msgstr "adauga bookmark"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Adauga timer "
+
 msgid "Add a mark"
 msgstr "Adauga un mark"
 
@@ -1682,6 +1671,10 @@ msgstr "Adauga un nou titlu"
 
 msgid "Add a new title"
 msgstr "Adauga un nou titlu"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "adauga inregistrare (opreste dupa evenimentul curent)"
 
 msgid "Add alternatives"
 msgstr "Adauga alternative"
@@ -2255,6 +2248,9 @@ msgid "At beginning"
 msgstr "Incepe de la capat"
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -3064,6 +3060,10 @@ msgid "Cancel selection"
 msgstr "Selectie canal"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Selectie canal"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Selectie canal"
 
@@ -3154,6 +3154,10 @@ msgstr ""
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Timer"
 
 msgid "Change bouquets in quickzap"
 msgstr "Permite schimbarea buchetului prin zapping"
@@ -3298,6 +3302,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Selectie EPG"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Selectare timer"
 
 msgid "Choose Tuner"
 msgstr ""
@@ -3449,6 +3461,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "Inchide"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Detalii eveniment"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -4731,6 +4747,10 @@ msgid "Delete Loc"
 msgstr "Sterge"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "sterge file"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "sterge file"
 
@@ -5534,6 +5554,10 @@ msgstr "Editare DNS"
 msgid "Edit Tags"
 msgstr "Editare setari"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Meniu principal"
+
 msgid "Edit alternatives"
 msgstr "Editeaza alternative"
 
@@ -6083,6 +6107,14 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Extensii"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Meniu lista filme"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6093,15 +6125,13 @@ msgstr ""
 msgid "Event view"
 msgstr "Detalii eveniment"
 
-msgid "Event view context menu"
-msgstr ""
-
 #, fuzzy
 msgid "Event view menu"
 msgstr "Detalii eveniment"
 
-msgid "Events info menu"
-msgstr ""
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Detalii eveniment"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6250,10 +6280,11 @@ msgstr "Extensii"
 msgid "Extensions"
 msgstr "Extensii"
 
-msgid "Extensions management"
-msgstr ""
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Extensii"
 
-msgid "Extensions menu"
+msgid "Extensions management"
 msgstr ""
 
 msgid "External"
@@ -6534,6 +6565,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9026,6 +9060,13 @@ msgstr "muta jos la ultima intrare"
 msgid "Move east"
 msgstr "Misca spre est"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "muta jos la urmatoarea intrare"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -9968,6 +10009,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Meniul lista de canale"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Meniu principal"
 
@@ -9991,6 +10036,13 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "Revenire la lista de filme"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Revenire la lista de filme"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10452,6 +10504,10 @@ msgid "Please choose an extension..."
 msgstr "Va rugam alegeti o extensie..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Va rugam alegeti o extensie..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Va rugam alegeti o extensie..."
 
@@ -10531,11 +10587,11 @@ msgid "Please select a playlist..."
 msgstr "Va rugam selectati o lista de redare..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Va rugam selectati un subserviciu..."
 
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "Va rugam selectati un subserviciu..."
 
 msgid "Please select a subservice to record..."
@@ -10549,7 +10605,7 @@ msgid "Please select an acceptable directory."
 msgstr "Va rugam selectati o lista de redare..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Va rugam selectati un subserviciu..."
 
 #, fuzzy
@@ -11735,6 +11791,14 @@ msgstr "Resetare"
 msgid "Reset and renumerate title names"
 msgstr "Resetare si renumarare nume titluri"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "listeaza stilul default"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "listeaza stilul default"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -11936,6 +12000,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -13476,8 +13558,16 @@ msgid "Show multi channel EPG"
 msgstr ""
 
 #, fuzzy
+msgid "Show next event"
+msgstr "muta jos la urmatoarea intrare"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "sterge file"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "arata descriere extinsa"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -13527,8 +13617,16 @@ msgid "Show positioner position"
 msgstr ""
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "muta sus la anterioara intrare"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Schimba la subserviciul anterior"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Revenire la serviciul anterior"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14026,9 +14124,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "listeaza stilul default"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -16054,6 +16149,10 @@ msgstr "LNBUniversal "
 msgid "Unknown"
 msgstr ""
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "serviciu necunoscut"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -16459,9 +16558,9 @@ msgstr "Video Setup"
 msgid "Video wizard"
 msgstr "Expert Video"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video Setup"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18645,9 +18744,6 @@ msgstr "necunoscut"
 
 msgid "unknown error"
 msgstr ""
-
-msgid "unknown service"
-msgstr "serviciu necunoscut"
 
 msgid "unpublished"
 msgstr ""

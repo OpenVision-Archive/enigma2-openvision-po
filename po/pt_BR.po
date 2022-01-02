@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2013-10-20 19:13-0300\n"
 "Last-Translator: Diogo <pingflood@gmail.com>\n"
 "Language-Team: Traduzido por Frank Viana <franksrviana@gmail.com>\n"
@@ -1308,26 +1308,18 @@ msgstr ""
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:9 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 Sempre"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "16:9 Sempre"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1429,14 +1421,6 @@ msgstr ""
 
 msgid "4:3 PanScan"
 msgstr ""
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "16:9 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
-msgstr "Pan & Scan"
 
 msgid "4K"
 msgstr ""
@@ -1764,6 +1748,10 @@ msgstr "Adicionar serviço"
 msgid "Add Bookmark"
 msgstr "Adicionar favorito"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Agendar"
+
 msgid "Add a mark"
 msgstr "Adicionar marcador"
 
@@ -1776,6 +1764,10 @@ msgstr "Adicionar novo título"
 
 msgid "Add a new title"
 msgstr "Adicionar novo título"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Gravar até o fim do evento atual"
 
 msgid "Add alternatives"
 msgstr "Adicionar alternativas"
@@ -2326,6 +2318,9 @@ msgstr "No início"
 
 msgid "At end"
 msgstr "No fim"
+
+msgid "Attention, this is a repeated timer!"
+msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
@@ -3139,6 +3134,10 @@ msgid "Cancel selection"
 msgstr "Canais"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Canais"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Canais"
 
@@ -3232,6 +3231,10 @@ msgstr "Idioma"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Alterar tempo"
 
 msgid "Change bouquets in quickzap"
 msgstr "Mudar grupo de favoritos no zap rápido"
@@ -3374,6 +3377,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Selecionar EPG"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Selecionar vídeos"
 
 msgid "Choose Tuner"
 msgstr "Escolha o tuner"
@@ -3530,6 +3541,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "Fechar"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Fechar a seleção de título"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Fechar PiP ao sair"
@@ -4808,6 +4823,10 @@ msgid "Delete Loc"
 msgstr "Remover"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Remover arquivo"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Remover arquivo"
 
@@ -5617,6 +5636,10 @@ msgstr "Configurar DNS"
 msgid "Edit Tags"
 msgstr "Editar configurações"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Menu principal"
+
 msgid "Edit alternatives"
 msgstr "Editar alternativas"
 
@@ -6170,6 +6193,14 @@ msgstr "Interface de rede ethernet"
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Extensões"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Menu da lista de vídeos"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Tamanho de letra (relativo ao tema)"
 
@@ -6179,14 +6210,12 @@ msgstr ""
 msgid "Event view"
 msgstr "Ver evento"
 
-msgid "Event view context menu"
-msgstr ""
-
 msgid "Event view menu"
 msgstr "Menu de eventos"
 
-msgid "Events info menu"
-msgstr ""
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Menu de eventos"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6332,11 +6361,12 @@ msgstr "Extensões"
 msgid "Extensions"
 msgstr "Extensões"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Extensões"
+
 msgid "Extensions management"
 msgstr "Gerenciar extensões"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -6622,6 +6652,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9117,6 +9150,14 @@ msgstr "Ir para a última entrada"
 msgid "Move east"
 msgstr "Mover leste"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "Ir para a entrada seguinte"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Ir para o topo da lista"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10060,6 +10101,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Menu da lista de canais"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Menu principal"
 
@@ -10081,6 +10126,14 @@ msgstr ""
 
 msgid "Open the movie list"
 msgstr "Abrir lista de vídeos"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Abrir lista de vídeos"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Exibir EPG simples"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10534,6 +10587,10 @@ msgid "Please choose an extension..."
 msgstr "Escolha uma extensão"
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Escolha uma extensão"
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Escolha uma extensão"
 
@@ -10618,10 +10675,11 @@ msgid "Please select a playlist..."
 msgstr "Selecione uma lista de reprodução"
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Selecione um subserviço"
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Selecione um subserviço"
 
 msgid "Please select a subservice to record..."
@@ -10635,7 +10693,7 @@ msgid "Please select an acceptable directory."
 msgstr "Selecione uma lista de reprodução"
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Selecione um subserviço"
 
 msgid "Please select medium to be scanned"
@@ -11828,6 +11886,14 @@ msgstr "Redefinir"
 msgid "Reset and renumerate title names"
 msgstr "Redefinir e renumerar os títulos"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Restaurar backups"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Restaurar backups"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12031,6 +12097,25 @@ msgstr "Arredondar o tempo de início em"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "Educação"
 
 msgid "Rundi"
 msgstr ""
@@ -13548,8 +13633,16 @@ msgid "Show multi channel EPG"
 msgstr "Exibir EPG múltiplo"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Ir para o próximo evento"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Remover arquivo"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Exibir descrição estendida"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -13600,8 +13693,16 @@ msgid "Show positioner position"
 msgstr ""
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Ir para o evento anterior"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Mudar para o canal anterior"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Ir para a página anterior de serviços"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14100,9 +14201,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "Lista normal"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -16122,6 +16220,10 @@ msgstr "LNB Universal"
 msgid "Unknown"
 msgstr "Desconhecido"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "Serviço desconhecido"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -16523,9 +16625,9 @@ msgstr "Modo de vídeo"
 msgid "Video wizard"
 msgstr "Assistente de vídeo"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Vídeo PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18782,9 +18884,6 @@ msgstr "Desconhecido"
 
 msgid "unknown error"
 msgstr ""
-
-msgid "unknown service"
-msgstr "Serviço desconhecido"
 
 msgid "unpublished"
 msgstr "Não publicado"

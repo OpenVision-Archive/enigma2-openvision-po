@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -1357,26 +1357,18 @@ msgstr "16:10 Sinemaskop"
 msgid "16:10 PanScan"
 msgstr "16:10 Geniş (Panaromik)"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Sinemaskop"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 Geniş (Panaromik)"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 Her Zaman"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Sinemaskop"
 
 msgid "16:9 always"
 msgstr "16:9 Her Zaman"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Sinemaskop"
 
 msgid "16K"
 msgstr ""
@@ -1481,14 +1473,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Sinemaskop"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Sinemaskop"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1820,6 +1804,10 @@ msgstr "Servis Ekle"
 msgid "Add Bookmark"
 msgstr "Yer işareti ekle"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Zamanlayıcı Ekle"
+
 msgid "Add a mark"
 msgstr "İşaret ekle"
 
@@ -1832,6 +1820,10 @@ msgstr "Yeni başlık ekle"
 
 msgid "Add a new title"
 msgstr "Yeni başlık ekle"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Geçerli olay için zamanlayıcı Ekle/Sil"
 
 msgid "Add alternatives"
 msgstr "Alternatiflere ekle"
@@ -2389,6 +2381,10 @@ msgstr "Başlangıçta"
 
 msgid "At end"
 msgstr "Sonunda"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Dikkat, bu zamanlayıcı tekrarlanacak!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Dikkat, bu zamanlayıcı tekrarlanacak!\n"
@@ -3208,6 +3204,10 @@ msgid "Cancel selection"
 msgstr "Kanal Seçimi"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanal Seçimi"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanal Seçimi"
 
@@ -3301,6 +3301,10 @@ msgstr "Dil"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Saati değiştir"
 
 msgid "Change bouquets in quickzap"
 msgstr "Kanal değiştirirken buketler arası geçişe izin"
@@ -3443,6 +3447,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Ek Seçenekler"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Film Seçimi"
 
 msgid "Choose Tuner"
 msgstr "Tuner Seç"
@@ -3599,6 +3611,10 @@ msgstr "TV ekranını LCD ye yansıt"
 
 msgid "Close"
 msgstr "Kapat"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Başlık seçimini kapat"
 
 msgid "Close PiP with 'exit' button"
 msgstr "RiR Kapat ve Çık"
@@ -4884,6 +4900,10 @@ msgid "Delete Loc"
 msgstr "Sil"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Zamanlayıcıyı sil"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Dosy Sil"
 
@@ -5698,6 +5718,10 @@ msgstr "DNS Düzenle"
 msgid "Edit Tags"
 msgstr "Ayarları düzenle"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Zamanlayıcıyı Düzenle"
+
 msgid "Edit alternatives"
 msgstr "Alternatifleri Düzenle"
 
@@ -6253,6 +6277,14 @@ msgstr "Ağ arayüzü"
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Eklentiler"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Film Listesi"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Olay yazı tipi boyutu (arayüz ayarlarıyla aynı)"
 
@@ -6262,14 +6294,12 @@ msgstr ""
 msgid "Event view"
 msgstr "Olay görüntüleme"
 
-msgid "Event view context menu"
-msgstr ""
-
 msgid "Event view menu"
 msgstr "Olay görüntüleme menüsü"
 
-msgid "Events info menu"
-msgstr ""
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Olay görüntüleme menüsü"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6416,11 +6446,12 @@ msgstr "Eklentiler"
 msgid "Extensions"
 msgstr "Eklentiler"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Eklentiler"
+
 msgid "Extensions management"
 msgstr "Eklenti Yöneticisi"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr "Harici"
@@ -6718,6 +6749,9 @@ msgstr "Nihai kaydırma gecikmesi"
 
 msgid "Find currently playing service"
 msgstr "Şu anda oynanan servisi bul"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Ince hareket"
@@ -9230,6 +9264,14 @@ msgstr "En sona taşı"
 msgid "Move east"
 msgstr "Doğuya taşı"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "Bir alta taşı"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Listenin başına git"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10175,6 +10217,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Kanal Listesi"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Ana menü koruması"
 
@@ -10196,6 +10242,14 @@ msgstr "Tuner Kurulumu"
 
 msgid "Open the movie list"
 msgstr "Film listesinden aç"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Film listesinden aç"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Tek kanal için EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10654,6 +10708,10 @@ msgid "Please choose an extension..."
 msgstr "Lütfen kullanmak istediğiniz eklentiyi seçin..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Lütfen kullanmak istediğiniz eklentiyi seçin..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Lütfen kullanmak istediğiniz eklentiyi seçin..."
 
@@ -10739,10 +10797,11 @@ msgid "Please select a playlist..."
 msgstr "Lütfen bir oynatma listesi seçin..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Lütfen bir alt servis seçin..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Bir alt servis seçin..."
 
 msgid "Please select a subservice to record..."
@@ -10756,7 +10815,7 @@ msgid "Please select an acceptable directory."
 msgstr "Lütfen bir oynatma listesi seçin..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Lütfen bir alt servis seçin..."
 
 msgid "Please select medium to be scanned"
@@ -11955,6 +12014,14 @@ msgstr "Sıfırla"
 msgid "Reset and renumerate title names"
 msgstr "Başlık ve adları sıfırla ve yeniden numarala"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Varsayılan olarak ayarla"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Tüm Kısa yol Tuşlarını Varsayılanla değiştir?"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12157,6 +12224,25 @@ msgstr "Zamanında dön"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "İleri Eğitim"
 
 msgid "Rundi"
 msgstr ""
@@ -13695,8 +13781,16 @@ msgid "Show multi channel EPG"
 msgstr "Bütün kanallar için EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Sonraki olaya git"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Zamanlayıcıyı sil"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Geniş açıklama göster"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -13749,8 +13843,16 @@ msgid "Show positioner position"
 msgstr "Pozisyoner pozisyonunu göster"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Önceki olay"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Önceki kanala geç"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Önceki Servis sayfasına git"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14250,9 +14352,6 @@ msgstr "Sırala"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Varsayılan olarak ayarla"
-
-msgid "Sort list to default and exit?"
-msgstr "Varsayılan olarak sırala ve çık?"
 
 msgid "Sort list:"
 msgstr "Sıralama listesi:"
@@ -16318,6 +16417,10 @@ msgstr "Universal LNB"
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "Bilinmeyen kanal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "3D Servis olarak işaretlemeyi kaldır."
 
@@ -16714,9 +16817,9 @@ msgstr "VideoModu"
 msgid "Video wizard"
 msgstr "Görüntü sihirbazı"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18983,9 +19086,6 @@ msgstr "Bilinmiyor"
 
 msgid "unknown error"
 msgstr ""
-
-msgid "unknown service"
-msgstr "Bilinmeyen kanal"
 
 msgid "unpublished"
 msgstr "Ayınlanmamış"

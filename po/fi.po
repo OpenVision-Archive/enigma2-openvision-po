@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -1399,18 +1399,13 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 Pan&Scan"
 
-#
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 Pan&Scan"
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 automatiikka"
 
 #
 msgid "16:9 Letterbox"
@@ -1419,11 +1414,6 @@ msgstr "16:9 Letterbox"
 #
 msgid "16:9 always"
 msgstr "16:9 automatiikka"
-
-#
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1535,16 +1525,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 Pan&Scan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 Pan&Scan"
 
 #, fuzzy
@@ -1909,6 +1889,11 @@ msgid "Add Bookmark"
 msgstr "Lisää kirjanmerkki"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "Lisää ajastus"
+
+#
 msgid "Add a mark"
 msgstr "Lisää merkki"
 
@@ -1924,6 +1909,10 @@ msgstr "Lisää uusi tallenne"
 #
 msgid "Add a new title"
 msgstr "Lisää uusi tallenne"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Lisää/poista ajastus nykyiselle ohjelmalle"
 
 #
 msgid "Add alternatives"
@@ -2530,6 +2519,10 @@ msgstr "Alussa"
 
 msgid "At end"
 msgstr "Lopussa"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Huomaa, että tämä on toistuva ajastus!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Huomaa, että tämä on toistuva ajastus!\n"
@@ -3412,6 +3405,11 @@ msgstr "Kanavanvalinta"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanavanvalinta"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanavanvalinta"
 
@@ -3511,6 +3509,11 @@ msgstr "Kielivalinta"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "Muuta ajastusta"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3674,6 +3677,15 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Muokkaa valintaa"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Tallenteen valinta"
 
 #
 msgid "Choose Tuner"
@@ -3846,6 +3858,10 @@ msgstr "Kopioi TV kuva etupaneeliin"
 #
 msgid "Close"
 msgstr "Sulje"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Sulje otsikon valinta"
 
 #
 msgid "Close PiP with 'exit' button"
@@ -5201,6 +5217,11 @@ msgstr "Poista"
 
 #
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Poista ajastus"
+
+#
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Poista tiedosto"
 
@@ -6127,6 +6148,11 @@ msgid "Edit Tags"
 msgstr "Muokkaa asetuksia"
 
 #
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Muokkaa ajastusta"
+
+#
 msgid "Edit alternatives"
 msgstr "Vaihtoehtoisten kanavien lisäys ja poisto"
 
@@ -6732,6 +6758,16 @@ msgstr "Verkkokortti"
 msgid "Ethiopia"
 msgstr "Etiopia"
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Laajennukset"
+
+#
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Tallenneluettelon valikko"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Ohjelmantiedon tekstikoko (suhteessa teeman kokoon)"
 
@@ -6741,14 +6777,12 @@ msgstr "Ohjelmatieto ensin"
 msgid "Event view"
 msgstr "Ohjelmanäkymä"
 
-msgid "Event view context menu"
-msgstr ""
-
 msgid "Event view menu"
 msgstr "Ohjelmanäkymä"
 
-msgid "Events info menu"
-msgstr ""
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Ohjelmanäkymä"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6914,11 +6948,12 @@ msgstr "Laajennukset"
 msgid "Extensions"
 msgstr "Laajennukset"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Laajennusvalikko"
+
 msgid "Extensions management"
 msgstr "Laajennuksien hallinta"
-
-msgid "Extensions menu"
-msgstr "Laajennusvalikko"
 
 msgid "External"
 msgstr "Ulkoinen"
@@ -7235,6 +7270,9 @@ msgstr "Rullausviive lopussa"
 
 msgid "Find currently playing service"
 msgstr "Etsi käynnissä oleva kanava"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 #
 msgid "Fine movement"
@@ -10000,6 +10038,15 @@ msgstr "siirry viimeiseen kohtaan"
 msgid "Move east"
 msgstr "Liikuta itään"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "siirry seuraavaan kohtaan"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Mene luettelossa ylöspäin"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -11064,6 +11111,10 @@ msgstr ""
 msgid "Open Vision revision check"
 msgstr ""
 
+#, fuzzy
+msgid "Open context menu"
+msgstr "Kanavan valikko"
+
 #
 #, fuzzy
 msgid "Open main menu"
@@ -11087,6 +11138,14 @@ msgstr "Avaa viritinasetukset"
 
 msgid "Open the movie list"
 msgstr "Avaa tallenneluettelo"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Avaa tallenneluettelo"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Näytä yhden kanavan ohjelmaopas"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11589,6 +11648,11 @@ msgstr "Valitse laajennus..."
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Valitse laajennus..."
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Valitse laajennus..."
 
@@ -11691,11 +11755,12 @@ msgstr "Valitse soittolista..."
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Valitse alipalvelu..."
 
 #
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Valitse alipalvelu..."
 
 #
@@ -11713,7 +11778,7 @@ msgstr "Valitse soittolista..."
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Valitse alipalvelu..."
 
 #
@@ -13082,6 +13147,14 @@ msgstr "Käynnistä CA-moduuli uudelleen"
 msgid "Reset and renumerate title names"
 msgstr "Nollaa ja uudelleenjärjestä otsikot"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Oletus"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Oletus"
+
 msgid "Reset order (All)"
 msgstr "Palauta kaikki"
 
@@ -13312,6 +13385,25 @@ msgstr "Pyöristä aloitusaika"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "jatkokoulutus"
 
 #, fuzzy
 msgid "Rundi"
@@ -14990,10 +15082,19 @@ msgstr "Suojaa lisäosavalikko"
 msgid "Show multi channel EPG"
 msgstr "Näytä useamman kanavan ohjelmaopas"
 
+#, fuzzy
+msgid "Show next event"
+msgstr "Mene seuraavaan ohjelmaan"
+
 #
 #, fuzzy
 msgid "Show next image"
 msgstr "Poista ohjelmistokuva"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Näytä laajennettu ohjelmakuvaus"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Näytä ilmoitus kun kanavien ja/tai ohjelmaoppaan tuonti etävastaanottimelta ei onnistunut"
@@ -15048,10 +15149,18 @@ msgstr "Näytä kuvake kääntömoottorin liikkuessa"
 msgid "Show positioner position"
 msgstr "Näytä kääntömoottorin asentotieto"
 
+#, fuzzy
+msgid "Show previous event"
+msgstr "Mene edelliseen ohjelmaan"
+
 #
 #, fuzzy
 msgid "Show previous image"
 msgstr "Vaihda edelliselle kanavalle"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Mene edelliselle kanavasivulle"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -15612,9 +15721,6 @@ msgstr "Listan järjestystapa:"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Oletus"
-
-msgid "Sort list to default and exit?"
-msgstr "Järjestä lista oletusasetuksiin ja poistu?"
 
 msgid "Sort list:"
 msgstr "Listan järjestystapa:"
@@ -17876,6 +17982,11 @@ msgstr "Universaali LNB"
 msgid "Unknown"
 msgstr "Tuntematon"
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "Tuntematon kanava"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Poista 3D-kanava merkintä"
 
@@ -18313,9 +18424,9 @@ msgstr "Kuvatila"
 msgid "Video wizard"
 msgstr "Video-avustaja"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -20786,10 +20897,6 @@ msgstr "Tuntematon"
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "Tuntematon kanava"
 
 msgid "unpublished"
 msgstr "julkaisematon"

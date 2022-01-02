@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -1293,26 +1293,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "總是 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "總是 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1415,14 +1407,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1749,6 +1733,10 @@ msgstr ""
 msgid "Add Bookmark"
 msgstr "書簽"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "添加到計時器"
+
 msgid "Add a mark"
 msgstr "增加標記"
 
@@ -1761,6 +1749,9 @@ msgstr "增加一個新標題"
 
 msgid "Add a new title"
 msgstr "增加一個新標題"
+
+msgid "Add a timer for the current event"
+msgstr ""
 
 msgid "Add alternatives"
 msgstr "增加項目"
@@ -2293,6 +2284,9 @@ msgid "At beginning"
 msgstr ""
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -3101,6 +3095,10 @@ msgid "Cancel selection"
 msgstr "執行命令..."
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "關閉標題選項"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "關閉標題選項"
 
@@ -3193,6 +3191,10 @@ msgstr "語言"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "計時器"
 
 msgid "Change bouquets in quickzap"
 msgstr "快速切換自定義組"
@@ -3332,6 +3334,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "音頻選擇"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "電影位置"
 
 msgid "Choose Tuner"
 msgstr "選擇調諧器"
@@ -3482,6 +3492,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "關閉"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "關閉標題選項"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -4740,6 +4754,10 @@ msgid "Delete Loc"
 msgstr "刪除"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "選擇Image"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "刪除失敗."
 
@@ -5528,6 +5546,10 @@ msgstr "編輯 DNS"
 msgid "Edit Tags"
 msgstr "編輯設定"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "主功能表"
+
 msgid "Edit alternatives"
 msgstr "編輯選項"
 
@@ -6072,6 +6094,14 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "擴展"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "已錄節目列表功能表"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6081,13 +6111,10 @@ msgstr ""
 msgid "Event view"
 msgstr ""
 
-msgid "Event view context menu"
-msgstr ""
-
 msgid "Event view menu"
 msgstr ""
 
-msgid "Events info menu"
+msgid "Events Info Menu"
 msgstr ""
 
 msgid "Every 12 hours"
@@ -6229,11 +6256,12 @@ msgstr "擴展"
 msgid "Extensions"
 msgstr "擴展"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "擴展"
+
 msgid "Extensions management"
 msgstr "擴展管理"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -6513,6 +6541,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -8966,6 +8997,13 @@ msgstr "向下移動到最後項目"
 msgid "Move east"
 msgstr "東移"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "向下移動到下一個項目"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -9899,6 +9937,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "頻道列表功能表"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "主功能表"
 
@@ -9919,6 +9961,12 @@ msgid "Open setup tuner "
 msgstr ""
 
 msgid "Open the movie list"
+msgstr ""
+
+msgid "Open the multi service EPG view"
+msgstr ""
+
+msgid "Open the single service EPG view"
 msgstr ""
 
 msgid "OpenDNS FamilyShield"
@@ -10365,6 +10413,10 @@ msgid "Please choose an extension..."
 msgstr "請選擇增加部分..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "請選擇增加部分..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "請選擇增加部分..."
 
@@ -10448,11 +10500,12 @@ msgid "Please select a playlist..."
 msgstr "請選擇一個播放列表..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "請選擇一個字幕..."
 
-msgid "Please select a sub service..."
-msgstr ""
+#, fuzzy
+msgid "Please select a sub service:"
+msgstr "請選擇一個字幕..."
 
 msgid "Please select a subservice to record..."
 msgstr "請選擇要錄製的字幕..."
@@ -10465,7 +10518,7 @@ msgid "Please select an acceptable directory."
 msgstr "請選擇一個播放列表..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "請選擇一個字幕..."
 
 msgid "Please select medium to be scanned"
@@ -11643,6 +11696,14 @@ msgstr "重定"
 msgid "Reset and renumerate title names"
 msgstr "復位並重設標題名稱"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "恢復備份"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "恢復備份"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -11843,6 +11904,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -13338,8 +13417,15 @@ msgid "Show multi channel EPG"
 msgstr ""
 
 #, fuzzy
+msgid "Show next event"
+msgstr "選擇Image"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "選擇Image"
+
+msgid "Show next page of description"
+msgstr ""
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -13388,7 +13474,15 @@ msgid "Show positioner position"
 msgstr ""
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "退回上一個章節"
+
+#, fuzzy
 msgid "Show previous image"
+msgstr "退回上一個章節"
+
+#, fuzzy
+msgid "Show previous page of description"
 msgstr "退回上一個章節"
 
 #, fuzzy
@@ -13873,9 +13967,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "預設列表樣式"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -15852,6 +15943,10 @@ msgstr "通用"
 msgid "Unknown"
 msgstr "未知"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "未知頻道"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -16236,7 +16331,8 @@ msgstr ""
 msgid "Video wizard"
 msgstr ""
 
-msgid "Video: "
+#, python-format
+msgid "Video: %dx%d@%gHz"
 msgstr ""
 
 #, python-format
@@ -18408,9 +18504,6 @@ msgstr "未知"
 
 msgid "unknown error"
 msgstr ""
-
-msgid "unknown service"
-msgstr "未知頻道"
 
 msgid "unpublished"
 msgstr ""

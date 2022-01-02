@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -1369,26 +1369,18 @@ msgstr "16:10 μπάρες πάνω - κάτω"
 msgid "16:10 PanScan"
 msgstr "16:10 Πανοραμική&Σάρωση"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 μπάρες πάνω - κάτω"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 Πανοραμική&Σάρωση"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "πάντα 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:10 Μπάρες πάνω - κάτω"
 
 msgid "16:9 always"
 msgstr "πάντα 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:10 Μπάρες πάνω - κάτω"
 
 msgid "16K"
 msgstr "16K"
@@ -1493,14 +1485,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 μπάρες πάνω - κάτω"
 
 msgid "4:3 PanScan"
-msgstr "4:3 Πανοραμική&Σάρωση"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 μπάρες πάνω - κάτω"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 Πανοραμική&Σάρωση"
 
 msgid "4K"
@@ -1830,6 +1814,10 @@ msgstr "Προσθήκη υπηρεσίας"
 msgid "Add Bookmark"
 msgstr "Προσθήκη σελιδοδείκτη"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Προσθήκη χρονοδιακόπτη"
+
 msgid "Add a mark"
 msgstr "Προσθήκη σημαδιού"
 
@@ -1842,6 +1830,10 @@ msgstr "Προσθήκη νέου τίτλου"
 
 msgid "Add a new title"
 msgstr "Προσθήκη νέου τίτλου"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Προσθήκη/αφαίρεση αλλαγής χρονοδιακόπτη για το τρέχον πρόγραμμα"
 
 msgid "Add alternatives"
 msgstr "Προσθήκη εναλλακτικών"
@@ -2383,6 +2375,10 @@ msgstr "Στην αρχή"
 
 msgid "At end"
 msgstr "Στο τέλος"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Προσοχή, ο χρονοδιακόπτης είναι επαναλαμβανόμενος!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Προσοχή, ο χρονοδιακόπτης είναι επαναλαμβανόμενος!\n"
@@ -3217,6 +3213,10 @@ msgid "Cancel selection"
 msgstr "Επιλογή καναλιού"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Επιλογή καναλιού"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Επιλογή καναλιού"
 
@@ -3309,6 +3309,10 @@ msgstr "Αλλαγή γλώσσας"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Αλλαγή χρονοδιακόπτη"
 
 msgid "Change bouquets in quickzap"
 msgstr "Αλλαγή μπουκέτου στο γρήγορο ζάπινγκ"
@@ -3450,6 +3454,14 @@ msgstr "Κινεζικά - απλοποιημένα"
 
 msgid "Chinese - Traditional"
 msgstr "Κινεζικά - παραδοσιακά"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Περαιτέρω επιλογές"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Επιλογή ταινιών"
 
 msgid "Choose Tuner"
 msgstr "Επιλογή tuner"
@@ -3606,6 +3618,10 @@ msgstr "Κλωνοποίηση TV σε οθόνη LCD"
 
 msgid "Close"
 msgstr "Κλείσιμο"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Κλείσιμο επιλογής τίτλου"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Κλείσιμο του PiP με το πλήκτρο 'exit'"
@@ -4873,6 +4889,10 @@ msgid "Delete Loc"
 msgstr "Διαγραφή"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Διαγραφή χρονοδιακόπτη"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Διαγραφή όλων των αρχείων καταγραφής"
 
@@ -5668,6 +5688,10 @@ msgstr "Επεξεργασία DNS"
 msgid "Edit Tags"
 msgstr "Επεξεργασία ρυθμίσεων"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Επεξεργασία χρονοδιακόπτη"
+
 msgid "Edit alternatives"
 msgstr "Επεξεργασία εναλλακτικών"
 
@@ -6226,6 +6250,14 @@ msgstr "Διεπαφή ενσύρματου δικτύου"
 msgid "Ethiopia"
 msgstr "Αιθιοπία"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Επεκτάσεις"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Μενού περιεχομένων προεπισκόπησης καναλιών"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Μέγεθος γραμματοσειράς προγράμματος (σε σχέση με το μέγεθος του θέματος)"
 
@@ -6235,13 +6267,11 @@ msgstr "Όνομα εκπομπής πρώτα"
 msgid "Event view"
 msgstr "Επισκόπηση προγραμμάτων"
 
-msgid "Event view context menu"
-msgstr "Μενού περιεχομένων προεπισκόπησης καναλιών"
-
 msgid "Event view menu"
 msgstr "Μενού προγραμμάτων"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Μενού πληροφοριών εκπομπών"
 
 msgid "Every 12 hours"
@@ -6388,11 +6418,12 @@ msgstr "Επεκτάσεις"
 msgid "Extensions"
 msgstr "Επεκτάσεις"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Μενού επεκτάσεων"
+
 msgid "Extensions management"
 msgstr "Διαχείριση επεκτάσεων"
-
-msgid "Extensions menu"
-msgstr "Μενού επεκτάσεων"
 
 msgid "External"
 msgstr "Εξωτερικός"
@@ -6687,6 +6718,9 @@ msgstr "Τελική καθυστέρηση κύλισης"
 
 msgid "Find currently playing service"
 msgstr "Εύρεση της τρέχουσας αναπαραγώμενης υπηρεσίας"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Μικροκίνηση"
@@ -9196,6 +9230,14 @@ msgstr "μετάβαση στο τελευταίο στοιχείο"
 msgid "Move east"
 msgstr "Κίνηση ανατολικά"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "μετάβαση στο επόμενο στοιχείο"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Μετάβαση προς τα πάνω"
+
 msgid "Move the keyboard cursor down"
 msgstr "Μετακίνηση του κέρσορα του πληκτρολογίου κάτω"
 
@@ -10127,6 +10169,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Μενού λίστας καναλιών"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Προστασία κύριου μενού"
 
@@ -10148,6 +10194,14 @@ msgstr "Άνοιγμα ρυθμίσεων tuner "
 
 msgid "Open the movie list"
 msgstr "Επιστροφή στη λίστα ταινίων"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Επιστροφή στη λίστα ταινίων"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Εμφάνιση EPG μίας μόνο υπηρεσίας"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10609,6 +10663,10 @@ msgid "Please choose an extension..."
 msgstr "Επιλέξτε μία επέκταση..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Επιλέξτε μία επέκταση..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Επιλέξτε μία επέκταση..."
 
@@ -10693,10 +10751,11 @@ msgid "Please select a playlist..."
 msgstr "Επιλέξτε λίστα αναπαραγωγής..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Επιλέξτε μια υπό-υπηρεσία..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Επιλέξτε μια υπό-υπηρεσία..."
 
 msgid "Please select a subservice to record..."
@@ -10710,7 +10769,7 @@ msgid "Please select an acceptable directory."
 msgstr "Επιλέξτε λίστα αναπαραγωγής..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Επιλέξτε μια υπό-υπηρεσία..."
 
 msgid "Please select medium to be scanned"
@@ -11900,6 +11959,14 @@ msgstr "Επαναφορά"
 msgid "Reset and renumerate title names"
 msgstr "Επαναφορά και επαναρίθμηση των τίτλων"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Επαναφορά προεπιλογών"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Επαναφορά όλων των hotkey στις προεπιλογές;"
+
 msgid "Reset order (All)"
 msgstr "Επαναφορά σειράς (Όλα)"
 
@@ -12096,6 +12163,25 @@ msgstr "Στρογγυλοποίηση της ώρας έναρξης σε"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "ανώτερη εκπαίδευση"
 
 #, fuzzy
 msgid "Rundi"
@@ -13622,8 +13708,16 @@ msgid "Show multi channel EPG"
 msgstr "Εμφάνιση EPG πολλαπλών καναλιών"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Mετάβαση στο επόμενο πρόγραμμα"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Επιλογή image"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Εμφάνιση εκτεταμένης περιγραφής"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Εμφάνιση ειδοποίησης όταν η εισαγωγή καναλιών ή/και EPG από την απομακρυσμένη URL δέκτη δεν ολοκληρωθεί"
@@ -13676,8 +13770,16 @@ msgid "Show positioner position"
 msgstr "Εμφάνιση θέσης του μοτέρ"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Επιστροφή στο προηγούμενο πρόγραμμα"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Προώθηση στην προηγούμενη υπό-υπηρεσία"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Επιστροφή στην προηγούμενη σελίδα υπηρεσιών"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14168,9 +14270,6 @@ msgstr "Ταξινόμηση ανά"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Ορισμός προεπιλογής"
-
-msgid "Sort list to default and exit?"
-msgstr "Προεπιλεγμένη ταξινόμηση λίστας και έξοδος;"
 
 msgid "Sort list:"
 msgstr "Ταξινόμηση λίστας:"
@@ -16212,6 +16311,10 @@ msgstr "Universal LNB"
 msgid "Unknown"
 msgstr "Άγνωστο"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "άγνωστη υπηρεσία"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Αποσημείωση της υπηρεσίας ως σταθερή υπηρεσία 3D"
 
@@ -16607,9 +16710,9 @@ msgstr "Λειτουργία εικόνας"
 msgid "Video wizard"
 msgstr "Οδηγός εικόνας"
 
-#, fuzzy
-msgid "Video: "
-msgstr "PID εικόνας"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18870,9 +18973,6 @@ msgstr "άγνωστο"
 
 msgid "unknown error"
 msgstr "άγνωστο σφάλμα"
-
-msgid "unknown service"
-msgstr "άγνωστη υπηρεσία"
 
 msgid "unpublished"
 msgstr "ανέκδοτο"

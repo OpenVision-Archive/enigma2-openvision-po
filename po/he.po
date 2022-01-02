@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -1319,18 +1319,12 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 תמיד"
 
 #
 msgid "16:9 Letterbox"
@@ -1338,11 +1332,6 @@ msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "16:9 תמיד"
-
-#
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1450,16 +1439,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1809,6 +1788,11 @@ msgid "Add Bookmark"
 msgstr "add bookmark"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "הוסף טיימר"
+
+#
 msgid "Add a mark"
 msgstr "הוסף סמן"
 
@@ -1824,6 +1808,10 @@ msgstr "הוסף כותרת חדשה"
 #
 msgid "Add a new title"
 msgstr "הוסף כותרת חדשה"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "הקלט - עצור אחרי סיום התוכנית הנוכחית"
 
 msgid "Add alternatives"
 msgstr "Add alternatives"
@@ -2417,6 +2405,9 @@ msgid "At beginning"
 msgstr "התחל מההתחלה"
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -3272,6 +3263,11 @@ msgstr "בחירת ערוץ"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "בחירת ערוץ"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "בחירת ערוץ"
 
@@ -3366,6 +3362,11 @@ msgstr "שפה"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "טיימר"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3520,6 +3521,15 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "EPG בחירת"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "מיקום סרטים"
+
 msgid "Choose Tuner"
 msgstr ""
 
@@ -3673,6 +3683,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "סגור"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "סגור בחירת כותרת"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -4983,6 +4997,10 @@ msgid "Delete Loc"
 msgstr "מחק"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "מחק קובץ"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "מחק קובץ"
 
@@ -5826,6 +5844,11 @@ msgstr "DNS ערוך"
 msgid "Edit Tags"
 msgstr "ערוך הגדרות"
 
+#
+#, fuzzy
+msgid "Edit Timer"
+msgstr "תפריט ראשי"
+
 msgid "Edit alternatives"
 msgstr "Edit alternatives"
 
@@ -6408,6 +6431,14 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "תוספות"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "תפריט רשימת הסרטים"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6419,16 +6450,15 @@ msgstr ""
 msgid "Event view"
 msgstr "Eventview"
 
-msgid "Event view context menu"
-msgstr ""
-
 #
 #, fuzzy
 msgid "Event view menu"
 msgstr "Eventview"
 
-msgid "Events info menu"
-msgstr ""
+#
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Eventview"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6578,11 +6608,12 @@ msgstr "תוספות"
 msgid "Extensions"
 msgstr "תוספות"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "תוספות"
+
 msgid "Extensions management"
 msgstr "ניהול תוספות"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -6876,6 +6907,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9518,6 +9552,13 @@ msgstr "move down to last entry"
 msgid "Move east"
 msgstr "Move east"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "move down to next entry"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10514,6 +10555,10 @@ msgstr ""
 msgid "Open Vision revision check"
 msgstr ""
 
+#, fuzzy
+msgid "Open context menu"
+msgstr "תפריט רשימת הערוצים"
+
 #
 #, fuzzy
 msgid "Open main menu"
@@ -10540,6 +10585,13 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "חזור לרשימת הסרטים"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "חזור לרשימת הסרטים"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11025,6 +11077,10 @@ msgid "Please choose an extension..."
 msgstr "Please choose an extension..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Please choose an extension..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Please choose an extension..."
 
@@ -11109,12 +11165,12 @@ msgstr "...אנא בחר רשימת שמע "
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Please select a subservice..."
 
 #
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "Please select a subservice..."
 
 msgid "Please select a subservice to record..."
@@ -11130,7 +11186,7 @@ msgstr "...אנא בחר רשימת שמע "
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Please select a subservice..."
 
 #, fuzzy
@@ -12378,6 +12434,14 @@ msgstr "Reset"
 msgid "Reset and renumerate title names"
 msgstr ""
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "שחזור גיבויים"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "שחזור גיבויים"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12588,6 +12652,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -14210,8 +14292,16 @@ msgid "Show multi channel EPG"
 msgstr ""
 
 #, fuzzy
+msgid "Show next event"
+msgstr "move down to next entry"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "מחק קובץ"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "הראה מידע מורחב"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -14260,10 +14350,18 @@ msgstr "Show positioner movement"
 msgid "Show positioner position"
 msgstr ""
 
+#, fuzzy
+msgid "Show previous event"
+msgstr "move up to previous entry"
+
 #
 #, fuzzy
 msgid "Show previous image"
 msgstr "Switch to previous subservice"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Return to previous service"
 
 #
 #, fuzzy
@@ -14802,9 +14900,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "שחזור גיבויים"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -16972,6 +17067,11 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "שירות לא ידוע"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -17391,10 +17491,9 @@ msgstr "Video הגדרת"
 msgid "Video wizard"
 msgstr "Video אשף ה"
 
-#
-#, fuzzy
-msgid "Video: "
-msgstr "Video הגדרת"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -19663,10 +19762,6 @@ msgstr "לא ידוע"
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "שירות לא ידוע"
 
 msgid "unpublished"
 msgstr ""

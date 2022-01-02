@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1200,22 +1200,16 @@ msgstr ""
 msgid "16:10 PanScan"
 msgstr ""
 
-msgid "16:10 letterbox"
-msgstr ""
-
-msgid "16:10 panscan"
-msgstr ""
-
 msgid "16:9"
+msgstr ""
+
+msgid "16:9 Always"
 msgstr ""
 
 msgid "16:9 Letterbox"
 msgstr ""
 
 msgid "16:9 always"
-msgstr ""
-
-msgid "16:9 letterbox"
 msgstr ""
 
 msgid "16K"
@@ -1312,12 +1306,6 @@ msgid "4:3 Letterbox"
 msgstr ""
 
 msgid "4:3 PanScan"
-msgstr ""
-
-msgid "4:3 letterbox"
-msgstr ""
-
-msgid "4:3 panscan"
 msgstr ""
 
 msgid "4K"
@@ -1607,6 +1595,9 @@ msgstr ""
 msgid "Add Bookmark"
 msgstr ""
 
+msgid "Add Timer"
+msgstr ""
+
 msgid "Add a mark"
 msgstr ""
 
@@ -1617,6 +1608,9 @@ msgid "Add a new tag"
 msgstr ""
 
 msgid "Add a new title"
+msgstr ""
+
+msgid "Add a timer for the current event"
 msgstr ""
 
 msgid "Add alternatives"
@@ -2073,6 +2067,9 @@ msgid "At beginning"
 msgstr ""
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -2748,6 +2745,9 @@ msgstr ""
 msgid "Cancel selection"
 msgstr ""
 
+msgid "Cancel the action selection and exit"
+msgstr ""
+
 msgid "Cancel the location selection"
 msgstr ""
 
@@ -2833,6 +2833,9 @@ msgid "Change Language"
 msgstr ""
 
 msgid "Change PIN Pressing [OK]"
+msgstr ""
+
+msgid "Change Timer"
 msgstr ""
 
 msgid "Change device settings"
@@ -2952,6 +2955,12 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+msgid "Choice Box Actions"
+msgstr ""
+
+msgid "Choice Box Order Actions"
+msgstr ""
+
 msgid "Choose Tuner"
 msgstr ""
 
@@ -3051,6 +3060,9 @@ msgid "Clients"
 msgstr ""
 
 msgid "Close"
+msgstr ""
+
+msgid "Close Event View screen"
 msgstr ""
 
 msgid "Close the screen"
@@ -3856,6 +3868,9 @@ msgstr ""
 msgid "Delete Loc"
 msgstr ""
 
+msgid "Delete Timer"
+msgstr ""
+
 msgid "Delete all log files"
 msgstr ""
 
@@ -4509,6 +4524,9 @@ msgstr ""
 msgid "Edit Tags"
 msgstr ""
 
+msgid "Edit Timer"
+msgstr ""
+
 msgid "Edit alternatives"
 msgstr ""
 
@@ -4936,16 +4954,19 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+msgid "Event View Actions"
+msgstr ""
+
+msgid "Event View Context Menu"
+msgstr ""
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
 msgid "Event name first"
 msgstr ""
 
-msgid "Event view context menu"
-msgstr ""
-
-msgid "Events info menu"
+msgid "Events Info Menu"
 msgstr ""
 
 msgid "Every 12 hours"
@@ -5071,10 +5092,10 @@ msgstr ""
 msgid "Extension Actions"
 msgstr ""
 
-msgid "Extensions management"
+msgid "Extensions Menu"
 msgstr ""
 
-msgid "Extensions menu"
+msgid "Extensions management"
 msgstr ""
 
 msgid "External"
@@ -5289,6 +5310,9 @@ msgid "Final position at index"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -7258,6 +7282,12 @@ msgstr ""
 msgid "Move east"
 msgstr ""
 
+msgid "Move the current item down one line"
+msgstr ""
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -8020,6 +8050,9 @@ msgstr ""
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr ""
 
+msgid "Open context menu"
+msgstr ""
+
 msgid "Open main menu"
 msgstr ""
 
@@ -8039,6 +8072,12 @@ msgid "Open setup tuner "
 msgstr ""
 
 msgid "Open the movie list"
+msgstr ""
+
+msgid "Open the multi service EPG view"
+msgstr ""
+
+msgid "Open the single service EPG view"
 msgstr ""
 
 msgid "OpenDNS FamilyShield"
@@ -8409,6 +8448,9 @@ msgstr ""
 msgid "Please choose an extension..."
 msgstr ""
 
+msgid "Please choose an extension:"
+msgstr ""
+
 msgid "Please choose reader"
 msgstr ""
 
@@ -8466,10 +8508,10 @@ msgstr ""
 msgid "Please select a playlist..."
 msgstr ""
 
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr ""
 
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr ""
 
 msgid "Please select a subservice to record..."
@@ -8481,7 +8523,7 @@ msgstr ""
 msgid "Please select an acceptable directory."
 msgstr ""
 
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr ""
 
 msgid "Please select medium to be scanned"
@@ -9377,6 +9419,12 @@ msgstr ""
 msgid "Reset and renumerate title names"
 msgstr ""
 
+msgid "Reset list order to default"
+msgstr ""
+
+msgid "Reset list order to default?"
+msgstr ""
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -9552,6 +9600,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -10664,7 +10730,13 @@ msgstr ""
 msgid "Show multi channel EPG"
 msgstr ""
 
+msgid "Show next event"
+msgstr ""
+
 msgid "Show next image"
+msgstr ""
+
+msgid "Show next page of description"
 msgstr ""
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
@@ -10682,7 +10754,13 @@ msgstr ""
 msgid "Show packages to be updated"
 msgstr ""
 
+msgid "Show previous event"
+msgstr ""
+
 msgid "Show previous image"
+msgstr ""
+
+msgid "Show previous page of description"
 msgstr ""
 
 msgid "Show receiver image(s)"
@@ -11044,9 +11122,6 @@ msgid "Sort by"
 msgstr ""
 
 msgid "Sort by default"
-msgstr ""
-
-msgid "Sort list to default and exit?"
 msgstr ""
 
 msgid "Sort list:"
@@ -12577,6 +12652,9 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+msgid "Unknown Service"
+msgstr ""
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -12844,7 +12922,8 @@ msgstr ""
 msgid "Video wizard"
 msgstr ""
 
-msgid "Video: "
+#, python-format
+msgid "Video: %dx%d@%gHz"
 msgstr ""
 
 #, python-format
@@ -14553,9 +14632,6 @@ msgid "unknown"
 msgstr ""
 
 msgid "unknown error"
-msgstr ""
-
-msgid "unknown service"
 msgstr ""
 
 msgid "unpublished"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -1369,26 +1369,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "Altijd 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "Altijd 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr "16K"
@@ -1493,14 +1485,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 msgid "4K"
@@ -1830,6 +1814,10 @@ msgstr "Voeg een zender toe"
 msgid "Add Bookmark"
 msgstr "Maak markeerpunt"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Timer toevoegen"
+
 msgid "Add a mark"
 msgstr "Plaats een markering"
 
@@ -1842,6 +1830,10 @@ msgstr "Voeg een nieuwe titel toe"
 
 msgid "Add a new title"
 msgstr "Voeg een nieuwe titel toe"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Voeg een timerwijziging voor het huidige programma toe of verwijder deze"
 
 msgid "Add alternatives"
 msgstr "Voeg alternatieven toe"
@@ -2399,6 +2391,10 @@ msgstr "Bovenaan de lijst"
 
 msgid "At end"
 msgstr "Onderaan de lijst"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Let op, dit is een herhalende timer!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Let op, dit is een herhalende timer!\n"
@@ -3239,6 +3235,10 @@ msgid "Cancel selection"
 msgstr "Zenderkeuze"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Zenderkeuze"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Zenderkeuze"
 
@@ -3331,6 +3331,10 @@ msgstr "Taal wijzigen"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Wijzig timer"
 
 msgid "Change bouquets in quickzap"
 msgstr "Verander van bouquet tijdens zappen"
@@ -3477,6 +3481,14 @@ msgstr "Chinees - Eenvoudig"
 
 msgid "Chinese - Traditional"
 msgstr "Chinees - Traditioneel"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Extra opties"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Filmselectie"
 
 msgid "Choose Tuner"
 msgstr "Kies de tuner"
@@ -3633,6 +3645,10 @@ msgstr "Geef het TV beeld op het LCD display weer"
 
 msgid "Close"
 msgstr "Sluiten"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Sluit titelselectie"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Sluit de PIP met de toets 'exit'"
@@ -5088,6 +5104,10 @@ msgid "Delete Loc"
 msgstr "Verwijderen"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Verwijder timer"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Verwijder alle logbestanden"
 
@@ -5894,6 +5914,10 @@ msgstr "DNS wijzigen"
 msgid "Edit Tags"
 msgstr "Instellingen wijzigen"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Wijzig timer"
+
 msgid "Edit alternatives"
 msgstr "Alternatieven bewerken"
 
@@ -6461,6 +6485,14 @@ msgstr "Ethernet netwerkinterface"
 msgid "Ethiopia"
 msgstr "Ethiopië"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Applicaties"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Event tonen context menu"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Fontgrootte van de programmaomschrijving (skinafhankelijke grootte)"
 
@@ -6470,13 +6502,11 @@ msgstr "Event naam eerst"
 msgid "Event view"
 msgstr "Programmaoverzicht"
 
-msgid "Event view context menu"
-msgstr "Event tonen context menu"
-
 msgid "Event view menu"
 msgstr "Programmaoverzichtsmenu"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Events info menu"
 
 msgid "Every 12 hours"
@@ -6623,11 +6653,12 @@ msgstr "Applicaties"
 msgid "Extensions"
 msgstr "Applicaties"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Plugins menu"
+
 msgid "Extensions management"
 msgstr "Beheer Applicaties"
-
-msgid "Extensions menu"
-msgstr "Plugins menu"
 
 msgid "External"
 msgstr "Extern"
@@ -6922,6 +6953,9 @@ msgstr "Definitieve scroll vertraging"
 
 msgid "Find currently playing service"
 msgstr "Zoek de zender die momenteel speelt"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Exact positioneren"
@@ -9440,6 +9474,14 @@ msgstr "verplaats omlaag naar laatste ingave"
 msgid "Move east"
 msgstr "Draai oost"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "verplaats omlaag naar volgende ingave"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Ga naar boven"
+
 msgid "Move the keyboard cursor down"
 msgstr "Beweeg de toetsenbord cursor naar beneden"
 
@@ -10378,6 +10420,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Zenderlijstmenu"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Beveilig hoofdmenu"
 
@@ -10399,6 +10445,14 @@ msgstr "Open tunerinstellingen "
 
 msgid "Open the movie list"
 msgstr "Open de opnamelijst"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Open de opnamelijst"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Toon de EPG van een enkel kanaal"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10860,6 +10914,10 @@ msgid "Please choose an extension..."
 msgstr "Kies een plugin aub..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Kies een plugin aub..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Kies een plugin aub..."
 
@@ -10949,10 +11007,11 @@ msgid "Please select a playlist..."
 msgstr "Selecteer een afspeellijst..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Selecteer een subzender..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Selecteer aub een subzender..."
 
 msgid "Please select a subservice to record..."
@@ -10966,7 +11025,7 @@ msgid "Please select an acceptable directory."
 msgstr "Selecteer een afspeellijst..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Selecteer een subzender..."
 
 msgid "Please select medium to be scanned"
@@ -12181,6 +12240,14 @@ msgstr "Herstel"
 msgid "Reset and renumerate title names"
 msgstr "Herstel en renumerate titel namen"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Herstel de standaardwaarden"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Zet alle Hotkey instellingen terug?"
+
 msgid "Reset order (All)"
 msgstr "Volgorde resetten (alles)"
 
@@ -12379,6 +12446,25 @@ msgstr "Starttijd afronden op"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "Meer educatie"
 
 #, fuzzy
 msgid "Rundi"
@@ -13921,8 +14007,16 @@ msgid "Show multi channel EPG"
 msgstr "Toon de meerkanaals EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Ga naar de volgende EPG info"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Kies de image"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Weergave met uitgebreide informatie"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Indien geactiveerd, dan wordt er een melding weergegeven indien de import van zenders en/of EPG vanaf de externe ontvanger niet (compleet) gelukt is."
@@ -13975,8 +14069,16 @@ msgid "Show positioner position"
 msgstr "Toon de positie van de DiSEqC motor"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Ga naar de vorige EPG info"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Ga naar de vorige zender"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Ga naar de vorige pagina met kanalen"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14473,9 +14575,6 @@ msgstr "Sorteren op..."
 #, fuzzy
 msgid "Sort by default"
 msgstr "Zet als standaard"
-
-msgid "Sort list to default and exit?"
-msgstr "Sorteer de lijst conform de standaard en stop?"
 
 msgid "Sort list:"
 msgstr "Sorteren op:"
@@ -16539,6 +16638,10 @@ msgstr "Universeel LNB"
 msgid "Unknown"
 msgstr "Onbekend"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "onbekende zender"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Déselecteer deze zender als 3D zender."
 
@@ -16945,9 +17048,9 @@ msgstr "VideoModus"
 msgid "Video wizard"
 msgstr "Video wizard"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -19250,9 +19353,6 @@ msgstr "onbekend"
 
 msgid "unknown error"
 msgstr "onbekende fout"
-
-msgid "unknown service"
-msgstr "onbekende zender"
 
 msgid "unpublished"
 msgstr "niet gepubliceerd"

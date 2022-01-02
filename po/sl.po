@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -1433,18 +1433,13 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "vedno 16:9 "
 
 #
 msgid "16:9 Letterbox"
@@ -1453,11 +1448,6 @@ msgstr "16:9 Letterbox"
 #
 msgid "16:9 always"
 msgstr "vedno 16:9 "
-
-#
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1577,16 +1567,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #
@@ -1961,6 +1941,11 @@ msgid "Add Bookmark"
 msgstr "Nov zaznamek"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "Nov časovnik"
+
+#
 msgid "Add a mark"
 msgstr "Nov zaznamek"
 
@@ -1976,6 +1961,10 @@ msgstr "Nov naslov"
 #
 msgid "Add a new title"
 msgstr "Nov naslov"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Dodaj/Izbriši časovnik za trenutni dogodek"
 
 #
 msgid "Add alternatives"
@@ -2609,6 +2598,10 @@ msgstr "Na začetku"
 #
 msgid "At end"
 msgstr "Na koncu"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Pozor, omenjen časovnik je že vnešen!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Pozor, omenjen časovnik je že vnešen!\n"
@@ -3513,6 +3506,11 @@ msgstr "Seznam kanalov"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Seznam kanalov"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Seznam kanalov"
 
@@ -3614,6 +3612,11 @@ msgstr "Jezik menija"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "Sprememba časovnika"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3775,6 +3778,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Nadaljne možnosti"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Izbirnik posnetkov"
 
 msgid "Choose Tuner"
 msgstr "Izbor kanalnika"
@@ -3941,6 +3952,11 @@ msgstr ""
 #
 msgid "Close"
 msgstr "Izhod"
+
+#
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Zapri izbirnik imena"
 
 #
 msgid "Close PiP with 'exit' button"
@@ -5346,6 +5362,11 @@ msgstr "Izbris"
 
 #
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Izbris časovnika"
+
+#
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Izbris datoteke"
 
@@ -6297,6 +6318,11 @@ msgid "Edit Tags"
 msgstr "Spreminjanje nastavitev"
 
 #
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Urejanje časovnika"
+
+#
 msgid "Edit alternatives"
 msgstr "Urejanje alternativ"
 
@@ -6920,6 +6946,16 @@ msgstr "Omrežni vmesnik"
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Dodatki"
+
+#
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Nastavitve"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Velikost pisave dogodka"
 
@@ -6930,15 +6966,14 @@ msgstr ""
 msgid "Event view"
 msgstr "Pregled dogodkov"
 
-msgid "Event view context menu"
-msgstr ""
-
 #
 msgid "Event view menu"
 msgstr "Dodatne možnosti"
 
-msgid "Events info menu"
-msgstr ""
+#
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Dodatne možnosti"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -7111,11 +7146,13 @@ msgid "Extensions"
 msgstr "Dodatki"
 
 #
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Dodatki"
+
+#
 msgid "Extensions management"
 msgstr "Upravljanje vtičnikov"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr "Zunanje"
@@ -7438,6 +7475,9 @@ msgstr ""
 
 msgid "Find currently playing service"
 msgstr "Iskanje trenutno predvajanega kanala"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Natančni premiki"
@@ -10234,6 +10274,15 @@ msgstr "premik dol, na zadnji vnos"
 msgid "Move east"
 msgstr "Premikanje proti vzhodu"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "premik dol, na naslednji vnos"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Pojdi gor po seznamu"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -11303,6 +11352,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Open context menu"
+msgstr "Seznam"
+
+#
+#, fuzzy
 msgid "Open main menu"
 msgstr "Glavni meni"
 
@@ -11326,6 +11380,15 @@ msgstr ""
 #
 msgid "Open the movie list"
 msgstr "Odprtje seznama posnetkov"
+
+#
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Odprtje seznama posnetkov"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Prikaz \"single service\" EPGja"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11830,6 +11893,11 @@ msgstr "Izbor razširitve"
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Izbor razširitve"
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Izbor razširitve"
 
@@ -11932,11 +12000,12 @@ msgstr "Izberite seznam za predvajanje."
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Izberite pod-storitev:"
 
 #
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Izberite želeno pod-storitev:"
 
 #
@@ -11954,7 +12023,7 @@ msgstr "Izberite seznam za predvajanje."
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Izberite pod-storitev:"
 
 #
@@ -13333,6 +13402,16 @@ msgstr "Ponovno zaženi"
 msgid "Reset and renumerate title names"
 msgstr "Preuredi imena naslovov od začetka"
 
+#
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Nastavi kot privzeto"
+
+#
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Nastavi kot privzeto"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -13569,6 +13648,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -15307,8 +15404,18 @@ msgstr "Uporaba razširjenega (multi) EPG sistema"
 
 #
 #, fuzzy
+msgid "Show next event"
+msgstr "Pojdi na naslednji dogodek"
+
+#
+#, fuzzy
 msgid "Show next image"
 msgstr "Izbris časovnika"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Prikaz razširjenih informacij"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -15363,8 +15470,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show previous event"
+msgstr "Pojdi na prejšnji dogodek"
+
+#
+#, fuzzy
 msgid "Show previous image"
 msgstr "Preklop na prejšnji kanal"
+
+#
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Pojdi na prejšnjo stran storitve"
 
 #
 #, fuzzy
@@ -15935,9 +16052,6 @@ msgstr "Razvrščanje glede na"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Nastavi kot privzeto"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 #
 msgid "Sort list:"
@@ -18208,6 +18322,11 @@ msgstr "Univerzalni LNB"
 msgid "Unknown"
 msgstr "Neznano"
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "neznan kanal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -18655,9 +18774,9 @@ msgstr "Video način"
 msgid "Video wizard"
 msgstr "Video čarovnik"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #
 #, python-format
@@ -21137,10 +21256,6 @@ msgstr "neznano"
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "neznan kanal"
 
 msgid "unpublished"
 msgstr ""

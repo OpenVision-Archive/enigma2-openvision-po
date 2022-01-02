@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2013-10-23 19:15+0100\n"
 "Last-Translator: andy1 <dmmm8000pvr@gmail.com>\n"
 "Language-Team: none\n"
@@ -1242,15 +1242,13 @@ msgstr ""
 msgid "16:10 PanScan"
 msgstr ""
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "Brevformat"
-
-msgid "16:10 panscan"
-msgstr ""
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 alltid"
 
 msgid "16:9 Letterbox"
 msgstr ""
@@ -1258,10 +1256,6 @@ msgstr ""
 #
 msgid "16:9 always"
 msgstr "16:9 alltid"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "Brevformat"
 
 msgid "16K"
 msgstr ""
@@ -1372,13 +1366,6 @@ msgid "4:3 Letterbox"
 msgstr ""
 
 msgid "4:3 PanScan"
-msgstr ""
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "Brevformat"
-
-msgid "4:3 panscan"
 msgstr ""
 
 msgid "4K"
@@ -1736,6 +1723,11 @@ msgid "Add Bookmark"
 msgstr "Legge til bokmerke"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "Legg til tidtaker"
+
+#
 msgid "Add a mark"
 msgstr "Legge til markør"
 
@@ -1751,6 +1743,11 @@ msgstr "Legge til nytt navn"
 #
 msgid "Add a new title"
 msgstr "Legge til nytt navn"
+
+#
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Legge til opptak (stop etter nåværende program)"
 
 #
 msgid "Add alternatives"
@@ -2353,6 +2350,9 @@ msgstr "Ved begynnelsen"
 
 msgid "At end"
 msgstr "Ved slutten"
+
+msgid "Attention, this is a repeated timer!"
+msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
@@ -3232,6 +3232,10 @@ msgid "Cancel selection"
 msgstr "Kanalvalg"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanalvalg"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanalvalg"
 
@@ -3331,6 +3335,11 @@ msgstr "Språk"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "Tidtaker"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3495,6 +3504,15 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "EPG valg"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Opptaksvalg"
+
 msgid "Choose Tuner"
 msgstr ""
 
@@ -3656,6 +3674,11 @@ msgstr ""
 #
 msgid "Close"
 msgstr "Lukke"
+
+#
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Lukke navnevalg"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Slå av PiP (bilde i bilde) med exit knapp"
@@ -5024,6 +5047,11 @@ msgstr "Slette"
 
 #
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Slette fil"
+
+#
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Slette fil"
 
@@ -5925,6 +5953,11 @@ msgstr "Endre DNS"
 msgid "Edit Tags"
 msgstr "Redigere innstillinger"
 
+#
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Hovedmeny"
+
 msgid "Edit alternatives"
 msgstr "Alternativer"
 
@@ -6526,6 +6559,15 @@ msgstr "Ethernet nettverkskort"
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Utvidelser"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Opptaksliste"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Program- skriftstørrelse (i forhold til skin størrelse)"
 
@@ -6536,15 +6578,14 @@ msgstr ""
 msgid "Event view"
 msgstr "Programoversikt"
 
-msgid "Event view context menu"
-msgstr ""
-
 #
 msgid "Event view menu"
 msgstr "Meny programoversikt"
 
-msgid "Events info menu"
-msgstr ""
+#
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Meny programoversikt"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6715,11 +6756,13 @@ msgid "Extensions"
 msgstr "Utvidelser"
 
 #
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Utvidelser"
+
+#
 msgid "Extensions management"
 msgstr "Utvidelsessenter"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -7018,6 +7061,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9744,6 +9790,15 @@ msgstr "gå til til siste oppføring"
 msgid "Move east"
 msgstr "Kjør østover"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "gå til til neste oppføring"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Gå oppover listen"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10793,6 +10848,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Open context menu"
+msgstr "Kanalliste-meny"
+
+#
+#, fuzzy
 msgid "Open main menu"
 msgstr "Hovedmeny"
 
@@ -10815,6 +10875,14 @@ msgstr ""
 
 msgid "Open the movie list"
 msgstr "Åpne spillisten"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Åpne spillisten"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Vis enkel kanal EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11302,6 +11370,11 @@ msgstr "Vennligst velg en utvidelse"
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Vennligst velg en utvidelse"
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Vennligst velg en utvidelse"
 
@@ -11396,11 +11469,12 @@ msgstr "Vennligst velg en spilliste"
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Vennligst velg en underkanal"
 
 #
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Vennligst velg en underkanal..."
 
 #
@@ -11418,7 +11492,7 @@ msgstr "Vennligst velg en spilliste"
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Vennligst velg en underkanal"
 
 msgid "Please select medium to be scanned"
@@ -12708,6 +12782,16 @@ msgstr "Tilbakestill"
 msgid "Reset and renumerate title names"
 msgstr "Tilbakestill og nummerere navn på nytt"
 
+#
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Gjenopprette sikkerhetskopier"
+
+#
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Gjenopprette sikkerhetskopier"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12933,6 +13017,25 @@ msgstr "Rundetid på"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "videreutdanning"
 
 msgid "Rundi"
 msgstr ""
@@ -14552,10 +14655,19 @@ msgstr ""
 msgid "Show multi channel EPG"
 msgstr "Vis utvidet kanal EPG"
 
+#, fuzzy
+msgid "Show next event"
+msgstr "Gå til neste program"
+
 #
 #, fuzzy
 msgid "Show next image"
 msgstr "Slette fil"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Vis utvidet beskrivelse"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -14609,8 +14721,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show previous event"
+msgstr "Gå til forrige program"
+
+#
+#, fuzzy
 msgid "Show previous image"
 msgstr "Gå til forrige kanal"
+
+#
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Gå til forrige kanal side"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -15152,9 +15274,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "standard liste"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -17360,6 +17479,11 @@ msgstr ""
 msgid "Unknown"
 msgstr "Ukjent"
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "ukjent kanal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -17789,9 +17913,9 @@ msgstr "Bildevisning"
 msgid "Video wizard"
 msgstr "Video veiviser"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Bilde PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #
 #, python-format
@@ -20209,10 +20333,6 @@ msgstr "ukjent"
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "ukjent kanal"
 
 msgid "unpublished"
 msgstr "ikke publisert"

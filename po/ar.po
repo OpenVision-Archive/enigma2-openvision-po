@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -1413,26 +1413,18 @@ msgstr "16:10 شاشة مصغرة"
 msgid "16:10 PanScan"
 msgstr "16:10 شاشة عريضة"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 شاشة مصغرة"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 شاشة عريضة"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 دائما"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 شاشة مصغرة"
 
 msgid "16:9 always"
 msgstr "16:9 دائما"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 شاشة مصغرة"
 
 msgid "16K"
 msgstr ""
@@ -1543,14 +1535,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 شاشة مصغرة"
 
 msgid "4:3 PanScan"
-msgstr "4:3 شاشة عريضة"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 شاشة مصغرة"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 شاشة عريضة"
 
 msgid "4K"
@@ -1885,6 +1869,10 @@ msgstr "إضافة خدمة"
 msgid "Add Bookmark"
 msgstr "إضافة علامة مرجعية"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "أضف مؤقت"
+
 msgid "Add a mark"
 msgstr "أضف علامه"
 
@@ -1897,6 +1885,10 @@ msgstr "إضافة عنوان جديد"
 
 msgid "Add a new title"
 msgstr "إضافة عنوان جديد"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "إضافة/حذف المؤقت للحدث الحالي"
 
 msgid "Add alternatives"
 msgstr "إضافة البديل"
@@ -2469,6 +2461,10 @@ msgstr "في البداية"
 #, fuzzy
 msgid "At end"
 msgstr "في النهاية"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "انتباه ، هذا مؤقت متكرر!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "انتباه ، هذا مؤقت متكرر!\n"
@@ -3299,6 +3295,10 @@ msgid "Cancel selection"
 msgstr "إختيار القناة"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "إختيار القناة"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "إختيار القناة"
 
@@ -3396,6 +3396,10 @@ msgstr "اللغـة"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "تغيير المؤقت"
 
 msgid "Change bouquets in quickzap"
 msgstr "التنقل بين الباقات بشكل أسرع"
@@ -3545,6 +3549,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "مزيد من التعليم"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "أختيار الأفلام"
 
 #, fuzzy
 msgid "Choose Tuner"
@@ -3703,6 +3715,10 @@ msgstr "إستنساخ شاشة التلفزيون على شاشة العرض ا
 
 msgid "Close"
 msgstr "إغلاق"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "إغلاق إختيار العنوان"
 
 #, fuzzy
 msgid "Close PiP with 'exit' button"
@@ -5039,6 +5055,10 @@ msgid "Delete Loc"
 msgstr "حذف"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "حذف المؤقت"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "حذف كل البدائل"
 
@@ -5871,6 +5891,10 @@ msgstr "تعديل أسم النطاق"
 msgid "Edit Tags"
 msgstr "تحرير الاعدادات"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "تعديل المؤقت"
+
 msgid "Edit alternatives"
 msgstr "تعديل البديل"
 
@@ -6443,6 +6467,14 @@ msgstr "واجهة شبكة الانترنت"
 msgid "Ethiopia"
 msgstr "أثيوبيا"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "الملحقات."
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "قائمه عرض الحدث"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6452,15 +6484,11 @@ msgstr "أسم الحدث الأول"
 msgid "Event view"
 msgstr "مشاهدة الحدث"
 
-#, fuzzy
-msgid "Event view context menu"
-msgstr "قائمه عرض الحدث"
-
 msgid "Event view menu"
 msgstr "قائمه عرض الحدث"
 
 #, fuzzy
-msgid "Events info menu"
+msgid "Events Info Menu"
 msgstr "قائمه عرض الحدث"
 
 msgid "Every 12 hours"
@@ -6610,11 +6638,11 @@ msgstr "الملحقات."
 msgid "Extensions"
 msgstr "الملحقات."
 
-msgid "Extensions management"
+#, fuzzy
+msgid "Extensions Menu"
 msgstr "التحكم في الإضافات"
 
-#, fuzzy
-msgid "Extensions menu"
+msgid "Extensions management"
 msgstr "التحكم في الإضافات"
 
 msgid "External"
@@ -6927,6 +6955,9 @@ msgstr "تأخير الدوران النهائي"
 #, fuzzy
 msgid "Find currently playing service"
 msgstr "تثبيت القنوات"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "حركه جيده"
@@ -9509,6 +9540,14 @@ msgstr "أنتقل للأسفل إلى الإدخال السابق"
 msgid "Move east"
 msgstr "تحرك شرقا"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "أنتقل للأسفل إلى الإدخال التالي"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "الانتقال إلى اعلي القائمة"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10481,6 +10520,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "سياق صفحة قائمة القنوات"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "حماية القائمة الرئيسية"
 
@@ -10504,6 +10547,14 @@ msgstr "فتح ضبط المؤالف "
 
 msgid "Open the movie list"
 msgstr "فتح قائمة الأفلام"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "فتح قائمة الأفلام"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "عرض الإيقونات في قائمة القنوات"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10976,6 +11027,10 @@ msgid "Please choose an extension..."
 msgstr "من فضلك أختار من الملحقات..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "من فضلك أختار من الملحقات..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "من فضلك أختار من الملحقات..."
 
@@ -11061,10 +11116,11 @@ msgid "Please select a playlist..."
 msgstr "من فضلك أختار قائمة التشغيل..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "من فضلك أختار الخدمه الفرعيه..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "من فضلك أختار خدمة الترجمة..."
 
 msgid "Please select a subservice to record..."
@@ -11078,7 +11134,7 @@ msgid "Please select an acceptable directory."
 msgstr "من فضلك أختار قائمة التشغيل..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "من فضلك أختار الخدمه الفرعيه..."
 
 msgid "Please select medium to be scanned"
@@ -12300,6 +12356,14 @@ msgstr "إعاده الضبط"
 msgid "Reset and renumerate title names"
 msgstr "إعادة تعيين و إعادة تقييم عناوين الاسماء"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "تعيين افتراضي"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "فرز قائمه الإضافات إلى الافتراضي؟"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12510,6 +12574,25 @@ msgstr "وقت البدء"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "مزيد من التعليم"
 
 #, fuzzy
 msgid "Rundi"
@@ -14129,8 +14212,16 @@ msgid "Show multi channel EPG"
 msgstr "عرض دليل البرامج الإلكترونية المتعدد"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "الانتقال إلى الحدث التالي"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "حذف المؤقت"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "عرض الوصف المتقدم"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -14186,8 +14277,16 @@ msgid "Show positioner position"
 msgstr "عرض وضع الموتور المتحرك"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "الانتقال إلى الحدث السابق"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "التحكم في القناة السابقة"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "الانتقال إلى الحدث السابق"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14701,9 +14800,6 @@ msgstr "التصنيف بواسطة"
 #, fuzzy
 msgid "Sort by default"
 msgstr "تعيين افتراضي"
-
-msgid "Sort list to default and exit?"
-msgstr "قائمه الفرز إلى الافتراضي والخروج؟"
 
 msgid "Sort list:"
 msgstr "قائمه الفرز:"
@@ -16814,6 +16910,10 @@ msgid "Unknown"
 msgstr "غير معروف"
 
 #, fuzzy
+msgid "Unknown Service"
+msgstr "قناة مجهولة"
+
+#, fuzzy
 msgid "Unmark service as dedicated 3D service"
 msgstr "إلغاء تحديد خدمة قنوات ثلاثية الأبعاد المخصصة"
 
@@ -17223,9 +17323,9 @@ msgstr "وضع تقطيع الفيديو شرائح*"
 msgid "Video wizard"
 msgstr "نافذة ضبط شبكة الإنترنت"
 
-#, fuzzy
-msgid "Video: "
-msgstr "تعريف الفديو"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -19550,9 +19650,6 @@ msgstr "غير معروف"
 
 #, fuzzy
 msgid "unknown error"
-msgstr "قناة مجهولة"
-
-msgid "unknown service"
 msgstr "قناة مجهولة"
 
 msgid "unpublished"

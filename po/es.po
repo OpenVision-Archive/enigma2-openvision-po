@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -1372,26 +1372,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr "16:9"
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 siempre"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "16:9 siempre"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1498,14 +1490,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1843,6 +1827,10 @@ msgstr "Añadir CaID BISS al canal"
 msgid "Add Bookmark"
 msgstr "Añadir Marcador"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Añadir temporizador"
+
 msgid "Add a mark"
 msgstr "Añadir una marca"
 
@@ -1854,6 +1842,10 @@ msgstr "Añadir una nueva etiqueta"
 
 msgid "Add a new title"
 msgstr "Añadir un nuevo título"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Añadir/eliminar cambio temporizador para evento actual"
 
 msgid "Add alternatives"
 msgstr "Añadir alternativos"
@@ -2395,6 +2387,10 @@ msgstr "Al comienzo"
 
 msgid "At end"
 msgstr "Al final"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Atención, temporizador repetido!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Atención, temporizador repetido!\n"
@@ -3216,6 +3212,10 @@ msgstr "Selección de canal"
 msgid "Cancel selection"
 msgstr "Selección de canal"
 
+#, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Cancelar la selección de ubicación"
+
 msgid "Cancel the location selection"
 msgstr "Cancelar la selección de ubicación"
 
@@ -3306,6 +3306,10 @@ msgstr "Cambiar idioma"
 
 msgid "Change PIN Pressing [OK]"
 msgstr "Cambiar PIN Presionando [OK]"
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Cambiar temporizador"
 
 msgid "Change bouquets in quickzap"
 msgstr "Cambiar de bouquet en zapeo rápido"
@@ -3446,6 +3450,14 @@ msgstr "Chino - Simplificado"
 
 msgid "Chinese - Traditional"
 msgstr "Chino - Tradicional"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Acciones Menú"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Selección de película"
 
 msgid "Choose Tuner"
 msgstr "Elegir Sintonizador"
@@ -3604,6 +3616,10 @@ msgstr "Clonar pantalla de TV a LCD"
 
 msgid "Close"
 msgstr "Cerrar"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Cerrar esta pantalla"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Cerrar PiP con el botón 'salir'"
@@ -4848,6 +4864,10 @@ msgid "Delete Loc"
 msgstr "Eliminar Región"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Borrar temporizador"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Eliminar todos los registros"
 
@@ -5625,6 +5645,10 @@ msgstr "Editar DNS"
 msgid "Edit Tags"
 msgstr "Editar Etiquetas"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Editar temporizador"
+
 msgid "Edit alternatives"
 msgstr "Editar alternativos"
 
@@ -6169,6 +6193,14 @@ msgstr "Interfaz de red Ethernet"
 msgid "Ethiopia"
 msgstr "Etiopía"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Acciones EPG InfoBar"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Menú contextual de vista de evento"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Tamaño de la fuente del evento (relativa al tamaño de skin)"
 
@@ -6178,13 +6210,11 @@ msgstr "Nombre del evento primero"
 msgid "Event view"
 msgstr "Vista de evento"
 
-msgid "Event view context menu"
-msgstr "Menú contextual de vista de evento"
-
 msgid "Event view menu"
 msgstr "Menú de vista de evento"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Menú de información de eventos"
 
 #, fuzzy
@@ -6326,11 +6356,12 @@ msgstr "Acciones Extensión"
 msgid "Extensions"
 msgstr "Extensiones"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Menú de extensiones"
+
 msgid "Extensions management"
 msgstr "Administrador de extensiones"
-
-msgid "Extensions menu"
-msgstr "Menú de extensiones"
 
 msgid "External"
 msgstr "Externo"
@@ -6622,6 +6653,9 @@ msgstr "Retardo repetición de texto final"
 
 msgid "Find currently playing service"
 msgstr "Encuentra el servicio que se está reproduciendo actualmente"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Movimiento final"
@@ -9070,6 +9104,14 @@ msgid "Move east"
 msgstr "Mueve al este"
 
 #, fuzzy
+msgid "Move the current item down one line"
+msgstr "Bajar una línea"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Subir una línea"
+
+#, fuzzy
 msgid "Move the keyboard cursor down"
 msgstr "Mover el cursor del teclado virtual hacia abajo"
 
@@ -9991,6 +10033,10 @@ msgstr "Información de Montajes"
 msgid "Open Vision revision check"
 msgstr ""
 
+#, fuzzy
+msgid "Open context menu"
+msgstr "Menú de contexto de canales"
+
 msgid "Open main menu"
 msgstr "Abrir Menú Principal"
 
@@ -10011,6 +10057,14 @@ msgstr "Abrir la configuración del sintonizador "
 
 msgid "Open the movie list"
 msgstr "Abrir lista de películas"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Abrir lista de películas"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Mostrar EPG de un solo canal"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10462,6 +10516,10 @@ msgstr "Elegir CCcam-Lector"
 msgid "Please choose an extension..."
 msgstr "Elegir extensión…"
 
+#, fuzzy
+msgid "Please choose an extension:"
+msgstr "Elegir extensión…"
+
 msgid "Please choose reader"
 msgstr "Elegir Lector"
 
@@ -10543,10 +10601,12 @@ msgstr "Seleccionar…"
 msgid "Please select a playlist..."
 msgstr "Seleccionar una lsta de reproducción…"
 
-msgid "Please select a resolution..."
+#, fuzzy
+msgid "Please select a resolution:"
 msgstr "Seleccione resolución..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Seleccionar un subservicio…"
 
 msgid "Please select a subservice to record..."
@@ -10558,7 +10618,8 @@ msgstr "Seleccionar un subservicio…"
 msgid "Please select an acceptable directory."
 msgstr "Seleccione un directorio aceptable."
 
-msgid "Please select an aspect ratio..."
+#, fuzzy
+msgid "Please select an aspect ratio:"
 msgstr "Seleccione el modo pantalla deseado..."
 
 msgid "Please select medium to be scanned"
@@ -11719,6 +11780,14 @@ msgstr "Restablecer"
 msgid "Reset and renumerate title names"
 msgstr "Restablecer y renumerar los nombres de los títulos"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Restaurar por defecto fstab"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "¿Establecer todas las hotkeys por defecto?"
+
 msgid "Reset order (All)"
 msgstr "Restablecer orden (Todos)"
 
@@ -11915,6 +11984,27 @@ msgstr "Hora de inicio en"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the YELLOW action"
+msgstr "Botón AMARILLO prolongado"
+
+#, fuzzy
+msgid "Run the currently highlighted action"
+msgstr "Seleccione la ubicación resaltada actualmente y salga"
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "educación avanzada"
 
 #, fuzzy
 msgid "Rundi"
@@ -13384,8 +13474,16 @@ msgstr "Mostrar mtd-utils en el navegador de plugins"
 msgid "Show multi channel EPG"
 msgstr "Mostrar EPG multicanal"
 
+#, fuzzy
+msgid "Show next event"
+msgstr "Ir al siguiente evento"
+
 msgid "Show next image"
 msgstr "Mostrar próxima imagen"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Mostrar descripción extendida"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Mostrar notificación cuando los canales de importación y/o EPG de la URL del receptor reserva no se completaron"
@@ -13432,8 +13530,16 @@ msgstr "Mostrar movimiento del motor"
 msgid "Show positioner position"
 msgstr "Mostrar posición del motor"
 
+#, fuzzy
+msgid "Show previous event"
+msgstr "Ir al evento previo"
+
 msgid "Show previous image"
 msgstr "Mostrar imagen previa"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Ir a la página previa de canales"
 
 msgid "Show python in plugin browser"
 msgstr "Mostrar python en el navegador de plugins"
@@ -13910,9 +14016,6 @@ msgstr "Ordenar por"
 
 msgid "Sort by default"
 msgstr "Ordenar por defecto"
-
-msgid "Sort list to default and exit?"
-msgstr "Ordenar la lista por defecto y salir?"
 
 msgid "Sort list:"
 msgstr "Lista ordenada:"
@@ -15920,6 +16023,10 @@ msgstr "LNB Universal"
 msgid "Unknown"
 msgstr "Desconocido"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "servicio desconocido"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Desmarque el canal como canal 3D dedicado"
 
@@ -16303,9 +16410,9 @@ msgstr "Modo de video"
 msgid "Video wizard"
 msgstr "Asistente de Video"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18542,9 +18649,6 @@ msgstr "desconocido"
 
 msgid "unknown error"
 msgstr "error desconocido"
-
-msgid "unknown service"
-msgstr "servicio desconocido"
 
 msgid "unpublished"
 msgstr "sin publicar"

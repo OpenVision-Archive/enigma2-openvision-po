@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -1381,26 +1381,18 @@ msgstr "16:10 įterpiant juodas juostas"
 msgid "16:10 PanScan"
 msgstr "16:10 nukerpant šonus"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 įterpiant juodas juostas"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 nukerpant šonus"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "Visada 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 įterpiant juodas juostas šonuose"
 
 msgid "16:9 always"
 msgstr "Visada 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 įterpiant juodas juostas šonuose"
 
 msgid "16K"
 msgstr "16K"
@@ -1505,14 +1497,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Įterpiant juodas juostas šonuose"
 
 msgid "4:3 PanScan"
-msgstr "4:3 nukerpant šonus"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Įterpiant juodas juostas šonuose"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 nukerpant šonus"
 
 msgid "4K"
@@ -1848,6 +1832,10 @@ msgstr "Pridėti kanalą"
 msgid "Add Bookmark"
 msgstr "Pridėti žymę"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Pridėti laikmatį"
+
 msgid "Add a mark"
 msgstr "Pridėti žymę"
 
@@ -1860,6 +1848,10 @@ msgstr "Pridėti naują pavadinimą"
 
 msgid "Add a new title"
 msgstr "Pridėti naują pavadinimą"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Pridėti, pašalinti, pakeisti šio įvykio laikmatį"
 
 msgid "Add alternatives"
 msgstr "Pridėti alternatyvas"
@@ -2410,6 +2402,10 @@ msgstr "Pradžioje"
 
 msgid "At end"
 msgstr "Pabaigoje"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Dėmesio, tai pasikartojantis laikmatis!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Dėmesio, tai pasikartojantis laikmatis!\n"
@@ -3244,6 +3240,10 @@ msgid "Cancel selection"
 msgstr "Kanalo pasirinkimas"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanalo pasirinkimas"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanalo pasirinkimas"
 
@@ -3336,6 +3336,10 @@ msgstr "Pakeisti kalbą"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Keisti laikmatį"
 
 msgid "Change bouquets in quickzap"
 msgstr "Keisti paketus greitai perjungiant"
@@ -3477,6 +3481,14 @@ msgstr "Kiniečių supaprastintoji"
 
 msgid "Chinese - Traditional"
 msgstr "Kiniečių tradicinė"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Kitos parinktys"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Filmo pasirinkimas"
 
 msgid "Choose Tuner"
 msgstr "Pasirinkite imtuvą"
@@ -3633,6 +3645,10 @@ msgstr "Klonuoti TV vaizdą į LCD"
 
 msgid "Close"
 msgstr "Užverti"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Užverti pavadinimo pasirinkimą"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Uždaryti PiP su 'exit' mygtuku"
@@ -4900,6 +4916,10 @@ msgid "Delete Loc"
 msgstr "Ištrinti"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Ištrinti laikmatį"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Pašalinti visus žurnalų failus"
 
@@ -5703,6 +5723,10 @@ msgstr "Redaguoti DNS"
 msgid "Edit Tags"
 msgstr "Redaguoti nustatymus"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Redaguoti laikmatį"
+
 msgid "Edit alternatives"
 msgstr "Redaguoti alternatyvas"
 
@@ -6261,6 +6285,14 @@ msgstr "Vietinio laidinio tinklo sąsaja"
 msgid "Ethiopia"
 msgstr "Etiopija"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Išplėtimai"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Įvykio kontekstinis meniu"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Įvykio šrifto dydis (palyginus su dydžiu temoje)"
 
@@ -6270,13 +6302,11 @@ msgstr "Įvykio pavadinimas pirmiau"
 msgid "Event view"
 msgstr "Įvykių peržiūra"
 
-msgid "Event view context menu"
-msgstr "Įvykio kontekstinis meniu"
-
 msgid "Event view menu"
 msgstr "Įvykių peržiūros meniu"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Įvykių informacijos meniu"
 
 msgid "Every 12 hours"
@@ -6423,11 +6453,12 @@ msgstr "Išplėtimai"
 msgid "Extensions"
 msgstr "Išplėtimai"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Išplėtimų meniu"
+
 msgid "Extensions management"
 msgstr "Išplėtimų valdymas"
-
-msgid "Extensions menu"
-msgstr "Išplėtimų meniu"
 
 msgid "External"
 msgstr "Išorinis"
@@ -6718,6 +6749,9 @@ msgstr "Galutinė slinkties delsa"
 
 msgid "Find currently playing service"
 msgstr "Rasti šiuo metu rodomą kanalą"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Tikslus judėjimas"
@@ -9227,6 +9261,14 @@ msgstr "perkelti žemyn prie paskutinio įrašo"
 msgid "Move east"
 msgstr "Sukti į rytus"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "perkelti žemyn prie kito įrašo"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Sąrašu aukštyn"
+
 msgid "Move the keyboard cursor down"
 msgstr "Perkelkite klaviatūros žymeklį žemyn"
 
@@ -10158,6 +10200,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Kanalo kontekstinis meniu"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Apsaugoti pagrindinį meniu"
 
@@ -10179,6 +10225,14 @@ msgstr "Atidaryti imtuvo konfigūravimą "
 
 msgid "Open the movie list"
 msgstr "Atidaryti filmų sąrašą"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Atidaryti filmų sąrašą"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Rodyti vieno kanalo EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10640,6 +10694,10 @@ msgid "Please choose an extension..."
 msgstr "Prašome išsirinkti papildymus..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Prašome išsirinkti papildymus..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Prašome išsirinkti papildymus..."
 
@@ -10724,10 +10782,11 @@ msgid "Please select a playlist..."
 msgstr "Prašome išsirinkti grojaraštį..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Prašome išsirinkti subkanalą..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Prašome pasirinkti subkanalus..."
 
 msgid "Please select a subservice to record..."
@@ -10741,7 +10800,7 @@ msgid "Please select an acceptable directory."
 msgstr "Prašome išsirinkti grojaraštį..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Prašome išsirinkti subkanalą..."
 
 msgid "Please select medium to be scanned"
@@ -11931,6 +11990,14 @@ msgstr "Nustatyti iš naujo"
 msgid "Reset and renumerate title names"
 msgstr "Perjungti ir pernumeruoti antraštės pavadinimus"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Atkurti numatytąsias reikšmes"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Perjungti greitųjų klavišų reikšmes į numatytąsias?"
+
 msgid "Reset order (All)"
 msgstr "Atkurti tvarką (viską)"
 
@@ -12127,6 +12194,25 @@ msgstr "Apvalinti pradžios laiką"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "aukštasis mokslas"
 
 #, fuzzy
 msgid "Rundi"
@@ -13657,8 +13743,16 @@ msgid "Show multi channel EPG"
 msgstr "Rodyti daugiakanalį EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Į sekantį įvykį"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Pasirinkite atvaizdą"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Rodyti išplėstinį aprašymą"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Rodyti pranešimą, kai kanalų ir/arba EPG importas iš nuotolinio imtuvo yra nebaigtas"
@@ -13711,8 +13805,16 @@ msgid "Show positioner position"
 msgstr "Rodyti pozicionieriaus poziciją"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Į ankstesnį įvykį"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Perjungti į ankstesnį kanalą"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Į ankstesnį kanalų puslapį"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14203,9 +14305,6 @@ msgstr "Rūšiuoti pagal"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Nustatykite numatytuoju"
-
-msgid "Sort list to default and exit?"
-msgstr "Rūšiuoti sąrašą numatytąja tvarka ir užverti?"
 
 msgid "Sort list:"
 msgstr "Rūšiuoti sąrašą:"
@@ -16247,6 +16346,10 @@ msgstr "Universalus LNB"
 msgid "Unknown"
 msgstr "Nežinoma"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "nežinomas kanalas"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Nuimti 'grynai 3D' kanalo žymę"
 
@@ -16643,9 +16746,9 @@ msgstr "Vaizdo režimas"
 msgid "Video wizard"
 msgstr "Vaizdo sąrankos vedlys"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Vaizdo PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18908,9 +19011,6 @@ msgstr "nežinoma"
 
 msgid "unknown error"
 msgstr "nežinoma klaida"
-
-msgid "unknown service"
-msgstr "nežinomas kanalas"
 
 msgid "unpublished"
 msgstr "nepublikuotas"

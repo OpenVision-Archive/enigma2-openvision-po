@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -1383,26 +1383,18 @@ msgstr "16:10 platekrāns"
 msgid "16:10 PanScan"
 msgstr "16:10 panorāma"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 platekrāns"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 panorāma"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 vienmēr"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 platekrāns"
 
 msgid "16:9 always"
 msgstr "16:9 vienmēr"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 platekrāns"
 
 msgid "16K"
 msgstr "16K"
@@ -1507,14 +1499,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 platekrāns"
 
 msgid "4:3 PanScan"
-msgstr "4:3 panorāma"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 platekrāns"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 panorāma"
 
 msgid "4K"
@@ -1844,6 +1828,10 @@ msgstr "Pievienot kanālu"
 msgid "Add Bookmark"
 msgstr "Grāmatzīme"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Pievienot taimeri"
+
 msgid "Add a mark"
 msgstr "Pievienot iezīmi"
 
@@ -1856,6 +1844,10 @@ msgstr "Pievienot jaunu nosaukumu"
 
 msgid "Add a new title"
 msgstr "Pievienot jaunu nosaukumu"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Pievienot/noņemt mainīt taimeri tekošajai pārraidei"
 
 msgid "Add alternatives"
 msgstr "Pievienot alternatīvas"
@@ -2406,6 +2398,10 @@ msgstr "Sākt no sākuma"
 
 msgid "At end"
 msgstr "Uz beigām"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Uzmanību, šis taimeris atkārtojas!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Uzmanību, šis taimeris atkārtojas!\n"
@@ -3240,6 +3236,10 @@ msgid "Cancel selection"
 msgstr "Kanālu izvēle"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanālu izvēle"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanālu izvēle"
 
@@ -3332,6 +3332,10 @@ msgstr "Nomainīt valodu"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Izmainīt taimeri"
 
 msgid "Change bouquets in quickzap"
 msgstr "Mainīt buķetes ātrās slēgšanas režīmā"
@@ -3473,6 +3477,14 @@ msgstr "Ķīniešu - vienkāršotā"
 
 msgid "Chinese - Traditional"
 msgstr "Ķīniešu - tradicionālā"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Papildus iestatījumi"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Mediju faili"
 
 msgid "Choose Tuner"
 msgstr "Izvēlieties uztvērēju"
@@ -3629,6 +3641,10 @@ msgstr "Kopēt TV ekrānu uz LCD"
 
 msgid "Close"
 msgstr "Aizvērt"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Aizvērt virsrakstu atlasi"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Izejot aizvērt PiP"
@@ -4896,6 +4912,10 @@ msgid "Delete Loc"
 msgstr "Dzēst"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Dzēst taimeri"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Dzēst visus žurnāla failus"
 
@@ -5698,6 +5718,10 @@ msgstr "Rediģēt DNS"
 msgid "Edit Tags"
 msgstr "Iestatījumi"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Rediģēt taimeri"
+
 msgid "Edit alternatives"
 msgstr "Rediģēt alternatīvas"
 
@@ -6256,6 +6280,14 @@ msgstr "Ethernet tīkla interfeiss"
 msgid "Ethiopia"
 msgstr "Etiopija"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Paplašinājumi"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Notikuma apskata izvēlne"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Notikuma fontu izmērs (salīdzinājumā ar noformējuma izmēru)"
 
@@ -6265,13 +6297,11 @@ msgstr "Nosaukums vispirms"
 msgid "Event view"
 msgstr "Notikuma apskats"
 
-msgid "Event view context menu"
-msgstr "Notikuma apskata izvēlne"
-
 msgid "Event view menu"
 msgstr "Notikuma apskata izvēlne"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Notikumu info izvēlne"
 
 msgid "Every 12 hours"
@@ -6418,11 +6448,12 @@ msgstr "Paplašinājumi"
 msgid "Extensions"
 msgstr "Paplašinājumi"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Paplašinājumu izvēlne"
+
 msgid "Extensions management"
 msgstr "Paplašinājumu pārvaldīšana"
-
-msgid "Extensions menu"
-msgstr "Paplašinājumu izvēlne"
 
 msgid "External"
 msgstr "Ārējais"
@@ -6717,6 +6748,9 @@ msgstr "Pēdējās ritināšanas aizture"
 
 msgid "Find currently playing service"
 msgstr "Atrast servisu kuru pašreiz skatieties"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Precīzā pārvietošana"
@@ -9224,6 +9258,14 @@ msgstr "pārvietot lejup uz pēdējo ierakstu"
 msgid "Move east"
 msgstr "Griezt uz austrumiem"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "pārvietot lejup uz nākamo ierakstu"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Iet uz saraksta augšu"
+
 msgid "Move the keyboard cursor down"
 msgstr "Pārvietot kursoru uz leju"
 
@@ -10155,6 +10197,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Kanāla papildus izvēlne"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Aizsargāt galveno izvēlni"
 
@@ -10176,6 +10222,14 @@ msgstr "Atvērt uztvērēja iestatījumus "
 
 msgid "Open the movie list"
 msgstr "Atvērt mediju sarakstu"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Atvērt mediju sarakstu"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Rādīt atsevišķa kanāla EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10636,6 +10690,10 @@ msgid "Please choose an extension..."
 msgstr "Lūdzu izvēlieties paplašinājumu..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Lūdzu izvēlieties paplašinājumu..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Lūdzu izvēlieties paplašinājumu..."
 
@@ -10720,10 +10778,11 @@ msgid "Please select a playlist..."
 msgstr "Lūdzu izvēlieties repertuāru..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Lūdzu izvēlieties papildkanālu..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Lūdzu izvēlieties papildkanālu..."
 
 msgid "Please select a subservice to record..."
@@ -10737,7 +10796,7 @@ msgid "Please select an acceptable directory."
 msgstr "Lūdzu izvēlieties repertuāru..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Lūdzu izvēlieties papildkanālu..."
 
 msgid "Please select medium to be scanned"
@@ -11927,6 +11986,14 @@ msgstr "Atstatīt"
 msgid "Reset and renumerate title names"
 msgstr "Atstatīt un pārnumurēt virsrakstu nosaukumus"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Atiestatīt"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Iestatīt visu taustiņu noklusētās vērtības?"
+
 msgid "Reset order (All)"
 msgstr "Atiestatīt"
 
@@ -12123,6 +12190,25 @@ msgstr "Raunda sākuma laiks"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "tālākizglītība"
 
 #, fuzzy
 msgid "Rundi"
@@ -13650,8 +13736,16 @@ msgid "Show multi channel EPG"
 msgstr "Rādīt daudzkanālu EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Iet uz nākamo notikumu"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Izvēlieties imidžu"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Rādīt paplašināto aprakstu"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Parādīt brīdinājumu kad kanālu un/vai EPG imports no attālinātā uztvērēja nav izdevies"
@@ -13704,8 +13798,16 @@ msgid "Show positioner position"
 msgstr "Rādīt pozicioniera pozīciju"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Iet uz iepriekšējo notikumu"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Pārslēgt iepriekšējo kanālu"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Iet uz iepriekšējo kanālu lapu"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14196,9 +14298,6 @@ msgstr "Kārtot pēc"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Pēc noklusējuma"
-
-msgid "Sort list to default and exit?"
-msgstr "Sakārtot sarakstu noklusētā kārtībā un aizvērt?"
 
 msgid "Sort list:"
 msgstr "Kārt. saraksts:"
@@ -16234,6 +16333,10 @@ msgstr "Universālā LNB"
 msgid "Unknown"
 msgstr "Nezināms"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "nezināms kanāls"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "neatzīmēt kā 3D kanālu"
 
@@ -16630,9 +16733,9 @@ msgstr "Video režīms"
 msgid "Video wizard"
 msgstr "Video vednis"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18895,9 +18998,6 @@ msgstr "nezināms"
 
 msgid "unknown error"
 msgstr "nezināma kļūda"
-
-msgid "unknown service"
-msgstr "nezināms kanāls"
 
 msgid "unpublished"
 msgstr "nepublicēts"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -1406,18 +1406,13 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 alltaf"
 
 #
 msgid "16:9 Letterbox"
@@ -1426,11 +1421,6 @@ msgstr "16:9 Letterbox"
 #
 msgid "16:9 always"
 msgstr "16:9 alltaf"
-
-#
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1545,16 +1535,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #
@@ -1917,6 +1897,10 @@ msgstr "bæta við rás"
 msgid "Add Bookmark"
 msgstr "bæta við bókamerki"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Taka upp"
+
 #
 msgid "Add a mark"
 msgstr "Bæta við merki"
@@ -1934,6 +1918,11 @@ msgstr "Bæta við nýjum titli"
 #
 msgid "Add a new title"
 msgstr "Bæta við nýjum titli"
+
+#
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "bæta við upptöku (stoppa eftir núverandi atriði)"
 
 #
 msgid "Add alternatives"
@@ -2538,6 +2527,9 @@ msgstr "að byrjun"
 #, fuzzy
 msgid "At end"
 msgstr "að enda"
+
+msgid "Attention, this is a repeated timer!"
+msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
@@ -3379,6 +3371,10 @@ msgid "Cancel selection"
 msgstr "Rása val"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Rása val"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Rása val"
 
@@ -3473,6 +3469,11 @@ msgstr "Tungumál"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "Tímastilling"
 
 msgid "Change bouquets in quickzap"
 msgstr "Skipta á milli rása flétta í rásastökki"
@@ -3620,6 +3621,15 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "EPG val"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Staðsetning bíómynda"
 
 msgid "Choose Tuner"
 msgstr ""
@@ -3775,6 +3785,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "Loka"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Loka titils vali"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -5116,6 +5130,11 @@ msgstr "Eyða"
 
 #
 #, fuzzy
+msgid "Delete Timer"
+msgstr "eyða skrá"
+
+#
+#, fuzzy
 msgid "Delete all log files"
 msgstr "eyða skrá"
 
@@ -6037,6 +6056,11 @@ msgid "Edit Tags"
 msgstr "Breyta stillingum"
 
 #
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Aðalvalmynd"
+
+#
 msgid "Edit alternatives"
 msgstr "Breyta valkosti"
 
@@ -6636,6 +6660,16 @@ msgstr "Ethernet netkort"
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Viðbætur"
+
+#
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Bíómynda valmynd"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6647,16 +6681,15 @@ msgstr ""
 msgid "Event view"
 msgstr "Skoða atriði"
 
-msgid "Event view context menu"
-msgstr ""
-
 #
 #, fuzzy
 msgid "Event view menu"
 msgstr "Skoða atriði"
 
-msgid "Events info menu"
-msgstr ""
+#
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Skoða atriði"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6823,11 +6856,13 @@ msgstr "Viðbætur"
 msgid "Extensions"
 msgstr "Viðbætur"
 
+#
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Viðbætur"
+
 msgid "Extensions management"
 msgstr "Viðbóta umsýsla"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -7126,6 +7161,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9898,6 +9936,14 @@ msgstr "fara niður í síðasta atriði"
 msgid "Move east"
 msgstr "Færa austur"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "fara niður í næsta atriði"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10968,6 +11014,10 @@ msgstr ""
 msgid "Open Vision revision check"
 msgstr ""
 
+#, fuzzy
+msgid "Open context menu"
+msgstr "Valmynd rásalista"
+
 #
 #, fuzzy
 msgid "Open main menu"
@@ -10996,6 +11046,14 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "Til baka til mynda lista"
+
+#
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Til baka til mynda lista"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11497,6 +11555,10 @@ msgid "Please choose an extension..."
 msgstr "Vinsamlega veldu viðbót..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Vinsamlega veldu viðbót..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Vinsamlega veldu viðbót..."
 
@@ -11595,12 +11657,12 @@ msgstr "Vinsamlega veldu spilunarlista..."
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Vinsamlega veldu undirrás..."
 
 #
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "Vinsamlega veldu undirrás..."
 
 #
@@ -11618,7 +11680,7 @@ msgstr "Vinsamlega veldu spilunarlista..."
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Vinsamlega veldu undirrás..."
 
 #, fuzzy
@@ -12973,6 +13035,16 @@ msgstr "Endursetja"
 msgid "Reset and renumerate title names"
 msgstr "Endursetja og endurnúmera nöfn titla"
 
+#
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Setja inn afrit"
+
+#
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Setja inn afrit"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -13203,6 +13275,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -14901,8 +14991,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show next event"
+msgstr "fara niður í næsta atriði"
+
+#
+#, fuzzy
 msgid "Show next image"
 msgstr "eyða skrá"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "sýna auka upplýsingar"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -14956,8 +15056,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show previous event"
+msgstr "fara upp í næsta atriði"
+
+#
+#, fuzzy
 msgid "Show previous image"
 msgstr "Skipta á fyrri undirrás"
+
+#
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Til baka á síðustu rás"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -15525,9 +15635,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "stíll lista venjulegur"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -17776,6 +17883,11 @@ msgstr "Venjulegt LNB"
 msgid "Unknown"
 msgstr "Óþekkt"
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "óþekkt rás"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -18223,9 +18335,9 @@ msgstr "Mynd uppsetning"
 msgid "Video wizard"
 msgstr "Mynd ráðgjafi"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -20626,10 +20738,6 @@ msgstr "óþekktur"
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "óþekkt rás"
 
 msgid "unpublished"
 msgstr ""

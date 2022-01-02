@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -1398,16 +1398,13 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 alltid"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
@@ -1415,10 +1412,6 @@ msgstr "16:9 Letterbox"
 #
 msgid "16:9 always"
 msgstr "16:9 alltid"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1534,16 +1527,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #
@@ -1922,6 +1905,11 @@ msgid "Add Bookmark"
 msgstr "Lägg till bokmärke"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "Lägg till timer"
+
+#
 msgid "Add a mark"
 msgstr "Lägg till markör"
 
@@ -1937,6 +1925,10 @@ msgstr "Lägg till ny titel"
 #
 msgid "Add a new title"
 msgstr "Lägg till ny titel"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Lägg till / Ta bort ändrad timer för detta program"
 
 #
 msgid "Add alternatives"
@@ -2556,6 +2548,10 @@ msgstr "I början"
 
 msgid "At end"
 msgstr "I slutet"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Var uppmärksam, detta är en upprepad timer!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Var uppmärksam, detta är en upprepad timer!\n"
@@ -3453,6 +3449,11 @@ msgstr "Kanallista"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanallista"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanallista"
 
@@ -3552,6 +3553,10 @@ msgstr "Språk"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Ändra timer"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3717,6 +3722,14 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Ytterligare Alternativ"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Filmval"
+
 msgid "Choose Tuner"
 msgstr "Välj tuner"
 
@@ -3881,6 +3894,11 @@ msgstr "Klona TV skärm till LCD"
 #
 msgid "Close"
 msgstr "Stäng"
+
+#
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Stäng titelval"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Avsluta BiB med exitknappen"
@@ -5273,6 +5291,10 @@ msgid "Delete Loc"
 msgstr "Ta bort"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Radera timer"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Ta bort alla loggfiler"
 
@@ -6196,6 +6218,10 @@ msgstr "Ändra DNS"
 msgid "Edit Tags"
 msgstr "Ändra inställningar"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Ändra timer"
+
 #
 msgid "Edit alternatives"
 msgstr "Ändra alternativ"
@@ -6802,6 +6828,15 @@ msgstr "Ethernet nätverkskort"
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Utökningar"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Programmets innehållsmeny"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Programmets fontstorlek (relativt till utseendets storlek)"
 
@@ -6812,13 +6847,11 @@ msgstr ""
 msgid "Event view"
 msgstr "Programöversikt"
 
-msgid "Event view context menu"
-msgstr "Programmets innehållsmeny"
-
 msgid "Event view menu"
 msgstr "Meny för programöversikt"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Programmets info. meny"
 
 msgid "Every 12 hours"
@@ -6988,12 +7021,13 @@ msgstr "Utökningar"
 msgid "Extensions"
 msgstr "Utökningar"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Utökningsmeny"
+
 #
 msgid "Extensions management"
 msgstr "Utökningshanterare"
-
-msgid "Extensions menu"
-msgstr "Utökningsmeny"
 
 msgid "External"
 msgstr "Extern"
@@ -7315,6 +7349,9 @@ msgstr "Slutgiltig scrollfördröjning"
 
 msgid "Find currently playing service"
 msgstr "Hitta nuvarande spelade kanal"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Finjustering"
@@ -10088,6 +10125,15 @@ msgstr "flytta ner till sista posten"
 msgid "Move east"
 msgstr "Flytta mot öst"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "flytta ner till nästa post"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Gå upp i listan"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -11136,6 +11182,11 @@ msgstr "Öppna sökvägsplats"
 msgid "Open Vision revision check"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Open context menu"
+msgstr "Meny för kanallista"
+
 #, fuzzy
 msgid "Open main menu"
 msgstr "Skydda huvudmeny"
@@ -11160,6 +11211,15 @@ msgstr "Öppna inställning för tuner"
 #
 msgid "Open the movie list"
 msgstr "Öppna filmlistan"
+
+#
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Öppna filmlistan"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Visa singel kanal EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11657,6 +11717,11 @@ msgstr "Vänligen välj en utökning..."
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Vänligen välj en utökning..."
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Vänligen välj en utökning..."
 
@@ -11755,11 +11820,12 @@ msgstr "Vänligen välj en spellista..."
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Vänligen välj en tjänst..."
 
 #
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Vänligen välj en tjänst..."
 
 #
@@ -11777,7 +11843,7 @@ msgstr "Vänligen välj en spellista..."
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Vänligen välj en tjänst..."
 
 #
@@ -13130,6 +13196,14 @@ msgstr "Nollställ"
 msgid "Reset and renumerate title names"
 msgstr "Återställ och omnumrera titelnamnen"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Ange standard"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Ställ in alla hotkey till standard?"
+
 msgid "Reset order (All)"
 msgstr "Återställ ordning (ALLA)"
 
@@ -13365,6 +13439,25 @@ msgstr "Avrunda starttid till"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "vidareutbildning"
 
 msgid "Rundi"
 msgstr ""
@@ -15046,8 +15139,17 @@ msgid "Show multi channel EPG"
 msgstr "Visa multikanal EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Gå till nästa program"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Radera timer"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Visa utökad beskrivning"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -15101,10 +15203,18 @@ msgstr "Visa ikon vid positionsrörelse"
 msgid "Show positioner position"
 msgstr "Visa rotorposition"
 
+#, fuzzy
+msgid "Show previous event"
+msgstr "Gå till föregående program"
+
 #
 #, fuzzy
 msgid "Show previous image"
 msgstr "Växla till föregående kanal"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Gå till föregående sidas tjänster"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -15660,9 +15770,6 @@ msgstr "Sortera efter"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Ange standard"
-
-msgid "Sort list to default and exit?"
-msgstr "Sortera listan till standard och avsluta?"
 
 msgid "Sort list:"
 msgstr "Sorteringslista :"
@@ -17964,6 +18071,11 @@ msgstr "Universal LNB"
 msgid "Unknown"
 msgstr "Okänd"
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "okänd kanal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Avmarkera kanal som dedikerad 3D kanal"
 
@@ -18400,9 +18512,9 @@ msgstr "Videoläge"
 msgid "Video wizard"
 msgstr "Videoguide"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -20892,10 +21004,6 @@ msgstr "okänd"
 
 msgid "unknown error"
 msgstr "okänt fel"
-
-#
-msgid "unknown service"
-msgstr "okänd kanal"
 
 msgid "unpublished"
 msgstr "opublicerad"

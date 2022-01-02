@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -1405,18 +1405,13 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "altiid 16:9"
 
 #
 msgid "16:9 Letterbox"
@@ -1425,11 +1420,6 @@ msgstr "16:9 Letterbox"
 #
 msgid "16:9 always"
 msgstr "altiid 16:9"
-
-#
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1544,16 +1534,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #
@@ -1921,6 +1901,11 @@ msgid "Add Bookmark"
 msgstr "boekmerk tafoegje"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "In tiidsbarren tafoegje"
+
+#
 msgid "Add a mark"
 msgstr "In merker tafoegje"
 
@@ -1937,6 +1922,11 @@ msgstr "In nije titel tafoegje"
 #
 msgid "Add a new title"
 msgstr "In nije titel tafoegje"
+
+#
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "opnimmen tafoegje (stopje nei dit barren)"
 
 #
 msgid "Add alternatives"
@@ -2563,6 +2553,9 @@ msgid "At beginning"
 msgstr "Start fanôf it begjin"
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -3451,6 +3444,11 @@ msgstr "Kanaal seleksje"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanaal seleksje"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanaal seleksje"
 
@@ -3549,6 +3547,11 @@ msgstr "Taal"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "Tiidssjtoering"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3716,6 +3719,16 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "EPG Seleksje"
+
+#
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Tiidsbarren seleksje"
+
 msgid "Choose Tuner"
 msgstr ""
 
@@ -3877,6 +3890,11 @@ msgstr ""
 #
 msgid "Close"
 msgstr "Slúte"
+
+#
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Barren oersjoch"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -5271,6 +5289,11 @@ msgstr "Ferwiderje"
 
 #
 #, fuzzy
+msgid "Delete Timer"
+msgstr "triem ferwiderje"
+
+#
+#, fuzzy
 msgid "Delete all log files"
 msgstr "triem ferwiderje"
 
@@ -6195,6 +6218,11 @@ msgid "Edit Tags"
 msgstr "Wyzigje ynstellingen"
 
 #
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Haad menu"
+
+#
 msgid "Edit alternatives"
 msgstr "Bewurkje alternatief"
 
@@ -6800,6 +6828,16 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Utwreidingen"
+
+#
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Filmlyst menu"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6811,16 +6849,15 @@ msgstr ""
 msgid "Event view"
 msgstr "Barren oersjoch"
 
-msgid "Event view context menu"
-msgstr ""
-
 #
 #, fuzzy
 msgid "Event view menu"
 msgstr "Barren oersjoch"
 
-msgid "Events info menu"
-msgstr ""
+#
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Barren oersjoch"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6997,10 +7034,12 @@ msgid "Extensions"
 msgstr "Utwreidingen"
 
 #
-msgid "Extensions management"
-msgstr ""
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Utwreidingen"
 
-msgid "Extensions menu"
+#
+msgid "Extensions management"
 msgstr ""
 
 msgid "External"
@@ -7302,6 +7341,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -10066,6 +10108,14 @@ msgstr "Nei it lêste menu item gean"
 msgid "Move east"
 msgstr "Draai nei east"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "Nei it folgende menu item gean"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -11134,6 +11184,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Open context menu"
+msgstr "Kanaal-lyst menu"
+
+#
+#, fuzzy
 msgid "Open main menu"
 msgstr "Haad menu"
 
@@ -11160,6 +11215,14 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "Werom nei de film lyst"
+
+#
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Werom nei de film lyst"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11673,6 +11736,11 @@ msgstr "Kies in uitbreiding..."
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Kies in uitbreiding..."
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Kies in uitbreiding..."
 
@@ -11768,12 +11836,12 @@ msgstr "Selektearje in ofspiellyst"
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Selektearje in undersender..."
 
 #
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "Selektearje in undersender..."
 
 #
@@ -11791,7 +11859,7 @@ msgstr "Selektearje in ofspiellyst"
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Selektearje in undersender..."
 
 #
@@ -13151,6 +13219,16 @@ msgstr "Reset"
 msgid "Reset and renumerate title names"
 msgstr "Titel nammen opnei oanmeitsje en nûmerje.."
 
+#
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "lyst styl standert"
+
+#
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "lyst styl standert"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -13387,6 +13465,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -15099,8 +15195,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show next event"
+msgstr "Nei it folgende menu item gean"
+
+#
+#, fuzzy
 msgid "Show next image"
 msgstr "triem ferwiderje"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "útbreide beskriuwing sjen litte"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -15154,8 +15260,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show previous event"
+msgstr "Nei it foarige menu item "
+
+#
+#, fuzzy
 msgid "Show previous image"
 msgstr "Gjin nei foarige undersender"
+
+#
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Werom nei foariche service"
 
 #
 #, fuzzy
@@ -15708,9 +15824,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "lyst styl standert"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -17967,6 +18080,11 @@ msgstr "Unifersele LNB"
 msgid "Unknown"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "unbeneame kanaal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -18423,10 +18541,9 @@ msgstr "Fideo ynstellingen"
 msgid "Video wizard"
 msgstr "Fideo gucheler"
 
-#
-#, fuzzy
-msgid "Video: "
-msgstr "Fideo ynstellingen"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -20815,10 +20932,6 @@ msgstr ""
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "unbeneame kanaal"
 
 msgid "unpublished"
 msgstr ""

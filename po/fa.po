@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -1347,26 +1347,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 همیشه"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "16:9 همیشه"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1471,14 +1463,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1807,6 +1791,10 @@ msgstr "کانال"
 msgid "Add Bookmark"
 msgstr "اضافه کردن علامت"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "اضافه کردن زمان"
+
 msgid "Add a mark"
 msgstr "اضافه کردن علامت"
 
@@ -1820,6 +1808,10 @@ msgstr "اضافه کردن عنوان جدید"
 
 msgid "Add a new title"
 msgstr "اضافه کردن عنوان جدید"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "اضافه/حذف زمان از رخداد فعلی"
 
 msgid "Add alternatives"
 msgstr ""
@@ -2393,6 +2385,9 @@ msgid "At beginning"
 msgstr "شروع از ابتدای کار"
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -3214,6 +3209,10 @@ msgid "Cancel selection"
 msgstr "انتخاب کانال"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "انتخاب کانال"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "انتخاب کانال"
 
@@ -3308,6 +3307,10 @@ msgstr "زبان"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "کانال"
 
 msgid "Change bouquets in quickzap"
 msgstr "تغییر لیست در جابجایی سریع کانال"
@@ -3452,6 +3455,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "EPG انتخاب"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "انتخاب فیلم"
 
 msgid "Choose Tuner"
 msgstr ""
@@ -3604,6 +3615,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "بستن"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "بستن انتخاب کردن عنوان"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -4890,6 +4905,10 @@ msgid "Delete Loc"
 msgstr "حذف"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "حذف ناموفق"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "حذف ناموفق"
 
@@ -5693,6 +5712,10 @@ msgstr "ویرایش DNS"
 msgid "Edit Tags"
 msgstr "ویرایش تنظیمات"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "منوی اصلی"
+
 msgid "Edit alternatives"
 msgstr ""
 
@@ -6244,6 +6267,14 @@ msgid "Ethiopia"
 msgstr "اتیوپی"
 
 #, fuzzy
+msgid "Event View Actions"
+msgstr "بسته ها"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "منوی لیست فیلم"
+
+#, fuzzy
 msgid "Event font size (relative to skin size)"
 msgstr "اندازه قلم رخداد (وابسته به اندازه پوسته)"
 
@@ -6253,14 +6284,12 @@ msgstr ""
 msgid "Event view"
 msgstr "مشاهده رخداد"
 
-msgid "Event view context menu"
-msgstr ""
-
 msgid "Event view menu"
 msgstr "منوی مشاهده رخداد"
 
-msgid "Events info menu"
-msgstr ""
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "منوی مشاهده رخداد"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6413,11 +6442,12 @@ msgstr "بسته ها"
 msgid "Extensions"
 msgstr "بسته ها"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "بسته ها"
+
 msgid "Extensions management"
 msgstr "مدیریت بسته های نرم افزاری"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -6705,6 +6735,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9208,6 +9241,14 @@ msgstr ""
 msgid "Move east"
 msgstr "جابجایی به شرق"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "برو پایین لیست"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "برو بالای لیست"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10146,6 +10187,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "منوی لیست کانال"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "منوی اصلی"
 
@@ -10169,6 +10214,13 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "بازگشت به لیست فیلم"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "بازگشت به لیست فیلم"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10629,6 +10681,10 @@ msgid "Please choose an extension..."
 msgstr "لطفا یک بسته انتخاب کنید"
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "لطفا یک بسته انتخاب کنید"
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "لطفا یک بسته انتخاب کنید"
 
@@ -10710,11 +10766,11 @@ msgid "Please select a playlist..."
 msgstr "لطفا یک لیست پخش انتخاب کنید"
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "لطفا یک کانال فرعی انتخاب کنید"
 
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "لطفا یک کانال فرعی انتخاب کنید"
 
 msgid "Please select a subservice to record..."
@@ -10728,7 +10784,7 @@ msgid "Please select an acceptable directory."
 msgstr "لطفا یک لیست پخش انتخاب کنید"
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "لطفا یک کانال فرعی انتخاب کنید"
 
 #, fuzzy
@@ -11923,6 +11979,14 @@ msgstr "بازنشانی"
 msgid "Reset and renumerate title names"
 msgstr "بازنشانی و عدد دهی دوباره به نام های عنوان"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "بازگردانی نسخه های پشتیبان"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "بازگردانی نسخه های پشتیبان"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12131,6 +12195,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -13678,8 +13760,16 @@ msgid "Show multi channel EPG"
 msgstr ""
 
 #, fuzzy
+msgid "Show next event"
+msgstr "مراجعه به رخداد بعدی"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "حذف ناموفق"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "مراجعه به صفحه بعدی کانال"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -13731,8 +13821,16 @@ msgid "Show positioner position"
 msgstr "نمایش موقعیت مکان یاب"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "مراجعه به رخداد قبلی"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "جابجایی به کانال فرعی قبلی"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "مراجعه به صفحه قبلی کانال"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14243,9 +14341,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "بازگردانی نسخه های پشتیبان"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -16231,6 +16326,10 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "خطای نامشخص"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -16613,9 +16712,9 @@ msgstr "حالت تصویر"
 msgid "Video wizard"
 msgstr "هدایتگر تصویر"
 
-#, fuzzy
-msgid "Video: "
-msgstr "تنظیمات تصویر"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18779,9 +18878,6 @@ msgstr "نامشخص"
 
 msgid "unknown error"
 msgstr "خطای نامشخص"
-
-msgid "unknown service"
-msgstr ""
 
 msgid "unpublished"
 msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2017-01-18 16:38+0100\n"
 "Last-Translator: lupine <a_ecklon@hotmail.com>\n"
 "Language-Team: \n"
@@ -1405,26 +1405,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 Panscan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 Panscan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "Tving 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "Tving 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1538,14 +1530,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 Panscan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 Panscan"
 
 #
@@ -1923,6 +1907,11 @@ msgid "Add Bookmark"
 msgstr "Tilføj bogmærke"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "Tilføj timer"
+
+#
 msgid "Add a mark"
 msgstr "Tilføj en markør"
 
@@ -1938,6 +1927,10 @@ msgstr "Tilføj en ny titel"
 #
 msgid "Add a new title"
 msgstr "Tilføj en ny titel"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Tilføj/fjern ændrings timer for nuværende begivenhed."
 
 #
 msgid "Add alternatives"
@@ -2558,6 +2551,10 @@ msgstr "Ved begyndelsen"
 
 msgid "At end"
 msgstr "Ved slutningen"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Bemærk, dette er en gentaget timer!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Bemærk, dette er en gentaget timer!\n"
@@ -3459,6 +3456,11 @@ msgstr "Kanal valg"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Kanal valg"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanal valg"
 
@@ -3558,6 +3560,10 @@ msgstr "Sprog"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Ændre timer"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3723,6 +3729,14 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Yderligere indstillinger"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Film valg"
+
 msgid "Choose Tuner"
 msgstr "Vælg Tuner"
 
@@ -3887,6 +3901,11 @@ msgstr "Klon TV skærm til LCD"
 #
 msgid "Close"
 msgstr "Afslut"
+
+#
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Luk titel valg"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Luk BiB ved exit"
@@ -5286,6 +5305,10 @@ msgstr "Slet timer"
 msgid "Delete Loc"
 msgstr "Slet"
 
+#, fuzzy
+msgid "Delete Timer"
+msgstr "Slet timer"
+
 #
 #, fuzzy
 msgid "Delete all log files"
@@ -6217,6 +6240,10 @@ msgstr "Ændre DNS"
 msgid "Edit Tags"
 msgstr "Ændre indstillinger"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Rediger timer"
+
 #
 msgid "Edit alternatives"
 msgstr "Redigere alternativer"
@@ -6829,6 +6856,15 @@ msgstr "Ethernet netværksinterface"
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Udvidelser"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Begivenhed vis kontekst menu"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Begivenheds font størrelse (i forhold til tema størrelse)"
 
@@ -6839,13 +6875,11 @@ msgstr ""
 msgid "Event view"
 msgstr "Programoversigt"
 
-msgid "Event view context menu"
-msgstr "Begivenhed vis kontekst menu"
-
 msgid "Event view menu"
 msgstr "Programoversigt menu"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Begivenheds info menu"
 
 msgid "Every 12 hours"
@@ -7018,12 +7052,13 @@ msgstr "Udvidelser"
 msgid "Extensions"
 msgstr "Udvidelser"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Udvidelser menu"
+
 #
 msgid "Extensions management"
 msgstr "Håndtering af udvidelser"
-
-msgid "Extensions menu"
-msgstr "Udvidelser menu"
 
 msgid "External"
 msgstr "Ekstern"
@@ -7341,6 +7376,9 @@ msgstr "Endelig scroll forsinkelse"
 
 msgid "Find currently playing service"
 msgstr "Find nuværende afspillet service"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Fin bevægelse"
@@ -10124,6 +10162,15 @@ msgstr "flyt ned til sidste indtastning"
 msgid "Move east"
 msgstr "Drej mod øst"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "flyrt ned til næste indtastning"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Gå op af listen"
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -11180,6 +11227,11 @@ msgstr "Åben valgte placering"
 msgid "Open Vision revision check"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Open context menu"
+msgstr "Kanalliste Menu"
+
 #, fuzzy
 msgid "Open main menu"
 msgstr "Beskyt hovedmenuen"
@@ -11204,6 +11256,15 @@ msgstr "Åben setup tuner"
 #
 msgid "Open the movie list"
 msgstr "Åben filmlisten"
+
+#
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Åben filmlisten"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Vis enkelt kanals EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11705,6 +11766,11 @@ msgstr "Vælg venligst en udvidelse..."
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Vælg venligst en udvidelse..."
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Vælg venligst en udvidelse..."
 
@@ -11805,11 +11871,12 @@ msgstr "Vælg venligst en spilleliste..."
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Vælg venligst en underkanal..."
 
 #
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Vælg venligst en underkanal..."
 
 #
@@ -11827,7 +11894,7 @@ msgstr "Vælg venligst en spilleliste..."
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Vælg venligst en underkanal..."
 
 #
@@ -13187,6 +13254,14 @@ msgstr "Genstart"
 msgid "Reset and renumerate title names"
 msgstr "Nulstiller og genoptæller titel navne"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Sæt standard"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Gendan alle hotkeys til standardindstilling"
+
 msgid "Reset order (All)"
 msgstr "Nulstil rækkefølge (Alle)"
 
@@ -13422,6 +13497,25 @@ msgstr "start tid på"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "yderligere uddannelse"
 
 msgid "Rundi"
 msgstr ""
@@ -15109,8 +15203,17 @@ msgid "Show multi channel EPG"
 msgstr "Vis multi kanal EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Gå til næste udsendelse"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Slet timer"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Vis udvidet beskrivelse"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -15164,10 +15267,18 @@ msgstr "Vis motor bevægelse"
 msgid "Show positioner position"
 msgstr "Vis positioners position"
 
+#, fuzzy
+msgid "Show previous event"
+msgstr "Gå til forrige udsendelse"
+
 #
 #, fuzzy
 msgid "Show previous image"
 msgstr "Skift til forrige kanal"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Gå til forrige side af kanaler"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -15725,9 +15836,6 @@ msgstr "Sorter efter"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Sæt standard"
-
-msgid "Sort list to default and exit?"
-msgstr "Sorter liste tilbage til default og afslut?"
 
 msgid "Sort list:"
 msgstr "Sorter liste:"
@@ -18019,6 +18127,11 @@ msgstr "Universal LNB"
 msgid "Unknown"
 msgstr "Ukendt"
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "ukendt kanal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Fjern dedikeret 3D service markering for denne service"
 
@@ -18460,9 +18573,9 @@ msgstr "VideoMode"
 msgid "Video wizard"
 msgstr "Video assistenten"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -20944,10 +21057,6 @@ msgstr "ukendt"
 
 msgid "unknown error"
 msgstr "ukendt fejl"
-
-#
-msgid "unknown service"
-msgstr "ukendt kanal"
 
 msgid "unpublished"
 msgstr "ikke udgivet"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -1369,26 +1369,18 @@ msgstr "16:10信箱模式"
 msgid "16:10 PanScan"
 msgstr "16:10伸缩"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10信箱模式"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10伸缩"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9固定"
 
 msgid "16:9 Letterbox"
 msgstr "16:9信箱模式"
 
 msgid "16:9 always"
 msgstr "16:9固定"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9信箱模式"
 
 msgid "16K"
 msgstr "16K"
@@ -1494,14 +1486,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3信箱模式"
 
 msgid "4:3 PanScan"
-msgstr "4:3伸缩"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3信箱模式"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3伸缩"
 
 msgid "4K"
@@ -1832,6 +1816,10 @@ msgstr "添加频道"
 msgid "Add Bookmark"
 msgstr "增加书签"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "添加定时器"
+
 msgid "Add a mark"
 msgstr "增加标记"
 
@@ -1844,6 +1832,10 @@ msgstr "增加一个新标题"
 
 msgid "Add a new title"
 msgstr "增加一个新标题"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "为当前事件增加/移除/更改定时器"
 
 msgid "Add alternatives"
 msgstr "增加项目"
@@ -2394,6 +2386,10 @@ msgstr "在开始"
 
 msgid "At end"
 msgstr "在结束"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "注意,这是重复的定时器！\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "注意,这是重复的定时器！\n"
@@ -3228,6 +3224,10 @@ msgid "Cancel selection"
 msgstr "频道选择"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "频道选择"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "频道选择"
 
@@ -3320,6 +3320,10 @@ msgstr "更改语言"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "更改定时器"
 
 msgid "Change bouquets in quickzap"
 msgstr "快速切换自定义组"
@@ -3461,6 +3465,14 @@ msgstr "中文-简体"
 
 msgid "Chinese - Traditional"
 msgstr "中文-繁体"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "高级选项"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "电影选项"
 
 msgid "Choose Tuner"
 msgstr "选择调谐器"
@@ -3617,6 +3629,10 @@ msgstr "克隆电视屏幕到LCD"
 
 msgid "Close"
 msgstr "关闭"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "关闭标题选择"
 
 msgid "Close PiP with 'exit' button"
 msgstr "用'exit'键关闭画中画"
@@ -4884,6 +4900,10 @@ msgid "Delete Loc"
 msgstr "删除"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "删除定时器"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "删除所有日志文件"
 
@@ -5679,6 +5699,10 @@ msgstr "编辑DNS"
 msgid "Edit Tags"
 msgstr "编辑设置"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "编辑定时器"
+
 msgid "Edit alternatives"
 msgstr "编辑备选方案"
 
@@ -6237,6 +6261,14 @@ msgstr "网卡接口"
 msgid "Ethiopia"
 msgstr "埃塞俄比亚"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "扩展"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "事件查看级联菜单"
+
 msgid "Event font size (relative to skin size)"
 msgstr "事件字体大小（相对皮肤尺寸）"
 
@@ -6246,13 +6278,11 @@ msgstr "事件名称优先"
 msgid "Event view"
 msgstr "时间查看"
 
-msgid "Event view context menu"
-msgstr "事件查看级联菜单"
-
 msgid "Event view menu"
 msgstr "时间查看菜单"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "事件信息菜单"
 
 msgid "Every 12 hours"
@@ -6399,11 +6429,12 @@ msgstr "扩展"
 msgid "Extensions"
 msgstr "扩展"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "扩展菜单"
+
 msgid "Extensions management"
 msgstr "扩展管理"
-
-msgid "Extensions menu"
-msgstr "扩展菜单"
 
 msgid "External"
 msgstr "外部"
@@ -6698,6 +6729,9 @@ msgstr "最终滚动延迟"
 
 msgid "Find currently playing service"
 msgstr "查找当前播放的频道"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "精确运动"
@@ -9203,6 +9237,14 @@ msgstr "向下移动到最后项目"
 msgid "Move east"
 msgstr "东移"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "向下移动到下一个项目"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "添加到泪飙上去"
+
 msgid "Move the keyboard cursor down"
 msgstr "向下移动键盘光标"
 
@@ -10134,6 +10176,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "频道上下文菜单"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "保护主菜单"
 
@@ -10155,6 +10201,14 @@ msgstr "打开调谐器设置 "
 
 msgid "Open the movie list"
 msgstr "打开电影列表"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "打开电影列表"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "单个EPG"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10616,6 +10670,10 @@ msgid "Please choose an extension..."
 msgstr "请选择增加部分..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "请选择增加部分..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "请选择增加部分..."
 
@@ -10700,10 +10758,11 @@ msgid "Please select a playlist..."
 msgstr "请选择一个播放列表..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "请选择一个子频道..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "选择一个子频道..."
 
 msgid "Please select a subservice to record..."
@@ -10717,7 +10776,7 @@ msgid "Please select an acceptable directory."
 msgstr "请选择一个播放列表..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "请选择一个子频道..."
 
 msgid "Please select medium to be scanned"
@@ -11907,6 +11966,14 @@ msgstr "复位"
 msgid "Reset and renumerate title names"
 msgstr "复位并重设标题名称"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "恢复默认"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "重置所有热键?"
+
 msgid "Reset order (All)"
 msgstr "重置所有设置"
 
@@ -12103,6 +12170,25 @@ msgstr "环绕开始时间"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "进阶指导"
 
 #, fuzzy
 msgid "Rundi"
@@ -13630,8 +13716,16 @@ msgid "Show multi channel EPG"
 msgstr "多个EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "转到下一频道"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "删除镜像"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "显示扩展描述"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "从远程接收器URL导入频道和EPG时显示通知未完成"
@@ -13684,8 +13778,16 @@ msgid "Show positioner position"
 msgstr "显示卫星所处位置"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "转到上一事件"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "切换到前一个频道"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "转到上一频道页面"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14177,9 +14279,6 @@ msgstr "排序规则"
 #, fuzzy
 msgid "Sort by default"
 msgstr "设为默认"
-
-msgid "Sort list to default and exit?"
-msgstr "是否恢复默认列表排序并退出?"
 
 msgid "Sort list:"
 msgstr "排序列表:"
@@ -16219,6 +16318,10 @@ msgstr "通用高频头"
 msgid "Unknown"
 msgstr "未知"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "未知频道"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "取消作为专用3D频道的频道标识"
 
@@ -16616,9 +16719,9 @@ msgstr "视频模式"
 msgid "Video wizard"
 msgstr "视频向导"
 
-#, fuzzy
-msgid "Video: "
-msgstr "视频PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18882,9 +18985,6 @@ msgstr "未知"
 
 msgid "unknown error"
 msgstr "未知错误"
-
-msgid "unknown service"
-msgstr "未知频道"
 
 msgid "unpublished"
 msgstr "未发表"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -1383,26 +1383,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "vždy 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "vždy 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr "16K"
@@ -1507,14 +1499,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 msgid "4K"
@@ -1843,6 +1827,10 @@ msgstr "Pridať stanicu"
 msgid "Add Bookmark"
 msgstr "Pridať záložku"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Pridať časovač"
+
 msgid "Add a mark"
 msgstr "Pridať značku"
 
@@ -1855,6 +1843,10 @@ msgstr "Pridať nový titul"
 
 msgid "Add a new title"
 msgstr "Pridať nový titul"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Pridať / odstrániť časovač pre aktuálnu udalosť"
 
 msgid "Add alternatives"
 msgstr "Pridať alternatívy"
@@ -2405,6 +2397,10 @@ msgstr "Na začiatku"
 
 msgid "At end"
 msgstr "Na konci"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Pozor, toto je opakovaný časovač!!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Pozor, toto je opakovaný časovač!!\n"
@@ -3239,6 +3235,10 @@ msgid "Cancel selection"
 msgstr "Voľba stanice"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Voľba stanice"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Voľba stanice"
 
@@ -3331,6 +3331,10 @@ msgstr "Zmena jazyka"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Zmeniť časovač"
 
 msgid "Change bouquets in quickzap"
 msgstr "Zmeniť prehľady pri rýchlom prepínaní"
@@ -3472,6 +3476,14 @@ msgstr "Čínština - zjednodušená"
 
 msgid "Chinese - Traditional"
 msgstr "Čínština - tradičná"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Ďalšie možnosti"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Výber filmu"
 
 msgid "Choose Tuner"
 msgstr "Zvoľte tuner"
@@ -3628,6 +3640,10 @@ msgstr "Duplikovať obrazovku TV na LCD"
 
 msgid "Close"
 msgstr "Zatvoriť"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Zatvoriť výber titulkov"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Zatvoriť PiP pri stlačení Exit"
@@ -4895,6 +4911,10 @@ msgid "Delete Loc"
 msgstr "Vymazať"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Zmazať časovač"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Odstrániť všetky log súbory"
 
@@ -5697,6 +5717,10 @@ msgstr "Upraviť DNS"
 msgid "Edit Tags"
 msgstr "Upraviť nastavenia"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Úpraviť časovač"
+
 msgid "Edit alternatives"
 msgstr "Upraviť alternatívy"
 
@@ -6255,6 +6279,14 @@ msgstr "Rozhranie siete Eternet"
 msgid "Ethiopia"
 msgstr "Etiópia"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Rozšírenia"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Kontextové menu zobrazenia programu"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Veľkosť písma programu (v pomere k veľkosti vzhľadu)"
 
@@ -6264,13 +6296,11 @@ msgstr "Názov udalosti na začiatku"
 msgid "Event view"
 msgstr "Zobrazenie udalostí"
 
-msgid "Event view context menu"
-msgstr "Kontextové menu zobrazenia programu"
-
 msgid "Event view menu"
 msgstr "Menu zobrazenia programu"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Menu informácií o programoch"
 
 msgid "Every 12 hours"
@@ -6417,11 +6447,12 @@ msgstr "Rozšírenia"
 msgid "Extensions"
 msgstr "Rozšírenia"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Ponuka rozšírení"
+
 msgid "Extensions management"
 msgstr "Správa rozšírení"
-
-msgid "Extensions menu"
-msgstr "Ponuka rozšírení"
 
 msgid "External"
 msgstr "Externý"
@@ -6716,6 +6747,9 @@ msgstr "Konečné oneskorenie rolovania"
 
 msgid "Find currently playing service"
 msgstr "Nájsť práve prehrávanú stanicu"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Jemný pohyb"
@@ -9225,6 +9259,14 @@ msgstr "nadol na poslednú položku"
 msgid "Move east"
 msgstr "Pootočiť východne"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "nadol na nasledujúcu položku"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Prechádzať v zozname nahor"
+
 msgid "Move the keyboard cursor down"
 msgstr "Presunúť kurzor klávesnice nadol"
 
@@ -10156,6 +10198,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Kontextové menu stanice"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Chrániť hlavné menu"
 
@@ -10177,6 +10223,14 @@ msgstr "Otvoriť nastavenia tunera "
 
 msgid "Open the movie list"
 msgstr "Otvoriť zoznam filmov"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Otvoriť zoznam filmov"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Zobraziť EPG pre jednu stanicu"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10638,6 +10692,10 @@ msgid "Please choose an extension..."
 msgstr "Prosím, zvoľte rozšírenie..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Prosím, zvoľte rozšírenie..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Prosím, zvoľte rozšírenie..."
 
@@ -10722,10 +10780,11 @@ msgid "Please select a playlist..."
 msgstr "Prosím, zvoľte zoznam prehrávok..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Prosím, zvoľte podkanál..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Prosím, zvoľte podkanál..."
 
 msgid "Please select a subservice to record..."
@@ -10739,7 +10798,7 @@ msgid "Please select an acceptable directory."
 msgstr "Prosím, zvoľte zoznam prehrávok..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Prosím, zvoľte podkanál..."
 
 msgid "Please select medium to be scanned"
@@ -11929,6 +11988,14 @@ msgstr "Resetovať"
 msgid "Reset and renumerate title names"
 msgstr "Resetovať a prečíslovať názvy titulov"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Obnoviť predvolené"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Nastaviť všetky klávesové skratky na predvolené?"
+
 msgid "Reset order (All)"
 msgstr "Resetovať poradie (Všetky)"
 
@@ -12125,6 +12192,25 @@ msgstr "Zaokrúhliť čas štartu na"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "vzdelávanie dospelých"
 
 #, fuzzy
 msgid "Rundi"
@@ -13654,8 +13740,16 @@ msgid "Show multi channel EPG"
 msgstr "Zobraziť viackanálový EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Nadol na nasledujúci program"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Vybrať obrázok"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Zobraziť rozšírený opis"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Zobraziť notifikáciu v prípade, keď nebol import staníc a/alebo EPG z URL adresy vzdialeného prijímača úspešne dokončený"
@@ -13708,8 +13802,16 @@ msgid "Show positioner position"
 msgstr "Zobrazovať polohu pozicionéru"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Nahor na predchádzajúci program"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Prepnúť na predchádzajúcu stanicu"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Prejsť na predchádzajúcu stranu služby"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14200,9 +14302,6 @@ msgstr "Triediť podľa"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Nastaviť predvolené"
-
-msgid "Sort list to default and exit?"
-msgstr "Vykonať predvolené zoradenie zoznamu a ukončiť?"
 
 msgid "Sort list:"
 msgstr "Usporiadať zoznam:"
@@ -16243,6 +16342,10 @@ msgstr "Univerzálne LNB"
 msgid "Unknown"
 msgstr "Neznáme"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "neznáma stanica"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Odznačiť stanicu ako 3D stanicu"
 
@@ -16637,9 +16740,9 @@ msgstr "Režim videa"
 msgid "Video wizard"
 msgstr "Video sprievodca"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Obrazový PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18902,9 +19005,6 @@ msgstr "neznáme"
 
 msgid "unknown error"
 msgstr "neznáma chyba"
-
-msgid "unknown service"
-msgstr "neznáma stanica"
 
 msgid "unpublished"
 msgstr "nepublikované"

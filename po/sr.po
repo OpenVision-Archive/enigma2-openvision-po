@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2011-04-14 00:02+0200\n"
 "Last-Translator: majevica <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
@@ -1420,18 +1420,13 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 uvek"
 
 #
 msgid "16:9 Letterbox"
@@ -1440,11 +1435,6 @@ msgstr "16:9 Letterbox"
 #
 msgid "16:9 always"
 msgstr "16:9 uvek"
-
-#
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1558,16 +1548,6 @@ msgstr "4:3 Letterbox"
 
 #
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1940,6 +1920,11 @@ msgid "Add Bookmark"
 msgstr "Dodaj oznaku"
 
 #
+#, fuzzy
+msgid "Add Timer"
+msgstr "Dodaj Tajmer"
+
+#
 msgid "Add a mark"
 msgstr "Dodaj oznaku"
 
@@ -1956,6 +1941,11 @@ msgstr "Dodaj novi titl"
 #
 msgid "Add a new title"
 msgstr "Dodaj novi titl"
+
+#
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "dodaj snimanje (zaustavi posle trenutnog događaja)"
 
 #
 msgid "Add alternatives"
@@ -2599,6 +2589,9 @@ msgstr "na početku"
 #, fuzzy
 msgid "At end"
 msgstr "na kraju"
+
+msgid "Attention, this is a repeated timer!"
+msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
@@ -3496,6 +3489,11 @@ msgstr "Izbor kanala"
 
 #
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Izbor kanala"
+
+#
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Izbor kanala"
 
@@ -3594,6 +3592,11 @@ msgstr "Jezik"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Change Timer"
+msgstr "Tajmer"
 
 #
 msgid "Change bouquets in quickzap"
@@ -3761,6 +3764,16 @@ msgstr ""
 msgid "Chinese - Traditional"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "EPG selektor "
+
+#
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Lokacija filmova"
+
 msgid "Choose Tuner"
 msgstr ""
 
@@ -3922,6 +3935,11 @@ msgstr ""
 #
 msgid "Close"
 msgstr "Zatvori"
+
+#
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Zatvori zbor naslova"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -5342,6 +5360,11 @@ msgstr "Obriši"
 
 #
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Obriši datoteku"
+
+#
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Obriši datoteku"
 
@@ -6279,6 +6302,11 @@ msgid "Edit Tags"
 msgstr "Urediti postavke"
 
 #
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Glavni meni"
+
+#
 msgid "Edit alternatives"
 msgstr "Uredi alternative"
 
@@ -6889,6 +6917,16 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Proširenja"
+
+#
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Meni liste filmova"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6900,16 +6938,15 @@ msgstr ""
 msgid "Event view"
 msgstr "Pregled događaja"
 
-msgid "Event view context menu"
-msgstr ""
-
 #
 #, fuzzy
 msgid "Event view menu"
 msgstr "Pregled događaja"
 
-msgid "Events info menu"
-msgstr ""
+#
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "Pregled događaja"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -7085,11 +7122,13 @@ msgid "Extensions"
 msgstr "Proširenja"
 
 #
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Proširenja"
+
+#
 msgid "Extensions management"
 msgstr "Rukovanje proširenjima"
-
-msgid "Extensions menu"
-msgstr ""
 
 msgid "External"
 msgstr ""
@@ -7394,6 +7433,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -10208,6 +10250,14 @@ msgstr "Pomeri dole na poslednji unos"
 msgid "Move east"
 msgstr "Pokreći na istok"
 
+#
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "Pomeri dole na naredni unos"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -11288,6 +11338,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Open context menu"
+msgstr "Meni liste kanala"
+
+#
+#, fuzzy
 msgid "Open main menu"
 msgstr "Glavni meni"
 
@@ -11314,6 +11369,14 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "Vratite se na listu filmova"
+
+#
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Vratite se na listu filmova"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -11829,6 +11892,11 @@ msgstr "Molim odaberite proširenje..."
 
 #
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Molim odaberite proširenje..."
+
+#
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Molim odaberite proširenje..."
 
@@ -11928,12 +11996,12 @@ msgstr "Molim odaberite plejlistu..."
 
 #
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Molim odaberite podkanal..."
 
 #
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "Molim odaberite podkanal..."
 
 #
@@ -11951,7 +12019,7 @@ msgstr "Molim odaberite plejlistu..."
 
 #
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Molim odaberite podkanal..."
 
 #
@@ -13320,6 +13388,16 @@ msgstr "Resetujte"
 msgid "Reset and renumerate title names"
 msgstr "Resetujte i prebrojte imena naslova"
 
+#
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Vrati bekape"
+
+#
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Vrati bekape"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -13556,6 +13634,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -15284,8 +15380,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show next event"
+msgstr "Pomeri dole na naredni unos"
+
+#
+#, fuzzy
 msgid "Show next image"
 msgstr "Obriši datoteku"
+
+#
+#, fuzzy
+msgid "Show next page of description"
+msgstr "prikaži proširene informacije"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -15339,8 +15445,18 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Show previous event"
+msgstr "Pomeri gore na prethodni unos"
+
+#
+#, fuzzy
 msgid "Show previous image"
 msgstr "prebaci na prethodni podkanal "
+
+#
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Vratite se na prethodni kanal"
 
 #
 #, fuzzy
@@ -15916,9 +16032,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "standardne postavke stila liste"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -18197,6 +18310,11 @@ msgstr "Univerzalni LNB"
 msgid "Unknown"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Unknown Service"
+msgstr "Nepoznat kanal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -18651,9 +18769,9 @@ msgstr "Video postavke"
 msgid "Video wizard"
 msgstr "Video čarobnjak"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -21079,10 +21197,6 @@ msgstr "Nepoznato"
 
 msgid "unknown error"
 msgstr ""
-
-#
-msgid "unknown service"
-msgstr "Nepoznat kanal"
 
 msgid "unpublished"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -1246,26 +1246,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16: 9 секогаш"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "16: 9 секогаш"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr "16K"
@@ -1371,14 +1363,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 msgid "4K"
@@ -1708,6 +1692,10 @@ msgstr "Додај услуга"
 msgid "Add Bookmark"
 msgstr "Додај обележувач"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Додај тајмер"
+
 msgid "Add a mark"
 msgstr "Додај ознака"
 
@@ -1720,6 +1708,10 @@ msgstr "Додај нов наслов"
 
 msgid "Add a new title"
 msgstr "Додај нов наслов"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Додај / отстрани го тајмерот за промена на тековниот настан"
 
 msgid "Add alternatives"
 msgstr "Додај алтернативи"
@@ -2270,6 +2262,10 @@ msgstr "На почетокот"
 
 msgid "At end"
 msgstr "На крајот"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Внимание, ова е повторен тајмер!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Внимание, ова е повторен тајмер!\n"
@@ -3104,6 +3100,10 @@ msgid "Cancel selection"
 msgstr "Избор на канал"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Избор на канал"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Избор на канал"
 
@@ -3196,6 +3196,10 @@ msgstr "Промени го јазикот"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Променете го тајмерот"
 
 msgid "Change bouquets in quickzap"
 msgstr "Променете го букетот со промена на канал"
@@ -3337,6 +3341,14 @@ msgstr "Кинески - Поедноставен"
 
 msgid "Chinese - Traditional"
 msgstr "Кинески - Традиционален"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Понатамошни Опции"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Избор на филм"
 
 msgid "Choose Tuner"
 msgstr "Изберете го тјунерот"
@@ -3493,6 +3505,10 @@ msgstr "Клонирајте го ТВ-екранот на LCD"
 
 msgid "Close"
 msgstr "Затвори"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Затвори го насловот избор"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Затворете PiP со копчето 'излези'"
@@ -4760,6 +4776,10 @@ msgid "Delete Loc"
 msgstr "Избриши"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Избришете го тајмерот"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Отстрани ги сите лог-датотеки"
 
@@ -5561,6 +5581,10 @@ msgstr "Уредете DNS"
 msgid "Edit Tags"
 msgstr "Измени поставки"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Уредете го тајмерот"
+
 msgid "Edit alternatives"
 msgstr "Уредете ги алтернативите"
 
@@ -6119,6 +6143,14 @@ msgstr "Етернет мрежен адаптер"
 msgid "Ethiopia"
 msgstr "Етиопија"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Екстензии"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Контекстно мени за преглед на настанот"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Големина на фонт на пратка (во однос на големината на скинот)"
 
@@ -6128,13 +6160,11 @@ msgstr "Прво име на настанот"
 msgid "Event view"
 msgstr "Преглед на настанот"
 
-msgid "Event view context menu"
-msgstr "Контекстно мени за преглед на настанот"
-
 msgid "Event view menu"
 msgstr "Мени за преглед на настанот"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Мени со информации за настани"
 
 msgid "Every 12 hours"
@@ -6281,11 +6311,12 @@ msgstr "Екстензии"
 msgid "Extensions"
 msgstr "Екстензии"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Мени за екстензии"
+
 msgid "Extensions management"
 msgstr "Управување со екстензии"
-
-msgid "Extensions menu"
-msgstr "Мени за екстензии"
 
 msgid "External"
 msgstr "Надворешен"
@@ -6580,6 +6611,9 @@ msgstr "Крајна брзината на лизгање"
 
 msgid "Find currently playing service"
 msgstr "Скокни на тековниот канал"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Прецизно движење"
@@ -9087,6 +9121,14 @@ msgstr "движете се надолу до последниот влез"
 msgid "Move east"
 msgstr "Сврти кон исток"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "преминете надолу на следниот влез"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Оди горе по листот"
+
 msgid "Move the keyboard cursor down"
 msgstr "Поместете го курсорот на тастатурата надолу"
 
@@ -10018,6 +10060,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Контекстно мени на каналот"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Заштитете го главното мени"
 
@@ -10039,6 +10085,14 @@ msgstr "Отворете поставки за тјунер "
 
 msgid "Open the movie list"
 msgstr "Вратете се на списокот со видеа"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Вратете се на списокот со видеа"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Прикажи EPG за каналот"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10500,6 +10554,10 @@ msgid "Please choose an extension..."
 msgstr "Ве молиме изберете екстензија ..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Ве молиме изберете екстензија ..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Ве молиме изберете екстензија ..."
 
@@ -10584,10 +10642,11 @@ msgid "Please select a playlist..."
 msgstr "Изберете плејлиста ..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Ве молиме изберете потКанал ..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Ве молиме изберете подКанал ..."
 
 msgid "Please select a subservice to record..."
@@ -10601,7 +10660,7 @@ msgid "Please select an acceptable directory."
 msgstr "Изберете плејлиста ..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Ве молиме изберете потКанал ..."
 
 msgid "Please select medium to be scanned"
@@ -11791,6 +11850,14 @@ msgstr "Ресетираj"
 msgid "Reset and renumerate title names"
 msgstr "Ресетирање и пребројување имиња на наслови"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Врати го стандардно"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Да се постават сите hotkey за стандардно?"
+
 msgid "Reset order (All)"
 msgstr "Ресетирај ја нарачката (сите)"
 
@@ -11987,6 +12054,25 @@ msgstr "Време на започнување со кружење"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "понатамошно образование"
 
 #, fuzzy
 msgid "Rundi"
@@ -13514,8 +13600,16 @@ msgid "Show multi channel EPG"
 msgstr "Прикажи повеќеканален EPG"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Оди на следната емисија"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Избриши имиџ"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Покажи проширен опис"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Покажи известување ако увозните канали и / или EPG од URL-то на далечинскиот приемник не се завршени"
@@ -13568,8 +13662,16 @@ msgid "Show positioner position"
 msgstr "Покажи позиција на роторот"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Оди на претходната емисија"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Префрли се на претходниот канал"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Оди на претходната страница на каналот"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14059,9 +14161,6 @@ msgstr "Сортирај по"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Поставете стандардно"
-
-msgid "Sort list to default and exit?"
-msgstr "Сортирај стандарден список и излези?"
 
 msgid "Sort list:"
 msgstr "Сортирај список:"
@@ -16094,6 +16193,10 @@ msgstr "Универзална ЛНБ"
 msgid "Unknown"
 msgstr "Непознат"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "непознат канал"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Отстранете ја ознаката за услугата како 3D канал \""
 
@@ -16489,9 +16592,9 @@ msgstr "Видео режим"
 msgid "Video wizard"
 msgstr "Видео асистент"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Видео PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18756,9 +18859,6 @@ msgstr "непознато"
 
 msgid "unknown error"
 msgstr "непозната грешка"
-
-msgid "unknown service"
-msgstr "непознат канал"
 
 msgid "unpublished"
 msgstr "необјавен"

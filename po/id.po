@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -1373,26 +1373,18 @@ msgstr "Kotaksurat 16:10"
 msgid "16:10 PanScan"
 msgstr "PanScan 16:10"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "Kotaksurat 16:10"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "PanScan 16:10"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "selalu 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "Kotaksurat 16:9"
 
 msgid "16:9 always"
 msgstr "selalu 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "Kotaksurat 16:9"
 
 msgid "16K"
 msgstr ""
@@ -1498,14 +1490,6 @@ msgid "4:3 Letterbox"
 msgstr "Kotaksurat 4:3"
 
 msgid "4:3 PanScan"
-msgstr "PanScan 4:3"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "Kotaksurat 4:3"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "PanScan 4:3"
 
 #, fuzzy
@@ -1839,6 +1823,10 @@ msgstr "Tambah layanan"
 msgid "Add Bookmark"
 msgstr "Tambah penandabuku"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Tambah pewaktu"
+
 msgid "Add a mark"
 msgstr "Tambah penanda"
 
@@ -1851,6 +1839,10 @@ msgstr "Tambah judul baru"
 
 msgid "Add a new title"
 msgstr "Tambah judul baru"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Tambah/hapus pewaktu ganti pada acara saat ini"
 
 msgid "Add alternatives"
 msgstr "Tambahkan alternatif"
@@ -2410,6 +2402,10 @@ msgstr "Di awal"
 
 msgid "At end"
 msgstr "Di akhir"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Perhatian, ini pewaktu berulang!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Perhatian, ini pewaktu berulang!\n"
@@ -3257,6 +3253,10 @@ msgid "Cancel selection"
 msgstr "Pilihan kanal"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Pilihan kanal"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Pilihan kanal"
 
@@ -3351,6 +3351,10 @@ msgstr "Ganti Bahasa"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Ubah pewaktu"
 
 msgid "Change bouquets in quickzap"
 msgstr "Ganti buket saat zap cepat"
@@ -3497,6 +3501,14 @@ msgstr "Cina - Sederhana"
 
 msgid "Chinese - Traditional"
 msgstr "Cina - Tradisional"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Pilihan Selanjutnya"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Pemilihan film"
 
 msgid "Choose Tuner"
 msgstr "Pilih Penala"
@@ -3653,6 +3665,10 @@ msgstr "Gandakan layar TV ke LCD"
 
 msgid "Close"
 msgstr "Tutup"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Tutup pemilihan judul"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Tutup PiP saat keluar"
@@ -4943,6 +4959,10 @@ msgid "Delete Loc"
 msgstr "Hapus"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Hapus pewaktu"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Hapus semua berkaslog"
 
@@ -5762,6 +5782,10 @@ msgstr "Ubah DNS"
 msgid "Edit Tags"
 msgstr "Ubah pengaturan"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Ubah pewaktu"
+
 msgid "Edit alternatives"
 msgstr "Ubah alternatif"
 
@@ -6335,6 +6359,14 @@ msgstr "Antarmuka jaringan ethernet"
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Ekstensi"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Menu konteks tinjau acara"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Ukuran huruf acara (tergantung ukurang tampilan)"
 
@@ -6344,13 +6376,11 @@ msgstr "Nama acara lebih dulu"
 msgid "Event view"
 msgstr "Lihat acara"
 
-msgid "Event view context menu"
-msgstr "Menu konteks tinjau acara"
-
 msgid "Event view menu"
 msgstr "Menu lihat acara"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Menu info acara"
 
 msgid "Every 12 hours"
@@ -6498,11 +6528,12 @@ msgstr "Ekstensi"
 msgid "Extensions"
 msgstr "Ekstensi"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Menu ekstensi"
+
 msgid "Extensions management"
 msgstr "Pengelolaan ekstensi"
-
-msgid "Extensions menu"
-msgstr "Menu ekstensi"
 
 msgid "External"
 msgstr "Eksternal"
@@ -6808,6 +6839,9 @@ msgstr "Penundaan gulir terakhir"
 
 msgid "Find currently playing service"
 msgstr "Temukan layanan yg sedang diputar"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Pergerakan halus"
@@ -9359,6 +9393,14 @@ msgid "Move east"
 msgstr "Bergerak ke timur"
 
 #, fuzzy
+msgid "Move the current item down one line"
+msgstr "gerak ke bawah menuju entri selanjutnya"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Menuju ke atas daftar"
+
+#, fuzzy
 msgid "Move the keyboard cursor down"
 msgstr "Pindahkan kursor papankunci virtual ke bawah"
 
@@ -10312,6 +10354,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Menu keadaan kanal"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Lindungi menu utama"
 
@@ -10333,6 +10379,14 @@ msgstr "Buka pengaturan penala"
 
 msgid "Open the movie list"
 msgstr "Buka daftar film"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Buka daftar film"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Tampilkan EPG layanan tunggal"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10797,6 +10851,10 @@ msgid "Please choose an extension..."
 msgstr "Silakan pilih ekstensi..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Silakan pilih ekstensi..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Silakan pilih ekstensi..."
 
@@ -10882,10 +10940,11 @@ msgid "Please select a playlist..."
 msgstr "Mohon pilih daftarputar..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Mohon pilih sub layanan..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Mohon pilih sub layanan..."
 
 msgid "Please select a subservice to record..."
@@ -10899,7 +10958,7 @@ msgid "Please select an acceptable directory."
 msgstr "Mohon pilih daftarputar..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Mohon pilih sub layanan..."
 
 msgid "Please select medium to be scanned"
@@ -12102,6 +12161,14 @@ msgstr "Atur ulang"
 msgid "Reset and renumerate title names"
 msgstr "Atur ulang dan pertimbangkan lagi nama judul"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Atur bawaan"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Atur semua tombol pintas ke bawaan?"
+
 msgid "Reset order (All)"
 msgstr "Atur ulang urutan (Semua)"
 
@@ -12305,6 +12372,25 @@ msgstr "Putaran waktu mulai"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "edukasi lanjut"
 
 #, fuzzy
 msgid "Rundi"
@@ -13854,8 +13940,16 @@ msgid "Show multi channel EPG"
 msgstr "Tampilkan EPG kanal multi"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Menuju acara berikutnya"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Hapus pewaktu"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Tampilkan deskripsi lebih luas"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Tampilkan pemberitahuan saat impor kanal dan/atau EPG dari URL Rx jauh tidak selesai"
@@ -13908,8 +14002,16 @@ msgid "Show positioner position"
 msgstr "Tampilkan posisi posisioner"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Menuju acara sebelumnya"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Beralih ke kanal sebelumnya"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Menuju halaman sebelumnya dari layanan"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14412,9 +14514,6 @@ msgstr "Pilah dgn"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Atur bawaan"
-
-msgid "Sort list to default and exit?"
-msgstr "Pilah daftar ke bawaan lalu keluar?"
 
 msgid "Sort list:"
 msgstr "Daftar pilah:"
@@ -16495,6 +16594,10 @@ msgstr "LNB Universal"
 msgid "Unknown"
 msgstr "Takdikenal"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "layanan tak dikenal"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Hapus tanda layanan sebagai layanan 3D khusus"
 
@@ -16895,9 +16998,9 @@ msgstr "ModeVideo"
 msgid "Video wizard"
 msgstr "Wizard video"
 
-#, fuzzy
-msgid "Video: "
-msgstr "PID Video"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -19189,9 +19292,6 @@ msgstr "tidak dikenal"
 
 msgid "unknown error"
 msgstr "kesalahan takdikenal"
-
-msgid "unknown service"
-msgstr "layanan tak dikenal"
 
 msgid "unpublished"
 msgstr "takdipulikasikan"

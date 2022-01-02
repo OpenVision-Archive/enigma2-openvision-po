@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -1302,26 +1302,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16:9 ตลอดเวลา"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "16:9 ตลอดเวลา"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr ""
@@ -1425,14 +1417,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 #, fuzzy
@@ -1758,6 +1742,10 @@ msgstr "เพิ่มบริการ"
 msgid "Add Bookmark"
 msgstr "เพิ่มบุ๊คมาร์ค"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "เพิ่มลงตารางเวลา"
+
 msgid "Add a mark"
 msgstr "เพิ่มจุด"
 
@@ -1771,6 +1759,10 @@ msgstr "เพิ่มเรื่องใหม่"
 
 msgid "Add a new title"
 msgstr "เพิ่มเรื่องใหม่"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "บันทึกรายการ (หยุดเมื่อจบรายการ)"
 
 msgid "Add alternatives"
 msgstr "เพิ่มทางเลือกอื่น"
@@ -2341,6 +2333,9 @@ msgid "At beginning"
 msgstr "เริ่มตั้งแต่ต้น"
 
 msgid "At end"
+msgstr ""
+
+msgid "Attention, this is a repeated timer!"
 msgstr ""
 
 msgid "Attention, this is repeated timer!\n"
@@ -3155,6 +3150,10 @@ msgid "Cancel selection"
 msgstr "เลือกช่องรายการ"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "เลือกช่องรายการ"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "เลือกช่องรายการ"
 
@@ -3246,6 +3245,10 @@ msgstr "ภาษา"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "ตั้งเวลา"
 
 msgid "Change bouquets in quickzap"
 msgstr "เปลี่ยนกลุ่มรายการเมื่อย้ายช่อง"
@@ -3390,6 +3393,14 @@ msgstr ""
 
 msgid "Chinese - Traditional"
 msgstr ""
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "เลือกผังรายการ"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "เลือกการตั้งเวลา"
 
 msgid "Choose Tuner"
 msgstr ""
@@ -3541,6 +3552,10 @@ msgstr ""
 
 msgid "Close"
 msgstr "ปิด"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "ปิดหน้าเลือกชื่อเรื่อง"
 
 msgid "Close PiP with 'exit' button"
 msgstr ""
@@ -4834,6 +4849,10 @@ msgid "Delete Loc"
 msgstr "ลบ"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "ลบไฟล์"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "ลบไฟล์"
 
@@ -5639,6 +5658,10 @@ msgstr "แก้ไข DNS"
 msgid "Edit Tags"
 msgstr "แก้ไขการตั้งค่า"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "เมนูหลัก"
+
 msgid "Edit alternatives"
 msgstr "แก้ไขแบบอื่น"
 
@@ -6189,6 +6212,14 @@ msgstr ""
 msgid "Ethiopia"
 msgstr ""
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "ส่วนเพิ่มเติม"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "เมนูรายการภาพยนต์"
+
 msgid "Event font size (relative to skin size)"
 msgstr ""
 
@@ -6199,15 +6230,13 @@ msgstr ""
 msgid "Event view"
 msgstr "แสดงรายการ"
 
-msgid "Event view context menu"
-msgstr ""
-
 #, fuzzy
 msgid "Event view menu"
 msgstr "แสดงรายการ"
 
-msgid "Events info menu"
-msgstr ""
+#, fuzzy
+msgid "Events Info Menu"
+msgstr "แสดงรายการ"
 
 msgid "Every 12 hours"
 msgstr ""
@@ -6356,10 +6385,11 @@ msgstr "ส่วนเพิ่มเติม"
 msgid "Extensions"
 msgstr "ส่วนเพิ่มเติม"
 
-msgid "Extensions management"
-msgstr ""
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "ส่วนเพิ่มเติม"
 
-msgid "Extensions menu"
+msgid "Extensions management"
 msgstr ""
 
 msgid "External"
@@ -6640,6 +6670,9 @@ msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently playing service"
+msgstr ""
+
+msgid "Find similar events in the EPG"
 msgstr ""
 
 msgid "Fine movement"
@@ -9144,6 +9177,13 @@ msgstr "ย้ายลงไปท้ายสุด"
 msgid "Move east"
 msgstr "เคลื่อนไปทางทิศตะวันออก"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "ย้ายลงไป"
+
+msgid "Move the current item up one line"
+msgstr ""
+
 msgid "Move the keyboard cursor down"
 msgstr ""
 
@@ -10090,6 +10130,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "เมนูช่องรายการ"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "เมนูหลัก"
 
@@ -10113,6 +10157,13 @@ msgstr ""
 #, fuzzy
 msgid "Open the movie list"
 msgstr "กลับไปยังสารบัญภาพยนต์"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "กลับไปยังสารบัญภาพยนต์"
+
+msgid "Open the single service EPG view"
+msgstr ""
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10574,6 +10625,10 @@ msgid "Please choose an extension..."
 msgstr "กรุณาเลือกส่วนเพิ่มเติม..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "กรุณาเลือกส่วนเพิ่มเติม..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "กรุณาเลือกส่วนเพิ่มเติม..."
 
@@ -10657,11 +10712,11 @@ msgid "Please select a playlist..."
 msgstr "กรุณาเลือกสารบัญรายการ..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "กรุณาเลือกบริการย่อย..."
 
 #, fuzzy
-msgid "Please select a sub service..."
+msgid "Please select a sub service:"
 msgstr "กรุณาเลือกบริการย่อย..."
 
 msgid "Please select a subservice to record..."
@@ -10675,7 +10730,7 @@ msgid "Please select an acceptable directory."
 msgstr "กรุณาเลือกสารบัญรายการ..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "กรุณาเลือกบริการย่อย..."
 
 #, fuzzy
@@ -11869,6 +11924,14 @@ msgstr "ตั้งค่าใหม่"
 msgid "Reset and renumerate title names"
 msgstr "ยกเลิกและเรียงลำดับชื่อเรื่องใหม่"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "นำสำรองกลับมาใช้"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "นำสำรองกลับมาใช้"
+
 msgid "Reset order (All)"
 msgstr ""
 
@@ -12070,6 +12133,24 @@ msgid "Round start time on"
 msgstr ""
 
 msgid "Run how often ?"
+msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+msgid "Run the numbered action"
 msgstr ""
 
 msgid "Rundi"
@@ -13614,8 +13695,16 @@ msgid "Show multi channel EPG"
 msgstr ""
 
 #, fuzzy
+msgid "Show next event"
+msgstr "ย้ายลงไป"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "ลบไฟล์"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "แสดงคำอธิบายรายการเพิ่มเติม"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr ""
@@ -13665,8 +13754,16 @@ msgid "Show positioner position"
 msgstr ""
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "ย้ายไปก่อนหน้านี้"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "ไปบริการย่อยก่อนหน้า"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "กลับไปยังบริการก่อนหน้า"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14169,9 +14266,6 @@ msgstr ""
 #, fuzzy
 msgid "Sort by default"
 msgstr "แสดงรูปแบบเริ่มต้น"
-
-msgid "Sort list to default and exit?"
-msgstr ""
 
 msgid "Sort list:"
 msgstr ""
@@ -16197,6 +16291,10 @@ msgstr "Universal LNB"
 msgid "Unknown"
 msgstr ""
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "ไม่ทราบชนิดบริการ"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr ""
 
@@ -16602,9 +16700,9 @@ msgstr "ตั้งค่าวีดีโอ"
 msgid "Video wizard"
 msgstr "ตัวช่วยตั้งค่าวีดีโอ"
 
-#, fuzzy
-msgid "Video: "
-msgstr "ตั้งค่าวีดีโอ"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18798,9 +18896,6 @@ msgstr "ไม่มีข้อมูล"
 
 msgid "unknown error"
 msgstr ""
-
-msgid "unknown service"
-msgstr "ไม่ทราบชนิดบริการ"
 
 msgid "unpublished"
 msgstr ""

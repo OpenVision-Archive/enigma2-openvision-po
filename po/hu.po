@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -1367,26 +1367,18 @@ msgstr "16:10 Letterbox"
 msgid "16:10 PanScan"
 msgstr "16:10 PanScan"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "16:10 Letterbox"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 PanScan"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "mindig 16:9"
 
 msgid "16:9 Letterbox"
 msgstr "16:9 Letterbox"
 
 msgid "16:9 always"
 msgstr "mindig 16:9"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "16:9 Letterbox"
 
 msgid "16K"
 msgstr "16K"
@@ -1491,14 +1483,6 @@ msgid "4:3 Letterbox"
 msgstr "4:3 Letterbox"
 
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "4:3 Letterbox"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "4:3 PanScan"
 
 msgid "4K"
@@ -1828,6 +1812,10 @@ msgstr "Csatorna hozzáadása"
 msgid "Add Bookmark"
 msgstr "Bookmark hozzáadása"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Időzítés"
+
 msgid "Add a mark"
 msgstr "Jelző hozzáadása"
 
@@ -1840,6 +1828,10 @@ msgstr "Új cím hozzáadása"
 
 msgid "Add a new title"
 msgstr "Új cím hozzáadása"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Hozzáadás/eltávolítás változtatása a jelenlegi eseménynél"
 
 msgid "Add alternatives"
 msgstr "Alternatívák hozzáadása"
@@ -2388,6 +2380,10 @@ msgstr "Az elején"
 
 msgid "At end"
 msgstr "A végén"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Figyelem, ez egy ismétlődő időzítés!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Figyelem, ez egy ismétlődő időzítés!\n"
@@ -3222,6 +3218,10 @@ msgid "Cancel selection"
 msgstr "Csatorna választás"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Csatorna választás"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Csatorna választás"
 
@@ -3314,6 +3314,10 @@ msgstr "Nyelv kiválasztása"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Időzítő módosítása"
 
 msgid "Change bouquets in quickzap"
 msgstr "Listák változtatása gyors ugrásban"
@@ -3455,6 +3459,14 @@ msgstr "Kínai - Egyszerűsített"
 
 msgid "Chinese - Traditional"
 msgstr "Kínai - Tradícionális"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "További beállítások"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Filmválasztás"
 
 msgid "Choose Tuner"
 msgstr "Tuner kiválasztása"
@@ -3611,6 +3623,10 @@ msgstr "TV kijelző klónozása LCD kijelzőre"
 
 msgid "Close"
 msgstr "Bezárás"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Címválasztás bezárása"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Kép-a-Képben bezárása kilépéskor"
@@ -4876,6 +4892,10 @@ msgid "Delete Loc"
 msgstr "Törlés"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Időzítő törlése"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Hibanaplók eltávolítása"
 
@@ -5675,6 +5695,10 @@ msgstr "DNS módosítása"
 msgid "Edit Tags"
 msgstr "Beállítások módosítása"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Időzítő módosítása"
+
 msgid "Edit alternatives"
 msgstr "Alternatívák módosítása"
 
@@ -6229,6 +6253,14 @@ msgstr "Ethernet hálózati interfész"
 msgid "Ethiopia"
 msgstr "Etiópia"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Bővítmények"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Eseménynézet menü"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Esemény betűmérete (kinézet méretéhez viszonyítva)"
 
@@ -6238,13 +6270,11 @@ msgstr "Esemény neve először"
 msgid "Event view"
 msgstr "Eseménynézet"
 
-msgid "Event view context menu"
-msgstr "Eseménynézet menü"
-
 msgid "Event view menu"
 msgstr "Esemény-nézet menü"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Esemény információs menü"
 
 msgid "Every 12 hours"
@@ -6391,11 +6421,12 @@ msgstr "Bővítmények"
 msgid "Extensions"
 msgstr "Bővítmények"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Bővítmények menü"
+
 msgid "Extensions management"
 msgstr "Bővítmények kezelése"
-
-msgid "Extensions menu"
-msgstr "Bővítmények menü"
 
 msgid "External"
 msgstr "Külső"
@@ -6690,6 +6721,9 @@ msgstr "Görgetés végének késleltetése"
 
 msgid "Find currently playing service"
 msgstr "Éppen nézett csatorna megkeresése"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Finom mozgatás"
@@ -9199,6 +9233,14 @@ msgstr "ugrás a legutolsó tételhez"
 msgid "Move east"
 msgstr "Kelet felé"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "ugrás a következő tételhez"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "A listán felfelé"
+
 msgid "Move the keyboard cursor down"
 msgstr "A virtuális billentyűzet kurzor mozgatása lefelé"
 
@@ -10132,6 +10174,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Csatornalista menü"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Főmenü védelme"
 
@@ -10153,6 +10199,14 @@ msgstr "Tuner beállító megnyitása "
 
 msgid "Open the movie list"
 msgstr "Filmlista megnyitása"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Filmlista megnyitása"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Egy csatorna EPG megjelenítése"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10614,6 +10668,10 @@ msgid "Please choose an extension..."
 msgstr "Kérem, válasszon egy funkciót..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Kérem, válasszon egy funkciót..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Kérem, válasszon egy funkciót..."
 
@@ -10698,10 +10756,11 @@ msgid "Please select a playlist..."
 msgstr "Válasszon egy lejátszási listát..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Válasszon egy alcsatornát..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Válasszon egy alcsatornát..."
 
 msgid "Please select a subservice to record..."
@@ -10715,7 +10774,7 @@ msgid "Please select an acceptable directory."
 msgstr "Válasszon egy lejátszási listát..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Válasszon egy alcsatornát..."
 
 msgid "Please select medium to be scanned"
@@ -11905,6 +11964,14 @@ msgstr "Visszaállítás"
 msgid "Reset and renumerate title names"
 msgstr "A tételek újraszámozása"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Alapértelmezett visszaállítás"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Minden hotkey-t visszaállít alapértelmezett állapotba?"
+
 msgid "Reset order (All)"
 msgstr "Sorrend visszaállítása (összes)"
 
@@ -12101,6 +12168,25 @@ msgstr "Kerek kezdési idő"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "továbboktatás"
 
 #, fuzzy
 msgid "Rundi"
@@ -13627,8 +13713,16 @@ msgid "Show multi channel EPG"
 msgstr "Több csatornás EPG megjelenítése"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Ugrás a következő eseményre"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Image kiválasztása"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Bővített leírás megjelenítése"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Figyelmeztetés mutatása, ha a csatornák és/vagy az EPG importálása a távoli vevő URL-ből nem fejeződött be"
@@ -13681,8 +13775,16 @@ msgid "Show positioner position"
 msgstr "Pozícionáló pozíciójának mutatása"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Ugrás az előző eseményre"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Ugrás az előző csatornára"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Ugrás az előző csatornalapra"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14173,9 +14275,6 @@ msgstr "Rendezés"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Alapértelmezett"
-
-msgid "Sort list to default and exit?"
-msgstr "Visszaállítja a lista rendezését, és kilép?"
 
 msgid "Sort list:"
 msgstr "Lista rendezése:"
@@ -16221,6 +16320,10 @@ msgstr "Univerzális fej"
 msgid "Unknown"
 msgstr "Ismeretlen"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "ismeretlen csatorna"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "A csatorna megjelölés 'dedikált 3D csatorna' eltávolítása"
 
@@ -16615,9 +16718,9 @@ msgstr "Videó mód"
 msgid "Video wizard"
 msgstr "Video varázsló"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Videó PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18877,9 +18980,6 @@ msgstr "ismeretlen"
 
 msgid "unknown error"
 msgstr "ismeretlen hiba"
-
-msgid "unknown service"
-msgstr "ismeretlen csatorna"
 
 msgid "unpublished"
 msgstr "kiadatlan"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-26 02:01+0000\n"
+"POT-Creation-Date: 2022-01-02 02:02+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -1356,26 +1356,18 @@ msgstr "Hộp thư 16:10"
 msgid "16:10 PanScan"
 msgstr "16:10 Pan Quét"
 
-#, fuzzy
-msgid "16:10 letterbox"
-msgstr "Hộp thư 16:10"
-
-#, fuzzy
-msgid "16:10 panscan"
-msgstr "16:10 Pan Quét"
-
 msgid "16:9"
 msgstr ""
+
+#, fuzzy
+msgid "16:9 Always"
+msgstr "16: 9 luôn"
 
 msgid "16:9 Letterbox"
 msgstr "Hộp thư 16: 9"
 
 msgid "16:9 always"
 msgstr "16: 9 luôn"
-
-#, fuzzy
-msgid "16:9 letterbox"
-msgstr "Hộp thư 16: 9"
 
 msgid "16K"
 msgstr "16K"
@@ -1481,14 +1473,6 @@ msgid "4:3 Letterbox"
 msgstr "Hộp thư 4: 3"
 
 msgid "4:3 PanScan"
-msgstr "Quét 4: 3 Pan"
-
-#, fuzzy
-msgid "4:3 letterbox"
-msgstr "Hộp thư 4: 3"
-
-#, fuzzy
-msgid "4:3 panscan"
 msgstr "Quét 4: 3 Pan"
 
 msgid "4K"
@@ -1818,6 +1802,10 @@ msgstr "Thêm dịch vụ"
 msgid "Add Bookmark"
 msgstr "Thêm dấu trang"
 
+#, fuzzy
+msgid "Add Timer"
+msgstr "Thêm bộ đếm thời gian"
+
 msgid "Add a mark"
 msgstr "Thêm một dấu"
 
@@ -1830,6 +1818,10 @@ msgstr "Thêm một tiêu đề mới"
 
 msgid "Add a new title"
 msgstr "Thêm một tiêu đề mới"
+
+#, fuzzy
+msgid "Add a timer for the current event"
+msgstr "Thêm / xóa bộ đếm thời gian thay đổi cho sự kiện hiện tại"
 
 msgid "Add alternatives"
 msgstr "Thêm lựa chọn thay thế"
@@ -2376,6 +2368,10 @@ msgstr "Khi bắt đầu"
 
 msgid "At end"
 msgstr "Cuối cùng"
+
+#, fuzzy
+msgid "Attention, this is a repeated timer!"
+msgstr "Chú ý, đây là bộ đếm thời gian lặp đi lặp lại!\n"
 
 msgid "Attention, this is repeated timer!\n"
 msgstr "Chú ý, đây là bộ đếm thời gian lặp đi lặp lại!\n"
@@ -3210,6 +3206,10 @@ msgid "Cancel selection"
 msgstr "Chọn kênh"
 
 #, fuzzy
+msgid "Cancel the action selection and exit"
+msgstr "Chọn kênh"
+
+#, fuzzy
 msgid "Cancel the location selection"
 msgstr "Chọn kênh"
 
@@ -3302,6 +3302,10 @@ msgstr "Thay đổi ngôn ngữ"
 
 msgid "Change PIN Pressing [OK]"
 msgstr ""
+
+#, fuzzy
+msgid "Change Timer"
+msgstr "Thay đổi bộ đếm thời gian"
 
 msgid "Change bouquets in quickzap"
 msgstr "Thay đổi gói kênh trong quickzap"
@@ -3443,6 +3447,14 @@ msgstr "Tiếng Trung - Đơn giản hóa"
 
 msgid "Chinese - Traditional"
 msgstr "Truyền thống Trung Hoa"
+
+#, fuzzy
+msgid "Choice Box Actions"
+msgstr "Tùy chọn khác"
+
+#, fuzzy
+msgid "Choice Box Order Actions"
+msgstr "Lựa chọn phim"
 
 msgid "Choose Tuner"
 msgstr "Chọn bộ chỉnh"
@@ -3599,6 +3611,10 @@ msgstr "Sao chép màn hình TV sang LCD"
 
 msgid "Close"
 msgstr "Đóng"
+
+#, fuzzy
+msgid "Close Event View screen"
+msgstr "Đóng lựa chọn tiêu đề"
 
 msgid "Close PiP with 'exit' button"
 msgstr "Đóng PiP khi thoát"
@@ -4866,6 +4882,10 @@ msgid "Delete Loc"
 msgstr "Xóa bỏ"
 
 #, fuzzy
+msgid "Delete Timer"
+msgstr "Xóa bộ đếm thời gian"
+
+#, fuzzy
 msgid "Delete all log files"
 msgstr "Xóa tất cả logfiles"
 
@@ -5666,6 +5686,10 @@ msgstr "Chỉnh sửa DNS"
 msgid "Edit Tags"
 msgstr "Chỉnh sửa cài đặt"
 
+#, fuzzy
+msgid "Edit Timer"
+msgstr "Chỉnh sửa bộ đếm thời gian"
+
 msgid "Edit alternatives"
 msgstr "Chỉnh sửa thay thế"
 
@@ -6224,6 +6248,14 @@ msgstr "Giao diện mạng Ethernet"
 msgid "Ethiopia"
 msgstr "Ê-díp-tô"
 
+#, fuzzy
+msgid "Event View Actions"
+msgstr "Tiện ích mở rộng"
+
+#, fuzzy
+msgid "Event View Context Menu"
+msgstr "Menu ngữ cảnh xem sự kiện"
+
 msgid "Event font size (relative to skin size)"
 msgstr "Kích thước phông chữ sự kiện (liên quan đến kích thước da)"
 
@@ -6233,13 +6265,11 @@ msgstr "Tên sự kiện đầu tiên"
 msgid "Event view"
 msgstr "Chế độ xem sự kiện"
 
-msgid "Event view context menu"
-msgstr "Menu ngữ cảnh xem sự kiện"
-
 msgid "Event view menu"
 msgstr "Menu xem sự kiện"
 
-msgid "Events info menu"
+#, fuzzy
+msgid "Events Info Menu"
 msgstr "Menu thông tin sự kiện"
 
 msgid "Every 12 hours"
@@ -6386,11 +6416,12 @@ msgstr "Tiện ích mở rộng"
 msgid "Extensions"
 msgstr "Tiện ích mở rộng"
 
+#, fuzzy
+msgid "Extensions Menu"
+msgstr "Menu mở rộng"
+
 msgid "Extensions management"
 msgstr "Quản lý tiện ích mở rộng"
-
-msgid "Extensions menu"
-msgstr "Menu mở rộng"
 
 msgid "External"
 msgstr "Bên ngoài"
@@ -6685,6 +6716,9 @@ msgstr "Độ trễ cuộn cuối cùng"
 
 msgid "Find currently playing service"
 msgstr "Tìm dịch vụ hiện đang chơi"
+
+msgid "Find similar events in the EPG"
+msgstr ""
 
 msgid "Fine movement"
 msgstr "Phong trào tốt"
@@ -9192,6 +9226,14 @@ msgstr "di chuyển xuống mục cuối cùng"
 msgid "Move east"
 msgstr "Di chuyển về phía đông"
 
+#, fuzzy
+msgid "Move the current item down one line"
+msgstr "chuyển xuống mục tiếp theo"
+
+#, fuzzy
+msgid "Move the current item up one line"
+msgstr "Lên danh sách"
+
 msgid "Move the keyboard cursor down"
 msgstr "Di chuyển con trỏ bàn phím xuống"
 
@@ -10123,6 +10165,10 @@ msgid "Open Vision revision check"
 msgstr ""
 
 #, fuzzy
+msgid "Open context menu"
+msgstr "Menu ngữ cảnh kênh"
+
+#, fuzzy
 msgid "Open main menu"
 msgstr "Bảo vệ menu chính"
 
@@ -10144,6 +10190,14 @@ msgstr "Mở bộ chỉnh cài đặt "
 
 msgid "Open the movie list"
 msgstr "Mở danh sách phim"
+
+#, fuzzy
+msgid "Open the multi service EPG view"
+msgstr "Mở danh sách phim"
+
+#, fuzzy
+msgid "Open the single service EPG view"
+msgstr "Hiển thị EPG dịch vụ duy nhất"
 
 msgid "OpenDNS FamilyShield"
 msgstr ""
@@ -10605,6 +10659,10 @@ msgid "Please choose an extension..."
 msgstr "Vui lòng chọn một phần mở rộng ..."
 
 #, fuzzy
+msgid "Please choose an extension:"
+msgstr "Vui lòng chọn một phần mở rộng ..."
+
+#, fuzzy
 msgid "Please choose reader"
 msgstr "Vui lòng chọn một phần mở rộng ..."
 
@@ -10689,10 +10747,11 @@ msgid "Please select a playlist..."
 msgstr "Vui lòng chọn danh sách phát ..."
 
 #, fuzzy
-msgid "Please select a resolution..."
+msgid "Please select a resolution:"
 msgstr "Vui lòng chọn một dịch vụ phụ ..."
 
-msgid "Please select a sub service..."
+#, fuzzy
+msgid "Please select a sub service:"
 msgstr "Vui lòng chọn một dịch vụ phụ ..."
 
 msgid "Please select a subservice to record..."
@@ -10706,7 +10765,7 @@ msgid "Please select an acceptable directory."
 msgstr "Vui lòng chọn danh sách phát ..."
 
 #, fuzzy
-msgid "Please select an aspect ratio..."
+msgid "Please select an aspect ratio:"
 msgstr "Vui lòng chọn một dịch vụ phụ ..."
 
 msgid "Please select medium to be scanned"
@@ -11896,6 +11955,14 @@ msgstr "Cài lại"
 msgid "Reset and renumerate title names"
 msgstr "Đặt lại và gia hạn tên tiêu đề"
 
+#, fuzzy
+msgid "Reset list order to default"
+msgstr "Khôi phục mặc định"
+
+#, fuzzy
+msgid "Reset list order to default?"
+msgstr "Đặt tất cả các phím nóng để mặc định?"
+
 msgid "Reset order (All)"
 msgstr "Đặt lại thứ tự (Tất cả)"
 
@@ -12092,6 +12159,25 @@ msgstr "Thời gian bắt đầu vòng"
 
 msgid "Run how often ?"
 msgstr ""
+
+msgid "Run the BLUE action"
+msgstr ""
+
+msgid "Run the GREEN action"
+msgstr ""
+
+msgid "Run the RED action"
+msgstr ""
+
+msgid "Run the YELLOW action"
+msgstr ""
+
+msgid "Run the currently highlighted action"
+msgstr ""
+
+#, fuzzy
+msgid "Run the numbered action"
+msgstr "giáo dục nâng cao"
 
 #, fuzzy
 msgid "Rundi"
@@ -13616,8 +13702,16 @@ msgid "Show multi channel EPG"
 msgstr "Hiển thị EPG đa kênh"
 
 #, fuzzy
+msgid "Show next event"
+msgstr "Đi đến sự kiện tiếp theo"
+
+#, fuzzy
 msgid "Show next image"
 msgstr "Xóa hình ảnh"
+
+#, fuzzy
+msgid "Show next page of description"
+msgstr "Hiển thị mô tả mở rộng"
 
 msgid "Show notification when import channels and/or EPG from remote receiver URL did not complete"
 msgstr "Hiển thị thông báo khi nhập kênh và / hoặc EPG từ URL người nhận từ xa không hoàn thành"
@@ -13670,8 +13764,16 @@ msgid "Show positioner position"
 msgstr "Hiển thị vị trí định vị"
 
 #, fuzzy
+msgid "Show previous event"
+msgstr "Đi đến sự kiện trước"
+
+#, fuzzy
 msgid "Show previous image"
 msgstr "Chuyển sang kênh trước"
+
+#, fuzzy
+msgid "Show previous page of description"
+msgstr "Chuyển đến trang trước của dịch vụ"
 
 #, fuzzy
 msgid "Show python in plugin browser"
@@ -14162,9 +14264,6 @@ msgstr "Sắp xếp theo"
 #, fuzzy
 msgid "Sort by default"
 msgstr "Đặt mặc định"
-
-msgid "Sort list to default and exit?"
-msgstr "Sắp xếp danh sách để mặc định và thoát?"
 
 msgid "Sort list:"
 msgstr "Sắp xếp danh sách:"
@@ -16204,6 +16303,10 @@ msgstr "LNB phổ quát"
 msgid "Unknown"
 msgstr "Không xác định"
 
+#, fuzzy
+msgid "Unknown Service"
+msgstr "dịch vụ chưa biết"
+
 msgid "Unmark service as dedicated 3D service"
 msgstr "Bỏ đánh dấu dịch vụ dưới dạng dịch vụ 3D chuyên dụng"
 
@@ -16598,9 +16701,9 @@ msgstr "Chế độ quay"
 msgid "Video wizard"
 msgstr "Trình hướng dẫn video"
 
-#, fuzzy
-msgid "Video: "
-msgstr "Video PID"
+#, python-format
+msgid "Video: %dx%d@%gHz"
+msgstr ""
 
 #, python-format
 msgid "Video: %s fps"
@@ -18864,9 +18967,6 @@ msgstr "không xác định"
 
 msgid "unknown error"
 msgstr "lỗi không rõ"
-
-msgid "unknown service"
-msgstr "dịch vụ chưa biết"
 
 msgid "unpublished"
 msgstr "chưa được công bố"
