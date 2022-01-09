@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -4391,10 +4391,6 @@ msgid "Current CEC address"
 msgstr "Τρέχουσα διεύθυνση CEC"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Τρέχουσα διεύθυνση CEC"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Tρέχων αναμεταδότης"
 
@@ -5205,6 +5201,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Χώρος δίσκου που διατίθεται για εγγραφές (σε GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "κατάσταση ανίχνευσης"
+
 msgid "Display 16:9 content as"
 msgstr "Εμφάνιση περιεχομένου 16:9 ως"
 
@@ -5543,10 +5543,6 @@ msgstr "Νέα πρόσθετα για λήψη"
 
 msgid "Downloadable plugins"
 msgstr "Πρόσθετα για λήψη"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Λήψη image"
 
 msgid "Downloading"
 msgstr "Λήψη"
@@ -8776,6 +8772,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "Κάρτα MMC"
 
@@ -9603,6 +9602,10 @@ msgstr "Διαμόρφωση δικτύου..."
 #, fuzzy
 msgid "Network information"
 msgstr "Ρύθμιση δικτύου"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Τρέχουσα διεύθυνση CEC"
 
 msgid "Network mount"
 msgstr "Προσάρτηση δικτύου"
@@ -11124,7 +11127,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Πιέστε ΟΚ για να συνεχίσετε."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Πιέστε ΟΚ για να ενεργοποιηθούν οι ρυθμίσεις."
 
 #, python-format
@@ -13230,10 +13233,6 @@ msgstr "Ορισμός ανάθεσης CI για εντοπισμό των δι
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Τρέχουσα διεύθυνση CEC"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13269,6 +13268,10 @@ msgstr "Ορισμός διεπαφής ως προεπιλεγμένης"
 
 msgid "Set limits"
 msgstr "Ορισμός ορίων"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Τρέχουσα διεύθυνση CEC"
 
 msgid "Set persistent PIN code"
 msgstr "Ορισμός μόνιμου κωδικού PIN"
@@ -17928,6 +17931,10 @@ msgstr "ενεργοποίηση ρύθμισης προσαρμογέα δικ�
 msgid "active"
 msgstr "ενεργό"
 
+#, fuzzy
+msgid "active "
+msgstr "ενεργό"
+
 msgid "actual time only"
 msgstr "μόνο ο πραγματικός χρόνος"
 
@@ -18613,9 +18620,6 @@ msgstr "το offset είναι"
 msgid "omit"
 msgstr "παράλειψη"
 
-msgid "on"
-msgstr "ανοικτό"
-
 msgid "on READ ONLY medium."
 msgstr "σε μέσο ΜΟΝΟ ΓΙΑ ΑΝΑΓΝΩΣΗ."
 
@@ -18881,6 +18885,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "στάνταρ"
+
+#, fuzzy
+msgid "standby "
+msgstr "Αναμονή"
 
 msgid "stepsize"
 msgstr "μέγεθος βήματος"

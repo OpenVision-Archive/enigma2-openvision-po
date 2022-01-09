@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -4673,10 +4673,6 @@ msgstr "Uutiset ajankohtaisohjelmat"
 msgid "Current CEC address"
 msgstr "Käytettävä CEC-osoite"
 
-#, fuzzy
-msgid "Current MAC address"
-msgstr "Käytettävä CEC-osoite"
-
 #
 #, fuzzy
 msgid "Current crash log"
@@ -5588,6 +5584,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Tallennuksille varattu levytila (GB)"
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "Haun tila"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Näytä 16:9 sisältö näin:"
 
@@ -5981,11 +5982,6 @@ msgstr "Uusia ladattavia lisäosia"
 #
 msgid "Downloadable plugins"
 msgstr "Ladattavia lisäosia"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Ladataan ohjelmistokuvaa"
 
 #
 msgid "Downloading"
@@ -9526,6 +9522,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 msgid "MMC card"
 msgstr "MMC-kortti"
@@ -10474,6 +10473,10 @@ msgstr "Verkon asetukset..."
 #, fuzzy
 msgid "Network information"
 msgstr "Verkon asetukset"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Käytettävä CEC-osoite"
 
 #
 msgid "Network mount"
@@ -12182,7 +12185,7 @@ msgstr "Jatka painamalla OK-näppäintä."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Ota käyttöön painamalla OK."
 
 #
@@ -14566,10 +14569,6 @@ msgstr "Ota käyttöön CI-määritys käytettävissä olevien palvelujen löyt�
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Käytettävä CEC-osoite"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14607,6 +14606,10 @@ msgstr "Määritä sovitin oletussovittimeksi"
 
 msgid "Set limits"
 msgstr "Aseta rajat"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Käytettävä CEC-osoite"
 
 msgid "Set persistent PIN code"
 msgstr "Aseta PIN-koodi katselulle"
@@ -19714,6 +19717,10 @@ msgstr "aktivoi verkkosovittimen asetukset"
 msgid "active"
 msgstr "Suhteellinen"
 
+#, fuzzy
+msgid "active "
+msgstr "Suhteellinen"
+
 msgid "actual time only"
 msgstr "Vain nykyinen hetki"
 
@@ -20486,10 +20493,6 @@ msgid "omit"
 msgstr ""
 
 #
-msgid "on"
-msgstr "Päällä"
-
-#
 msgid "on READ ONLY medium."
 msgstr "Vain-luku levystä."
 
@@ -20791,6 +20794,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "Vakio"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Valmiustila"
 
 msgid "stepsize"
 msgstr "askelkoko"

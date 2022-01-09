@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -4736,11 +4736,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Current MAC address"
-msgstr "IP Adres"
-
-#
-#, fuzzy
 msgid "Current crash log"
 msgstr "Hjoeddeiske Transponder"
 
@@ -5653,6 +5648,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "sykjen status"
+
+#
 msgid "Display 16:9 content as"
 msgstr "16:9 ynhâld sjen litte as"
 
@@ -6049,11 +6049,6 @@ msgstr "Binnen te heljen nije ynstekkers"
 #
 msgid "Downloadable plugins"
 msgstr "Binnen te heljen ynstekkers"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Binnenheljen fan"
 
 #
 msgid "Downloading"
@@ -9596,6 +9591,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 #, fuzzy
 msgid "MMC card"
@@ -10541,6 +10539,11 @@ msgstr "Netwurk configuraasje"
 #, fuzzy
 msgid "Network information"
 msgstr "Netwurk configuraasje"
+
+#
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Netwurk test"
 
 #
 #, fuzzy
@@ -12263,7 +12266,7 @@ msgstr "Druk OK op of ôfstandsbestjinning om fierder te gean."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Druk Ok om ynstellingen aktief te meitsjen."
 
 #
@@ -14679,9 +14682,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-msgid "Set a new MAC address"
-msgstr ""
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14720,6 +14720,11 @@ msgstr "Set ynterface as standerd ynterface"
 
 msgid "Set limits"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "IP Adres"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -19778,6 +19783,9 @@ msgstr ""
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -20528,10 +20536,6 @@ msgid "omit"
 msgstr ""
 
 #
-msgid "on"
-msgstr "oan"
-
-#
 msgid "on READ ONLY medium."
 msgstr "fan in ALLINNE-LEZE medium"
 
@@ -20827,6 +20831,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "standert"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Paraatmode"
 
 msgid "stepsize"
 msgstr ""

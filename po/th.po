@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -4340,10 +4340,6 @@ msgid "Current CEC address"
 msgstr ""
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "ตั้งค่าอินเตอร์เฟซ"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "ทรานสปอนเดอร์ปัจจุบัน"
 
@@ -5163,6 +5159,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "สถานะการค้นหา"
+
 msgid "Display 16:9 content as"
 msgstr "แสดงรายการ 16:9 แบบ"
 
@@ -5512,10 +5512,6 @@ msgstr "Plugin ใหม่ที่ดาวน์โหลดได้"
 
 msgid "Downloadable plugins"
 msgstr "Plugin ที่ดาวน์โหลดได้"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "กำลังดาวน์โหลด"
 
 msgid "Downloading"
 msgstr "กำลังดาวน์โหลด"
@@ -8726,6 +8722,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #, fuzzy
 msgid "MMC card"
 msgstr "MMC Card"
@@ -9553,6 +9552,10 @@ msgstr "ตั้งค่าเครือข่าย..."
 #, fuzzy
 msgid "Network information"
 msgstr "ตั้งค่าเครือข่าย..."
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "ทดสอบเครือข่าย"
 
 #, fuzzy
 msgid "Network mount"
@@ -11088,7 +11091,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "กดปุ่ม OK ที่รีโมทเพื่อทำงานต่อ"
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "กดปุ่ม OK เพื่อเริ่มใช้งาน"
 
 #, fuzzy, python-format
@@ -13223,9 +13226,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-msgid "Set a new MAC address"
-msgstr ""
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13262,6 +13262,10 @@ msgstr "ตั้งให้อินเตอร์เฟซนี้เป็
 
 msgid "Set limits"
 msgstr ""
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "ตั้งค่าอินเตอร์เฟซ"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -17869,6 +17873,9 @@ msgstr ""
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -18540,9 +18547,6 @@ msgstr ""
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "เปิด"
-
 msgid "on READ ONLY medium."
 msgstr "บนสื่อบันทึกอ่านได้อย่างเดียว"
 
@@ -18804,6 +18808,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "มาตรฐาน"
+
+#, fuzzy
+msgid "standby "
+msgstr "Standby"
 
 msgid "stepsize"
 msgstr ""

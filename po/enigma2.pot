@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3455,9 +3455,6 @@ msgstr ""
 msgid "Current CEC address"
 msgstr ""
 
-msgid "Current MAC address"
-msgstr ""
-
 msgid "Current crash log"
 msgstr ""
 
@@ -4124,6 +4121,9 @@ msgstr ""
 msgid "Disabled or WPA/WPA2"
 msgstr ""
 
+msgid "Disk state: "
+msgstr ""
+
 msgid "Display 16:9 content as"
 msgstr ""
 
@@ -4418,9 +4418,6 @@ msgid "Download plugins"
 msgstr ""
 
 msgid "Downloadable new plugins"
-msgstr ""
-
-msgid "Downloaded Images"
 msgstr ""
 
 msgid "Downloading"
@@ -6909,6 +6906,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr ""
 
@@ -8716,9 +8716,6 @@ msgstr ""
 msgid "Press OK on your remote control to continue."
 msgstr ""
 
-msgid "Press OK to activate the MAC address."
-msgstr ""
-
 #, python-format
 msgid "Press OK to activate the selected %s skin."
 msgstr ""
@@ -10490,9 +10487,6 @@ msgid "Services"
 msgstr ""
 
 msgid "Set PIN Pressing [OK]"
-msgstr ""
-
-msgid "Set a new MAC address"
 msgstr ""
 
 msgid "Set a temporary sort method for this directory"
@@ -13663,6 +13657,9 @@ msgstr ""
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -14303,9 +14300,6 @@ msgstr ""
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr ""
-
 msgid "on READ ONLY medium."
 msgstr ""
 
@@ -14551,6 +14545,9 @@ msgid "ssw"
 msgstr ""
 
 msgid "standard"
+msgstr ""
+
+msgid "standby "
 msgstr ""
 
 msgid "stepsize"
@@ -16085,6 +16082,9 @@ msgstr ""
 msgid "NTP Hostname"
 msgstr ""
 
+msgid "Network interface for MAC address."
+msgstr ""
+
 msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
 msgstr ""
 
@@ -16235,6 +16235,9 @@ msgstr ""
 msgid "Preferred tuner for recordings"
 msgstr ""
 
+msgid "Press OK to activate current MAC address."
+msgstr ""
+
 msgid "Press this button to emulate a long press on a button pressed afterwards (this also overrides any other actions assigned to emulation button)."
 msgstr ""
 
@@ -16359,6 +16362,9 @@ msgid "Set fps for external subtitles"
 msgstr ""
 
 msgid "Set framerate for MiniTV"
+msgstr ""
+
+msgid "Set new MAC address"
 msgstr ""
 
 msgid "Set the default location for your instant recordings. Press OK to add new locations, LEFT/RIGHT to select from any existing locations."

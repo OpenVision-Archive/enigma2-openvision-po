@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2017-01-18 16:38+0100\n"
 "Last-Translator: lupine <a_ecklon@hotmail.com>\n"
 "Language-Team: \n"
@@ -4761,10 +4761,6 @@ msgstr "Nyheder Igangværende Begivenheder"
 msgid "Current CEC address"
 msgstr "Nuværende CEC Adresse"
 
-#, fuzzy
-msgid "Current MAC address"
-msgstr "Nuværende CEC Adresse"
-
 #
 #, fuzzy
 msgid "Current crash log"
@@ -5669,6 +5665,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Plads der skal reseveres til optagelser (I GB)"
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "søge status"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Vis 16:9 indhold som"
 
@@ -6070,11 +6071,6 @@ msgstr "Hente nye Plugins"
 #
 msgid "Downloadable plugins"
 msgstr "Plugins der kan hentes"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Henter"
 
 #
 msgid "Downloading"
@@ -9649,6 +9645,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 msgid "MMC card"
 msgstr "MMC kort"
@@ -10587,6 +10586,10 @@ msgstr "Netværks opsætning..."
 #, fuzzy
 msgid "Network information"
 msgstr "Netværkskonfiguration"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Nuværende CEC Adresse"
 
 #
 msgid "Network mount"
@@ -12300,7 +12303,7 @@ msgstr "Tryk OK på din fjernbetjening for at fortsætte."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Tryk OK for at aktivere indstillinger."
 
 #
@@ -14689,10 +14692,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Nuværende CEC Adresse"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14730,6 +14729,10 @@ msgstr "Sætter interfacet om standard interface"
 
 msgid "Set limits"
 msgstr "Sæt grænser"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Nuværende CEC Adresse"
 
 msgid "Set persistent PIN code"
 msgstr "Gør PIN kode vedvarende"
@@ -19880,6 +19883,10 @@ msgstr "aktiver opsætning for netværksadapter"
 msgid "active"
 msgstr "Relativ"
 
+#, fuzzy
+msgid "active "
+msgstr "Relativ"
+
 msgid "actual time only"
 msgstr "Aktuel tid kun"
 
@@ -20648,10 +20655,6 @@ msgid "omit"
 msgstr ""
 
 #
-msgid "on"
-msgstr "til"
-
-#
 msgid "on READ ONLY medium."
 msgstr "på LÆS KUN medie"
 
@@ -20951,6 +20954,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "standard"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Standby"
 
 msgid "stepsize"
 msgstr "trinstørrelse"

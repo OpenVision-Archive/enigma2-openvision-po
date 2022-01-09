@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 Kurdish translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2013-04-22 04:29+0330\n"
 "Last-Translator: dimili21\n"
 "Language-Team: \n"
@@ -4390,10 +4390,6 @@ msgid "Current CEC address"
 msgstr "Current CEC address"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Current CEC address"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Current transponder"
 
@@ -5205,6 +5201,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Disk space to reserve for recordings (in GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "scan state"
+
 msgid "Display 16:9 content as"
 msgstr "Display 16:9 content as"
 
@@ -5555,10 +5555,6 @@ msgstr "Dayni Girédayiyé nu"
 
 msgid "Downloadable plugins"
 msgstr "Downloadable plugins"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Girédya"
 
 msgid "Downloading"
 msgstr "Girédya"
@@ -8769,6 +8765,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC card"
 
@@ -9599,6 +9598,10 @@ msgstr "Network configuration..."
 #, fuzzy
 msgid "Network information"
 msgstr "Network configuration..."
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Current CEC address"
 
 msgid "Network mount"
 msgstr "Network mount"
@@ -11121,7 +11124,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Press OK on your remote control to continue."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Press OK to activate the settings."
 
 #, fuzzy, python-format
@@ -13237,10 +13240,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Current CEC address"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13276,6 +13275,10 @@ msgstr "Set interface as default Interface"
 
 msgid "Set limits"
 msgstr "Set limits"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Current CEC address"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -17902,6 +17905,10 @@ msgstr "activate network adapter configuration"
 msgid "active"
 msgstr "Relative"
 
+#, fuzzy
+msgid "active "
+msgstr "Relative"
+
 msgid "actual time only"
 msgstr ""
 
@@ -18589,9 +18596,6 @@ msgstr "offset is"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "on"
-
 msgid "on READ ONLY medium."
 msgstr "on READ ONLY medium."
 
@@ -18859,6 +18863,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "standard"
+
+#, fuzzy
+msgid "standby "
+msgstr "Standby"
 
 msgid "stepsize"
 msgstr "stepsize"

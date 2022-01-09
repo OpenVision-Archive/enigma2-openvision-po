@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -4256,9 +4256,6 @@ msgstr "當前值: "
 msgid "Current CEC address"
 msgstr ""
 
-msgid "Current MAC address"
-msgstr ""
-
 #, fuzzy
 msgid "Current crash log"
 msgstr "當前值: "
@@ -5066,6 +5063,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "掃描狀態"
+
 msgid "Display 16:9 content as"
 msgstr "顯示16:9內容"
 
@@ -5400,10 +5401,6 @@ msgstr "可下載的新插件"
 
 msgid "Downloadable plugins"
 msgstr "可下載的插件"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "下載中"
 
 msgid "Downloading"
 msgstr "下載中"
@@ -8552,6 +8549,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr ""
 
@@ -9370,6 +9370,10 @@ msgstr ""
 #, fuzzy
 msgid "Network information"
 msgstr "資訊"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "網路測驗"
 
 msgid "Network mount"
 msgstr ""
@@ -10871,7 +10875,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "按OK鍵確認."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "按OK鍵啟動設定."
 
 #, fuzzy, python-format
@@ -12967,9 +12971,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-msgid "Set a new MAC address"
-msgstr ""
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13005,6 +13006,10 @@ msgstr "將網卡設為預設"
 
 msgid "Set limits"
 msgstr "設定極限"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "網路測驗"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -17476,6 +17481,9 @@ msgstr "啟動網卡配置"
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -18150,9 +18158,6 @@ msgstr ""
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "開"
-
 msgid "on READ ONLY medium."
 msgstr "唯讀介質."
 
@@ -18413,6 +18418,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "標準"
+
+#, fuzzy
+msgid "standby "
+msgstr "待機"
 
 msgid "stepsize"
 msgstr ""

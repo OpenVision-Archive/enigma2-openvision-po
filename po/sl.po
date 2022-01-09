@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -4811,10 +4811,6 @@ msgstr "Trenutni CEC naslov"
 msgid "Current CEC address"
 msgstr "Trenutni CEC naslov"
 
-#, fuzzy
-msgid "Current MAC address"
-msgstr "Trenutni CEC naslov"
-
 #
 #, fuzzy
 msgid "Current crash log"
@@ -5737,6 +5733,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Prostor na disku rezerviran za snemanje (v GB)"
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "stanje iskanja"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Prikaz 16:9 razmerj slike kot"
 
@@ -6145,11 +6146,6 @@ msgstr "Seznam vtičnikov"
 #
 msgid "Downloadable plugins"
 msgstr "Razpoložljivi vtičniki"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Nalaganje..."
 
 #
 msgid "Downloading"
@@ -9756,6 +9752,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 msgid "MMC card"
 msgstr "MMC kartica"
@@ -10706,6 +10705,10 @@ msgstr "Nastavitve omrežja"
 #, fuzzy
 msgid "Network information"
 msgstr "Nastavitve omrežja"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Trenutni CEC naslov"
 
 #
 msgid "Network mount"
@@ -12439,7 +12442,7 @@ msgstr "Za nadaljevanje pritisnite OK."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Za aktiviranje nastavitev pritisnite OK."
 
 #
@@ -14878,10 +14881,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Trenutni CEC naslov"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14922,6 +14921,10 @@ msgstr "Nastavite kot privzet vmesnik"
 
 msgid "Set limits"
 msgstr "Določitev meja"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Trenutni CEC naslov"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -20087,6 +20090,10 @@ msgstr "aktiviranje omrežnih nastavitev"
 msgid "active"
 msgstr "Relativno"
 
+#, fuzzy
+msgid "active "
+msgstr "Relativno"
+
 msgid "actual time only"
 msgstr "samo trenutni čas"
 
@@ -20847,10 +20854,6 @@ msgid "omit"
 msgstr ""
 
 #
-msgid "on"
-msgstr "vklop"
-
-#
 msgid "on READ ONLY medium."
 msgstr "na NEZAPISLJIV medij."
 
@@ -21150,6 +21153,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "Standardno"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Stanje pripravljenosti"
 
 msgid "stepsize"
 msgstr ""

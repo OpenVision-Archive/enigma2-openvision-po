@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -4759,10 +4759,6 @@ msgstr "Notícies Actualitat"
 msgid "Current CEC address"
 msgstr "Adreça actual del CEC"
 
-#, fuzzy
-msgid "Current MAC address"
-msgstr "Adreça actual del CEC"
-
 #
 #, fuzzy
 msgid "Current crash log"
@@ -5655,6 +5651,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Espai de disc per reservar per a enregistraments (en GB)"
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "estat de la recerca"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Mostra el contingut de 16:9 com a"
 
@@ -6050,11 +6051,6 @@ msgstr "Nous plugins disponibles"
 #
 msgid "Downloadable plugins"
 msgstr "Plugins descarregables"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Descarregant imatge"
 
 #
 msgid "Downloading"
@@ -9594,6 +9590,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 msgid "MMC card"
 msgstr "Targeta MMC"
@@ -10525,6 +10524,10 @@ msgstr "Configuració del sintonitzador…"
 #, fuzzy
 msgid "Network information"
 msgstr "Xarxa configuracio"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Adreça actual del CEC"
 
 #
 msgid "Network mount"
@@ -12220,7 +12223,7 @@ msgstr "Per continuar, premeu OK al comandament a distància."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Prem OK per a activar la configuració."
 
 #
@@ -14587,10 +14590,6 @@ msgstr "Estableix l’assignació de CI per a la detecció dels serveis disponib
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Adreça actual del CEC"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14628,6 +14627,10 @@ msgstr "Definiu si voleu veure les icones d’estat, les barres de progrés o re
 
 msgid "Set limits"
 msgstr "Estableix límits"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Adreça actual del CEC"
 
 msgid "Set persistent PIN code"
 msgstr "Estableix el codi de PIN persistent"
@@ -19672,6 +19675,10 @@ msgstr "activa la configuració de l’adaptador de xarxa"
 msgid "active"
 msgstr "actiu"
 
+#, fuzzy
+msgid "active "
+msgstr "actiu"
+
 msgid "actual time only"
 msgstr "temps real només"
 
@@ -20434,10 +20441,6 @@ msgid "omit"
 msgstr "ometre"
 
 #
-msgid "on"
-msgstr "activat"
-
-#
 msgid "on READ ONLY medium."
 msgstr "a LLEGIR NOMÉS el mitjà."
 
@@ -20734,6 +20737,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "estàndard"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Repòs"
 
 msgid "stepsize"
 msgstr "mida reduïda"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -4414,10 +4414,6 @@ msgid "Current CEC address"
 msgstr "Trenutna CEC adresa"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Trenutna CEC adresa"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Trenutni transponder"
 
@@ -5228,6 +5224,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Prostor na disku rezerviran za snimanje (u GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "status pretraživanja"
+
 msgid "Display 16:9 content as"
 msgstr "Zaslon 16: 9 kao"
 
@@ -5577,10 +5577,6 @@ msgstr "Novi dodaci za preuzimanje"
 
 msgid "Downloadable plugins"
 msgstr "Dodaci za preuzimanje"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Preuzimanje imagea"
 
 msgid "Downloading"
 msgstr "Preuzimanje"
@@ -8811,6 +8807,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC kartica"
 
@@ -9638,6 +9637,10 @@ msgstr "Mrežna konfiguracija..."
 #, fuzzy
 msgid "Network information"
 msgstr "Mrežna konfiguracija"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Trenutna CEC adresa"
 
 msgid "Network mount"
 msgstr "Postavljanje mreže"
@@ -11159,7 +11162,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Pritisnite OK na daljinskom upravljaču za nastavak."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Pritisnite OK za aktiviranje postavki."
 
 #, python-format
@@ -13268,10 +13271,6 @@ msgstr "Postavite CI zadatak za otkrivanje dostupnih usluga. Mnogi CI + moduli m
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Trenutna CEC adresa"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13307,6 +13306,10 @@ msgstr "Postavite sučelje kao zadano sučelje"
 
 msgid "Set limits"
 msgstr "Postavite granice"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Trenutna CEC adresa"
 
 msgid "Set persistent PIN code"
 msgstr "Postavite trajni PIN"
@@ -17966,6 +17969,10 @@ msgstr "aktivirati konfiguraciju mrežnog adaptera"
 msgid "active"
 msgstr "aktivan"
 
+#, fuzzy
+msgid "active "
+msgstr "aktivan"
+
 msgid "actual time only"
 msgstr "samo stvarno vrijeme"
 
@@ -18654,9 +18661,6 @@ msgstr "pomicanje"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "uklj"
-
 msgid "on READ ONLY medium."
 msgstr "na mediju SAMO ZA ČITANJE."
 
@@ -18922,6 +18926,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "standard"
+
+#, fuzzy
+msgid "standby "
+msgstr "Na čekanju"
 
 msgid "stepsize"
 msgstr "veličina koraka"

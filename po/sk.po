@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -4413,10 +4413,6 @@ msgid "Current CEC address"
 msgstr "Súčasná CEC adresa"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Súčasná CEC adresa"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Aktuálny transpondér"
 
@@ -5227,6 +5223,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Miesto na disku rezervované pre nahrávky (v GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "stav vyhľadávania"
+
 msgid "Display 16:9 content as"
 msgstr "Obraz 16:9 zobraziť ako"
 
@@ -5572,10 +5572,6 @@ msgstr "Nové doplnky na stiahnutie"
 
 msgid "Downloadable plugins"
 msgstr "Doplnky na stiahnutie"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Sťahuje sa image"
 
 msgid "Downloading"
 msgstr "Sťahovanie"
@@ -8805,6 +8801,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "Karta MMC"
 
@@ -9632,6 +9631,10 @@ msgstr "Konfigurácia siete..."
 #, fuzzy
 msgid "Network information"
 msgstr "Nastavenie siete"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Súčasná CEC adresa"
 
 msgid "Network mount"
 msgstr "Sieťový prípojný bod"
@@ -11153,7 +11156,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Ak chcete pokračovať, stlačte tlačidlo OK na diaľkovom ovládači."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Stlačením OK aktivujte nastavenia."
 
 #, python-format
@@ -13262,10 +13265,6 @@ msgstr "Nastaviť priradenie CI kvôli detekcii dostupných kanálov."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Súčasná CEC adresa"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13301,6 +13300,10 @@ msgstr "Nastaviť rozhranie ako predvolené"
 
 msgid "Set limits"
 msgstr "Nastaviť limity"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Súčasná CEC adresa"
 
 msgid "Set persistent PIN code"
 msgstr "Nastaviť trvalý PIN kód"
@@ -17960,6 +17963,10 @@ msgstr "aktivovať konfiguráciu sieťového adaptéra"
 msgid "active"
 msgstr "aktívne"
 
+#, fuzzy
+msgid "active "
+msgstr "aktívne"
+
 msgid "actual time only"
 msgstr "iba aktuálny čas"
 
@@ -18645,9 +18652,6 @@ msgstr "rezerva je"
 msgid "omit"
 msgstr "vynechať"
 
-msgid "on"
-msgstr "zap."
-
 msgid "on READ ONLY medium."
 msgstr "na nezapisovateľné médium."
 
@@ -18913,6 +18917,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "štandardné"
+
+#, fuzzy
+msgid "standby "
+msgstr "Pohotovostný režim"
 
 msgid "stepsize"
 msgstr "krok"

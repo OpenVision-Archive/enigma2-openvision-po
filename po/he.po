@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -4482,10 +4482,6 @@ msgid "Current CEC address"
 msgstr ""
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "הגדרת ממשק"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Current Transponder"
 
@@ -5330,6 +5326,11 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Disk state: "
+msgstr "מצב סריקה"
+
 msgid "Display 16:9 content as"
 msgstr "Display 16:9 content as"
 
@@ -5686,10 +5687,6 @@ msgstr "פלאגינים חדשים להורדה"
 
 msgid "Downloadable plugins"
 msgstr "פלאגינים להורדה"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "מוריד"
 
 msgid "Downloading"
 msgstr "מוריד"
@@ -9067,6 +9064,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr ""
 
@@ -9941,6 +9941,10 @@ msgstr "...הגדרת רשת"
 #, fuzzy
 msgid "Network information"
 msgstr "...הגדרת רשת"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Network test"
 
 #
 #, fuzzy
@@ -11566,7 +11570,7 @@ msgstr "על השלט על מנת להמשיך OK לחץ"
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Press OK to activate the settings."
 
 #, fuzzy, python-format
@@ -13799,9 +13803,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-msgid "Set a new MAC address"
-msgstr ""
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13840,6 +13841,10 @@ msgstr "Set interface as default Interface"
 
 msgid "Set limits"
 msgstr ""
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "הגדרת ממשק"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -18688,6 +18693,9 @@ msgstr "activate network adapter configuration"
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -19388,10 +19396,6 @@ msgstr ""
 msgid "omit"
 msgstr ""
 
-#
-msgid "on"
-msgstr "דלוק"
-
 msgid "on READ ONLY medium."
 msgstr "on READ ONLY medium."
 
@@ -19665,6 +19669,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "סטנדרטי"
+
+#, fuzzy
+msgid "standby "
+msgstr "המתנה"
 
 msgid "stepsize"
 msgstr ""

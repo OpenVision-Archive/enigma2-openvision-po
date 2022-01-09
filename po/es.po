@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -4377,10 +4377,6 @@ msgid "Current CEC address"
 msgstr "Dirección CEC actual"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Dirección CEC actual"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Transpondedor actual"
 
@@ -5166,6 +5162,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Espacio en disco a reservar para grabaciones (en GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "estado del búsqueda"
+
 msgid "Display 16:9 content as"
 msgstr "Mostrar contenido 16:9 como"
 
@@ -5506,9 +5506,6 @@ msgstr "Nuevos plugins descargables"
 
 msgid "Downloadable plugins"
 msgstr "Plugins descargables"
-
-msgid "Downloaded Images"
-msgstr "Imágenes descargadas"
 
 msgid "Downloading"
 msgstr "Descargando"
@@ -8661,6 +8658,10 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+#, fuzzy
+msgid "MHz"
+msgstr "%s MHz"
+
 msgid "MMC card"
 msgstr "MMC card"
 
@@ -9471,6 +9472,10 @@ msgstr "Configuración de la red…"
 #, fuzzy
 msgid "Network information"
 msgstr "Configuración de red"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Establecer nueva dirección mac"
 
 msgid "Network mount"
 msgstr "Montaje de red"
@@ -10966,7 +10971,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Pulse OK en su mando para continuar."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Pulse OK para activar la dirección MAC."
 
 #, fuzzy, python-format
@@ -13034,10 +13039,6 @@ msgstr "Establecer asignación de CI para la detección de servicios disponibles
 msgid "Set PIN Pressing [OK]"
 msgstr "Establezca PIN Presionando [OK]"
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Establecer nueva dirección mac"
-
 msgid "Set a temporary sort method for this directory"
 msgstr "Establecer un método de clasificación temporal para este directorio"
 
@@ -13073,6 +13074,10 @@ msgstr "Establecer interfaz como predeterminada"
 
 msgid "Set limits"
 msgstr "Establecer límites"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Establecer nueva dirección mac"
 
 msgid "Set persistent PIN code"
 msgstr "Establecer un código PIN persistente"
@@ -17616,6 +17621,10 @@ msgstr "activar configuración del adaptador de red"
 msgid "active"
 msgstr "activa"
 
+#, fuzzy
+msgid "active "
+msgstr "activa"
+
 msgid "actual time only"
 msgstr "solo tiempo actual"
 
@@ -18297,9 +18306,6 @@ msgstr "offset es"
 msgid "omit"
 msgstr "omitir"
 
-msgid "on"
-msgstr "encendido"
-
 msgid "on READ ONLY medium."
 msgstr "en medio de SOLO LECTURA."
 
@@ -18559,6 +18565,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "estándar"
+
+#, fuzzy
+msgid "standby "
+msgstr "Reposo"
 
 msgid "stepsize"
 msgstr "tamaño del paso"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -4418,10 +4418,6 @@ msgid "Current CEC address"
 msgstr "Dabartinis CEC adresas"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Dabartinis CEC adresas"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Dabartinis transponderis"
 
@@ -5232,6 +5228,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Įrašams rezervuota disko apimtis (GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "paieškos eiga"
+
 msgid "Display 16:9 content as"
 msgstr "16:9 santykio turinį rodyti, kaip"
 
@@ -5577,10 +5577,6 @@ msgstr "Galimi parsisiųsti nauji priedai"
 
 msgid "Downloadable plugins"
 msgstr "Galimi parsisiųsti priedai"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Parsiunčiamas atvaizdas"
 
 msgid "Downloading"
 msgstr "Parsisiunčiama"
@@ -8807,6 +8803,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC laikmena"
 
@@ -9634,6 +9633,10 @@ msgstr "Tinklo konfigūracija..."
 #, fuzzy
 msgid "Network information"
 msgstr "Tinklo konfigūracija"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Dabartinis CEC adresas"
 
 msgid "Network mount"
 msgstr "Tinkliniai pajungimai"
@@ -11155,7 +11158,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Spauskite OK savo valdymo pulte ir tęskite."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Spauskite OK norėdami aktyvuoti nustatymus."
 
 #, python-format
@@ -13265,10 +13268,6 @@ msgstr "Galimų kanalų aptikimui, įtraukti ir CI priskyrimą."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Dabartinis CEC adresas"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13304,6 +13303,10 @@ msgstr "Nustatykite sąsają kaip numatytąją sąsają"
 
 msgid "Set limits"
 msgstr "Nustatykite ribas"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Dabartinis CEC adresas"
 
 msgid "Set persistent PIN code"
 msgstr "Nustatyti nuolatinį PIN kodą"
@@ -17965,6 +17968,10 @@ msgstr "aktyvuokite tinklo plokštės konfigūraciją"
 msgid "active"
 msgstr "aktyvus"
 
+#, fuzzy
+msgid "active "
+msgstr "aktyvus"
+
 msgid "actual time only"
 msgstr "tik realus laikas"
 
@@ -18651,9 +18658,6 @@ msgstr "poslinkis yra"
 msgid "omit"
 msgstr "Praleisti"
 
-msgid "on"
-msgstr "įjungta"
-
 msgid "on READ ONLY medium."
 msgstr "diskas TIK SKAITYMUI."
 
@@ -18919,6 +18923,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "standartinis"
+
+#, fuzzy
+msgid "standby "
+msgstr "Budėjimo režimas"
 
 msgid "stepsize"
 msgstr "žingsnio dydis"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-11-27 11:53+0100\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -4715,10 +4715,6 @@ msgstr "Nyheter aktuelle saker"
 msgid "Current CEC address"
 msgstr "Gjeldende CEC adresse"
 
-#, fuzzy
-msgid "Current MAC address"
-msgstr "Gjeldende CEC adresse"
-
 #
 #, fuzzy
 msgid "Current crash log"
@@ -5602,6 +5598,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Lagringsplass avsatt til opptak (i GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "søkestatus"
+
 #
 msgid "Display 16:9 content as"
 msgstr "Vis 16:9 innhold som"
@@ -5997,11 +5997,6 @@ msgstr "Nedlastbare nye utvidelser"
 #
 msgid "Downloadable plugins"
 msgstr "Nedlastbare tillegg"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Laster ned operativsystem"
 
 #
 msgid "Downloading"
@@ -9547,6 +9542,10 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+#, fuzzy
+msgid "MHz"
+msgstr "%s MHz"
+
 #
 msgid "MMC card"
 msgstr "MMC kort"
@@ -10476,6 +10475,10 @@ msgstr "Nettverksinnstilling..."
 #, fuzzy
 msgid "Network information"
 msgstr "Nettverksinnstilling"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Gjeldende CEC adresse"
 
 #
 msgid "Network mount"
@@ -12162,7 +12165,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Trykk OK for å fortsette."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Trykk OK for å aktivere instillingene."
 
 #, python-format
@@ -14475,10 +14478,6 @@ msgstr "Angi CI tilordning for gjenkjenning av tilgjengelige tjenester."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Gjeldende CEC adresse"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14516,6 +14515,10 @@ msgstr "Bruk denne som standard grensesnitt"
 
 msgid "Set limits"
 msgstr "Sett grenser"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Gjeldende CEC adresse"
 
 msgid "Set persistent PIN code"
 msgstr "Angi permanent PIN kode"
@@ -19588,6 +19591,10 @@ msgstr "aktiver nettverksinnstilling"
 msgid "active"
 msgstr "aktiv"
 
+#, fuzzy
+msgid "active "
+msgstr "aktiv"
+
 #
 msgid "actual time only"
 msgstr "aktuell tid"
@@ -20354,10 +20361,6 @@ msgid "omit"
 msgstr "utelate"
 
 #
-msgid "on"
-msgstr "på"
-
-#
 msgid "on READ ONLY medium."
 msgstr "på READ ONLY medium."
 
@@ -20650,6 +20653,10 @@ msgstr ""
 #
 msgid "standard"
 msgstr "standard"
+
+#, fuzzy
+msgid "standby "
+msgstr "Slå av"
 
 msgid "stepsize"
 msgstr "trinn lengde"

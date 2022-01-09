@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -4402,10 +4402,6 @@ msgid "Current CEC address"
 msgstr "当前CEC地址"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "当前CEC地址"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "当前转发器"
 
@@ -5216,6 +5212,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "为录制保留磁盘空间(GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "扫描状态"
+
 msgid "Display 16:9 content as"
 msgstr "显示16:9内容"
 
@@ -5554,10 +5554,6 @@ msgstr "可下载的新插件"
 
 msgid "Downloadable plugins"
 msgstr "可下载的插件"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "正在解压镜像文"
 
 msgid "Downloading"
 msgstr "下载"
@@ -8783,6 +8779,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC存储卡"
 
@@ -9610,6 +9609,10 @@ msgstr "网络配置..."
 #, fuzzy
 msgid "Network information"
 msgstr "网络配置"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "当前CEC地址"
 
 msgid "Network mount"
 msgstr "网络挂载"
@@ -11131,7 +11134,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "按OK键确认."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "按OK键激活设置."
 
 #, python-format
@@ -13238,10 +13241,6 @@ msgstr "设置用于检测可用服务的CI分配."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "当前CEC地址"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13277,6 +13276,10 @@ msgstr "将网卡设为默认"
 
 msgid "Set limits"
 msgstr "设置极限"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "当前CEC地址"
 
 msgid "Set persistent PIN code"
 msgstr "设置PIN码有效期"
@@ -17937,6 +17940,10 @@ msgstr "激活网卡配置"
 msgid "active"
 msgstr "激活"
 
+#, fuzzy
+msgid "active "
+msgstr "激活"
+
 msgid "actual time only"
 msgstr "仅仅实际时间"
 
@@ -18625,9 +18632,6 @@ msgstr "自定义偏移"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "开"
-
 msgid "on READ ONLY medium."
 msgstr "只读介质."
 
@@ -18893,6 +18897,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "标准"
+
+#, fuzzy
+msgid "standby "
+msgstr "一般待机"
 
 msgid "stepsize"
 msgstr "步长"

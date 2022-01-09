@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -4606,10 +4606,6 @@ msgid "Current CEC address"
 msgstr "Huidig CEC adres"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Huidig CEC adres"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Huidige transponder"
 
@@ -5420,6 +5416,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Te reserveren schijfruimte voor opnames (in GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "zoekstatus"
+
 msgid "Display 16:9 content as"
 msgstr "Toon 16:9 materiaal als"
 
@@ -5769,10 +5769,6 @@ msgstr "Beschikbare plugins"
 
 msgid "Downloadable plugins"
 msgstr "Beschikbare plugins"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Het image wordt gedownload"
 
 msgid "Downloading"
 msgstr "Bezig met downloaden"
@@ -9020,6 +9016,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC kaart"
 
@@ -9847,6 +9846,10 @@ msgstr "Netwerkconfiguratie..."
 #, fuzzy
 msgid "Network information"
 msgstr "Netwerk configuratie"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Huidig CEC adres"
 
 msgid "Network mount"
 msgstr "Netwerkmount"
@@ -11400,7 +11403,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Druk Ok op uw afstandsbediening om verder te gaan."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Druk Ok om de wijziging op te slaan."
 
 #, python-format
@@ -13518,10 +13521,6 @@ msgstr "Kies CI toekenning om de beschikbare zenders te detecteren."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Huidig CEC adres"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13557,6 +13556,10 @@ msgstr "Stel deze interface in als standaard"
 
 msgid "Set limits"
 msgstr "Zet de limieten"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Huidig CEC adres"
 
 msgid "Set persistent PIN code"
 msgstr "Pincode instellen"
@@ -18308,6 +18311,10 @@ msgstr "Start de netwerkadapter configuratie"
 msgid "active"
 msgstr "actief"
 
+#, fuzzy
+msgid "active "
+msgstr "actief"
+
 msgid "actual time only"
 msgstr "enkel de actuele tijd"
 
@@ -18993,9 +19000,6 @@ msgstr "afstand is"
 msgid "omit"
 msgstr "weglaten"
 
-msgid "on"
-msgstr "aan"
-
 msgid "on READ ONLY medium."
 msgstr "op ALLEEN LEZEN medium."
 
@@ -19261,6 +19265,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "Standaard"
+
+#, fuzzy
+msgid "standby "
+msgstr "Stand-by"
 
 msgid "stepsize"
 msgstr "stapgrootte"

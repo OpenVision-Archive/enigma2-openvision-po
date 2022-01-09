@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -4398,10 +4398,6 @@ msgid "Current CEC address"
 msgstr "Praegune CEC aadress"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Praegune CEC aadress"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Hetke transponder"
 
@@ -5219,6 +5215,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Salvestistele tagatud kettaruum (GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "otsingu seis"
+
 msgid "Display 16:9 content as"
 msgstr "Näita 16:9 materjal"
 
@@ -5566,10 +5566,6 @@ msgstr "Allalaetavad uued pluginad ja laiendused"
 
 msgid "Downloadable plugins"
 msgstr "Allalaetavad laiendused"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Tarkvara alla laadimas"
 
 msgid "Downloading"
 msgstr "Laetakse alla"
@@ -8810,6 +8806,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC kaart"
 
@@ -9647,6 +9646,10 @@ msgstr "Võrgu seadistamine..."
 #, fuzzy
 msgid "Network information"
 msgstr "Võrgu seadistamine"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Praegune CEC aadress"
 
 msgid "Network mount"
 msgstr "Võrgu haakepunkt"
@@ -11168,7 +11171,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Jätkamiseks vajuta OK."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Seadete aktiveerimiseks vajuta OK."
 
 #, fuzzy, python-format
@@ -13296,10 +13299,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Praegune CEC aadress"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13335,6 +13334,10 @@ msgstr "Määra vaikimisi võrguliideseks"
 
 msgid "Set limits"
 msgstr "Määra piirid"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Praegune CEC aadress"
 
 msgid "Set persistent PIN code"
 msgstr "Sea PIN kood püsivaks"
@@ -18055,6 +18058,10 @@ msgstr "aktiveeri võrgukaardi seaded"
 msgid "active"
 msgstr "Suhteline"
 
+#, fuzzy
+msgid "active "
+msgstr "Suhteline"
+
 msgid "actual time only"
 msgstr "ainult tegelik aeg"
 
@@ -18746,9 +18753,6 @@ msgstr "hüvitus on"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "sees"
-
 msgid "on READ ONLY medium."
 msgstr "ainult LOETAV meedial."
 
@@ -19016,6 +19020,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "tavaline"
+
+#, fuzzy
+msgid "standby "
+msgstr "Ooterežiim"
 
 msgid "stepsize"
 msgstr "sammu suurus"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -4545,10 +4545,6 @@ msgid "Current CEC address"
 msgstr "التحكم في عناوين الإلكترونيات الاستهلاكية الحالية"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "التحكم في عناوين الإلكترونيات الاستهلاكية الحالية"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "قنوات التردد الحالي"
 
@@ -5378,6 +5374,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "مساحة القرص الصلب للتسجيلات (في الجيجابايت)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "حاله البحث"
+
 msgid "Display 16:9 content as"
 msgstr "محتوى أبعاد شاشة العرض 16:9"
 
@@ -5742,10 +5742,6 @@ msgstr "تحميل البلج إنز"
 #, fuzzy
 msgid "Downloadable plugins"
 msgstr "تحميل البلج إنز"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "جاري التحميل"
 
 msgid "Downloading"
 msgstr "جاري التحميل"
@@ -9075,6 +9071,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #, fuzzy
 msgid "MMC card"
 msgstr "بطاقة"
@@ -9924,6 +9923,10 @@ msgstr "تكوين شبكة الانترنت الاسلكية..."
 #, fuzzy
 msgid "Network information"
 msgstr "حماية التكوين"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "التحكم في عناوين الإلكترونيات الاستهلاكية الحالية"
 
 #, fuzzy
 msgid "Network mount"
@@ -11494,7 +11497,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "أضغط موافق من ريموت التحكم عن بعد للإستمرار."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "اضغط موافق لتفعيل الاعدادات."
 
 #, fuzzy, python-format
@@ -13712,10 +13715,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "التحكم في عناوين الإلكترونيات الاستهلاكية الحالية"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13753,6 +13752,10 @@ msgstr "أضبط الواجهة لتشكيل الواجهة الإفتراضية
 
 msgid "Set limits"
 msgstr "ضبط الحدود"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "التحكم في عناوين الإلكترونيات الاستهلاكية الحالية"
 
 msgid "Set persistent PIN code"
 msgstr "إعداد تعيين الرمز السري"
@@ -18571,6 +18574,10 @@ msgstr "تنشيط تشكيل محول الشبكة"
 msgid "active"
 msgstr "غير فعال"
 
+#, fuzzy
+msgid "active "
+msgstr "غير فعال"
+
 msgid "actual time only"
 msgstr ""
 
@@ -19280,9 +19287,6 @@ msgstr "يوازن هو"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "يعمل"
-
 msgid "on READ ONLY medium."
 msgstr "قراءة الوسيط فقط."
 
@@ -19556,6 +19560,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "قياسي"
+
+#, fuzzy
+msgid "standby "
+msgstr "وضع الإستعداد"
 
 msgid "stepsize"
 msgstr "حجم الخطوة"

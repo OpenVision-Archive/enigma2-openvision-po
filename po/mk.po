@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -4278,10 +4278,6 @@ msgid "Current CEC address"
 msgstr "Тековна CEC адреса"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Тековна CEC адреса"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Тековен транспондер"
 
@@ -5092,6 +5088,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Резервиран простор за складирање на снимки (во GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "состојба на пребарувања"
+
 msgid "Display 16:9 content as"
 msgstr "Прикажи екран 16: 9 како"
 
@@ -5436,10 +5436,6 @@ msgstr "Нови плагини за преземање"
 
 msgid "Downloadable plugins"
 msgstr "Плагини за преземање"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Превземи имиџ"
 
 msgid "Downloading"
 msgstr "Превземи"
@@ -8667,6 +8663,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "ММЦ картичка"
 
@@ -9494,6 +9493,10 @@ msgstr "Конфигурација на мрежа ..."
 #, fuzzy
 msgid "Network information"
 msgstr "Конфигурација на мрежата"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Тековна CEC адреса"
 
 msgid "Network mount"
 msgstr "Монтирање на мрежата"
@@ -11015,7 +11018,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Притиснете ОК за да продолжите."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Притиснете OK за да ги активирате поставките."
 
 #, python-format
@@ -13122,10 +13125,6 @@ msgstr "Поставете ја задачата за CI за откривање
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Тековна CEC адреса"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13161,6 +13160,10 @@ msgstr "Поставете го интерфејсот како стандард
 
 msgid "Set limits"
 msgstr "Поставете граници"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Тековна CEC адреса"
 
 msgid "Set persistent PIN code"
 msgstr "Поставете постојан ПИН код"
@@ -17808,6 +17811,10 @@ msgstr "активирајте ја конфигурацијата на мреж
 msgid "active"
 msgstr "активна"
 
+#, fuzzy
+msgid "active "
+msgstr "активна"
+
 msgid "actual time only"
 msgstr "само реално време"
 
@@ -18498,9 +18505,6 @@ msgstr "офсет е"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "на"
-
 msgid "on READ ONLY medium."
 msgstr "на READ ONLY медиум."
 
@@ -18767,6 +18771,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "стандард"
+
+#, fuzzy
+msgid "standby "
+msgstr "Стендбај"
 
 msgid "stepsize"
 msgstr "скалирање"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -4384,10 +4384,6 @@ msgid "Current CEC address"
 msgstr "Địa chỉ CEC hiện tại"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Địa chỉ CEC hiện tại"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Transponder hiện tại"
 
@@ -5198,6 +5194,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Dung lượng đĩa để dự trữ cho bản ghi (tính bằng GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "trạng thái quét"
+
 msgid "Display 16:9 content as"
 msgstr "Hiển thị hình ảnh chuẩn 16: 9"
 
@@ -5541,10 +5541,6 @@ msgstr "Các plugin mới có thể tải xuống"
 
 msgid "Downloadable plugins"
 msgstr "Các plugin có thể tải xuống"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Đang tải hình ảnh"
 
 msgid "Downloading"
 msgstr "Đang tải xuống"
@@ -8772,6 +8768,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "Thẻ MMC"
 
@@ -9599,6 +9598,10 @@ msgstr "Cấu hình mạng..."
 #, fuzzy
 msgid "Network information"
 msgstr "Cấu hình mạng"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Địa chỉ CEC hiện tại"
 
 msgid "Network mount"
 msgstr "Gắn kết mạng"
@@ -11120,7 +11123,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Nhấn OK trên điều khiển từ xa của bạn để tiếp tục."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Nhấn OK để kích hoạt cài đặt."
 
 #, python-format
@@ -13224,10 +13227,6 @@ msgstr "Đặt gán CI để phát hiện các dịch vụ khả dụng."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Địa chỉ CEC hiện tại"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13263,6 +13262,10 @@ msgstr "Đặt giao diện làm Giao diện mặc định"
 
 msgid "Set limits"
 msgstr "Đặt giới hạn"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Địa chỉ CEC hiện tại"
 
 msgid "Set persistent PIN code"
 msgstr "Đặt mã PIN liên tục"
@@ -17919,6 +17922,10 @@ msgstr "kích hoạt cấu hình bộ điều hợp mạng"
 msgid "active"
 msgstr "hoạt động"
 
+#, fuzzy
+msgid "active "
+msgstr "hoạt động"
+
 msgid "actual time only"
 msgstr "chỉ thời gian thực tế"
 
@@ -18607,9 +18614,6 @@ msgstr "bù là"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "trên"
-
 msgid "on READ ONLY medium."
 msgstr "trên phương tiện ĐỌC CHỈ."
 
@@ -18875,6 +18879,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "tiêu chuẩn"
+
+#, fuzzy
+msgid "standby "
+msgstr "Tắt ở chế độ chờ"
 
 msgid "stepsize"
 msgstr "kích cỡ"

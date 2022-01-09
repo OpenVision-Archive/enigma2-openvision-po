@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -4414,10 +4414,6 @@ msgid "Current CEC address"
 msgstr "Pašreizējā CEC adrese"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Pašreizējā CEC adrese"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Pašreizējais transponderis"
 
@@ -5228,6 +5224,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Rezerve ierakstiem diskā (GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "meklēšanas statuss"
+
 msgid "Display 16:9 content as"
 msgstr "Attēlot 16:9 saturu"
 
@@ -5573,10 +5573,6 @@ msgstr "Lejuplādējamie jaunie spraudņi"
 
 msgid "Downloadable plugins"
 msgstr "Lejuplādējamie spraudņi"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Lejuplādē imidžu"
 
 msgid "Downloading"
 msgstr "Lejuplādē"
@@ -8804,6 +8800,10 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+#, fuzzy
+msgid "MHz"
+msgstr "%s MHz"
+
 msgid "MMC card"
 msgstr "MMC karte"
 
@@ -9631,6 +9631,10 @@ msgstr "Tīkla konfigurācija..."
 #, fuzzy
 msgid "Network information"
 msgstr "Tīkla konfigurācija"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Pašreizējā CEC adrese"
 
 msgid "Network mount"
 msgstr "Tīkla montējumi"
@@ -11151,7 +11155,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Spiediet OK uz tālvadības pults, lai turpinātu."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Spiediet OK, lai aktivizētu iestatījumus."
 
 #, python-format
@@ -13258,10 +13262,6 @@ msgstr "Iestatīt CI piešķiršanu pieejamo kanālu noteikšanai."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Pašreizējā CEC adrese"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13297,6 +13297,10 @@ msgstr "Iestatīt interfeisu kā noklusēto"
 
 msgid "Set limits"
 msgstr "Iestatīt limitus"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Pašreizējā CEC adrese"
 
 msgid "Set persistent PIN code"
 msgstr "Iestatīt patstāvīgo PIN kodu"
@@ -17953,6 +17957,10 @@ msgstr "aktivizēt tīkla adaptera konfigurāciju"
 msgid "active"
 msgstr "aktīvs"
 
+#, fuzzy
+msgid "active "
+msgstr "aktīvs"
+
 msgid "actual time only"
 msgstr "tikai aktuālajam laikam"
 
@@ -18638,9 +18646,6 @@ msgstr "kompensē"
 msgid "omit"
 msgstr "nē"
 
-msgid "on"
-msgstr "ieslēgts"
-
 msgid "on READ ONLY medium."
 msgstr "uz TIKAI LASĀMA datu nesēja."
 
@@ -18906,6 +18911,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "standarta"
+
+#, fuzzy
+msgid "standby "
+msgstr "Gaidstāve"
 
 msgid "stepsize"
 msgstr "soļa lielums"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -4455,10 +4455,6 @@ msgid "Current CEC address"
 msgstr "Alamat CEC saat ini"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Alamat CEC saat ini"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Transponder saat ini"
 
@@ -5284,6 +5280,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Alokasikan space harddisk untuk merekam (dalam GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "keadaan pemindaian"
+
 msgid "Display 16:9 content as"
 msgstr "Display 16:9 content as"
 
@@ -5634,10 +5634,6 @@ msgstr "Plugin baru yang bisa diunduh"
 
 msgid "Downloadable plugins"
 msgstr "Plugin yang bisa diunduh"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Mengunduh Image"
 
 msgid "Downloading"
 msgstr "Mengunduh"
@@ -8928,6 +8924,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "Kartu MMC"
 
@@ -9778,6 +9777,10 @@ msgstr "Pengaturan jaringan..."
 #, fuzzy
 msgid "Network information"
 msgstr "Pengaturan jaringan"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Alamat CEC saat ini"
 
 msgid "Network mount"
 msgstr "Mount jaringan"
@@ -11319,7 +11322,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Tekan OK pada remote kontrol anda untuk melanjutkan."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Tekan OK untuk mengaktifkan pengaturan."
 
 #, fuzzy, python-format
@@ -13460,10 +13463,6 @@ msgstr "Set penetapan CI untuk deteksi ketersediaan layanan."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Alamat CEC saat ini"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13499,6 +13498,10 @@ msgstr "Atur antarmuka sebagai Antarmuka standar"
 
 msgid "Set limits"
 msgstr "Atur batasan"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Alamat CEC saat ini"
 
 msgid "Set persistent PIN code"
 msgstr "Atur kode PIN tetap"
@@ -18237,6 +18240,10 @@ msgstr "aktifkan konfigurasi adapter jaringan"
 msgid "active"
 msgstr "Relatif"
 
+#, fuzzy
+msgid "active "
+msgstr "Relatif"
+
 msgid "actual time only"
 msgstr "waktu aktual saja"
 
@@ -18929,9 +18936,6 @@ msgstr "offset adalah"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "hidup"
-
 msgid "on READ ONLY medium."
 msgstr "pada media BACA SAJA."
 
@@ -19199,6 +19203,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "standar"
+
+#, fuzzy
+msgid "standby "
+msgstr "Standby"
 
 msgid "stepsize"
 msgstr "ukuranjangka"

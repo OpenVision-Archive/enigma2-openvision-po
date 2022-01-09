@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2021-10-16 21:21+0200\n"
 "Last-Translator: Luis A. Martínez <luis.a.martinez@gmail.com>\n"
 "Language-Team: LAMS\n"
@@ -4750,10 +4750,6 @@ msgstr "Novas de actualidade"
 msgid "Current CEC address"
 msgstr "Enderezo CEC actual"
 
-#, fuzzy
-msgid "Current MAC address"
-msgstr "Enderezo CEC actual"
-
 #
 #, fuzzy
 msgid "Current crash log"
@@ -5645,6 +5641,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Reserva de espazo en disco para as gravacións (en GB)"
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "estado do escaneo"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Amosar o contido 16:9 como"
 
@@ -6031,10 +6032,6 @@ msgstr "Novos complementos descargables"
 #
 msgid "Downloadable plugins"
 msgstr "Complementos descargables"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Descargando imaxe"
 
 #
 msgid "Downloading"
@@ -9570,6 +9567,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 msgid "MMC card"
 msgstr "Tarxeta MMC"
@@ -10499,6 +10499,10 @@ msgstr "Configuración de rede…"
 #, fuzzy
 msgid "Network information"
 msgstr "Configuración de rede"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Enderezo CEC actual"
 
 #
 msgid "Network mount"
@@ -12188,7 +12192,7 @@ msgstr "Preme OK no mando a distancia para continuar."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Preme OK para activar a configuración."
 
 #
@@ -14531,10 +14535,6 @@ msgstr "Establecer a asignación de CI para a detección de servizos dispoñible
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Enderezo CEC actual"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14571,6 +14571,10 @@ msgstr "Establecer a interface como por defecto"
 
 msgid "Set limits"
 msgstr "Establecer os límites"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Enderezo CEC actual"
 
 msgid "Set persistent PIN code"
 msgstr "Establecer a persistente o código PIN"
@@ -19644,6 +19648,10 @@ msgstr "activar a configuración do adaptador de rede"
 msgid "active"
 msgstr "activo"
 
+#, fuzzy
+msgid "active "
+msgstr "activo"
+
 msgid "actual time only"
 msgstr "só tempo actual"
 
@@ -20405,10 +20413,6 @@ msgid "omit"
 msgstr "omitir"
 
 #
-msgid "on"
-msgstr "acendido"
-
-#
 msgid "on READ ONLY medium."
 msgstr "en disco de SÓ LECTURA."
 
@@ -20706,6 +20710,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "estándar"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Repouso"
 
 msgid "stepsize"
 msgstr "tamaño de paso"

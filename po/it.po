@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -4397,10 +4397,6 @@ msgid "Current CEC address"
 msgstr "Indirizzo CEC attuale"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Indirizzo CEC attuale"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Transponder attuale"
 
@@ -5214,6 +5210,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Spazio su disco da riservare alle registrazioni (in GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "Stato della ricerca"
+
 msgid "Display 16:9 content as"
 msgstr "Visualizzare i contenuti in 16:9 come"
 
@@ -5559,10 +5559,6 @@ msgstr "Nuovi plugin scaricabili"
 
 msgid "Downloadable plugins"
 msgstr "Plugin scaricabili"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Scaricamento dell'immagine"
 
 msgid "Downloading"
 msgstr "Scaricamento in corso..."
@@ -8805,6 +8801,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "Scheda MMC"
 
@@ -9644,6 +9643,10 @@ msgstr "Configurazione di rete..."
 #, fuzzy
 msgid "Network information"
 msgstr "Configurazione della rete"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Indirizzo CEC attuale"
 
 msgid "Network mount"
 msgstr "Mount di rete"
@@ -11157,7 +11160,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Premere OK sul telecomando per continuare."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Premere OK per attivare le impostazioni."
 
 #, fuzzy, python-format
@@ -13274,10 +13277,6 @@ msgstr "Impostare CI per il rilevamento dei servizi disponibili."
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Indirizzo CEC attuale"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13313,6 +13312,10 @@ msgstr "Impostare l'interfaccia come predefinita"
 
 msgid "Set limits"
 msgstr "Impostare i limiti"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Indirizzo CEC attuale"
 
 msgid "Set persistent PIN code"
 msgstr "Impostare il codice PIN permanente"
@@ -18002,6 +18005,10 @@ msgstr "Attivare la configurazione dell'interfaccia di rete"
 msgid "active"
 msgstr "attiva"
 
+#, fuzzy
+msgid "active "
+msgstr "attiva"
+
 msgid "actual time only"
 msgstr "Solo orario attuale"
 
@@ -18692,9 +18699,6 @@ msgstr "il margine è"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "Sì"
-
 msgid "on READ ONLY medium."
 msgstr "su un supporto A SOLA LETTURA."
 
@@ -18962,6 +18966,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "Predefinito"
+
+#, fuzzy
+msgid "standby "
+msgstr "Sospensione"
 
 msgid "stepsize"
 msgstr "Dimensione del passo"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -4401,10 +4401,6 @@ msgid "Current CEC address"
 msgstr "Текущ CEC адрес"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Текущ CEC адрес"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Текущ транспондер"
 
@@ -5215,6 +5211,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Запазено дисково пространство за записи (в GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "състояние търсене"
+
 msgid "Display 16:9 content as"
 msgstr "Покажи 16:9 като"
 
@@ -5559,10 +5559,6 @@ msgstr "Има нови плъгини за теглене"
 
 msgid "Downloadable plugins"
 msgstr "Плъгини за теглене"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Изтегляне на Имиджа"
 
 msgid "Downloading"
 msgstr "Изтегляне"
@@ -8787,6 +8783,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC карта"
 
@@ -9613,6 +9612,10 @@ msgstr "Мрежова Конфигурация..."
 #, fuzzy
 msgid "Network information"
 msgstr "Мрежова конфигурация"
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Текущ CEC адрес"
 
 msgid "Network mount"
 msgstr "Мрежов Маунт"
@@ -11134,7 +11137,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Натиснете ОК на Вашето дистанционно за да продължите."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Натиснете ОК за да активирате настройките."
 
 #, python-format
@@ -13241,10 +13244,6 @@ msgstr "CI назначаване за откриване на налични к
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Текущ CEC адрес"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13280,6 +13279,10 @@ msgstr "Направи интерфейса като основен Интерф
 
 msgid "Set limits"
 msgstr "Поставяне лимити"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Текущ CEC адрес"
 
 msgid "Set persistent PIN code"
 msgstr "Задайте постоянен PIN-код"
@@ -17930,6 +17933,10 @@ msgstr "активиране конфигурацията на мрежовия 
 msgid "active"
 msgstr "активно"
 
+#, fuzzy
+msgid "active "
+msgstr "активно"
+
 msgid "actual time only"
 msgstr "само реалното време"
 
@@ -18621,9 +18628,6 @@ msgstr "изместването е"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "вкл."
-
 msgid "on READ ONLY medium."
 msgstr "на диск САМО за ЧЕТЕНЕ."
 
@@ -18890,6 +18894,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "стандарт"
+
+#, fuzzy
+msgid "standby "
+msgstr "Готовност"
 
 msgid "stepsize"
 msgstr "размер на стъпка"

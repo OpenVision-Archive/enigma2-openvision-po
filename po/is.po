@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -4593,10 +4593,6 @@ msgid "Current CEC address"
 msgstr ""
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Stilla netkort"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Núverandi sendir"
 
@@ -5495,6 +5491,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "leitar staða"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Sýna 16:9 innihald sem"
 
@@ -5890,10 +5891,6 @@ msgstr "Niðurhalanleg ný íforrit"
 
 msgid "Downloadable plugins"
 msgstr "Niðurhalanleg íforrit"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Hleð niður"
 
 msgid "Downloading"
 msgstr "Hleð niður"
@@ -9425,6 +9422,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 #, fuzzy
 msgid "MMC card"
@@ -10367,6 +10367,11 @@ msgstr "Stilling nettengingar..."
 #, fuzzy
 msgid "Network information"
 msgstr "Stilling nettengingar..."
+
+#
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Prufa nettengingu"
 
 #
 #, fuzzy
@@ -12084,7 +12089,7 @@ msgstr "Ýttu á OK á fjarstýringunni til að halda áfram."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Ýtið á OK til að virkja stillingar."
 
 #
@@ -14479,9 +14484,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-msgid "Set a new MAC address"
-msgstr ""
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14519,6 +14521,10 @@ msgstr "Gera að sjálfgefnu korti"
 
 msgid "Set limits"
 msgstr ""
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Stilla netkort"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -19589,6 +19595,9 @@ msgstr "virkja stillingar netkorts"
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -20334,10 +20343,6 @@ msgid "omit"
 msgstr ""
 
 #
-msgid "on"
-msgstr "á"
-
-#
 msgid "on READ ONLY medium."
 msgstr "á READ ONLY disk."
 
@@ -20632,6 +20637,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "venjulegt"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Biðstaða"
 
 msgid "stepsize"
 msgstr ""

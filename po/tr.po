@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -4397,10 +4397,6 @@ msgid "Current CEC address"
 msgstr "Güncel CEC adresi"
 
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Güncel CEC adresi"
-
-#, fuzzy
 msgid "Current crash log"
 msgstr "Geçerli transponder"
 
@@ -5220,6 +5216,10 @@ msgstr ""
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Kayıtlar için ayrılacak disk alanı (GB)"
 
+#, fuzzy
+msgid "Disk state: "
+msgstr "Kanal arama durumu"
+
 msgid "Display 16:9 content as"
 msgstr "16:9 içeriği şu şekilde göster"
 
@@ -5570,10 +5570,6 @@ msgstr "İndirilebilir yeni eklentiler"
 
 msgid "Downloadable plugins"
 msgstr "İndirilebilir eklentiler"
-
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "İndiriliyor..."
 
 msgid "Downloading"
 msgstr "İndiriliyor..."
@@ -8811,6 +8807,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 msgid "MMC card"
 msgstr "MMC kart"
 
@@ -9642,6 +9641,10 @@ msgstr "Ağ yapılandırması..."
 #, fuzzy
 msgid "Network information"
 msgstr "Ağ yapılandırması..."
+
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Güncel CEC adresi"
 
 msgid "Network mount"
 msgstr "Ağ bağlantısı"
@@ -11174,7 +11177,7 @@ msgid "Press OK on your remote control to continue."
 msgstr "Devam etmek için kumandanızın OK tuşuna basın."
 
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Onaylamak için OK tuşuna basın."
 
 #, fuzzy, python-format
@@ -13301,10 +13304,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-#, fuzzy
-msgid "Set a new MAC address"
-msgstr "Güncel CEC adresi"
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -13340,6 +13339,10 @@ msgstr "Arayüzü varsayılan arayüz olarak ata"
 
 msgid "Set limits"
 msgstr "Limitleri belirle"
+
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Güncel CEC adresi"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -18032,6 +18035,10 @@ msgstr "Etkin ağ adaptörü ayarları"
 msgid "active"
 msgstr "İlgili"
 
+#, fuzzy
+msgid "active "
+msgstr "İlgili"
+
 msgid "actual time only"
 msgstr "Sadece gerçek zamanlı"
 
@@ -18723,9 +18730,6 @@ msgstr "Aralık"
 msgid "omit"
 msgstr ""
 
-msgid "on"
-msgstr "Açık"
-
 msgid "on READ ONLY medium."
 msgstr "Yalnızca okunabilir (READ ONLY) ortam."
 
@@ -18993,6 +18997,10 @@ msgstr ""
 
 msgid "standard"
 msgstr "Standart"
+
+#, fuzzy
+msgid "standby "
+msgstr "Hazırda beklet"
 
 msgid "stepsize"
 msgstr "Adım sayısı"

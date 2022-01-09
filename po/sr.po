@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-02 02:02+0000\n"
+"POT-Creation-Date: 2022-01-09 02:04+0000\n"
 "PO-Revision-Date: 2011-04-14 00:02+0200\n"
 "Last-Translator: majevica <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
@@ -4807,11 +4807,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Current MAC address"
-msgstr "Konfiguriši interfejs"
-
-#
-#, fuzzy
 msgid "Current crash log"
 msgstr "Trenutni transponder"
 
@@ -5727,6 +5722,11 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
 #
+#, fuzzy
+msgid "Disk state: "
+msgstr "status skeniranja"
+
+#
 msgid "Display 16:9 content as"
 msgstr "Prikaži 16:9 sadržaj kao"
 
@@ -6130,11 +6130,6 @@ msgstr "Novi dodaci za skidanje"
 #
 msgid "Downloadable plugins"
 msgstr "Dodaci koji se mogu skidati"
-
-#
-#, fuzzy
-msgid "Downloaded Images"
-msgstr "Skidanje"
 
 #
 msgid "Downloading"
@@ -9733,6 +9728,9 @@ msgstr ""
 msgid "MENU"
 msgstr ""
 
+msgid "MHz"
+msgstr ""
+
 #
 #, fuzzy
 msgid "MMC card"
@@ -10685,6 +10683,11 @@ msgstr "Mrežna konfiguracija..."
 #, fuzzy
 msgid "Network information"
 msgstr "Mrežna konfiguracija..."
+
+#
+#, fuzzy
+msgid "Network interface for MAC address."
+msgstr "Test mreže"
 
 #
 #, fuzzy
@@ -12431,7 +12434,7 @@ msgstr "Pritisnite OK na daljinskom upravljaču da nastavite."
 
 #
 #, fuzzy
-msgid "Press OK to activate the MAC address."
+msgid "Press OK to activate current MAC address."
 msgstr "Pritisnite OK za aktiviranje postavki."
 
 #
@@ -14857,9 +14860,6 @@ msgstr ""
 msgid "Set PIN Pressing [OK]"
 msgstr ""
 
-msgid "Set a new MAC address"
-msgstr ""
-
 msgid "Set a temporary sort method for this directory"
 msgstr ""
 
@@ -14898,6 +14898,11 @@ msgstr "Postavi interfejs kao osnovni interfejs"
 
 msgid "Set limits"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Set new MAC address"
+msgstr "Konfiguriši interfejs"
 
 msgid "Set persistent PIN code"
 msgstr ""
@@ -20036,6 +20041,9 @@ msgstr "Aktivirajte konfiguraciju mrežnog adaptera"
 msgid "active"
 msgstr ""
 
+msgid "active "
+msgstr ""
+
 msgid "actual time only"
 msgstr ""
 
@@ -20788,10 +20796,6 @@ msgid "omit"
 msgstr ""
 
 #
-msgid "on"
-msgstr "uključi"
-
-#
 msgid "on READ ONLY medium."
 msgstr "na mediju samo za čitanje"
 
@@ -21090,6 +21094,11 @@ msgstr ""
 #
 msgid "standard"
 msgstr "standardno"
+
+#
+#, fuzzy
+msgid "standby "
+msgstr "Spreman"
 
 msgid "stepsize"
 msgstr ""
