@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-16 02:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14739,396 +14739,6 @@ msgstr ""
 msgid "zapped"
 msgstr ""
 
-msgid "About"
-msgstr ""
-
-msgid "Automatic scan"
-msgstr ""
-
-msgid "BER"
-msgstr ""
-
-msgid "Benchmark information"
-msgstr ""
-
-msgid "C"
-msgstr ""
-
-msgid "Channellist menu"
-msgstr ""
-
-msgid "Command execution..."
-msgstr ""
-
-msgid "Commit info"
-msgstr ""
-
-msgid "D"
-msgstr ""
-
-msgid "DVB information"
-msgstr ""
-
-msgid "Downloadable plugins"
-msgstr ""
-
-msgid "EPG selection"
-msgstr ""
-
-msgid "Event view"
-msgstr ""
-
-msgid "Event view menu"
-msgstr ""
-
-msgid "Extensions"
-msgstr ""
-
-msgid "Fastscan"
-msgstr ""
-
-msgid "Geolocation"
-msgstr ""
-
-msgid "Harddisk"
-msgstr ""
-
-msgid "IPv6 setup"
-msgstr ""
-
-msgid "Index"
-msgstr ""
-
-msgid "Info bar"
-msgstr ""
-
-msgid "Installing software..."
-msgstr ""
-
-msgid "MAC address setup"
-msgstr ""
-
-msgid "MORE"
-msgstr ""
-
-msgid "Manual scan"
-msgstr ""
-
-msgid "Message..."
-msgstr ""
-
-msgid "Movielist menu"
-msgstr ""
-
-msgid "Mute"
-msgstr ""
-
-msgid "NOW"
-msgstr ""
-
-msgid "Nameserver setup"
-msgstr ""
-
-msgid "Network configuration..."
-msgstr ""
-
-msgid "Network setup"
-msgstr ""
-
-msgid "Network test..."
-msgstr ""
-
-msgid "Now playing"
-msgstr ""
-
-msgid "NumberZapPicon"
-msgstr ""
-
-msgid "OSD settings"
-msgstr ""
-
-msgid "Open Vision information"
-msgstr ""
-
-msgid "PIN code needed"
-msgstr ""
-
-msgid "Parental control services editor"
-msgstr ""
-
-msgid "PiP setup"
-msgstr ""
-
-msgid "Reception settings"
-msgstr ""
-
-msgid "SNR"
-msgstr ""
-
-msgid "Seek"
-msgstr ""
-
-msgid "Select HDD"
-msgstr ""
-
-msgid "Select a bouquet"
-msgstr ""
-
-msgid "Select a movie"
-msgstr ""
-
-msgid "Select a tuner"
-msgstr ""
-
-msgid "Timer edit"
-msgstr ""
-
-msgid "Timer entry"
-msgstr ""
-
-msgid "Timer log"
-msgstr ""
-
-msgid "Timeshift"
-msgstr ""
-
-msgid "Timeshift Live"
-msgstr ""
-
-msgid "Translation:"
-msgstr ""
-
-msgid "Troubleshoot"
-msgstr ""
-
-msgid "UnhandledKey"
-msgstr ""
-
-msgid "VideoMode"
-msgstr ""
-
-msgid "Virtual keyboard"
-msgstr ""
-
-msgid "Volume"
-msgstr ""
-
-msgid "Welcome..."
-msgstr ""
-
-msgid "config menu"
-msgstr ""
-
-msgid "help..."
-msgstr ""
-
-msgid "AFP"
-msgstr ""
-
-msgid "Android Mode"
-msgstr ""
-
-msgid "Audio & Video"
-msgstr ""
-
-msgid "Audio/Video Setup"
-msgstr ""
-
-msgid "Auto Language Setup"
-msgstr ""
-
-msgid "Build"
-msgstr ""
-
-msgid "CIFS/Samba"
-msgstr ""
-
-msgid "Client Tuner Configuration"
-msgstr ""
-
-msgid "Cron Timers"
-msgstr ""
-
-msgid "Customize"
-msgstr ""
-
-msgid "Deep Standby"
-msgstr ""
-
-msgid "Delete EPG Cache"
-msgstr ""
-
-msgid "Device"
-msgstr ""
-
-msgid "EPG Setup"
-msgstr ""
-
-msgid "FTP"
-msgstr ""
-
-msgid "Fallback Remote Receiver Setup"
-msgstr ""
-
-msgid "Filesystem Check"
-msgstr ""
-
-msgid "Front Panel Display"
-msgstr ""
-
-msgid "Images"
-msgstr ""
-
-msgid "Inadyn"
-msgstr ""
-
-msgid "Inetd Recovery"
-msgstr ""
-
-msgid "Initialization"
-msgstr ""
-
-msgid "Input Driver Setup"
-msgstr ""
-
-msgid "Keyboard / Remote Control Setup"
-msgstr ""
-
-msgid "LCD Setup"
-msgstr ""
-
-msgid "LED Setup"
-msgstr ""
-
-msgid "Load EPG Cache"
-msgstr ""
-
-msgid "Locale/Language Setup"
-msgstr ""
-
-msgid "Logs Setup"
-msgstr ""
-
-msgid "Main Menu"
-msgstr ""
-
-msgid "MiniDLNA"
-msgstr ""
-
-msgid "Mounts"
-msgstr ""
-
-msgid "MultiBoot"
-msgstr ""
-
-msgid "NFS"
-msgstr ""
-
-msgid "OpenVPN"
-msgstr ""
-
-msgid "Parental Control Setup"
-msgstr ""
-
-msgid "Playback Setup"
-msgstr ""
-
-msgid "Playback, Recording & Timeshift"
-msgstr ""
-
-msgid "Plugins"
-msgstr ""
-
-msgid "Power Timers"
-msgstr ""
-
-msgid "RF Modulator Output Setup"
-msgstr ""
-
-msgid "Receiver"
-msgstr ""
-
-msgid "Recovery Mode"
-msgstr ""
-
-msgid "SABnzbd"
-msgstr ""
-
-msgid "SATPI"
-msgstr ""
-
-msgid "Save EPG Cache"
-msgstr ""
-
-msgid "Save, Load & Delete EPG Cache"
-msgstr ""
-
-msgid "Service"
-msgstr ""
-
-msgid "Shutdown"
-msgstr ""
-
-msgid "Skin Setup"
-msgstr ""
-
-msgid "Sleep Timer"
-msgstr ""
-
-msgid "Softcam"
-msgstr ""
-
-msgid "Standby & Restart"
-msgstr ""
-
-msgid "Storage"
-msgstr ""
-
-msgid "Streaming Clients"
-msgstr ""
-
-msgid "Subtitle Setup"
-msgstr ""
-
-msgid "Switch to Android"
-msgstr ""
-
-msgid "Telnet"
-msgstr ""
-
-msgid "Timers"
-msgstr ""
-
-msgid "Timeshift Setup"
-msgstr ""
-
-msgid "Tuners"
-msgstr ""
-
-msgid "Tuners & Scanning"
-msgstr ""
-
-msgid "User Interface"
-msgstr ""
-
-msgid "User Interface Setup"
-msgstr ""
-
-msgid "User Mode Setup"
-msgstr ""
-
-msgid "Utilities"
-msgstr ""
-
-msgid "VCR Scart"
-msgstr ""
-
-msgid "ZeroTierVPN"
-msgstr ""
-
-msgid "uShare"
-msgstr ""
-
 msgid "12V output"
 msgstr ""
 
@@ -15205,6 +14815,12 @@ msgid "Audio language selection 3"
 msgstr ""
 
 msgid "Audio language selection 4"
+msgstr ""
+
+msgid "Audio/Video Setup"
+msgstr ""
+
+msgid "Auto Language Setup"
 msgstr ""
 
 msgid "Auto play last service in radio mode"
@@ -15638,6 +15254,9 @@ msgstr ""
 msgid "Custom skip time for '7'/'9' buttons"
 msgstr ""
 
+msgid "Customize"
+msgstr ""
+
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
@@ -15708,6 +15327,9 @@ msgid "Display the EIT now/next eventdata in infobar."
 msgstr ""
 
 msgid "Display the base locales or all locales for a language."
+msgstr ""
+
+msgid "EPG Setup"
 msgstr ""
 
 msgid "EPG filename"
@@ -15974,6 +15596,9 @@ msgstr ""
 msgid "Keeps the movie list open whilst playing audio files."
 msgstr ""
 
+msgid "Keyboard / Remote Control Setup"
+msgstr ""
+
 msgid "Keyboard map"
 msgstr ""
 
@@ -15987,6 +15612,9 @@ msgid "LED Deep Standby"
 msgstr ""
 
 msgid "LED Normal"
+msgstr ""
+
+msgid "LED Setup"
 msgstr ""
 
 msgid "LED Standby"
@@ -16035,6 +15663,9 @@ msgid "Locales to be displayed"
 msgstr ""
 
 msgid "Log python stack trace on spinner"
+msgstr ""
+
+msgid "Logs Setup"
 msgstr ""
 
 msgid "Logs folder location *"
@@ -16163,6 +15794,9 @@ msgstr ""
 msgid "Play audio in background"
 msgstr ""
 
+msgid "Playback Setup"
+msgstr ""
+
 msgid "Plugin Browser Setup"
 msgstr ""
 
@@ -16251,6 +15885,9 @@ msgid "REC symbol in use"
 msgstr ""
 
 msgid "RED button"
+msgstr ""
+
+msgid "RF Modulator Output Setup"
 msgstr ""
 
 msgid "Recordings always have priority"
@@ -16694,6 +16331,9 @@ msgstr ""
 msgid "Stop service on return to movie list"
 msgstr ""
 
+msgid "Subtitle Setup"
+msgstr ""
+
 msgid "Subtitle alignment"
 msgstr ""
 
@@ -16895,6 +16535,9 @@ msgstr ""
 msgid "Timer recording location"
 msgstr ""
 
+msgid "Timeshift Setup"
+msgstr ""
+
 msgid "Timeshift location"
 msgstr ""
 
@@ -16967,6 +16610,12 @@ msgid "Use trash can in movie list"
 msgstr ""
 
 msgid "Use trash can in movielist"
+msgstr ""
+
+msgid "User Interface Setup"
+msgstr ""
+
+msgid "User Mode Setup"
 msgstr ""
 
 msgid "Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used."
@@ -17290,9 +16939,6 @@ msgstr ""
 msgid "EPG Selection"
 msgstr ""
 
-msgid "EtPortal"
-msgstr ""
-
 msgid "Graphical EPG"
 msgstr ""
 
@@ -17302,31 +16948,19 @@ msgstr ""
 msgid "Quick EPG"
 msgstr ""
 
-msgid "®"
+msgid "C"
 msgstr ""
 
-msgid "Enigmalight"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "Rec"
+msgid "D"
 msgstr ""
 
 msgid "TUNER:"
 msgstr ""
 
-msgid "  REC  "
+msgid "EtPortal"
 msgstr ""
 
-msgid " HI "
-msgstr ""
-
-msgid "REC "
+msgid "-"
 msgstr ""
 
 msgid "E "
@@ -17347,6 +16981,12 @@ msgstr ""
 msgid "J"
 msgstr ""
 
+msgid "  REC  "
+msgstr ""
+
+msgid "Rec"
+msgstr ""
+
 msgid "EasyMedia"
 msgstr ""
 
@@ -17359,7 +16999,193 @@ msgstr ""
 msgid "Timerlist"
 msgstr ""
 
-msgid "-"
+msgid "Enigmalight"
+msgstr ""
+
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
+msgid "®"
+msgstr ""
+
+msgid " HI "
+msgstr ""
+
+msgid "REC "
+msgstr ""
+
+msgid "AFP"
+msgstr ""
+
+msgid "Android Mode"
+msgstr ""
+
+msgid "Audio & Video"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "CIFS/Samba"
+msgstr ""
+
+msgid "Client Tuner Configuration"
+msgstr ""
+
+msgid "Cron Timers"
+msgstr ""
+
+msgid "Deep Standby"
+msgstr ""
+
+msgid "Delete EPG Cache"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "FTP"
+msgstr ""
+
+msgid "Fallback Remote Receiver Setup"
+msgstr ""
+
+msgid "Filesystem Check"
+msgstr ""
+
+msgid "Front Panel Display"
+msgstr ""
+
+msgid "Geolocation"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Inadyn"
+msgstr ""
+
+msgid "Inetd Recovery"
+msgstr ""
+
+msgid "Initialization"
+msgstr ""
+
+msgid "Input Driver Setup"
+msgstr ""
+
+msgid "LCD Setup"
+msgstr ""
+
+msgid "Load EPG Cache"
+msgstr ""
+
+msgid "Locale/Language Setup"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "MiniDLNA"
+msgstr ""
+
+msgid "Mounts"
+msgstr ""
+
+msgid "MultiBoot"
+msgstr ""
+
+msgid "NFS"
+msgstr ""
+
+msgid "OpenVPN"
+msgstr ""
+
+msgid "Parental Control Setup"
+msgstr ""
+
+msgid "Playback, Recording & Timeshift"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Power Timers"
+msgstr ""
+
+msgid "Receiver"
+msgstr ""
+
+msgid "Recovery Mode"
+msgstr ""
+
+msgid "SABnzbd"
+msgstr ""
+
+msgid "SATPI"
+msgstr ""
+
+msgid "Save EPG Cache"
+msgstr ""
+
+msgid "Save, Load & Delete EPG Cache"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Shutdown"
+msgstr ""
+
+msgid "Skin Setup"
+msgstr ""
+
+msgid "Sleep Timer"
+msgstr ""
+
+msgid "Softcam"
+msgstr ""
+
+msgid "Standby & Restart"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "Streaming Clients"
+msgstr ""
+
+msgid "Switch to Android"
+msgstr ""
+
+msgid "Telnet"
+msgstr ""
+
+msgid "Timers"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+msgid "Tuners & Scanning"
+msgstr ""
+
+msgid "User Interface"
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "VCR Scart"
+msgstr ""
+
+msgid "ZeroTierVPN"
+msgstr ""
+
+msgid "uShare"
 msgstr ""
 
 msgid "Check the internet connection"
@@ -17462,19 +17288,178 @@ msgstr ""
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr ""
 
-msgid "2678400000"
+msgid "About"
 msgstr ""
 
-msgid "Default task"
+msgid "Automatic scan"
 msgstr ""
 
-msgid "IGNORE"
+msgid "BER"
 msgstr ""
 
-msgid "false"
+msgid "Benchmark information"
 msgstr ""
 
-msgid "true"
+msgid "Channellist menu"
+msgstr ""
+
+msgid "Command execution..."
+msgstr ""
+
+msgid "Commit info"
+msgstr ""
+
+msgid "DVB information"
+msgstr ""
+
+msgid "Downloadable plugins"
+msgstr ""
+
+msgid "EPG selection"
+msgstr ""
+
+msgid "Event view"
+msgstr ""
+
+msgid "Event view menu"
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "Fastscan"
+msgstr ""
+
+msgid "Harddisk"
+msgstr ""
+
+msgid "IPv6 setup"
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Info bar"
+msgstr ""
+
+msgid "Installing software..."
+msgstr ""
+
+msgid "MAC address setup"
+msgstr ""
+
+msgid "MORE"
+msgstr ""
+
+msgid "Manual scan"
+msgstr ""
+
+msgid "Message..."
+msgstr ""
+
+msgid "Movielist menu"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "NOW"
+msgstr ""
+
+msgid "Nameserver setup"
+msgstr ""
+
+msgid "Network configuration..."
+msgstr ""
+
+msgid "Network setup"
+msgstr ""
+
+msgid "Network test..."
+msgstr ""
+
+msgid "Now playing"
+msgstr ""
+
+msgid "NumberZapPicon"
+msgstr ""
+
+msgid "OSD settings"
+msgstr ""
+
+msgid "Open Vision information"
+msgstr ""
+
+msgid "PIN code needed"
+msgstr ""
+
+msgid "Parental control services editor"
+msgstr ""
+
+msgid "PiP setup"
+msgstr ""
+
+msgid "Reception settings"
+msgstr ""
+
+msgid "SNR"
+msgstr ""
+
+msgid "Seek"
+msgstr ""
+
+msgid "Select HDD"
+msgstr ""
+
+msgid "Select a bouquet"
+msgstr ""
+
+msgid "Select a movie"
+msgstr ""
+
+msgid "Select a tuner"
+msgstr ""
+
+msgid "Timer edit"
+msgstr ""
+
+msgid "Timer entry"
+msgstr ""
+
+msgid "Timer log"
+msgstr ""
+
+msgid "Timeshift"
+msgstr ""
+
+msgid "Timeshift Live"
+msgstr ""
+
+msgid "Translation:"
+msgstr ""
+
+msgid "Troubleshoot"
+msgstr ""
+
+msgid "UnhandledKey"
+msgstr ""
+
+msgid "VideoMode"
+msgstr ""
+
+msgid "Virtual keyboard"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Welcome..."
+msgstr ""
+
+msgid "config menu"
+msgstr ""
+
+msgid "help..."
 msgstr ""
 
 msgid "Refresh rate selection."
@@ -17582,4 +17567,19 @@ msgid ""
 "Have you attached your USB WLAN Stick?\n"
 "\n"
 "Please choose what you want to do next."
+msgstr ""
+
+msgid "2678400000"
+msgstr ""
+
+msgid "Default task"
+msgstr ""
+
+msgid "IGNORE"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "true"
 msgstr ""
