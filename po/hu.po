@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -940,6 +940,14 @@ msgstr[0] "%d nap"
 msgstr[1] "%d nap"
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Frissítendő csomagok mutatása"
+
+#, python-format
 msgid "%d fps"
 msgstr "%d fps"
 
@@ -994,6 +1002,70 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] "%d  szoftvercsomag kiválasztva."
 msgstr[1] "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "A frissítés elkészült, %d csomag lett feltelepítve."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr "%d  szoftvercsomag kiválasztva."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr "%d  szoftvercsomag kiválasztva."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1163,12 +1235,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "%s frissítés elérhető"
-msgstr[1] "%s frissítés elérhető"
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3178,6 +3244,10 @@ msgid "Cancel"
 msgstr "Mégse"
 
 #, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Szoftverfrissítő képernyő védelme"
+
+#, fuzzy
 msgid "Cancel any changed settings and exit"
 msgstr "Szöveg változások elvetése és kilépés"
 
@@ -3224,6 +3294,10 @@ msgstr "Csatorna választás"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Csatorna választás"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Frissítésre váró csomagok"
 
 msgid "Cancelled upon user request"
 msgstr "Felhasználó kérésére megszakítva"
@@ -3772,6 +3846,10 @@ msgstr "Beállítások"
 msgid "Configuration"
 msgstr "Beállítások"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "A telepítés óta a (%s) konfigurációs fájl módosítva lett. Meg akarja tartani az Ön verzióját?"
+
 msgid "Configuration mode"
 msgstr "Konfigurációs mód"
 
@@ -4246,6 +4324,9 @@ msgstr "Lejátszás folytatása"
 msgid "Continue playing"
 msgstr "Lejátszás folytatása"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Ismétléses lejátszás"
 
@@ -4300,9 +4381,6 @@ msgstr "Elefántcsontpart"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Az %s érvénytelen csatorna miatt a felvétel nem lehetséges"
-
-msgid "Could not find installed channel list."
-msgstr "Nem található telepített csatornalista."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr "Nem található megfelelő adathordozó. Kérem, töröljön néhány letöltött image-t, vagy helyezzen be egy adathordozót (pl. pendrive) elegendő szabad hellyel, és próbálja újra!"
@@ -4426,6 +4504,10 @@ msgstr "Aktuális transzponder"
 
 msgid "Current value: "
 msgstr "Aktuális érték: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Aktuális transzponder"
 
 #, fuzzy
 msgid "Custom"
@@ -5020,6 +5102,10 @@ msgstr "Leírás"
 msgid "Deselect"
 msgstr "Kijelölés törlése"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr "Tartalék távoli vevő cél"
 
@@ -5471,14 +5557,6 @@ msgstr "Szeretne másik kinézetet választani?"
 msgid "Do you want to update the package:\n"
 msgstr "Biztos benne, hogy frissíteni szeretné ezt a csomagot:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Szeretné frissíteni a készülék szoftverét %s-re?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Szeretné frissíteni a készülék szoftverét %s-re?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "dokumentum"
@@ -5542,6 +5620,10 @@ msgstr[1] "%d szoftvercsomag telepítése, frissítése vagy eltávolítása elk
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "ismeretlen hiba"
+
 msgid "Download plugins"
 msgstr "Bővítmények letöltése"
 
@@ -5558,6 +5640,10 @@ msgid "Downloading Image"
 msgstr "Image letöltése"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Az új csomaglitsa letöltése folyamatban. Kérem, várjon..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Az új csomaglitsa letöltése folyamatban. Kérem, várjon..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5889,6 +5975,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6683,6 +6772,18 @@ msgstr "Kedvencek"
 
 msgid "Favourites"
 msgstr "Kedvencek"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "kényszerített tiltás"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "nem tesztelhető"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "nem tesztelhető"
 
 msgid "Fiji"
 msgstr "Fidzsi"
@@ -7804,6 +7905,10 @@ msgid "Include keyboard data"
 msgstr "Billentyűzet adatainak megadása"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Legyen AIT a HTTP jelfolyamban"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Távirányító típusának beállítása"
 
@@ -8404,9 +8509,6 @@ msgstr "Utolsó módosítások"
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr "Utolsó frissítés jegyzéke"
-
 #, fuzzy
 msgid "Latin"
 msgstr "Földrajzi szélességi fok"
@@ -8868,6 +8970,10 @@ msgstr "Bővítmények kezelése"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Kiegészítők és bővítmények kezelése."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Időzítő módosítása"
+
 msgid "Manage your receiver's software"
 msgstr "A készülék szoftverének kezelése"
 
@@ -9196,6 +9302,10 @@ msgid "Move down a page"
 msgstr "A listán lefelé"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "ugrás a legutolsó tételhez"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "ugrás a legutolsó tételhez"
 
@@ -9302,6 +9412,14 @@ msgstr "Mozgatás sorszámra"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Mozgatás sorszámra"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "ugrás az előző tételhez"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "ugrás az előző tételhez"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9826,10 +9944,12 @@ msgstr ""
 "Nincs engedélyezett tuner!\n"
 "Csatornakeresés előtt állítsa be a tunereket."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Nincs elérhető frissítés"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Nincs elérhető frissítés. Kérem, próbálja meg később."
 
 msgid "No wireless networks found! Searching..."
@@ -9987,6 +10107,9 @@ msgid "Nothing to scan! Setup your tuner and try again."
 msgstr ""
 "Nincs mit lekeresni!\n"
 "Állítsa be a tunert, és próbálja újra."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Most"
@@ -10403,9 +10526,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Frissítésre váró csomagok"
-
 msgid "Packet management"
 msgstr "Szoftvercsomag-kezelő"
 
@@ -10521,6 +10641,9 @@ msgstr "Százalék balra"
 
 msgid "Percentage right"
 msgstr "Százalék jobbra"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11143,6 +11266,10 @@ msgid "Press OK to activate the settings."
 msgstr "Az OK gombbal aktiválhatja a beállításokat."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "A folytatáshoz nyomja le az OK-t."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Az OK gombbal módosíthatja a beállításokat."
 
@@ -11253,6 +11380,10 @@ msgstr "Prioritás"
 #, fuzzy
 msgid "Proc model"
 msgstr "Tone mód"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Csomaglista frissítés"
 
 msgid "Process"
 msgstr "Futtatás"
@@ -11670,9 +11801,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "PIN újra"
 
-msgid "Reflash recommended!"
-msgstr "Újraflashelés ajánlott!"
-
 msgid "Refresh"
 msgstr "Újraflashelés"
 
@@ -11688,6 +11816,9 @@ msgstr "Frissítés kiválasztása."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Frissítés kiválasztása."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 msgid "Refusing to move to the same directory"
 msgstr "Ugyanabba a mappába való áthelyezés elutasítása"
@@ -13675,12 +13806,6 @@ msgstr "Menü vagy bővítmény számának mutatása"
 msgid "Show latest commit log information"
 msgstr "Legutóbbi módosítások mutatása"
 
-msgid "Show latest commits"
-msgstr "Legutóbbi módosítások mutatása"
-
-msgid "Show latest update log"
-msgstr "Utolsó frissítési naplófájl"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Amikor egy lejátszás meg van állítva"
@@ -13745,9 +13870,6 @@ msgstr "Bővített leírás megjelenítése"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Frissítendő csomagok mutatása"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14204,6 +14326,10 @@ msgid "Software Update"
 msgstr "Szoftverfrissítés"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Szoftverfrissítés"
+
+#, fuzzy
 msgid "Software information"
 msgstr "Szoftverkezeló információ"
 
@@ -14215,6 +14341,14 @@ msgstr "Szoftverkezelés"
 
 msgid "Software update"
 msgstr "Szoftverfrissítés"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Az OK gomb lenyomása után kérem, várjon!"
 
 msgid "Softwaremanager information"
 msgstr "Szoftverkezeló információ"
@@ -14526,6 +14660,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "nem elérhető"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Léptetés kelet felé"
 
@@ -14629,6 +14767,9 @@ msgstr "Próbálkozások befejezése ennyi sikertelen transzponder után"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Próbálkozások befejezése ennyi sikeres transzponder után"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Az időzített felvétel megállítása"
@@ -15239,14 +15380,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr "A készenlétből való felébresztés parancsának többszöri küldése"
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"Az aktuális image instabil lehet.\n"
-"Bővebb információ itt: %s."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15401,6 +15534,10 @@ msgstr "Nincs betölthető elmentett lejátszási lista!"
 msgid "There are no updates available."
 msgstr "Nincs elérhető frissítés."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Nincs jel!"
 
@@ -15412,6 +15549,10 @@ msgid ""
 msgstr ""
 "Nincs elég hely a kiválasztott partíción.\n"
 "Biztos folytatni szeretné?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "A szoftvercsomag-lista letöltése hiba miatt lehetetlen. Kérem, próbálja meg újra."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "Ez a DVD RW medium már meg van formázva - a lemez újraformázásával minden adat el fog veszni."
@@ -16345,28 +16486,13 @@ msgstr ""
 msgid "Update"
 msgstr "Frissítés"
 
-msgid "Update and ask to reboot"
-msgstr "Frissítés, majd rákérdezés az újraindításra"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Frissítés és automatikus újraindítás (ajánlott)"
-
-msgid "Update channel list only"
-msgstr "Köv. csatorna az előzményekben"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "A frissítés elkészült, %d csomag lett feltelepítve."
-msgstr[1] "A frissítés elkészült, %d csomag lett feltelepítve."
+msgid "Update completed."
+msgstr "A frissítés elkészült."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Frissítés sikeres. Újraindítja most a készüléket?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "A frissítés nem sikerült. A készüléknek nincs egy működőképes kapcsolata az internettel."
 
 msgid "Update feed not available."
 msgstr "Frissítő szerver nem elérhető."
@@ -16377,6 +16503,17 @@ msgstr "A frissítés elkészült."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Slideshow intervallum (mp.)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Frissítés"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Nincs elérhető frissítés"
 
 msgid "Updating"
 msgstr "Frissítés"
@@ -16960,6 +17097,10 @@ msgstr "Figyelmeztetés: a megfelelő működéshez az FBC-C V1 tunert az első 
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Nincs elérhető frissítés."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Figyelem, nincs fej! Gyári alapbeállítások használata."
 
@@ -17062,6 +17203,9 @@ msgstr ""
 
 msgid "What type of service scan do you want?"
 msgstr "Milyen típusú szolgáltatást szeretne keresni?"
+
+msgid "What would you like to do?"
+msgstr ""
 
 #, fuzzy
 msgid "When PiPzap enabled zap channel down"
@@ -17659,6 +17803,9 @@ msgstr "Váltson át a csatornára %s (%s - '%s')!\n"
 msgid "You seem to be in timeshift!"
 msgstr "Úgy tűnik, folyamatban van időcsúsztatás!"
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "A készüléknek nincs kapcsolata az internettel."
@@ -17687,10 +17834,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17766,7 +17909,7 @@ msgstr ""
 "Nyomja le az OK gombot a folytatáshoz."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "A készüléke most lehet, hogy használhatatlanná vált. Kérem, vegye fel a kapcsolatot a szervízzel, vagy szakemberrel újraindítás elött."
 
 #, fuzzy, python-format

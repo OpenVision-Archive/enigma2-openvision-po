@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -954,6 +954,14 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, python-format
+msgid "%d feed catalog packages were updated."
+msgstr ""
+
+#, python-format
 msgid "%d fps"
 msgstr ""
 
@@ -1011,6 +1019,84 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] " pakkar valdir."
 msgstr[1] " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr " pakkar valdir."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr " pakkar valdir."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr " pakkar valdir."
+
+#
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr " pakkar valdir."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1178,13 +1264,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] " uppfærslur tiltækar."
-msgstr[1] " uppfærslur tiltækar."
 
 #
 #, fuzzy, python-format
@@ -3335,6 +3414,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "Hætta við"
 
+msgid "Cancel / Close the software update screen"
+msgstr ""
+
 msgid "Cancel any changed settings and exit"
 msgstr ""
 
@@ -3377,6 +3459,11 @@ msgstr "Rása val"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Rása val"
+
+#
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Listi uppfærðra pakka"
 
 msgid "Cancelled upon user request"
 msgstr ""
@@ -3942,6 +4029,11 @@ msgstr "Stilling nettengingar"
 msgid "Configuration"
 msgstr "Stilling nettengingar"
 
+#
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Stillingaskrá (%s) er breytt síðan uppsetning var gerð. Viltu halda þinni útgáfu?"
+
 #, fuzzy
 msgid "Configuration mode"
 msgstr "Stillinga hamur"
@@ -4435,6 +4527,9 @@ msgstr "Halda áfram að spila"
 msgid "Continue playing"
 msgstr "Halda áfram að spila"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr ""
 
@@ -4490,9 +4585,6 @@ msgstr ""
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Gat ekki tekið upp vegna þess að rásin %s er ekki í lagi"
-
-msgid "Could not find installed channel list."
-msgstr ""
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr ""
@@ -4624,6 +4716,10 @@ msgstr "Núverandi sendir"
 
 msgid "Current value: "
 msgstr "Núverandi val:"
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Núverandi sendir"
 
 #, fuzzy
 msgid "Custom"
@@ -5283,6 +5379,10 @@ msgstr "Lýsing"
 msgid "Deselect"
 msgstr "Ekki velja"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr ""
 
@@ -5808,14 +5908,6 @@ msgstr ""
 msgid "Do you want to update the package:\n"
 msgstr "Viltu uppfæra pakkann:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Viltu hlaða niður stýrikerfinu á %s ?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Viltu hlaða niður stýrikerfinu á %s ?"
-
 msgid "Documentary"
 msgstr ""
 
@@ -5883,6 +5975,10 @@ msgid "Down"
 msgstr ""
 
 #, fuzzy
+msgid "Download error"
+msgstr "Hleð niður"
+
+#, fuzzy
 msgid "Download plugins"
 msgstr "Hala niður íforritum"
 
@@ -5901,6 +5997,11 @@ msgstr "Hleð niður"
 
 #
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið..."
+
+#
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -6270,6 +6371,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -7126,6 +7230,19 @@ msgstr "Eftirlætis listar"
 
 msgid "Favourites"
 msgstr "Eftirlætis listar"
+
+#
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "óvirkt"
+
+#
+#, fuzzy
+msgid "Feed stable."
+msgstr "óvirkt"
+
+msgid "Feed unstable!"
+msgstr ""
 
 msgid "Fiji"
 msgstr ""
@@ -8338,6 +8455,11 @@ msgstr "Uppsetning lyklaborðs"
 
 #
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Uppsetning lyklaborðs"
+
+#
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Gerð foreldrastýringar"
 
@@ -9006,11 +9128,6 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "Latest update log"
-msgstr "Veldu upphafs slóð til að breyta."
-
-#
-#, fuzzy
 msgid "Latin"
 msgstr "Breiddargráða"
 
@@ -9520,6 +9637,10 @@ msgstr "Sýsla með íforrit"
 msgid "Manage extensions or plugins for your receiver."
 msgstr ""
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Breyta skrefa stærð"
+
 #
 msgid "Manage your receiver's software"
 msgstr "Stjórna hugbúnaði móttakarans"
@@ -9893,6 +10014,11 @@ msgstr "fara niður í síðasta atriði"
 
 #
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "fara niður í síðasta atriði"
+
+#
+#, fuzzy
 msgid "Move down a screen"
 msgstr "fara niður í síðasta atriði"
 
@@ -10022,6 +10148,16 @@ msgstr ""
 #, fuzzy
 msgid "Move up a page"
 msgstr "skipta í næstu sýn"
+
+#
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "fara upp í næsta atriði"
+
+#
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "fara upp í næsta atriði"
 
 msgid "Move up a screen"
 msgstr ""
@@ -10627,11 +10763,13 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "No updates available"
+msgid "No updates available."
 msgstr " uppfærslur tiltækar."
 
-msgid "No updates available. Please try again later."
-msgstr ""
+#
+#, fuzzy
+msgid "No updates were available.  Please try again later."
+msgstr "Það varð villa við niðurhal pakka listans. Vinsamlega prófaðu aftur."
 
 msgid "No wireless networks found! Searching..."
 msgstr "Ekkert þráðlaust net fannst! Leita..."
@@ -10817,6 +10955,9 @@ msgid "Nothing to scan! Setup your tuner and try again."
 msgstr ""
 "Ekkert til að leita!\n"
 "Stilltu inn móttakarann áður en að þú byrjar rása leit."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr ""
@@ -11256,9 +11397,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr ""
-
 #
 msgid "Packet management"
 msgstr "Pakka meðhöndlun"
@@ -11394,6 +11532,9 @@ msgstr ""
 #, fuzzy
 msgid "Percentage right"
 msgstr "Hringpólun hægri"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -12103,6 +12244,11 @@ msgstr "Ýtið á OK til að virkja stillingar."
 
 #
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Ýttu á OK til að halda áfram."
+
+#
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Ýttu á OK til að breyta stillingum."
 
@@ -12233,6 +12379,11 @@ msgstr "Forgangur"
 #, fuzzy
 msgid "Proc model"
 msgstr "Tón stilling"
+
+#
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Listi uppfærðra pakka"
 
 #
 msgid "Process"
@@ -12692,9 +12843,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr ""
 
-msgid "Reflash recommended!"
-msgstr ""
-
 msgid "Refresh"
 msgstr ""
 
@@ -12714,6 +12862,9 @@ msgstr "Hressingar tíðni val."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Hressingar tíðni val."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 #
 #, fuzzy
@@ -14952,12 +15103,6 @@ msgstr "Niðurhalanleg ný íforrit"
 msgid "Show latest commit log information"
 msgstr "Upplýsingar hugbúnaðar umsýslu"
 
-msgid "Show latest commits"
-msgstr ""
-
-msgid "Show latest update log"
-msgstr ""
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Aðgerð þegar mynd er stoppuð"
@@ -15028,9 +15173,6 @@ msgid "Show or hide the extended description, (skin dependant)."
 msgstr "sýna auka upplýsingar"
 
 msgid "Show packagegroup-base in plugin browser"
-msgstr ""
-
-msgid "Show packages to be updated"
 msgstr ""
 
 msgid "Show pam-plugin in plugin browser"
@@ -15556,6 +15698,11 @@ msgstr "Hugbúnaður"
 msgid "Software Update"
 msgstr "Hugbúnaðar uppfærsla"
 
+#
+#, fuzzy
+msgid "Software Update Actions"
+msgstr "Hugbúnaðar uppfærsla"
+
 #, fuzzy
 msgid "Software information"
 msgstr "Upplýsingar hugbúnaðar umsýslu"
@@ -15569,6 +15716,14 @@ msgstr "Uppsetning hugbúnaðar umsýslu"
 #
 msgid "Software update"
 msgstr "Hugbúnaðar uppfærsla"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Bíðið eftir að hafa ýtt á OK!"
 
 msgid "Softwaremanager information"
 msgstr "Upplýsingar hugbúnaðar umsýslu"
@@ -15916,6 +16071,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "ekki tiltækt"
+
+#
+#, fuzzy
 msgid "Step back"
 msgstr "Skref austur"
 
@@ -16041,6 +16201,9 @@ msgstr "Hætta að prufa eftir # senda sem fundust ekki"
 #
 msgid "Stop testing plane after # successful transponders"
 msgstr "Hætta að prufa eftir að # sendar fundust"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr ""
@@ -16721,12 +16884,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr ""
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -16880,6 +17037,10 @@ msgstr "eyða vistuðum spilunarlista"
 msgid "There are no updates available."
 msgstr "Það er engin uppfærsla tiltæk."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr ""
 
@@ -16892,6 +17053,11 @@ msgid ""
 msgstr ""
 "Það gæti verið of lítið pláss á valinni disksneið,\n"
 "Viltu örugglega halda áfram?"
+
+#
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Það varð villa við niðurhal pakka listans. Vinsamlega prófaðu aftur."
 
 #
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
@@ -17915,30 +18081,14 @@ msgstr ""
 msgid "Update"
 msgstr "Uppfæra"
 
-msgid "Update and ask to reboot"
-msgstr ""
-
-msgid "Update and ask to reboot (recommended)"
-msgstr ""
-
-#
 #, fuzzy
-msgid "Update channel list only"
-msgstr "næsta rás í sögu"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] ""
-msgstr[1] ""
+msgid "Update completed."
+msgstr "Afritun tókst ekki."
 
 #
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Viltu setja inn stillingarnar þínar aftur?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr ""
 
 msgid "Update feed not available."
 msgstr "Uppfærslur á fæðirásum ekki tiltækar."
@@ -17950,6 +18100,19 @@ msgstr ""
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Tími milli mynda (sek.)"
+
+#
+#, fuzzy
+msgid "Updated"
+msgstr "Uppfæra"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Updates available:"
+msgstr " uppfærslur tiltækar."
 
 #
 msgid "Updating"
@@ -18610,6 +18773,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Það er engin uppfærsla tiltæk."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr ""
 
@@ -18711,6 +18878,9 @@ msgid "What day of week ?"
 msgstr ""
 
 msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "What would you like to do?"
 msgstr ""
 
 msgid "When PiPzap enabled zap channel down"
@@ -19309,6 +19479,9 @@ msgstr ""
 msgid "You seem to be in timeshift!"
 msgstr ""
 
+msgid "You should flash a new image!"
+msgstr ""
+
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr ""
 
@@ -19336,10 +19509,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -19411,7 +19580,7 @@ msgid ""
 msgstr ""
 
 #, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr ""
 
 #, python-format

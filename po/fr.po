@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2021-12-08 15:38+0100\n"
 "Last-Translator: Pr2\n"
 "Language-Team: french\n"
@@ -941,6 +941,14 @@ msgstr[0] "%d jour"
 msgstr[1] "%d jours"
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Afficher les paquets à mettre à jour"
+
+#, python-format
 msgid "%d fps"
 msgstr "%d fps"
 
@@ -995,6 +1003,70 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] " %d paquet sélectionné."
 msgstr[1] " %d paquets sélectionnés."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr " %d paquet sélectionné."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "Mise à jour terminée, %d paquet a été installé."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr " %d paquet sélectionné."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr " %d paquet sélectionné."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr " %d paquet sélectionné."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1165,12 +1237,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "%s mise à jour disponible"
-msgstr[1] "%s mises à jour disponibles"
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3182,6 +3248,10 @@ msgid "Cancel"
 msgstr "Annuler"
 
 #, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Protéger l'écran de mise à jour"
+
+#, fuzzy
 msgid "Cancel any changed settings and exit"
 msgstr "Annuler les modifications de texte et quitter"
 
@@ -3228,6 +3298,10 @@ msgstr "Sélection de la chaîne"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Sélection de la chaîne"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Paquets à mettre à jour"
 
 msgid "Cancelled upon user request"
 msgstr "Annulé à la demande de l’utilisateur"
@@ -3776,6 +3850,10 @@ msgstr "Configuration"
 msgid "Configuration"
 msgstr "Configuration"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Un fichier de configuration (%s) a été modifié depuis qu'il a été installé. Voulez-vous conserver vos modifications?"
+
 msgid "Configuration mode"
 msgstr "Mode de configuration"
 
@@ -4250,6 +4328,9 @@ msgstr "Continuer la lecture"
 msgid "Continue playing"
 msgstr "Continuer de jouer"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Lecture en boucle"
 
@@ -4304,9 +4385,6 @@ msgstr "Côte d'Ivoire"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Impossible d'enregistrer en raison d'un service non valide %s"
-
-msgid "Could not find installed channel list."
-msgstr "Impossible de trouver la liste des chaînes installées."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr "Impossible de trouver un média qui convient - Veuillez effacer certaines images téléchargées ou insérer un média (p.e. une clé USB) avec suffisamment d’espace libre et essayer à nouveau!"
@@ -4432,6 +4510,10 @@ msgstr "Transpondeur actuel"
 
 msgid "Current value: "
 msgstr "Valeur actuelle: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Transpondeur actuel"
 
 #, fuzzy
 msgid "Custom"
@@ -5026,6 +5108,10 @@ msgstr "Description"
 msgid "Deselect"
 msgstr "Désélectionner"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr "Destination du récepteur distant de repli."
 
@@ -5479,14 +5565,6 @@ msgstr "Voulez-vous choisir un autre thème (skin)?"
 msgid "Do you want to update the package:\n"
 msgstr "Voulez-vous mettre à jour le paquet:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Voulez-vous mettre à jour votre récepteur vers %s?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Voulez-vous mettre à jour votre récepteur vers %s?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "Documentaire"
@@ -5550,6 +5628,10 @@ msgstr[1] "Terminé - %d paquets (sur %s) installés, mis à jour ou retirés "
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "erreur inconnue"
+
 msgid "Download plugins"
 msgstr "Ajouter extensions"
 
@@ -5566,6 +5648,10 @@ msgid "Downloading Image"
 msgstr "Téléchargement de l'image en cours"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Essai téléchargement nouvelle liste paquet. Veuillez patienter..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Essai téléchargement nouvelle liste paquet. Veuillez patienter..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5897,6 +5983,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6695,6 +6784,18 @@ msgstr "Favoris"
 
 msgid "Favourites"
 msgstr "Favoris"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "forcer désactivé"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "non testable"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "non testable"
 
 msgid "Fiji"
 msgstr "Fidji"
@@ -7813,6 +7914,10 @@ msgid "Include keyboard data"
 msgstr "Saisie de données au clavier"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Inclure AIT dans les flux HTTP"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Configure le type de télécommande"
 
@@ -8413,9 +8518,6 @@ msgstr "Derniers changements"
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr "Log de la dernière mise à jour"
-
 #, fuzzy
 msgid "Latin"
 msgstr "Latitude"
@@ -8878,6 +8980,10 @@ msgstr "Gestionnaire des extensions"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Gérer les extensions ou plugins pour votre récepteur."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Changer programmation"
+
 msgid "Manage your receiver's software"
 msgstr "Gestion du logiciel de votre récepteur"
 
@@ -9206,6 +9312,10 @@ msgid "Move down a page"
 msgstr "Aller en bas de la liste"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "Déplacer en bas dernière entrée"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "Déplacer en bas dernière entrée"
 
@@ -9312,6 +9422,14 @@ msgstr "Déplacer vers l'indice de position"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Déplacer vers l'indice de position"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "Déplacer en haut entrée précédente"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "Déplacer en haut entrée précédente"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9836,10 +9954,12 @@ msgstr ""
 "Aucun tuner est activé!\n"
 "Veuillez paramétrer vos tuners avant de lancer la recherche des services."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Aucune mise à jour disponible"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Aucune mise à jour disponible. S'il vous plaît réessayer plus tard."
 
 msgid "No wireless networks found! Searching..."
@@ -9995,6 +10115,9 @@ msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
 msgstr "Rien à rechercher! Veuillez paramétrer votre tuner et essayer à nouveau."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Maintenant"
@@ -10410,9 +10533,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Paquets à mettre à jour"
-
 msgid "Packet management"
 msgstr "Gestion des paquets"
 
@@ -10528,6 +10648,9 @@ msgstr "Pourcentage gauche"
 
 msgid "Percentage right"
 msgstr "Pourcentage droite"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11150,6 +11273,10 @@ msgid "Press OK to activate the settings."
 msgstr "Appuyez sur OK pour activer les paramètres."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Veuillez appuyer sur OK pour continuer."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Appuyez sur OK pour éditer les paramètres."
 
@@ -11260,6 +11387,10 @@ msgstr "Priorité"
 #, fuzzy
 msgid "Proc model"
 msgstr "Mode tonalité"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Mise à jour de la liste des paquets"
 
 msgid "Process"
 msgstr "Processus"
@@ -11677,9 +11808,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "Saisir à nouveau le code PIN"
 
-msgid "Reflash recommended!"
-msgstr "Il est recommandé de flasher à nouveau!"
-
 msgid "Refresh"
 msgstr "Rafraîchissement"
 
@@ -11695,6 +11823,9 @@ msgstr "Sélection de vitesse de rafraîchissement"
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Sélection de vitesse de rafraîchissement"
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 msgid "Refusing to move to the same directory"
 msgstr "Refus de déplacer vers le même répertoire"
@@ -13680,12 +13811,6 @@ msgstr "Afficher les numéros des menus ou des plugins"
 msgid "Show latest commit log information"
 msgstr "Afficher les derniers changements"
 
-msgid "Show latest commits"
-msgstr "Afficher les derniers changements"
-
-msgid "Show latest update log"
-msgstr "Afficher le log de la dernière mise à jour"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Action lorsqu'un film est arrêté"
@@ -13750,9 +13875,6 @@ msgstr "Afficher description étendue"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Afficher les paquets à mettre à jour"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14209,6 +14331,10 @@ msgid "Software Update"
 msgstr "Mise à jour logiciel"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Mise à jour logiciel"
+
+#, fuzzy
 msgid "Software information"
 msgstr "Informations gestionnaire logiciel"
 
@@ -14220,6 +14346,14 @@ msgstr "Paramètres gestionnaire logiciel"
 
 msgid "Software update"
 msgstr "Mise à jour logiciel"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Après avoir appuyé sur OK, veuillez patienter!"
 
 msgid "Softwaremanager information"
 msgstr "Informations gestionnaire logiciel"
@@ -14531,6 +14665,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "Indisponible"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Un pas vers l'Est"
 
@@ -14633,6 +14771,9 @@ msgstr "Stopper le test à partir # échec transpondeurs"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Stopper le test à partir # succès transpondeurs"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Programmation arrêt enregistrement"
@@ -15241,14 +15382,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr "La commande de réveil sera envoyée plusieurs fois."
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"L'image actuelle pourrait ne pas être stable.\n"
-"Pour plus d'informations, voir %s."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15403,6 +15536,10 @@ msgstr "Il n’y a pas de liste de lecture sauvegardée à charger!"
 msgid "There are no updates available."
 msgstr "Il n'y a pas de mise à jour disponible."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Il n'y a aucun signal à verrouiller!"
 
@@ -15414,6 +15551,10 @@ msgid ""
 msgstr ""
 "Il n'y aura pas assez de place sur la partition sélectionnée.\n"
 "Souhaitez-vous vraiment continuer?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Une erreur s'est produite lors du téléchargement de la liste des paquets. S'il vous plaît essayez de nouveau."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "Ce support DVD RW est déjà formaté - le reformater effacera tout le contenu sur le disque."
@@ -16351,28 +16492,13 @@ msgstr ""
 msgid "Update"
 msgstr "Mise à jour"
 
-msgid "Update and ask to reboot"
-msgstr "Mettre à jour et demander de redémarrer"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Mettre à jour et redémarrer (recommandé)"
-
-msgid "Update channel list only"
-msgstr "Mettre à jour seulement la liste des chaînes"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "Mise à jour terminée, %d paquet a été installé."
-msgstr[1] "Mise à jour terminée, %d paquets ont été installés."
+msgid "Update completed."
+msgstr "La mise à jour est terminée."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Mise à jour terminée. Voulez-vous redémarrer votre récepteur?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "La mise à jour a échoué. Votre récepteur ne dispose pas de connexion Internet."
 
 msgid "Update feed not available."
 msgstr "MAJ feed non disponible."
@@ -16383,6 +16509,17 @@ msgstr "La mise à jour est terminée."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Intervalle du diaporama (s)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Mise à jour"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Aucune mise à jour disponible"
 
 msgid "Updating"
 msgstr "Mise à jour en cours"
@@ -16970,6 +17107,10 @@ msgstr "Avertissement: Le tuner FBC-C V1 doit être connecté dans le slot 1 pou
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Il n'y a pas de mise à jour disponible."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Attention: pas de LNB; utiliser la configuration par défaut."
 
@@ -17072,6 +17213,9 @@ msgstr ""
 
 msgid "What type of service scan do you want?"
 msgstr "Quel type de recherche de service voulez-vous?"
+
+msgid "What would you like to do?"
+msgstr ""
 
 #, fuzzy
 msgid "When PiPzap enabled zap channel down"
@@ -17669,6 +17813,9 @@ msgstr "Vous devez basculer vers le service %s (%s - '%s')!\n"
 msgid "You seem to be in timeshift!"
 msgstr "Vous semblez être en PauseDirect!"
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "Votre récepteur ne dispose pas d'une connexion Internet"
@@ -17697,10 +17844,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17776,7 +17919,7 @@ msgstr ""
 "S'il vous plaît appuyez sur OK pour continuer."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "Votre récepteur peut être inutilisable maintenant. S'il vous plaît consulter le manuel pour obtenir de l'aide avant de redémarrer votre récepteur."
 
 #, fuzzy, python-format

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -826,6 +826,14 @@ msgstr[0] "%d ден"
 msgstr[1] "%d ден"
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Покажи пакети што треба да се ажурираат"
+
+#, python-format
 msgid "%d fps"
 msgstr "%d fps"
 
@@ -880,6 +888,70 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] " избрани пакети."
 msgstr[1] " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr " избрани пакети."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "Ажурирањето заврши, пакетот %d е инсталиран."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr " избрани пакети."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr " избрани пакети."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr " избрани пакети."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1042,12 +1114,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "%s достапен ажуриран пакет"
-msgstr[1] "%s достапни ажурирани пакети"
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3060,6 +3126,10 @@ msgid "Cancel"
 msgstr "Поништи"
 
 #, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Заштитете го ажурирањето на софтверот"
+
+#, fuzzy
 msgid "Cancel any changed settings and exit"
 msgstr "Завршете ги сите промени во текстот и откажете"
 
@@ -3106,6 +3176,10 @@ msgstr "Избор на канал"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Избор на канал"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Пакети за ажурирање"
 
 msgid "Cancelled upon user request"
 msgstr "Откажано по барање на корисникот"
@@ -3654,6 +3728,10 @@ msgstr "Конфигурација"
 msgid "Configuration"
 msgstr "Конфигурација"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Конфигурациската датотека (%s) е променета со инсталацијата. Дали сакате да ги задржите овие промени?"
+
 msgid "Configuration mode"
 msgstr "Режим на конфигурација"
 
@@ -4128,6 +4206,9 @@ msgstr "Продолжи со репродукција"
 msgid "Continue playing"
 msgstr "Продолжи со репродукција"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Континуирана репродукција (јамка)"
 
@@ -4182,9 +4263,6 @@ msgstr "Брегот на Слоновата Коска"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Снимањето не успеа поради невалиден канал %s"
-
-msgid "Could not find installed channel list."
-msgstr "Не можам да ја најдам инсталиран список со канали."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr "Не може да се најде соодветен медиум - Ве молиме, отстранете ги преземените имиџи или вметнете медиум (на пр. УСБ-стик) со доволно слободен простор и обидете се повторно!"
@@ -4310,6 +4388,10 @@ msgstr "Тековен транспондер"
 
 msgid "Current value: "
 msgstr "Моментална вредност: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Тековен транспондер"
 
 #, fuzzy
 msgid "Custom"
@@ -4904,6 +4986,10 @@ msgstr "Опис"
 msgid "Deselect"
 msgstr "Деселектирај"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr "Внесете URL на резервниот пријемник"
 
@@ -5357,14 +5443,6 @@ msgstr "Дали сакате да изберете други скин?"
 msgid "Do you want to update the package:\n"
 msgstr "Дали сакате да го ажурирате пакетот:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Дали сакате да го ажурирате приемникот со %s?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Дали сакате да го ажурирате приемникот со %s?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "документарен"
@@ -5428,6 +5506,10 @@ msgstr[1] "Gotovo - Instaliran, ažuriran ili отстранет %d paket (%s)"
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "непозната грешка"
+
 msgid "Download plugins"
 msgstr "Преземи плагин"
 
@@ -5444,6 +5526,10 @@ msgid "Downloading Image"
 msgstr "Превземи имиџ"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Обидете се да преземете нов список со пакети. Ве молам почекајте..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Обидете се да преземете нов список со пакети. Ве молам почекајте..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5775,6 +5861,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6573,6 +6662,18 @@ msgstr "Фаворити"
 
 msgid "Favourites"
 msgstr "Фаворити"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "принудно оневозможена"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "неиспитано"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "неиспитано"
 
 msgid "Fiji"
 msgstr "Фиџи"
@@ -7694,6 +7795,10 @@ msgid "Include keyboard data"
 msgstr "Внесување податоци за тастатура"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Вклучете AIT во http стримови"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Конфигурирај тип на далечински управувач"
 
@@ -8292,9 +8397,6 @@ msgstr "Последни Промени"
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr "Дневник за најнови ажурирања"
-
 #, fuzzy
 msgid "Latin"
 msgstr "Географска ширина"
@@ -8756,6 +8858,10 @@ msgstr "Управување со екстензии"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Управување со Плагини или Екстензии на вашиот приемник."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Променете го тајмерот"
+
 msgid "Manage your receiver's software"
 msgstr "Управување со софтверот на вашиот приемник"
 
@@ -9084,6 +9190,10 @@ msgid "Move down a page"
 msgstr "Движете се надолу по листот"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "движете се надолу до последниот влез"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "движете се надолу до последниот влез"
 
@@ -9190,6 +9300,14 @@ msgstr "Преместено во позиција на индекс"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Преместено во позиција на индекс"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "преминете на претходниот запис"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "преминете на претходниот запис"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9714,10 +9832,12 @@ msgstr ""
 "Нема вклучен тјунер!\n"
 "Поставете ги поставките за тјунер пред да започнете со пребарување на каналот."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Нема достапни ажурирања"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Нема достапни ажурирања. Ве молиме обидете се подоцна."
 
 msgid "No wireless networks found! Searching..."
@@ -9873,6 +9993,9 @@ msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
 msgstr "Ништо за пребарување! Поставете го тјунерот и обидете се повторно."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Сега"
@@ -10289,9 +10412,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Пакети за ажурирање"
-
 msgid "Packet management"
 msgstr "Управување со пакети"
 
@@ -10407,6 +10527,9 @@ msgstr "Процентот лево"
 
 msgid "Percentage right"
 msgstr "Процентот десно"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11029,6 +11152,10 @@ msgid "Press OK to activate the settings."
 msgstr "Притиснете OK за да ги активирате поставките."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Ве молиме, притиснете ОК за да продолжите."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Притиснете OK за да ги уредите поставките."
 
@@ -11139,6 +11266,10 @@ msgstr "Приоритет"
 #, fuzzy
 msgid "Proc model"
 msgstr "Режим на тон"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Ажурирање на списокот на пакети"
 
 msgid "Process"
 msgstr "Процес"
@@ -11556,9 +11687,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "Внесете повторно ПИН"
 
-msgid "Reflash recommended!"
-msgstr "Рефлеш се препорачува!"
-
 msgid "Refresh"
 msgstr "Освежи"
 
@@ -11574,6 +11702,9 @@ msgstr "Избор на стапка на освежување."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Избор на стапка на освежување."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 msgid "Refusing to move to the same directory"
 msgstr "Одбива да се смени во истиот директориум"
@@ -13562,12 +13693,6 @@ msgstr "Покажи нумерирање на менито или плагин�
 msgid "Show latest commit log information"
 msgstr "Прикажи ги последните промени"
 
-msgid "Show latest commits"
-msgstr "Прикажи ги последните промени"
-
-msgid "Show latest update log"
-msgstr "Прикажи го најновиот дневник за ажурирање"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Однесување при запирање на филм"
@@ -13632,9 +13757,6 @@ msgstr "Покажи проширен опис"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Покажи пакети што треба да се ажурираат"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14092,6 +14214,10 @@ msgid "Software Update"
 msgstr "Ажурирај го софтверот"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Ажурирај го софтверот"
+
+#, fuzzy
 msgid "Software information"
 msgstr "Информации за управувач на софтвер"
 
@@ -14103,6 +14229,14 @@ msgstr "Поставки за управувач на софтвер"
 
 msgid "Software update"
 msgstr "Ажурирај го софтверот"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Откако ќе притиснете ОК, почекајте!"
 
 msgid "Softwaremanager information"
 msgstr "Информации за управувач на софтвер"
@@ -14412,6 +14546,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "недостапно"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Чекор на исток"
 
@@ -14516,6 +14654,9 @@ msgstr "Стоп за тестот по # неуспешни транспонд�
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Стоп за тестот по # успешни транспондери"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Стоп за снимање"
@@ -15119,14 +15260,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr "Командата да се разбуди од мирување ќе биде испратена повеќе пати."
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"Тековниот имиџ можеби не е стабилен.\n"
-"За повеќе информации, прочитајте %s."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15274,6 +15407,10 @@ msgstr "Нема зачувани плејлисти за вчитување!"
 msgid "There are no updates available."
 msgstr "Нема достапни ажурирања."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Нема сигнал!"
 
@@ -15285,6 +15422,10 @@ msgid ""
 msgstr ""
 "Нема доволно простор на избраната партиција.\n"
 "Дали навистина сакате да продолжите?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Настана грешка при преземање. Ве молиме обидете се повторно."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "Овој DVD RW медиум е веќе форматиран - преформулирањето ќе ја избрише целата содржина на дискот."
@@ -16218,28 +16359,13 @@ msgstr ""
 msgid "Update"
 msgstr "Ажурирање"
 
-msgid "Update and ask to reboot"
-msgstr "Ажурирајте и рестартирајте на барање"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Ажурирање и рестартирање (препорачано)"
-
-msgid "Update channel list only"
-msgstr "Ажурирајте само список со канали"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "Ажурирањето заврши, пакетот %d е инсталиран."
-msgstr[1] "Update completed, %d packages were installed."
+msgid "Update completed."
+msgstr "Ажурирањето е завршено."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Ажурирањето е завршено. Дали сакате да го рестартирате вашиот приемник?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "Ажурирањето не успеа. Вашиот приемник нема работна интернет-врска."
 
 msgid "Update feed not available."
 msgstr "Ажурирање не е достапно."
@@ -16250,6 +16376,17 @@ msgstr "Ажурирањето е завршено."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Интервал на слајд-шоу (сек.)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Ажурирање"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Нема достапни ажурирања"
 
 msgid "Updating"
 msgstr "Ажурирање"
@@ -16837,6 +16974,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Нема достапни ажурирања."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Предупредување: нема LNB; користете фабричка поставка."
 
@@ -16939,6 +17080,9 @@ msgstr ""
 
 msgid "What type of service scan do you want?"
 msgstr "Каков вид на пребарување на канали сакате да направите?"
+
+msgid "What would you like to do?"
+msgstr ""
 
 #, fuzzy
 msgid "When PiPzap enabled zap channel down"
@@ -17533,6 +17677,9 @@ msgstr "Мора да се префрлите на станицата %s (%s - '
 msgid "You seem to be in timeshift!"
 msgstr "Изгледа си во временска timeshift!"
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "Вашиот приемник нема интернет-врска"
@@ -17561,10 +17708,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17639,7 +17782,7 @@ msgstr ""
 "Ве молиме, притиснете ОК за да продолжите."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "Вашиот приемник може да биде неупотреблив сега. Ве молиме консултирајте се со упатството за понатамошна помош пред да го рестартирате ресиверот."
 
 #, fuzzy, python-format

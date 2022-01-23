@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -892,6 +892,14 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, python-format
+msgid "%d feed catalog packages were updated."
+msgstr ""
+
+#, python-format
 msgid "%d fps"
 msgstr ""
 
@@ -948,6 +956,70 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] "חבילות נבחרו"
 msgstr[1] "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr "חבילות נבחרו"
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr "חבילות נבחרו"
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr "חבילות נבחרו"
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr "חבילות נבחרו"
 
 #, python-format
 msgid "%d pixel wide"
@@ -1110,13 +1182,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "עדכונים זמינים"
-msgstr[1] "עדכונים זמינים"
 
 #
 #, fuzzy, python-format
@@ -3224,6 +3289,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "בטל"
 
+msgid "Cancel / Close the software update screen"
+msgstr ""
+
 msgid "Cancel any changed settings and exit"
 msgstr ""
 
@@ -3270,6 +3338,11 @@ msgstr "בחירת ערוץ"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "בחירת ערוץ"
+
+#
+#, fuzzy
+msgid "Cancel the update"
+msgstr "עדכון רשימת חבילות"
 
 msgid "Cancelled upon user request"
 msgstr ""
@@ -3839,6 +3912,10 @@ msgstr "הגדרת רשת"
 msgid "Configuration"
 msgstr "הגדרת רשת"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "עודכן מאז ההתקנה (%s) קובץ ההגדרות. ? האם אתה מעוניין לשמור על הגירסה שלך"
+
 #, fuzzy
 msgid "Configuration mode"
 msgstr "תצורת הגדרה"
@@ -4325,6 +4402,9 @@ msgstr "המשך לנגן"
 msgid "Continue playing"
 msgstr "המשך לנגן"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr ""
 
@@ -4377,9 +4457,6 @@ msgstr ""
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "%s לא יכול להקליט עקב התנגשות בטיימר"
-
-msgid "Could not find installed channel list."
-msgstr ""
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr ""
@@ -4513,6 +4590,10 @@ msgstr "Current Transponder"
 
 msgid "Current value: "
 msgstr "Current value: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Current Transponder"
 
 #, fuzzy
 msgid "Custom"
@@ -5133,6 +5214,10 @@ msgstr "תאור"
 msgid "Deselect"
 msgstr "בטל בחירה"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr ""
 
@@ -5610,14 +5695,6 @@ msgstr ""
 msgid "Do you want to update the package:\n"
 msgstr "?האם ברצונך לשדרג את החבילה\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "? האם ברצונך לשחזר את ההגדרות"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "? האם ברצונך לשחזר את ההגדרות"
-
 msgid "Documentary"
 msgstr ""
 
@@ -5679,6 +5756,10 @@ msgid "Down"
 msgstr ""
 
 #, fuzzy
+msgid "Download error"
+msgstr "מוריד"
+
+#, fuzzy
 msgid "Download plugins"
 msgstr "הורד פלאגינים"
 
@@ -5698,6 +5779,10 @@ msgstr "מוריד"
 #
 msgid "Downloading a new packet list. Please wait..."
 msgstr ""
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
+msgstr "...מוריד פרטים על הפלאגין, אנא המתן"
 
 msgid "Downloading plugin information. Please wait..."
 msgstr "...מוריד פרטים על הפלאגין, אנא המתן"
@@ -6057,6 +6142,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6873,6 +6961,17 @@ msgstr "מועדפים"
 #
 msgid "Favourites"
 msgstr "מועדפים"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "disabled"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "disabled"
+
+msgid "Feed unstable!"
+msgstr ""
 
 msgid "Fiji"
 msgstr ""
@@ -8030,6 +8129,11 @@ msgstr "הגדרת מקלדת"
 
 #
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "הגדרת מקלדת"
+
+#
+#, fuzzy
 msgid "Include remote control data"
 msgstr "סוג בקרת הורים"
 
@@ -8665,10 +8769,6 @@ msgid "Latest revision on github"
 msgstr ""
 
 #
-msgid "Latest update log"
-msgstr ""
-
-#
 #, fuzzy
 msgid "Latin"
 msgstr "Latitude"
@@ -9161,6 +9261,11 @@ msgid "Manage extensions or plugins for your receiver."
 msgstr ""
 
 #
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Change step size"
+
+#
 msgid "Manage your receiver's software"
 msgstr "נהל את תוכנת הממיר שלך"
 
@@ -9516,6 +9621,10 @@ msgid "Move down a page"
 msgstr "move down to last entry"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "move down to last entry"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "move down to last entry"
 
@@ -9626,6 +9735,14 @@ msgstr ""
 #, fuzzy
 msgid "Move up a page"
 msgstr "העבר לזווית הבאה"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "move up to previous entry"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "move up to previous entry"
 
 msgid "Move up a screen"
 msgstr ""
@@ -10185,11 +10302,13 @@ msgstr ""
 
 #
 #, fuzzy
-msgid "No updates available"
+msgid "No updates available."
 msgstr "עדכונים זמינים"
 
-msgid "No updates available. Please try again later."
-msgstr ""
+#
+#, fuzzy
+msgid "No updates were available.  Please try again later."
+msgstr "There was an error downloading the packetlist. Please try again."
 
 msgid "No wireless networks found! Searching..."
 msgstr ""
@@ -10361,6 +10480,9 @@ msgid "Nothing to scan! Setup your tuner and try again."
 msgstr ""
 "!אין מה לסרוק\n"
 ".הגדר את הטינר לפני סריקת התדרים"
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr ""
@@ -10789,9 +10911,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr ""
-
 msgid "Packet management"
 msgstr "Packet management"
 
@@ -10919,6 +11038,9 @@ msgstr ""
 #, fuzzy
 msgid "Percentage right"
 msgstr "Circular right"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11582,6 +11704,10 @@ msgid "Press OK to activate the settings."
 msgstr "Press OK to activate the settings."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr ".אנא לחץ אשר על מנת להמשיך"
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Press OK to edit the settings."
 
@@ -11697,6 +11823,11 @@ msgstr "עדיפות"
 #, fuzzy
 msgid "Proc model"
 msgstr "Tone mode"
+
+#
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "עדכון רשימת חבילות"
 
 msgid "Process"
 msgstr "Process"
@@ -12125,9 +12256,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr ""
 
-msgid "Reflash recommended!"
-msgstr ""
-
 msgid "Refresh"
 msgstr ""
 
@@ -12144,6 +12272,9 @@ msgstr "Refresh rate selection."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Refresh rate selection."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 #, fuzzy
 msgid "Refusing to move to the same directory"
@@ -14250,12 +14381,6 @@ msgstr "פלאגינים חדשים להורדה"
 msgid "Show latest commit log information"
 msgstr ""
 
-msgid "Show latest commits"
-msgstr ""
-
-msgid "Show latest update log"
-msgstr ""
-
 #
 #, fuzzy
 msgid "Show live tv when movie stopped"
@@ -14325,9 +14450,6 @@ msgid "Show or hide the extended description, (skin dependant)."
 msgstr "הראה מידע מורחב"
 
 msgid "Show packagegroup-base in plugin browser"
-msgstr ""
-
-msgid "Show packages to be updated"
 msgstr ""
 
 msgid "Show pam-plugin in plugin browser"
@@ -14824,6 +14946,10 @@ msgstr "תוכנה"
 msgid "Software Update"
 msgstr "עדכון תוכנה"
 
+#, fuzzy
+msgid "Software Update Actions"
+msgstr "עדכון תוכנה"
+
 #
 #, fuzzy
 msgid "Software information"
@@ -14837,6 +14963,14 @@ msgstr ""
 
 msgid "Software update"
 msgstr "עדכון תוכנה"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"!אחרי לחיצה על אשר,נא המתן"
 
 msgid "Softwaremanager information"
 msgstr ""
@@ -15170,6 +15304,11 @@ msgstr ""
 
 #
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "עדכונים זמינים"
+
+#
+#, fuzzy
 msgid "Step back"
 msgstr "Step east"
 
@@ -15290,6 +15429,9 @@ msgstr "Stop testing plane after # failed transponders"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Stop testing plane after # successful transponders"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr ""
@@ -15948,12 +16090,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr ""
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -16100,6 +16236,10 @@ msgstr "delete saved playlist"
 msgid "There are no updates available."
 msgstr ".אין עדכונים זמינים"
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr ""
 
@@ -16111,6 +16251,11 @@ msgid ""
 msgstr ""
 "There might not be enough Space on the selected Partition.\n"
 "Do you really want to continue?"
+
+#
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "There was an error downloading the packetlist. Please try again."
 
 #
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
@@ -17097,28 +17242,13 @@ msgstr ""
 msgid "Update"
 msgstr "עדכן"
 
-msgid "Update and ask to reboot"
-msgstr ""
-
-msgid "Update and ask to reboot (recommended)"
-msgstr ""
-
 #, fuzzy
-msgid "Update channel list only"
-msgstr "next channel in history"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] ""
-msgstr[1] ""
+msgid "Update completed."
+msgstr ".הגיבוי נכשל"
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "? האם ברצונך לשחזר את ההגדרות"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr ""
 
 #
 msgid "Update feed not available."
@@ -17130,6 +17260,19 @@ msgstr ""
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "משך המצגת (sec.)"
+
+#
+#, fuzzy
+msgid "Updated"
+msgstr "עדכן"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Updates available:"
+msgstr "עדכונים זמינים"
 
 #
 msgid "Updating"
@@ -17750,6 +17893,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr ".אין עדכונים זמינים"
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr ""
 
@@ -17843,6 +17990,9 @@ msgid "What day of week ?"
 msgstr ""
 
 msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "What would you like to do?"
 msgstr ""
 
 msgid "When PiPzap enabled zap channel down"
@@ -18422,6 +18572,9 @@ msgstr ""
 msgid "You seem to be in timeshift!"
 msgstr ""
 
+msgid "You should flash a new image!"
+msgstr ""
+
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr ""
 
@@ -18449,10 +18602,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -18521,7 +18670,7 @@ msgid ""
 msgstr ""
 
 #, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr ""
 
 #, python-format

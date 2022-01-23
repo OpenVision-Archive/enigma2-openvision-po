@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -947,6 +947,14 @@ msgstr[1] "%d dni"
 msgstr[2] "%d dní"
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Zobraziť balíčky dostupnej aktualizácie"
+
+#, python-format
 msgid "%d fps"
 msgstr "%d fps"
 
@@ -1005,6 +1013,70 @@ msgid_plural "%d packages selected."
 msgstr[0] "%d balíček vybratý."
 msgstr[1] "%d vybraté balíčky."
 msgstr[2] "%d vybratých balíčkov."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr "%d balíček vybratý."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "Aktualizácia dokončená, %d balíček bol nainštalovaný."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr "%d balíček vybratý."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr "%d balíček vybratý."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr "%d balíček vybratý."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1178,13 +1250,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "%s aktualizovaný balíček k dispozícii"
-msgstr[1] "%s aktualizované balíčky k dispozícii"
-msgstr[2] "%s aktualizovaných balíčkov k dispozícii"
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3195,6 +3260,10 @@ msgid "Cancel"
 msgstr "Zrušiť"
 
 #, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Chrániť obrazovku aktualizácie softvéru"
+
+#, fuzzy
 msgid "Cancel any changed settings and exit"
 msgstr "Zrušiť všetky textové zmeny a ukončiť"
 
@@ -3241,6 +3310,10 @@ msgstr "Voľba stanice"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Voľba stanice"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Aktualizované balíčky"
 
 msgid "Cancelled upon user request"
 msgstr "Zrušené na žiadosť užívateľa"
@@ -3789,6 +3862,10 @@ msgstr "Konfigurácia"
 msgid "Configuration"
 msgstr "Konfigurácia"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Konfiguračný súbor (%s) bol od inštalácie zmenený. Chcete zachovať Vaše zmeny?"
+
 msgid "Configuration mode"
 msgstr "Konfiguračný režim"
 
@@ -4263,6 +4340,9 @@ msgstr "Pokračovať v prehaávaní"
 msgid "Continue playing"
 msgstr "Pokračovať v prehrávaní"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Časová slučka (loop)"
 
@@ -4317,9 +4397,6 @@ msgstr "Pobrežia slonoviny"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Nedalo sa nahrať pre neplatnú stanicu %s"
-
-msgid "Could not find installed channel list."
-msgstr "Neexistuje zoznam staníc."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr "Nebolo možné nájsť vhodné médium - odstráňte prosím stiahnuté image alebo vložte disk (napr. USB kľúč) s dostatkom voľného miesta a skúste to znovu!"
@@ -4445,6 +4522,10 @@ msgstr "Aktuálny transpondér"
 
 msgid "Current value: "
 msgstr "Aktuálna hodnota: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Aktuálny transpondér"
 
 #, fuzzy
 msgid "Custom"
@@ -5039,6 +5120,10 @@ msgstr "Popis"
 msgid "Deselect"
 msgstr "Zrušiť výber"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr "URL záložného vzdialeného prijímača"
 
@@ -5492,14 +5577,6 @@ msgstr "Chcete zvoliť iný vzhľad?"
 msgid "Do you want to update the package:\n"
 msgstr "Chcete aktualizovať balíček:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Chcete aktualizovať Váš prijímač na %s?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Chcete aktualizovať Váš prijímač na %s?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "dokumentárny"
@@ -5564,6 +5641,10 @@ msgstr[2] "Hotovo - Nainštalovaných, aktualizovaných alebo odstránených %d 
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "neznáma chyba"
+
 msgid "Download plugins"
 msgstr "Stiahnúť doplnky"
 
@@ -5580,6 +5661,10 @@ msgid "Downloading Image"
 msgstr "Sťahuje sa image"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Pokúšam sa stiahnuť nový zoznam balíčkov. Prosím čakajte..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Pokúšam sa stiahnuť nový zoznam balíčkov. Prosím čakajte..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5911,6 +5996,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6709,6 +6797,18 @@ msgstr "Obľúbené"
 
 msgid "Favourites"
 msgstr "Obľúbené"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "vynútiť zakázanie"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "neskúšateľné"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "neskúšateľné"
 
 msgid "Fiji"
 msgstr "Fidži"
@@ -7829,6 +7929,10 @@ msgid "Include keyboard data"
 msgstr "Vstupné údaje klávesnice"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Zahrnúť AIT (HbbTV) do http streamov"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Typ ďiaľkového ovládača"
 
@@ -8429,9 +8533,6 @@ msgstr "Posledné zmeny"
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr "Protokol poslednej aktualizácie"
-
 #, fuzzy
 msgid "Latin"
 msgstr "Zem. šírka"
@@ -8894,6 +8995,10 @@ msgstr "Spravovať rozšírenia"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Správa rozšírení alebo doplnkov prijímača."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Zmeniť časovač"
+
 msgid "Manage your receiver's software"
 msgstr "Spravovať softvér Vášho prijímača"
 
@@ -9222,6 +9327,10 @@ msgid "Move down a page"
 msgstr "Prechádzať v zozname nadol"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "nadol na poslednú položku"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "nadol na poslednú položku"
 
@@ -9328,6 +9437,14 @@ msgstr "Otočené na východziu pozíciu"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Otočené na východziu pozíciu"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "nahor na predchádzajúcu položku"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "nahor na predchádzajúcu položku"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9852,10 +9969,12 @@ msgstr ""
 "Nie je povolený žiadny tuner!\n"
 "Nastavte tuner pred spustením vyhľadávania staníc."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Žiadne dostupné aktualizácie"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Žiadne dostupné aktualizácie. Skúste to neskôr."
 
 msgid "No wireless networks found! Searching..."
@@ -10011,6 +10130,9 @@ msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
 msgstr "Nie je čo prehľadávať! Nastavte tuner a skúste to znovu."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Teraz"
@@ -10427,9 +10549,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Aktualizované balíčky"
-
 msgid "Packet management"
 msgstr "Správa balíčkov"
 
@@ -10545,6 +10664,9 @@ msgstr "Percentá vľavo"
 
 msgid "Percentage right"
 msgstr "Percentá vpravo"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11167,6 +11289,10 @@ msgid "Press OK to activate the settings."
 msgstr "Stlačením OK aktivujte nastavenia."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Pre pokračovanie stlačte tlačidlo OK."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Stlačte OK pre zmenu nastavení."
 
@@ -11277,6 +11403,10 @@ msgstr "Priorita"
 #, fuzzy
 msgid "Proc model"
 msgstr "Tónový režim"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Aktualizácia zoznamu balíčkov"
 
 msgid "Process"
 msgstr "Procesy"
@@ -11694,9 +11824,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "Zopakujte PIN"
 
-msgid "Reflash recommended!"
-msgstr "Odporúčame reflash!"
-
 msgid "Refresh"
 msgstr "Obnoviť"
 
@@ -11712,6 +11839,9 @@ msgstr "Voľba obnovovacej frekvencie."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Voľba obnovovacej frekvencie."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 msgid "Refusing to move to the same directory"
 msgstr "Nie je možné presunúť do rovnakej zložky"
@@ -13702,12 +13832,6 @@ msgstr "Zobraziť čísla menu alebo doplnkov"
 msgid "Show latest commit log information"
 msgstr "Zobraziť posledné zmeny"
 
-msgid "Show latest commits"
-msgstr "Zobraziť posledné zmeny"
-
-msgid "Show latest update log"
-msgstr "Zobraziť protokol z poslednej aktualizácie"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Činnosť po zastavení filmu"
@@ -13772,9 +13896,6 @@ msgstr "Zobraziť rozšírený opis"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Zobraziť balíčky dostupnej aktualizácie"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14231,6 +14352,10 @@ msgid "Software Update"
 msgstr "Aktualizácia softvéru"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Aktualizácia softvéru"
+
+#, fuzzy
 msgid "Software information"
 msgstr "Informácie správcu softvéru"
 
@@ -14242,6 +14367,14 @@ msgstr "Nastavenie správcu softvéru"
 
 msgid "Software update"
 msgstr "Aktualizácia softvéru"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Po stlačení tlačidla OK prosím čakajte!"
 
 msgid "Softwaremanager information"
 msgstr "Informácie správcu softvéru"
@@ -14553,6 +14686,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "nedostupné"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Krok východne"
 
@@ -14655,6 +14792,9 @@ msgstr "Zastaviť testovanie po # zlyhaných transpondéroch"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Zastaviť testovanie po # úspešných transpondéroch"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Zastaviť časovač nahrávania"
@@ -15261,14 +15401,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr "Príkaz na prebudenie z pohotovostného režimu bude poslaný viac krát."
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"Aktuálny image nemusí byť stabilný.\n"
-"Pre viac informácií navštívte %s."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15423,6 +15555,10 @@ msgstr "Na načítanie nie sú uložené žiadne playlisty!"
 msgid "There are no updates available."
 msgstr "Nie sú dostupné žiadne aktualizácie."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Nie je signál pre uzamknutie!"
 
@@ -15434,6 +15570,10 @@ msgid ""
 msgstr ""
 "Vo zvolenej partícii nemusí byť dostatok miesta.\n"
 "Naozaj chcete pokračovať?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Chyba pri sťahovaní zoznamu paketov. Zopakujte."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "Toto médium DVD RW je už naformátované - opätovným formátovaním sa vymaže celý obsah disku."
@@ -16367,29 +16507,13 @@ msgstr ""
 msgid "Update"
 msgstr "Aktualizovať"
 
-msgid "Update and ask to reboot"
-msgstr "Aktualizovať a čakať na potvrdenie reštartu"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Aktualizovať a reštartovať (odporúčané)"
-
-msgid "Update channel list only"
-msgstr "Aktualizovať iba zoznam kanálov"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "Aktualizácia dokončená, %d balíček bol nainštalovaný."
-msgstr[1] "Aktualizácia dokončená, %d balíčky boli nainštalované."
-msgstr[2] "Aktualizácia dokončená, %d balíčkov bolo nainštalovaných."
+msgid "Update completed."
+msgstr "Aktualizácia bola dokončená."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Aktualizácia dokončená. Chcete reštartovať prijímač?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "Aktualizácia zlyhala. Váš prijímač nemá funkčné pripojenie k internetu."
 
 msgid "Update feed not available."
 msgstr "Zdroj aktualizácií nie je k dispozícií."
@@ -16400,6 +16524,17 @@ msgstr "Aktualizácia bola dokončená."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Interval prezentácie (sek.)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Aktualizovať"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Žiadne dostupné aktualizácie"
 
 msgid "Updating"
 msgstr "Aktualizujem"
@@ -16985,6 +17120,10 @@ msgstr "Upozornenie: FBC-C V1 tuner by mal byť pre správnu funkčnosť pripoje
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Nie sú dostupné žiadne aktualizácie."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Upozornenie: žiadne LNB; použije sa výrobné nastavenie."
 
@@ -17087,6 +17226,9 @@ msgstr ""
 
 msgid "What type of service scan do you want?"
 msgstr "Aký typ staníc chcete prehľadať?"
+
+msgid "What would you like to do?"
+msgstr ""
 
 #, fuzzy
 msgid "When PiPzap enabled zap channel down"
@@ -17684,6 +17826,9 @@ msgstr "Prepnite na stanicu %s (%s - '%s')\n"
 msgid "You seem to be in timeshift!"
 msgstr "Práve prebieha časový posun!"
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "Váš prijímač nemá pripojenie k internetu"
@@ -17712,10 +17857,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17791,7 +17932,7 @@ msgstr ""
 "Prosím, stlačte OK pre pokračovanie."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "Váš prijímač môže byť teraz nepoužiteľný. Pred reštartom prijímača nájdite v manuáli ďalšiu pomoc."
 
 #, fuzzy, python-format

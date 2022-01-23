@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -936,6 +936,14 @@ msgid_plural "%d days"
 msgstr[0] "%d ngày"
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Hiển thị các gói sẽ được nâng cấp"
+
+#, python-format
 msgid "%d fps"
 msgstr "%d khung hình / giây"
 
@@ -986,6 +994,70 @@ msgstr "%A %d %B"
 msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr " các gói được chọn."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "Cập nhật hoàn tất, gói%d đã được cài đặt."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr " các gói được chọn."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr " các gói được chọn."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr " các gói được chọn."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1153,11 +1225,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "%s gói cập nhật có sẵn"
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3166,6 +3233,10 @@ msgid "Cancel"
 msgstr "Hủy bỏ"
 
 #, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Bảo vệ màn hình cập nhật phần mềm"
+
+#, fuzzy
 msgid "Cancel any changed settings and exit"
 msgstr "Hủy bỏ mọi thay đổi văn bản và thoát"
 
@@ -3212,6 +3283,10 @@ msgstr "Chọn kênh"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Chọn kênh"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Gói cập nhật"
 
 msgid "Cancelled upon user request"
 msgstr "Hủy theo yêu cầu của người dùng"
@@ -3760,6 +3835,10 @@ msgstr "Cấu hình"
 msgid "Configuration"
 msgstr "Cấu hình"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Một tệp cấu hình (%s) đã được sửa đổi kể từ khi được cài đặt. Bạn có muốn giữ sửa đổi của bạn?"
+
 msgid "Configuration mode"
 msgstr "Chế độ cấu hình"
 
@@ -4234,6 +4313,9 @@ msgstr "Tiếp tục phát lại"
 msgid "Continue playing"
 msgstr "Tiếp tục chơi"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Tiếp tục chơi (vòng lặp)"
 
@@ -4288,9 +4370,6 @@ msgstr "Bờ biển ngà"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Không thể ghi do dịch vụ không hợp lệ%s"
-
-msgid "Could not find installed channel list."
-msgstr "Không thể tìm thấy danh sách kênh được cài đặt."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr "Không thể tìm thấy phương tiện phù hợp - Vui lòng xóa một số hình ảnh đã tải xuống hoặc chèn phương tiện (ví dụ: thẻ nhớ USB) với không gian trống đầy đủ và thử lại!"
@@ -4416,6 +4495,10 @@ msgstr "Transponder hiện tại"
 
 msgid "Current value: "
 msgstr "Giá trị hiện tại: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Transponder hiện tại"
 
 #, fuzzy
 msgid "Custom"
@@ -5010,6 +5093,10 @@ msgstr "Sự miêu tả"
 msgid "Deselect"
 msgstr "Bỏ chọn"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr "Đích đến của máy thu từ xa dự phòng"
 
@@ -5463,14 +5550,6 @@ msgstr "Bạn có muốn chọn một làn da khác?"
 msgid "Do you want to update the package:\n"
 msgstr "Bạn có muốn nâng cấp gói:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Bạn có muốn cập nhật đầu thu của mình lên%s không?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Bạn có muốn cập nhật đầu thu của mình lên%s không?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "phim tài liệu"
@@ -5533,6 +5612,10 @@ msgstr[0] "Xong - Đã cài đặt, nâng cấp hoặc gỡ bỏ gói%d (%s)"
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "lỗi không rõ"
+
 msgid "Download plugins"
 msgstr "Tải xuống plugin"
 
@@ -5549,6 +5632,10 @@ msgid "Downloading Image"
 msgstr "Đang tải hình ảnh"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Đang cố gắng tải xuống một danh sách gói mới. Xin vui lòng chờ ..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Đang cố gắng tải xuống một danh sách gói mới. Xin vui lòng chờ ..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5880,6 +5967,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6678,6 +6768,18 @@ msgstr "Yêu thích"
 
 msgid "Favourites"
 msgstr "Yêu thích"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "lực lượng vô hiệu hóa"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "không thể kiểm chứng"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "không thể kiểm chứng"
 
 msgid "Fiji"
 msgstr "Phi-gi"
@@ -7799,6 +7901,10 @@ msgid "Include keyboard data"
 msgstr "Nhập dữ liệu bàn phím"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Bao gồm AIT trong các luồng http"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Cấu hình loại điều khiển từ xa"
 
@@ -8398,9 +8504,6 @@ msgstr "Cam kết mới nhất"
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr "Nhật ký nâng cấp mới nhất"
-
 #, fuzzy
 msgid "Latin"
 msgstr "Vĩ độ"
@@ -8861,6 +8964,10 @@ msgstr "Quản lý tiện ích mở rộng"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Quản lý tiện ích mở rộng hoặc plugin cho đầu thu của bạn."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Thay đổi bộ đếm thời gian"
+
 msgid "Manage your receiver's software"
 msgstr "Quản lý phần mềm người nhận của bạn"
 
@@ -9189,6 +9296,10 @@ msgid "Move down a page"
 msgstr "Đi xuống danh sách"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "di chuyển xuống mục cuối cùng"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "di chuyển xuống mục cuối cùng"
 
@@ -9295,6 +9406,14 @@ msgstr "Đã chuyển đến vị trí tại chỉ mục"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Đã chuyển đến vị trí tại chỉ mục"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "di chuyển đến mục trước"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "di chuyển đến mục trước"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9819,10 +9938,12 @@ msgstr ""
 "Không có bộ chỉnh được kích hoạt!\n"
 "Vui lòng thiết lập cài đặt bộ chỉnh tần số trước khi bạn bắt đầu quét dịch vụ."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Không có bảng cập nhật có sẵn"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Không có bảng cập nhật có sẵn. Vui lòng thử lại sau."
 
 msgid "No wireless networks found! Searching..."
@@ -9978,6 +10099,9 @@ msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
 msgstr "Không có gì để quét! Thiết lập bộ chỉnh của bạn và thử lại."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Hiện nay"
@@ -10394,9 +10518,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Gói cập nhật"
-
 msgid "Packet management"
 msgstr "Quản lý gói"
 
@@ -10512,6 +10633,9 @@ msgstr "Tỷ lệ còn lại"
 
 msgid "Percentage right"
 msgstr "Tỷ lệ đúng"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11134,6 +11258,10 @@ msgid "Press OK to activate the settings."
 msgstr "Nhấn OK để kích hoạt cài đặt."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Vui lòng nhấn OK để tiếp tục."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Nhấn OK để chỉnh sửa cài đặt."
 
@@ -11244,6 +11372,10 @@ msgstr "Sự ưu tiên"
 #, fuzzy
 msgid "Proc model"
 msgstr "Chế độ tone"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Cập nhật danh sách gói"
 
 msgid "Process"
 msgstr "Quá trình"
@@ -11661,9 +11793,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "Nhập lại mã PIN"
 
-msgid "Reflash recommended!"
-msgstr "Đề nghị phản xạ!"
-
 msgid "Refresh"
 msgstr "Làm mới"
 
@@ -11679,6 +11808,9 @@ msgstr "Làm mới lựa chọn tỷ lệ."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Làm mới lựa chọn tỷ lệ."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 msgid "Refusing to move to the same directory"
 msgstr "Từ chối chuyển đến cùng thư mục"
@@ -13664,12 +13796,6 @@ msgstr "Hiển thị số menu hoặc số plugin"
 msgid "Show latest commit log information"
 msgstr "Hiển thị các cam kết mới nhất"
 
-msgid "Show latest commits"
-msgstr "Hiển thị các cam kết mới nhất"
-
-msgid "Show latest update log"
-msgstr "Hiển thị nhật ký nâng cấp mới nhất"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Hành vi khi phim bị dừng"
@@ -13734,9 +13860,6 @@ msgstr "Hiển thị mô tả mở rộng"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Hiển thị các gói sẽ được nâng cấp"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14193,6 +14316,10 @@ msgid "Software Update"
 msgstr "Cập nhật phần mềm"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Cập nhật phần mềm"
+
+#, fuzzy
 msgid "Software information"
 msgstr "Thông tin về phần mềm"
 
@@ -14204,6 +14331,14 @@ msgstr "Thiết lập trình quản lý phần mềm"
 
 msgid "Software update"
 msgstr "Cập nhật phần mềm"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Sau khi nhấn OK, vui lòng đợi!"
 
 msgid "Softwaremanager information"
 msgstr "Thông tin về phần mềm"
@@ -14515,6 +14650,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "không có sẵn"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Bước về phía đông"
 
@@ -14618,6 +14757,9 @@ msgstr "Dừng máy bay thử nghiệm sau khi # bộ tiếp sóng không thành
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Dừng máy bay thử nghiệm sau khi # bộ tiếp sóng thành công"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Dừng ghi âm hẹn giờ"
@@ -15222,14 +15364,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr "Lệnh đánh thức từ chế độ chờ sẽ được gửi nhiều lần."
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"Hình ảnh hiện tại có thể không ổn định.\n"
-"Để biết thêm thông tin, xem%s."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15384,6 +15518,10 @@ msgstr "Không có danh sách phát đã lưu để tải!"
 msgid "There are no updates available."
 msgstr "Không có cập nhật có sẵn."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Không có tín hiệu để khóa!"
 
@@ -15395,6 +15533,10 @@ msgid ""
 msgstr ""
 "Có thể không đủ không gian trên Phân vùng đã chọn.\n"
 "Bạn có thực sự muốn tiếp tục?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Đã xảy ra lỗi trong khi tải xuống danh sách gói. Vui lòng thử lại."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "Phương tiện DVD RW này đã được định dạng - định dạng lại sẽ xóa tất cả nội dung trên đĩa."
@@ -16328,27 +16470,13 @@ msgstr ""
 msgid "Update"
 msgstr "Cập nhật"
 
-msgid "Update and ask to reboot"
-msgstr "Cập nhật và yêu cầu khởi động lại"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Cập nhật và khởi động lại (được khuyến nghị)"
-
-msgid "Update channel list only"
-msgstr "Chỉ cập nhật danh sách kênh"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "Cập nhật hoàn tất, gói%d đã được cài đặt."
+msgid "Update completed."
+msgstr "Cập nhật đã hoàn thành."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Hoàn thành cập nhật. Bạn có muốn khởi động lại máy thu của bạn?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "Cập nhật thất bại. Đầu thu của bạn không có kết nối internet làm việc."
 
 msgid "Update feed not available."
 msgstr "Cập nhật nguồn cấp dữ liệu không có sẵn."
@@ -16359,6 +16487,17 @@ msgstr "Cập nhật đã hoàn thành."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Khoảng thời gian trình chiếu (giây)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Cập nhật"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Không có bảng cập nhật có sẵn"
 
 msgid "Updating"
 msgstr "Nâng cấp"
@@ -16946,6 +17085,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Không có cập nhật có sẵn."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Cảnh báo: không có LNB; sử dụng mặc định nhà máy."
 
@@ -17048,6 +17191,9 @@ msgstr ""
 
 msgid "What type of service scan do you want?"
 msgstr "Bạn muốn loại dịch vụ quét nào?"
+
+msgid "What would you like to do?"
+msgstr ""
 
 #, fuzzy
 msgid "When PiPzap enabled zap channel down"
@@ -17644,6 +17790,9 @@ msgstr "Bạn phải chuyển sang dịch vụ%s (%s - '%s')!\n"
 msgid "You seem to be in timeshift!"
 msgstr "Bạn dường như đang ở trong thời gian thay đổi!"
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "Máy thu của bạn không có kết nối internet"
@@ -17672,10 +17821,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17750,7 +17895,7 @@ msgstr ""
 "Vui lòng nhấn OK để tiếp tục."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "Đầu thu của bạn có thể không sử dụng được ngay bây giờ. Vui lòng tham khảo hướng dẫn để được hỗ trợ thêm trước khi khởi động lại máy thu của bạn."
 
 #, fuzzy, python-format

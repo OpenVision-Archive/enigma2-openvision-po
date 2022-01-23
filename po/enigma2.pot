@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-16 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -806,6 +806,14 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, python-format
+msgid "%d feed catalog packages were updated."
+msgstr ""
+
+#, python-format
 msgid "%d fps"
 msgstr ""
 
@@ -860,6 +868,70 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] ""
 msgstr[1] ""
+
+#, python-format
+msgid "%d package upgraded."
+msgstr ""
+
+#, python-format
+msgid "%d package was configured."
+msgstr ""
+
+#, python-format
+msgid "%d package was deselected."
+msgstr ""
+
+#, python-format
+msgid "%d package was downloaded."
+msgstr ""
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, python-format
+msgid "%d package was installed."
+msgstr ""
+
+#, python-format
+msgid "%d package was removed."
+msgstr ""
+
+#, python-format
+msgid "%d package was upgraded."
+msgstr ""
+
+#, python-format
+msgid "%d packages upgraded."
+msgstr ""
+
+#, python-format
+msgid "%d packages were configured."
+msgstr ""
+
+#, python-format
+msgid "%d packages were deselected."
+msgstr ""
+
+#, python-format
+msgid "%d packages were downloaded."
+msgstr ""
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, python-format
+msgid "%d packages were installed."
+msgstr ""
+
+#, python-format
+msgid "%d packages were removed."
+msgstr ""
+
+#, python-format
+msgid "%d packages were upgraded."
+msgstr ""
 
 #, python-format
 msgid "%d pixel wide"
@@ -1016,12 +1088,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] ""
-msgstr[1] ""
 
 #, python-format
 msgid "%s%d min"
@@ -2712,6 +2778,9 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cancel / Close the software update screen"
+msgstr ""
+
 msgid "Cancel any changed settings and exit"
 msgstr ""
 
@@ -2749,6 +2818,9 @@ msgid "Cancel the action selection and exit"
 msgstr ""
 
 msgid "Cancel the location selection"
+msgstr ""
+
+msgid "Cancel the update"
 msgstr ""
 
 msgid "Cancelled upon user request"
@@ -3183,6 +3255,10 @@ msgstr ""
 msgid "Configuration"
 msgstr ""
 
+#, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr ""
+
 msgid "Configuration mode"
 msgstr ""
 
@@ -3334,6 +3410,9 @@ msgstr ""
 msgid "Continue playing"
 msgstr ""
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr ""
 
@@ -3375,9 +3454,6 @@ msgid "Cote d'Ivoire / Ivory Coast"
 msgstr ""
 
 msgid "Could not connect to server"
-msgstr ""
-
-msgid "Could not find installed channel list."
 msgstr ""
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
@@ -3483,6 +3559,9 @@ msgid "Current transponder"
 msgstr ""
 
 msgid "Current value: "
+msgstr ""
+
+msgid "Current version unknown"
 msgstr ""
 
 msgid "Custom"
@@ -3974,6 +4053,10 @@ msgstr ""
 msgid "Deselect"
 msgstr ""
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr ""
 
@@ -4348,14 +4431,6 @@ msgstr ""
 msgid "Do you want to update the package:\n"
 msgstr ""
 
-#, python-format
-msgid "Do you want to update to %s"
-msgstr ""
-
-#, python-format
-msgid "Do you want to update your %s %s?"
-msgstr ""
-
 msgid "Documentary"
 msgstr ""
 
@@ -4414,6 +4489,9 @@ msgstr[1] ""
 msgid "Down"
 msgstr ""
 
+msgid "Download error"
+msgstr ""
+
 msgid "Download plugins"
 msgstr ""
 
@@ -4427,6 +4505,9 @@ msgid "Downloading Image"
 msgstr ""
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr ""
+
+msgid "Downloading latest update list.  Please wait..."
 msgstr ""
 
 msgid "Downloading plugin information. Please wait..."
@@ -5281,6 +5362,15 @@ msgid "Favorites"
 msgstr ""
 
 msgid "Favourites"
+msgstr ""
+
+msgid "Feed disabled!"
+msgstr ""
+
+msgid "Feed stable."
+msgstr ""
+
+msgid "Feed unstable!"
 msgstr ""
 
 msgid "Fiji"
@@ -6625,9 +6715,6 @@ msgstr ""
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr ""
-
 msgid "Latin"
 msgstr ""
 
@@ -6981,6 +7068,9 @@ msgstr ""
 msgid "Manage extensions or plugins for your receiver."
 msgstr ""
 
+msgid "Manage sleep timer"
+msgstr ""
+
 msgid "Manage your receiver's software"
 msgstr ""
 
@@ -7252,6 +7342,9 @@ msgstr ""
 msgid "Move down a page"
 msgstr ""
 
+msgid "Move down a page / screen"
+msgstr ""
+
 msgid "Move down a screen"
 msgstr ""
 
@@ -7343,6 +7436,12 @@ msgid "Move up a line"
 msgstr ""
 
 msgid "Move up a page"
+msgstr ""
+
+msgid "Move up a page / screen"
+msgstr ""
+
+msgid "Move up a page /screen"
 msgstr ""
 
 msgid "Move up a screen"
@@ -7783,10 +7882,10 @@ msgid ""
 "Please setup your tuner settings before you start a service scan."
 msgstr ""
 
-msgid "No updates available"
+msgid "No updates available."
 msgstr ""
 
-msgid "No updates available. Please try again later."
+msgid "No updates were available.  Please try again later."
 msgstr ""
 
 msgid "No wireless networks found! Searching..."
@@ -7917,6 +8016,9 @@ msgid ""
 msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
+msgstr ""
+
+msgid "Nothing to upgrade"
 msgstr ""
 
 msgid "Now"
@@ -8230,9 +8332,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr ""
-
 msgid "Packet management"
 msgstr ""
 
@@ -8331,6 +8430,9 @@ msgid "Percentage left"
 msgstr ""
 
 msgid "Percentage right"
+msgstr ""
+
+msgid "Perform an on-line flash instead"
 msgstr ""
 
 msgid "Permanently delete all recordings in the trash can?"
@@ -8723,6 +8825,9 @@ msgstr ""
 msgid "Press OK to activate the settings."
 msgstr ""
 
+msgid "Press OK to continue."
+msgstr ""
+
 msgid "Press OK to edit the settings of the selected device."
 msgstr ""
 
@@ -8827,6 +8932,9 @@ msgid "Priority"
 msgstr ""
 
 msgid "Proc model"
+msgstr ""
+
+msgid "Proceed with the update"
 msgstr ""
 
 msgid "Process"
@@ -9176,9 +9284,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr ""
 
-msgid "Reflash recommended!"
-msgstr ""
-
 msgid "Refresh"
 msgstr ""
 
@@ -9186,6 +9291,9 @@ msgid "Refresh rate"
 msgstr ""
 
 msgid "Refresh the screen"
+msgstr ""
+
+msgid "Refresh the update-able package list"
 msgstr ""
 
 msgid "Refusing to move to the same directory"
@@ -10706,12 +10814,6 @@ msgstr ""
 msgid "Show latest commit log information"
 msgstr ""
 
-msgid "Show latest commits"
-msgstr ""
-
-msgid "Show latest update log"
-msgstr ""
-
 msgid "Show log"
 msgstr ""
 
@@ -10743,9 +10845,6 @@ msgid "Show notification when import channels was not successful"
 msgstr ""
 
 msgid "Show notification when import channels was successful"
-msgstr ""
-
-msgid "Show packages to be updated"
 msgstr ""
 
 msgid "Show previous event"
@@ -11051,6 +11150,9 @@ msgstr ""
 msgid "Software Update"
 msgstr ""
 
+msgid "Software Update Actions"
+msgstr ""
+
 msgid "Software information"
 msgstr ""
 
@@ -11061,6 +11163,11 @@ msgid "Software manager setup"
 msgstr ""
 
 msgid "Software update"
+msgstr ""
+
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
 msgstr ""
 
 msgid "Softwaremanager information"
@@ -11314,6 +11421,9 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
+msgid "Status unavailable!"
+msgstr ""
+
 msgid "Step back"
 msgstr ""
 
@@ -11405,6 +11515,9 @@ msgid "Stop testing plane after # failed transponders"
 msgstr ""
 
 msgid "Stop testing plane after # successful transponders"
+msgstr ""
+
+msgid "Stop the update, if running, then exit"
 msgstr ""
 
 msgid "Stop timer recording"
@@ -11834,12 +11947,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr ""
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -11943,6 +12050,10 @@ msgstr ""
 msgid "There are no updates available."
 msgstr ""
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr ""
 
@@ -11950,6 +12061,9 @@ msgid ""
 "There may not be enough space on the selected location.\n"
 "\n"
 "Do you really want to continue?"
+msgstr ""
+
+msgid "There was an error downloading the update list.  Please try again."
 msgstr ""
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
@@ -12667,26 +12781,11 @@ msgstr ""
 msgid "Update"
 msgstr ""
 
-msgid "Update and ask to reboot"
-msgstr ""
-
-msgid "Update and ask to reboot (recommended)"
-msgstr ""
-
-msgid "Update channel list only"
+msgid "Update completed."
 msgstr ""
 
 #, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] ""
-msgstr[1] ""
-
-#, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
-msgstr ""
-
-msgid "Update failed. Your receiver does not have a working internet connection."
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr ""
 
 msgid "Update feed not available."
@@ -12696,6 +12795,15 @@ msgid "Update has completed."
 msgstr ""
 
 msgid "Update interval (in seconds)"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Updated version unknown"
+msgstr ""
+
+msgid "Updates available:"
 msgstr ""
 
 msgid "Updating"
@@ -13130,6 +13238,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, python-format
+msgid "Warning: There are %d update packages!"
+msgstr ""
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr ""
 
@@ -13190,6 +13302,9 @@ msgid "What date of month ?"
 msgstr ""
 
 msgid "What day of week ?"
+msgstr ""
+
+msgid "What would you like to do?"
 msgstr ""
 
 msgid "When PiPzap enabled zap channel down"
@@ -13442,6 +13557,9 @@ msgstr ""
 msgid "You seem to be in timeshift!"
 msgstr ""
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, python-format
 msgid "Your %s %s goes to WOL"
 msgstr ""
@@ -13460,10 +13578,6 @@ msgstr ""
 
 #, python-format
 msgid "Your %s %s is shutting down"
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -13512,7 +13626,7 @@ msgid ""
 msgstr ""
 
 #, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr ""
 
 #, python-format
@@ -15410,6 +15524,9 @@ msgstr ""
 msgid "Enable this option to add keyboard keymap data to the debug log file."
 msgstr ""
 
+msgid "Enable this option to add opkg output data to the debug log file."
+msgstr ""
+
 msgid "Enable this option to add remote control data to the debug log file."
 msgstr ""
 
@@ -15558,6 +15675,9 @@ msgid "Include action map data"
 msgstr ""
 
 msgid "Include keyboard data"
+msgstr ""
+
+msgid "Include opkg output data"
 msgstr ""
 
 msgid "Include remote control data"

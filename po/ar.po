@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -958,6 +958,14 @@ msgstr[4] ""
 msgstr[5] ""
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "تحديث قائمة الباقات"
+
+#, python-format
 msgid "%d fps"
 msgstr ""
 
@@ -1028,6 +1036,70 @@ msgstr[2] "الحزم المختارة."
 msgstr[3] "الحزم المختارة."
 msgstr[4] "الحزم المختارة."
 msgstr[5] "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr "الحزم المختارة."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr "الحزم المختارة."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr "الحزم المختارة."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr "الحزم المختارة."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1205,16 +1277,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, fuzzy, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "التحديثات المتوفرة."
-msgstr[1] "التحديثات المتوفرة."
-msgstr[2] "التحديثات المتوفرة."
-msgstr[3] "التحديثات المتوفرة."
-msgstr[4] "التحديثات المتوفرة."
-msgstr[5] "التحديثات المتوفرة."
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3259,6 +3321,10 @@ msgstr "كندا"
 msgid "Cancel"
 msgstr "إلغاء"
 
+#, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "حماية شاشة تحديث البرامج"
+
 msgid "Cancel any changed settings and exit"
 msgstr ""
 
@@ -3301,6 +3367,10 @@ msgstr "إختيار القناة"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "إختيار القناة"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "تحديث قائمة الباقات"
 
 msgid "Cancelled upon user request"
 msgstr "إلغاء بناء علي طلب المستخدم"
@@ -3871,6 +3941,10 @@ msgstr "الاعدادات..."
 msgid "Configuration"
 msgstr "الاعدادات..."
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "تم تعديل ملف التكوين ( %s) منذ تثبيته. هل تريد الاحتفاظ بتعديلاتك ؟"
+
 msgid "Configuration mode"
 msgstr "وضع التكوين"
 
@@ -4393,6 +4467,9 @@ msgstr "إستمرار التشغيل"
 msgid "Continue playing"
 msgstr "استمرار العرض"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "مواصلة التشغيل (حلقة)"
 
@@ -4446,9 +4523,6 @@ msgstr "كوت ديفوار"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "تعذر التسجيل بسبب أن القناة %s لا يوجد بها إشارة %s"
-
-msgid "Could not find installed channel list."
-msgstr "لا يمكن أن تجد قائمة القنوات المثبتة."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr ""
@@ -4576,6 +4650,10 @@ msgstr "قنوات التردد الحالي"
 
 msgid "Current value: "
 msgstr "القيمه الحاليه: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "قنوات التردد الحالي"
 
 #, fuzzy
 msgid "Custom"
@@ -5184,6 +5262,10 @@ msgstr "الوصـف"
 msgid "Deselect"
 msgstr "إلغاء الاختيار"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 #, fuzzy
 msgid "Destination of fallback remote receiver"
 msgstr "تمكين الريموت الإحتياطي في الرسيفر"
@@ -5655,14 +5737,6 @@ msgstr "هل تريد عمل بحث؟"
 msgid "Do you want to update the package:\n"
 msgstr "هل تريد ترقية الحزمة:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "هل تريد التحديث %s %s ?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "هل تريد التحديث %s %s ?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "وثائقي"
@@ -5732,6 +5806,10 @@ msgstr[5] ""
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "قناة مجهولة"
+
 msgid "Download plugins"
 msgstr "تحميل البلج إنز"
 
@@ -5751,6 +5829,10 @@ msgid "Downloading Image"
 msgstr "جاري التحميل"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "إعادة محاولة تحميل قائمة حزم جديدة. الرجاء الانتظار..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "إعادة محاولة تحميل قائمة حزم جديدة. الرجاء الانتظار..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -6102,6 +6184,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6916,6 +7001,18 @@ msgstr "المفضلات"
 
 msgid "Favourites"
 msgstr "المفضلات"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "تم التعطيل"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "تفعيل"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "تفعيل"
 
 msgid "Fiji"
 msgstr "فيجي"
@@ -8083,6 +8180,10 @@ msgid "Include keyboard data"
 msgstr "خريطة لوحة المفاتيح"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "يشمل الاحداث المباشرة في روابط البث"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "إعدادات نوع جهاز التحكم عن بعد"
 
@@ -8692,10 +8793,6 @@ msgid "Latest revision on github"
 msgstr ""
 
 #, fuzzy
-msgid "Latest update log"
-msgstr "آخر تحديث: %s"
-
-#, fuzzy
 msgid "Latin"
 msgstr "خط العرض"
 
@@ -9169,6 +9266,10 @@ msgstr ""
 "إدارة الملحقات والإضافات الخاصة بجهازك %s %s"
 
 #, fuzzy
+msgid "Manage sleep timer"
+msgstr "تغيير المؤقت"
+
+#, fuzzy
 msgid "Manage your receiver's software"
 msgstr "إدارة البرمجيات %s %s's الخاصة بجهازك"
 
@@ -9503,6 +9604,10 @@ msgid "Move down a page"
 msgstr "الانتقال إلى أخر القائمة"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "أنتقل للأسفل إلى الإدخال السابق"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "أنتقل للأسفل إلى الإدخال السابق"
 
@@ -9613,6 +9718,14 @@ msgstr "انتقل إلى المكان في الفهرس"
 #, fuzzy
 msgid "Move up a page"
 msgstr "انتقل إلى المكان في الفهرس"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "تحرك للأعلى المدخل السابق"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "تحرك للأعلى المدخل السابق"
 
 msgid "Move up a screen"
 msgstr ""
@@ -10155,11 +10268,12 @@ msgstr ""
 "من فضلك أضبط إعدادات المؤالف قبل البحث عن القنوات ."
 
 #, fuzzy
-msgid "No updates available"
+msgid "No updates available."
 msgstr "التحديثات المتوفرة."
 
-msgid "No updates available. Please try again later."
-msgstr ""
+#, fuzzy
+msgid "No updates were available.  Please try again later."
+msgstr "حدث خطأ أثناء تنزيل قائمة الحزم. حاول مرة اخرى."
 
 msgid "No wireless networks found! Searching..."
 msgstr "لا يوجد شبكات للاسلكية ! جار البحث..."
@@ -10323,6 +10437,9 @@ msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
 msgstr "لا شيء في البحث! قم بإعداد مؤالفك وحاول مرة أخرى."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 #, fuzzy
 msgid "Now"
@@ -10754,10 +10871,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-#, fuzzy
-msgid "Packages to update"
-msgstr "تحديث قائمة الباقات"
-
 msgid "Packet management"
 msgstr "التحكم فى الحزم"
 
@@ -10875,6 +10988,9 @@ msgstr "النسبة المئوية في اليسار"
 
 msgid "Percentage right"
 msgstr "النسبة المئوية في اليمين"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11508,6 +11624,10 @@ msgid "Press OK to activate the settings."
 msgstr "اضغط موافق لتفعيل الاعدادات."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "من فضلك أضغط موافق للاستمرار."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "أضغط موافق لتحرير الاعدادات."
 
@@ -11624,6 +11744,10 @@ msgstr "الأولوية"
 #, fuzzy
 msgid "Proc model"
 msgstr "وضع التنقل"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "تحديث قائمة الباقات"
 
 msgid "Process"
 msgstr "عملية"
@@ -12055,9 +12179,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "أعاده إدخال الرقم السري"
 
-msgid "Reflash recommended!"
-msgstr "إعادة تحميل الملفات الموصى بها!"
-
 #, fuzzy
 msgid "Refresh"
 msgstr "معدل التحديث"
@@ -12074,6 +12195,9 @@ msgstr "إختيار معدل التحديث."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "إختيار معدل التحديث."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 #, fuzzy
 msgid "Refusing to move to the same directory"
@@ -14170,14 +14294,6 @@ msgid "Show latest commit log information"
 msgstr "عرض أسطر التدفق"
 
 #, fuzzy
-msgid "Show latest commits"
-msgstr "عرض أسطر التدفق"
-
-#, fuzzy
-msgid "Show latest update log"
-msgstr "تحديث البرنامج التشغيلي"
-
-#, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "التصرف عند إيقاف الفيلم"
 
@@ -14244,10 +14360,6 @@ msgstr "عرض الوصف المتقدم"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-#, fuzzy
-msgid "Show packages to be updated"
-msgstr "تحديث قائمة الباقات"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14728,6 +14840,10 @@ msgid "Software Update"
 msgstr "تحديث البرنامج التشغيلي"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "تحديث البرنامج التشغيلي"
+
+#, fuzzy
 msgid "Software information"
 msgstr "معلومات إدارة البرنامج التشغيلي"
 
@@ -14739,6 +14855,14 @@ msgstr "إعداد مدير البرنامج التشغيلي"
 
 msgid "Software update"
 msgstr "تحديث البرنامج التشغيلي"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"بعد الضغط على موافق ، الرجاء الانتظار!"
 
 msgid "Softwaremanager information"
 msgstr "معلومات إدارة البرنامج التشغيلي"
@@ -15060,6 +15184,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "غير متوفر"
+
+#, fuzzy
 msgid "Step back"
 msgstr "خطوه ناحية الشرق"
 
@@ -15168,6 +15296,9 @@ msgstr "إيقاف مستوى الاختبار بعد # فشل التردد"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "إيقاف مستوى الاختبار بعد # نجاح التردد"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "أيقاف تسجيل المؤقت"
@@ -15794,12 +15925,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr ""
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15940,6 +16065,10 @@ msgstr "حذف قائمة التشغيل المحفوظة"
 msgid "There are no updates available."
 msgstr "لا توجد تحديثات متوفرة."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "لا توجد اشاره للقفل !"
 
@@ -15951,6 +16080,10 @@ msgid ""
 msgstr ""
 "قد لا يكون هناك مساحه كافيه على القسم المختار..\n"
 "هل تريد فعلا الاستمرار؟"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "حدث خطأ أثناء تنزيل قائمة الحزم. حاول مرة اخرى."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "تنسيق مشغل سواقة الديفيدي جاهزة للإستخدام- سوف يعمل تهئية لكل محتوى القرص."
@@ -16936,33 +17069,12 @@ msgid "Update"
 msgstr "التحديث"
 
 #, fuzzy
-msgid "Update and ask to reboot"
-msgstr "ترقية وإعادة تشغيل النظام"
-
-#, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "ترقية وإعادة تشغيل النظام"
-
-msgid "Update channel list only"
-msgstr "تحديث قائمة القنوات فقط"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgid "Update completed."
+msgstr "اكتمل النسخ الاحتياطي."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "هل تريد أعاده تشغيل جهاز الاستقبال الخاص بك ؟"
-
-#, fuzzy
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "فشل التحديث. الخاص بك %s %s لم يكون لها اتصال بالإنترنت لكي تعمل."
 
 msgid "Update feed not available."
 msgstr "تغذية التحديث غير متوفرة."
@@ -16974,6 +17086,17 @@ msgstr "اكتمل النسخ الاحتياطي."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "الفاصل الزمني لعرض الشرائح (ثانيه)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "التحديث"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "التحديثات المتوفرة."
 
 #, fuzzy
 msgid "Updating"
@@ -17575,6 +17698,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "لا توجد تحديثات متوفرة."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "تحذير: لايوجد لاقط; قم باستخدام إعدادات ضبط المصنع الافتراضية."
 
@@ -17677,6 +17804,9 @@ msgid "What day of week ?"
 msgstr ""
 
 msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "What would you like to do?"
 msgstr ""
 
 #, fuzzy
@@ -18289,6 +18419,9 @@ msgstr "يجب التبديل إلى القناة %s (%s - '%s')!\n"
 msgid "You seem to be in timeshift!"
 msgstr "يبدو أنك في التحكم الزمني في البث المباشر!"
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "جهاز الاستقبال الخاص بك غير متصل بالانترنت"
@@ -18317,10 +18450,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -18396,7 +18525,7 @@ msgstr ""
 "الرجاء الضغط علي \"موافق\" للمتابعة."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "قد تكون %s %s غير صالحة للاستخدام الآن. يرجى الرجوع إلى الدليل لمزيد من المساعدة قبل إعادة تشغيل %s %s."
 
 #, fuzzy, python-format

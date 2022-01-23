@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -941,6 +941,14 @@ msgid "%d day"
 msgid_plural "%d days"
 msgstr[0] ""
 
+#, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Güncellenebilir paketleri göster."
+
 #, fuzzy, python-format
 msgid "%d fps"
 msgstr "%d dosya"
@@ -992,6 +1000,70 @@ msgstr "%A %d %B"
 msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr "Paketler seçildi."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "Güncelleme tamamlandı. %d paket kuruldu."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr "Paketler seçildi."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr "Paketler seçildi."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr "Paketler seçildi."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1153,11 +1225,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] "%s güncellenebilir paket bulundu."
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3168,6 +3235,10 @@ msgstr ""
 msgid "Cancel"
 msgstr "Vazgeç"
 
+#, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Yazılım güncelleme koruması"
+
 msgid "Cancel any changed settings and exit"
 msgstr ""
 
@@ -3210,6 +3281,10 @@ msgstr "Kanal Seçimi"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanal Seçimi"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Paketler güncelleme"
 
 msgid "Cancelled upon user request"
 msgstr ""
@@ -3762,6 +3837,10 @@ msgstr "Yapılandırma"
 msgid "Configuration"
 msgstr "Yapılandırma"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Yüklendikten bu yana yapılandırma dosyası (%s) değiştirilmiştir. Değişiklikleri korumak istiyor musunuz?"
+
 msgid "Configuration mode"
 msgstr "Yapılandırma modu"
 
@@ -4246,6 +4325,9 @@ msgstr "Oynatmaya devam et"
 msgid "Continue playing"
 msgstr "Oynatmaya devam et"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Sürekli oynat (döngü)"
 
@@ -4298,9 +4380,6 @@ msgstr ""
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Geçersiz hizmet %s nedeniyle kayıt bulunamadı"
-
-msgid "Could not find installed channel list."
-msgstr "Yüklü kanal listesi bulunamadı."
 
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
 msgstr ""
@@ -4429,6 +4508,10 @@ msgstr "Geçerli transponder"
 
 msgid "Current value: "
 msgstr "Mevcut değer: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Geçerli transponder"
 
 #, fuzzy
 msgid "Custom"
@@ -5028,6 +5111,10 @@ msgstr "Açıklama"
 msgid "Deselect"
 msgstr "Seçimi Kaldır"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 #, fuzzy
 msgid "Destination of fallback remote receiver"
 msgstr "Yedek cihaz URL"
@@ -5492,14 +5579,6 @@ msgstr ""
 msgid "Do you want to update the package:\n"
 msgstr "Seçilen paketi güncellemek istiyor musunuz?:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Alıcıyı %s 'ye güncellemek istiyor musunuz?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Alıcıyı %s 'ye güncellemek istiyor musunuz?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "Belgesel"
@@ -5562,6 +5641,10 @@ msgstr[0] "Yüklenen, güncellenen veya silinen %d paket (%s)"
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "İndiriliyor..."
+
 msgid "Download plugins"
 msgstr "Eklenti İndir"
 
@@ -5579,6 +5662,10 @@ msgid "Downloading Image"
 msgstr "İndiriliyor..."
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Paket listesi indiriliyor. Lütfen bekleyin..."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Paket listesi indiriliyor. Lütfen bekleyin..."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5918,6 +6005,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6712,6 +6802,17 @@ msgstr "Favoriler"
 
 msgid "Favourites"
 msgstr "Favoriler"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "Devre dışı"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "Devre dışı"
+
+msgid "Feed unstable!"
+msgstr ""
 
 msgid "Fiji"
 msgstr ""
@@ -7842,6 +7943,10 @@ msgid "Include keyboard data"
 msgstr "Klavye ayarı"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "http akışlarında AIT dahil"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "U. Kumanda tip ayarı"
 
@@ -8433,10 +8538,6 @@ msgid "Latest revision on github"
 msgstr ""
 
 #, fuzzy
-msgid "Latest update log"
-msgstr "Son güncelleme günlüğünü göster"
-
-#, fuzzy
 msgid "Latin"
 msgstr "Enlem"
 
@@ -8895,6 +8996,10 @@ msgstr "Eklentileri yönet"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Alıcınız için uzantıları veya eklentileri yönetin."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Saati değiştir"
+
 msgid "Manage your receiver's software"
 msgstr "Sistem Yazılımımı Yönetimi"
 
@@ -9227,6 +9332,10 @@ msgid "Move down a page"
 msgstr "Listede aşağı git"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "En sona taşı"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "En sona taşı"
 
@@ -9339,6 +9448,14 @@ msgstr "Dizinindeki konuma taşınır"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Dizinindeki konuma taşınır"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "Bir üste taşı"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "Bir üste taşı"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9863,10 +9980,12 @@ msgstr ""
 "Tuner ayarları yapılmamış!\n"
 "Lütfen kanal aramasına başlamadan önce tuner ayarlarınızı yapınız."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Güncelleme yok"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Güncelleme yok. Lütfen daha sonra tekrar deneyin."
 
 msgid "No wireless networks found! Searching..."
@@ -10030,6 +10149,9 @@ msgid "Nothing to scan! Setup your tuner and try again."
 msgstr ""
 "Kanal araması yapılmadı!\n"
 "Lütfen kanal araması yapmadan önce tuner kurulumunuzu tamamlayın."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Şimdi"
@@ -10444,9 +10566,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Paketler güncelleme"
-
 msgid "Packet management"
 msgstr "Paket Yönetimi"
 
@@ -10561,6 +10680,9 @@ msgstr "Sol oran"
 
 msgid "Percentage right"
 msgstr "Sağ oran"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11188,6 +11310,10 @@ msgid "Press OK to activate the settings."
 msgstr "Onaylamak için OK tuşuna basın."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Devam etmek için lütfen OK'a basın"
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Düzenlemek için OK tuşuna basın."
 
@@ -11301,6 +11427,10 @@ msgstr "Öncelik"
 #, fuzzy
 msgid "Proc model"
 msgstr "Ton modu"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Paket listesi güncelleniyor..."
 
 msgid "Process"
 msgstr "İşlemler"
@@ -11719,9 +11849,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr ""
 
-msgid "Reflash recommended!"
-msgstr "Yeniden Imaj Yükleme Gerekli!"
-
 msgid "Refresh"
 msgstr "Yenile"
 
@@ -11737,6 +11864,9 @@ msgstr "Yenileme hızı seçimi."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Yenileme hızı seçimi."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 #, fuzzy
 msgid "Refusing to move to the same directory"
@@ -13742,12 +13872,6 @@ msgstr "Olay bilgisi eklentilerini göster"
 msgid "Show latest commit log information"
 msgstr "Son kayıtları göster."
 
-msgid "Show latest commits"
-msgstr "Son kayıtları göster."
-
-msgid "Show latest update log"
-msgstr "Son güncelleme günlüğünü göster"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Film durdurulduğu zaman"
@@ -13813,9 +13937,6 @@ msgstr "Geniş açıklama göster"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Güncellenebilir paketleri göster."
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14282,6 +14403,10 @@ msgid "Software Update"
 msgstr "Yazılım Güncelle..."
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Yazılım Güncelle..."
+
+#, fuzzy
 msgid "Software information"
 msgstr "Yazılım Yöneticisi bilgileri"
 
@@ -14293,6 +14418,14 @@ msgstr "Yazılım yöneticisi kurulumu"
 
 msgid "Software update"
 msgstr "Yazılım Güncelle..."
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Lütfen OK'a bastıktan sonra bekleyin!"
 
 msgid "Softwaremanager information"
 msgstr "Yazılım Yöneticisi bilgileri"
@@ -14605,6 +14738,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "Kullanılamaz"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Doğu adımı"
 
@@ -14711,6 +14848,9 @@ msgstr "Hatalı transponder sayısına ulaşıldığında bitir"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Başarılı transponder sayısına ulaşıldığında bitir"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Zaman kaydını durdur"
@@ -15327,14 +15467,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr ""
 
-#, fuzzy, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"Mevcut beta imaj kararlı olmayabilir.\n"
-"Daha fazla bilgi için %s bakın."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15474,6 +15606,10 @@ msgstr "Kayıtlı çalma listesini silin"
 msgid "There are no updates available."
 msgstr "Yeni güncelleme yok."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Kilitlenecek hiçbir sinyal yok!"
 
@@ -15485,6 +15621,10 @@ msgid ""
 msgstr ""
 "Seçtiğiniz disk bölümü (partition) yeterli boş alana sahip olmayabilir.\n"
 "Devam etmek istiyor musunuz?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Paket listesi indirilirken bir hata oluştu. Lütfen tekrar deneyiniz."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "DVD-RW medyası zaten biçimlendirilmiş - yeniden biçimlendirme tüm disk içeriğini silecektir."
@@ -16443,27 +16583,13 @@ msgstr ""
 msgid "Update"
 msgstr "Güncelle"
 
-msgid "Update and ask to reboot"
-msgstr "Güncelle ve yeniden başlatmak için sor"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Güncelle ve yeniden başlat (önerilen)"
-
-msgid "Update channel list only"
-msgstr "Sadece kanal listesini güncelle"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "Güncelleme tamamlandı. %d paket kuruldu."
+msgid "Update completed."
+msgstr "Güncelleme tamamladı."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Güncelleme tamamlandı. Alıcınızı yeniden başlatmak istiyor musunuz?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "Güncelleme başarısız oldu. Alıcınızda bir İnternet bağlantısı yok."
 
 msgid "Update feed not available."
 msgstr "Güncelleme sunucusu kullanılamıyor."
@@ -16474,6 +16600,17 @@ msgstr "Güncelleme tamamladı."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Slayt gösterisi aralığı (sn)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Güncelle"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Güncelleme yok"
 
 msgid "Updating"
 msgstr "Güncelleme"
@@ -17060,6 +17197,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Yeni güncelleme yok."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Uyarı: Fabrika ayarlarını kullanan LNB yok"
 
@@ -17160,6 +17301,9 @@ msgid "What day of week ?"
 msgstr ""
 
 msgid "What type of service scan do you want?"
+msgstr ""
+
+msgid "What would you like to do?"
 msgstr ""
 
 #, fuzzy
@@ -17754,6 +17898,9 @@ msgstr " %s (%s - '%s') servisine geçmen gerekir!\n"
 msgid "You seem to be in timeshift!"
 msgstr ""
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "Alıcıda kurulu bir internet bağlantısı yok."
@@ -17782,10 +17929,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17861,7 +18004,7 @@ msgstr ""
 "Devam etmek için OK tuşuna basın."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "Cihazınız artık kullanılmaz olabilir. Alıcınızın yeniden başlatmadan önce daha fazla yardım için kılavuzuna bakınız."
 
 #, fuzzy, python-format

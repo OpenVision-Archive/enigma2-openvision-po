@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-09 02:04+0000\n"
+"POT-Creation-Date: 2022-01-23 01:51+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -942,6 +942,14 @@ msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
+msgid "%d feed catalog package was updated."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d feed catalog packages were updated."
+msgstr "Näita pakette mida peaks uuendama"
+
+#, python-format
 msgid "%d fps"
 msgstr "%d fps"
 
@@ -996,6 +1004,70 @@ msgid "%d package selected."
 msgid_plural "%d packages selected."
 msgstr[0] " paketti valitud."
 msgstr[1] " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d package upgraded."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d package was configured."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d package was deselected."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d package was downloaded."
+msgstr " paketti valitud."
+
+#, python-format
+msgid "%d package was identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d package was installed."
+msgstr "Uuendamine tehtud, paigaldati %d pakett."
+
+#, fuzzy, python-format
+msgid "%d package was removed."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d package was upgraded."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d packages upgraded."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d packages were configured."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d packages were deselected."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d packages were downloaded."
+msgstr " paketti valitud."
+
+#, python-format
+msgid "%d packages were identified for upgrade."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "%d packages were installed."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d packages were removed."
+msgstr " paketti valitud."
+
+#, fuzzy, python-format
+msgid "%d packages were upgraded."
+msgstr " paketti valitud."
 
 #, python-format
 msgid "%d pixel wide"
@@ -1162,12 +1234,6 @@ msgstr ""
 #, python-format
 msgid "%s of %s MB"
 msgstr ""
-
-#, python-format
-msgid "%s updated package available"
-msgid_plural "%s updated packages available"
-msgstr[0] " %s uuendatud pakett saadaval "
-msgstr[1] " %s uuendatud paketti saadaval "
 
 #, fuzzy, python-format
 msgid "%s%d min"
@@ -3176,6 +3242,10 @@ msgstr "Kanada"
 msgid "Cancel"
 msgstr "Tühista"
 
+#, fuzzy
+msgid "Cancel / Close the software update screen"
+msgstr "Kaitse tarkvara uuenduse ekraanimenüüd"
+
 msgid "Cancel any changed settings and exit"
 msgstr ""
 
@@ -3218,6 +3288,10 @@ msgstr "Kanali valik"
 #, fuzzy
 msgid "Cancel the location selection"
 msgstr "Kanali valik"
+
+#, fuzzy
+msgid "Cancel the update"
+msgstr "Uuendamist vajavad paketid"
 
 msgid "Cancelled upon user request"
 msgstr "Tühistatud kasutaja nõudmisel"
@@ -3769,6 +3843,10 @@ msgstr "Seadistamine"
 msgid "Configuration"
 msgstr "Seadistamine"
 
+#, fuzzy, python-format
+msgid "Configuration file '%s' has been modified since it was installed, would you like to keep the modified version?"
+msgstr "Seadistusfaili (%s) on muudetud peale algpaigaldust. Kas tahad säilitada oma versiooni?"
+
 msgid "Configuration mode"
 msgstr "Häälestamine"
 
@@ -4247,6 +4325,9 @@ msgstr "Jätka taasesitust"
 msgid "Continue playing"
 msgstr "Jätka mängimist"
 
+msgid "Continue with the on-line update"
+msgstr ""
+
 msgid "Continues play (loop)"
 msgstr "Lõputu esitus (loop)"
 
@@ -4300,9 +4381,6 @@ msgstr "Elevandiluurannik"
 #, fuzzy
 msgid "Could not connect to server"
 msgstr "Kehtetu kanal %s. Salvestamine nurjus."
-
-msgid "Could not find installed channel list."
-msgstr "Paigaldatud kanalinimekirja ei leitud."
 
 #, fuzzy
 msgid "Could not find suitable media - Please remove some downloaded images or insert a media (e.g. USB stick) with sufficiant free space and try again!"
@@ -4430,6 +4508,10 @@ msgstr "Hetke transponder"
 
 msgid "Current value: "
 msgstr "Praegune väärtus: "
+
+#, fuzzy
+msgid "Current version unknown"
+msgstr "Hetke transponder"
 
 #, fuzzy
 msgid "Custom"
@@ -5028,6 +5110,10 @@ msgstr "Kirjeldus"
 msgid "Deselect"
 msgstr "Tühista valik"
 
+#, python-format
+msgid "Deselected packages usually occur because those packaged are incompatible with existing packages.  While this is mostly harmless it is possible that your %s %s may experience issues."
+msgstr ""
+
 msgid "Destination of fallback remote receiver"
 msgstr "Kaugvastuvõtja sihtkoht"
 
@@ -5487,14 +5573,6 @@ msgstr "Kas soovid valida teistsuguse kujunduse?"
 msgid "Do you want to update the package:\n"
 msgstr "Kas soovid parendada paketti:\n"
 
-#, fuzzy, python-format
-msgid "Do you want to update to %s"
-msgstr "Kas soovid uuendada vastuvõtja tarkvara %s?"
-
-#, fuzzy, python-format
-msgid "Do you want to update your %s %s?"
-msgstr "Kas soovid uuendada vastuvõtja tarkvara %s?"
-
 #, fuzzy
 msgid "Documentary"
 msgstr "dokumentaal"
@@ -5558,6 +5636,10 @@ msgstr[1] "Valmis - paigaldatud, täiendatud või eemaldatud %d paketti (%s)"
 msgid "Down"
 msgstr ""
 
+#, fuzzy
+msgid "Download error"
+msgstr "Leitud tundmatu viga, proovi uuesti!"
+
 msgid "Download plugins"
 msgstr "Paigalda laiendusi"
 
@@ -5574,6 +5656,10 @@ msgid "Downloading Image"
 msgstr "Tarkvara alla laadimas"
 
 msgid "Downloading a new packet list. Please wait..."
+msgstr "Üritan laadida alla uut nimekirja. Oota."
+
+#, fuzzy
+msgid "Downloading latest update list.  Please wait..."
 msgstr "Üritan laadida alla uut nimekirja. Oota."
 
 msgid "Downloading plugin information. Please wait..."
@@ -5909,6 +5995,9 @@ msgid "Enable this option to add action map / remote control mapping data to the
 msgstr ""
 
 msgid "Enable this option to add keyboard keymap data to the debug log file."
+msgstr ""
+
+msgid "Enable this option to add opkg output data to the debug log file."
 msgstr ""
 
 msgid "Enable this option to add remote control data to the debug log file."
@@ -6713,6 +6802,18 @@ msgstr "Lemmikud"
 
 msgid "Favourites"
 msgstr "Lemmikud"
+
+#, fuzzy
+msgid "Feed disabled!"
+msgstr "jõuga keelatud"
+
+#, fuzzy
+msgid "Feed stable."
+msgstr "ebastabiilne"
+
+#, fuzzy
+msgid "Feed unstable!"
+msgstr "ebastabiilne"
 
 msgid "Fiji"
 msgstr "Fidži"
@@ -7839,6 +7940,10 @@ msgid "Include keyboard data"
 msgstr "Klaviatuurilt andmete sisestus"
 
 #, fuzzy
+msgid "Include opkg output data"
+msgstr "Kaasa AIT http voogudesse"
+
+#, fuzzy
 msgid "Include remote control data"
 msgstr "Määra puldi tüüp"
 
@@ -8435,9 +8540,6 @@ msgstr "Viimased kanded"
 msgid "Latest revision on github"
 msgstr ""
 
-msgid "Latest update log"
-msgstr "Viimase uuenduse logi"
-
 #, fuzzy
 msgid "Latin"
 msgstr "Laiuskraad"
@@ -8899,6 +9001,10 @@ msgstr "Halda laiendusi"
 msgid "Manage extensions or plugins for your receiver."
 msgstr "Halda laiendusi."
 
+#, fuzzy
+msgid "Manage sleep timer"
+msgstr "Muuda taimerit"
+
 msgid "Manage your receiver's software"
 msgstr "Uuenda vastuvõtja tarkvara"
 
@@ -9230,6 +9336,10 @@ msgid "Move down a page"
 msgstr "Liigu nimekirjas alla"
 
 #, fuzzy
+msgid "Move down a page / screen"
+msgstr "liigu viimasele reale"
+
+#, fuzzy
 msgid "Move down a screen"
 msgstr "liigu viimasele reale"
 
@@ -9342,6 +9452,14 @@ msgstr "Liigutatud indeksi asendisse"
 #, fuzzy
 msgid "Move up a page"
 msgstr "Liigutatud indeksi asendisse"
+
+#, fuzzy
+msgid "Move up a page / screen"
+msgstr "liigu eelmisele reale"
+
+#, fuzzy
+msgid "Move up a page /screen"
+msgstr "liigu eelmisele reale"
 
 msgid "Move up a screen"
 msgstr ""
@@ -9868,10 +9986,12 @@ msgstr ""
 "Tuuner määramata!\n"
 "Määra tuuner enne kanaliotsingu alustamist."
 
-msgid "No updates available"
+#, fuzzy
+msgid "No updates available."
 msgstr "Uuendusi ei ole"
 
-msgid "No updates available. Please try again later."
+#, fuzzy
+msgid "No updates were available.  Please try again later."
 msgstr "Uuendusi ei ole. Proovi hiljem uuesti."
 
 msgid "No wireless networks found! Searching..."
@@ -10028,6 +10148,9 @@ msgstr ""
 
 msgid "Nothing to scan! Setup your tuner and try again."
 msgstr "Pole midagi otsida! Seadista tuuner ja proovi uuesti."
+
+msgid "Nothing to upgrade"
+msgstr ""
 
 msgid "Now"
 msgstr "Nüüd"
@@ -10442,9 +10565,6 @@ msgstr ""
 msgid "Packages and associated locales"
 msgstr ""
 
-msgid "Packages to update"
-msgstr "Uuendamist vajavad paketid"
-
 msgid "Packet management"
 msgstr "Pakkide haldamine"
 
@@ -10558,6 +10678,9 @@ msgstr "Protsent vasakul"
 
 msgid "Percentage right"
 msgstr "Protsent paremal"
+
+msgid "Perform an on-line flash instead"
+msgstr ""
 
 msgid "Permanent sort key changes"
 msgstr ""
@@ -11182,6 +11305,10 @@ msgid "Press OK to activate the settings."
 msgstr "Seadete aktiveerimiseks vajuta OK."
 
 #, fuzzy
+msgid "Press OK to continue."
+msgstr "Jätkamiseks vajuta OK."
+
+#, fuzzy
 msgid "Press OK to edit the settings of the selected device."
 msgstr "Sätete muutmiseks vajuta OK."
 
@@ -11294,6 +11421,10 @@ msgstr "Prioriteet"
 #, fuzzy
 msgid "Proc model"
 msgstr "22KHz-toon"
+
+#, fuzzy
+msgid "Proceed with the update"
+msgstr "Pakettide nimekirja uuendus"
 
 msgid "Process"
 msgstr "Toiming"
@@ -11713,9 +11844,6 @@ msgstr ""
 msgid "Reenter PIN"
 msgstr "Sisesta PIN uuesti"
 
-msgid "Reflash recommended!"
-msgstr "On soovitav uuesti flashida!"
-
 msgid "Refresh"
 msgstr "Värskenda"
 
@@ -11731,6 +11859,9 @@ msgstr "Värskendussageduse valik."
 #, fuzzy
 msgid "Refresh the screen"
 msgstr "Värskendussageduse valik."
+
+msgid "Refresh the update-able package list"
+msgstr ""
 
 msgid "Refusing to move to the same directory"
 msgstr "Keeldub liigutamast samasse kausta"
@@ -13737,12 +13868,6 @@ msgstr "Näita menüü numbreid"
 msgid "Show latest commit log information"
 msgstr "Näita viimaseid kandeid"
 
-msgid "Show latest commits"
-msgstr "Näita viimaseid kandeid"
-
-msgid "Show latest update log"
-msgstr "Näita viimast uuenduslogi"
-
 #, fuzzy
 msgid "Show live tv when movie stopped"
 msgstr "Tegevus taasesituse peatamisel"
@@ -13808,9 +13933,6 @@ msgstr "Näita pikemat saatetutvustust"
 
 msgid "Show packagegroup-base in plugin browser"
 msgstr ""
-
-msgid "Show packages to be updated"
-msgstr "Näita pakette mida peaks uuendama"
 
 #, fuzzy
 msgid "Show pam-plugin in plugin browser"
@@ -14273,6 +14395,10 @@ msgid "Software Update"
 msgstr "Tarkvara uuendamine"
 
 #, fuzzy
+msgid "Software Update Actions"
+msgstr "Tarkvara uuendamine"
+
+#, fuzzy
 msgid "Software information"
 msgstr "Tarkvarahalduri informatsioon"
 
@@ -14284,6 +14410,14 @@ msgstr "Tarkvarahalduri seaded"
 
 msgid "Software update"
 msgstr "Tarkvara uuendamine"
+
+#, fuzzy
+msgid ""
+"Software update starting, please wait.\n"
+"\n"
+msgstr ""
+"\n"
+"Vajuta OK ja oota!"
 
 msgid "Softwaremanager information"
 msgstr "Tarkvarahalduri informatsioon"
@@ -14595,6 +14729,10 @@ msgid "Status"
 msgstr ""
 
 #, fuzzy
+msgid "Status unavailable!"
+msgstr "pole saadaval"
+
+#, fuzzy
 msgid "Step back"
 msgstr "Samm itta"
 
@@ -14699,6 +14837,9 @@ msgstr "Peata testimine pärast # ebaõnnestunud transponderit"
 
 msgid "Stop testing plane after # successful transponders"
 msgstr "Peata testimine pärast # leitud transponderit"
+
+msgid "Stop the update, if running, then exit"
+msgstr ""
 
 msgid "Stop timer recording"
 msgstr "Peata taimerisalvestus"
@@ -15315,14 +15456,6 @@ msgstr ""
 msgid "The command to wake from standby will be sent multiple times."
 msgstr ""
 
-#, python-format
-msgid ""
-"The current image might not be stable.\n"
-"For more information see %s."
-msgstr ""
-"Praegune image võib olla mittestabiilne.\n"
-"Enama info jaoks vaata %s."
-
 msgid "The detailed information is intended for developers only."
 msgstr ""
 
@@ -15477,6 +15610,10 @@ msgstr "Kustuta salvestatud esitusloend"
 msgid "There are no updates available."
 msgstr "Uuendusi ei ole saadaval."
 
+#, python-format
+msgid "There is a risk that your %s %s will not boot or may malfunction after such a large on-line update."
+msgstr ""
+
 msgid "There is no signal to lock on !"
 msgstr "Pole signaali, millele lukustuda! "
 
@@ -15488,6 +15625,10 @@ msgid ""
 msgstr ""
 "Kõvakettal pole piisavalt vaba ruumi.\n"
 "Kas soovid kindlasti jätkata?"
+
+#, fuzzy
+msgid "There was an error downloading the update list.  Please try again."
+msgstr "Viga pakettide nimekirja allalaadimisel. Proovi uuesti."
 
 msgid "This DVD RW medium is already formatted - reformatting will erase all content on the disc."
 msgstr "DVD RW ketas on formaaditud.Uuesti formaatimisel kustutatakse kõik, mis plaadile kirjutatud."
@@ -16446,28 +16587,13 @@ msgstr ""
 msgid "Update"
 msgstr "Uuendus"
 
-msgid "Update and ask to reboot"
-msgstr "Uuenda ja küsi luba taaskäivitamiseks"
-
 #, fuzzy
-msgid "Update and ask to reboot (recommended)"
-msgstr "Uuenda ja taaskäivita (soovitatav)"
-
-msgid "Update channel list only"
-msgstr "Uuenda ainult kanalinimekiri"
-
-#, python-format
-msgid "Update completed, %d package was installed."
-msgid_plural "Update completed, %d packages were installed."
-msgstr[0] "Uuendamine tehtud, paigaldati %d pakett."
-msgstr[1] "Uuendamine tehtud, paigaldati %d paketti."
+msgid "Update completed."
+msgstr "Uuendamine on lõppenud."
 
 #, fuzzy, python-format
-msgid "Update completed. Do you want to reboot your %s %s?"
+msgid "Update completed. A reboot is strongly recommended.  Do you want to reboot your %s %s now?"
 msgstr "Uuendamine on tehtud. Kas taaskäivitad vastuvõtja?"
-
-msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr "Uuendamine nurjus. Vastuvõtjal puudub töötav internetiühendus."
 
 msgid "Update feed not available."
 msgstr "Uuenduslink pole saadaval."
@@ -16478,6 +16604,17 @@ msgstr "Uuendamine on lõppenud."
 #, fuzzy
 msgid "Update interval (in seconds)"
 msgstr "Piltide näitamise aeg (sekundit)"
+
+#, fuzzy
+msgid "Updated"
+msgstr "Uuendus"
+
+msgid "Updated version unknown"
+msgstr ""
+
+#, fuzzy
+msgid "Updates available:"
+msgstr "Uuendusi ei ole"
 
 msgid "Updating"
 msgstr "Uuendan"
@@ -17068,6 +17205,10 @@ msgstr ""
 msgid "Warning: Overrides are currently active!"
 msgstr ""
 
+#, fuzzy, python-format
+msgid "Warning: There are %d update packages!"
+msgstr "Uuendusi ei ole saadaval."
+
 msgid "Warning: no LNB; using factory defaults."
 msgstr "Hoiatus: LNB puudub; kasutatakse algseadeid."
 
@@ -17170,6 +17311,9 @@ msgstr ""
 
 msgid "What type of service scan do you want?"
 msgstr "Mis tüüpi teenuse otsingut soovid?"
+
+msgid "What would you like to do?"
+msgstr ""
 
 #, fuzzy
 msgid "When PiPzap enabled zap channel down"
@@ -17778,6 +17922,9 @@ msgstr "Pead lülitama teenusele %s (%s - '%s')!\n"
 msgid "You seem to be in timeshift!"
 msgstr ""
 
+msgid "You should flash a new image!"
+msgstr ""
+
 #, fuzzy
 msgid "Your %s %s (kernel %s) does not have an internet connection"
 msgstr "Vastuvõtjal puudub internetiühendus"
@@ -17806,10 +17953,6 @@ msgid "Your %s %s reads the stored EPG data every (hours)."
 msgstr ""
 
 msgid "Your %s %s stores the EPG data every (hours)."
-msgstr ""
-
-#, python-format
-msgid "Your %s %s?"
 msgstr ""
 
 msgid "Your PIN code is 0000. This is the default PIN code and it disables parental control!\n"
@@ -17885,7 +18028,7 @@ msgstr ""
 "Jätkamiseks vajuta OK."
 
 #, fuzzy, python-format
-msgid "Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your %s %s."
+msgid "Your receiver might be unusable now.  Please consult the manual for further assistance before rebooting your %s %s."
 msgstr "Vastuvõtja võib olla nüüd kasutuskõlbmatu. Uuri juhendit täiendava abi leidmiseks enne vastuvõtja taaskäivitamist."
 
 #, fuzzy, python-format
