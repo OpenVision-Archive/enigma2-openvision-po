@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -807,11 +807,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -871,67 +869,51 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d package upgraded."
-msgstr ""
+msgid_plural "%d packages upgraded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was configured."
-msgstr ""
+msgid_plural "%d packages were configured."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was deselected."
-msgstr ""
+msgid_plural "%d packages were deselected."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was downloaded."
-msgstr ""
+msgid_plural "%d packages were downloaded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was installed."
-msgstr ""
+msgid_plural "%d packages were installed."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was removed."
-msgstr ""
+msgid_plural "%d packages were removed."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was upgraded."
-msgstr ""
-
-#, python-format
-msgid "%d packages upgraded."
-msgstr ""
-
-#, python-format
-msgid "%d packages were configured."
-msgstr ""
-
-#, python-format
-msgid "%d packages were deselected."
-msgstr ""
-
-#, python-format
-msgid "%d packages were downloaded."
-msgstr ""
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, python-format
-msgid "%d packages were installed."
-msgstr ""
-
-#, python-format
-msgid "%d packages were removed."
-msgstr ""
-
-#, python-format
-msgid "%d packages were upgraded."
-msgstr ""
+msgid_plural "%d packages were upgraded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d pixel wide"
@@ -6665,7 +6647,9 @@ msgid "Label"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgid_plural "Languages"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -6679,9 +6663,6 @@ msgid "Language already selected."
 msgstr ""
 
 msgid "Language selection"
-msgstr ""
-
-msgid "Languages"
 msgstr ""
 
 msgid "Lao"
@@ -6878,8 +6859,13 @@ msgstr ""
 msgid "Local time"
 msgstr ""
 
+#, fuzzy
 msgid "Locale"
-msgstr ""
+msgid_plural "Locales"
+msgstr[0] ""
+"#-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr[1] "#-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -6905,9 +6891,6 @@ msgid "Locale/Language Selection"
 msgstr ""
 
 msgid "Locale/Language Selection Actions"
-msgstr ""
-
-msgid "Locales"
 msgstr ""
 
 msgid "Location"
@@ -17056,87 +17039,6 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
-msgid "EPG Selection"
-msgstr ""
-
-msgid "Graphical EPG"
-msgstr ""
-
-msgid "IMDB Search"
-msgstr ""
-
-msgid "Quick EPG"
-msgstr ""
-
-msgid "C"
-msgstr ""
-
-msgid "D"
-msgstr ""
-
-msgid "TUNER:"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "-"
-msgstr ""
-
-msgid "E "
-msgstr ""
-
-msgid "F"
-msgstr ""
-
-msgid "G"
-msgstr ""
-
-msgid "H"
-msgstr ""
-
-msgid "I"
-msgstr ""
-
-msgid "J"
-msgstr ""
-
-msgid "  REC  "
-msgstr ""
-
-msgid "Rec"
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "Enigmalight"
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
-msgid " HI "
-msgstr ""
-
-msgid "REC "
-msgstr ""
-
 msgid "AFP"
 msgstr ""
 
@@ -17420,6 +17322,9 @@ msgstr ""
 msgid "Benchmark information"
 msgstr ""
 
+msgid "C"
+msgstr ""
+
 msgid "Channellist menu"
 msgstr ""
 
@@ -17427,6 +17332,9 @@ msgid "Command execution..."
 msgstr ""
 
 msgid "Commit info"
+msgstr ""
+
+msgid "D"
 msgstr ""
 
 msgid "DVB information"
@@ -17582,6 +17490,96 @@ msgstr ""
 msgid "help..."
 msgstr ""
 
+msgid "VMC"
+msgstr ""
+
+msgid "by hmmmdada"
+msgstr ""
+
+msgid "TUNER:"
+msgstr ""
+
+msgid "EasyMedia"
+msgstr ""
+
+msgid "Ext. NumberZap"
+msgstr ""
+
+msgid "Timer+"
+msgstr ""
+
+msgid "Timerlist"
+msgstr ""
+
+msgid "Rec"
+msgstr ""
+
+msgid "EPG Selection"
+msgstr ""
+
+msgid "Enigmalight"
+msgstr ""
+
+msgid "EtPortal"
+msgstr ""
+
+msgid "Graphical EPG"
+msgstr ""
+
+msgid "IMDB Search"
+msgstr ""
+
+msgid "Quick EPG"
+msgstr ""
+
+msgid "®"
+msgstr ""
+
+msgid " HI "
+msgstr ""
+
+msgid "REC "
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "  REC  "
+msgstr ""
+
+msgid "E "
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "J"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "2678400000"
+msgstr ""
+
+msgid "Default task"
+msgstr ""
+
+msgid "IGNORE"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
 msgid "Refresh rate selection."
 msgstr ""
 
@@ -17687,19 +17685,4 @@ msgid ""
 "Have you attached your USB WLAN Stick?\n"
 "\n"
 "Please choose what you want to do next."
-msgstr ""
-
-msgid "2678400000"
-msgstr ""
-
-msgid "Default task"
-msgstr ""
-
-msgid "IGNORE"
-msgstr ""
-
-msgid "false"
-msgstr ""
-
-msgid "true"
 msgstr ""

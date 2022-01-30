@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -993,11 +993,9 @@ msgstr[1] "%d dies"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Mostra els paquets a actualitzar"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1060,79 +1058,56 @@ msgstr[1] " paquet seleccionat"
 #
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " paquet seleccionat"
+msgid_plural "%d packages upgraded."
+msgstr[0] " paquet seleccionat"
+msgstr[1] " paquet seleccionat"
 
 #
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " paquet seleccionat"
+msgid_plural "%d packages were configured."
+msgstr[0] " paquet seleccionat"
+msgstr[1] " paquet seleccionat"
 
 #
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " paquet seleccionat"
+msgid_plural "%d packages were deselected."
+msgstr[0] " paquet seleccionat"
+msgstr[1] " paquet seleccionat"
 
 #
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " paquet seleccionat"
+msgid_plural "%d packages were downloaded."
+msgstr[0] " paquet seleccionat"
+msgstr[1] " paquet seleccionat"
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "S’ha instal·lat l’actualització, s’ha instal·lat el paquet %d."
+msgid_plural "%d packages were installed."
+msgstr[0] "S’ha instal·lat l’actualització, s’ha instal·lat el paquet %d."
+msgstr[1] "S’ha instal·lat l’actualització, s’ha instal·lat el paquet %d."
 
 #
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " paquet seleccionat"
+msgid_plural "%d packages were removed."
+msgstr[0] " paquet seleccionat"
+msgstr[1] " paquet seleccionat"
 
 #
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " paquet seleccionat"
-
-#
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " paquet seleccionat"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " paquet seleccionat"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " paquet seleccionat"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " paquet seleccionat"
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " paquet seleccionat"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " paquet seleccionat"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " paquet seleccionat"
+msgid_plural "%d packages were upgraded."
+msgstr[0] " paquet seleccionat"
+msgstr[1] " paquet seleccionat"
 
 #, python-format
 msgid "%d pixel wide"
@@ -9233,8 +9208,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Idioma"
+msgid_plural "Languages"
+msgstr[0] "Idioma"
+msgstr[1] "Idioma"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9253,11 +9231,6 @@ msgstr "Selecció d'idioma"
 #
 msgid "Language selection"
 msgstr "Selecció d'idioma"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Idioma"
 
 #, fuzzy
 msgid "Lao"
@@ -9515,8 +9488,11 @@ msgstr "Xarxa local"
 msgid "Local time"
 msgstr "Locale"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Locale"
+msgid_plural "Locales"
+msgstr[0] "Locale"
+msgstr[1] "Locale"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9563,10 +9539,6 @@ msgstr "Accions de selecció de la pell"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Configuració del gestor de programa"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Locale"
 
 #, fuzzy
 msgid "Locales to be displayed"

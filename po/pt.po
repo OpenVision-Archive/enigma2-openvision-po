@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2014-12-15 19:38-0000\n"
 "Last-Translator: Phenom <phenomxy@gmail.com>\n"
 "Language-Team: Muaitai <muaitai@gmail.com>\n"
@@ -951,11 +951,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -1019,79 +1017,56 @@ msgstr[1] " pacotes seccionados."
 #
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " pacotes seccionados."
+msgid_plural "%d packages upgraded."
+msgstr[0] " pacotes seccionados."
+msgstr[1] " pacotes seccionados."
 
 #
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " pacotes seccionados."
+msgid_plural "%d packages were configured."
+msgstr[0] " pacotes seccionados."
+msgstr[1] " pacotes seccionados."
 
 #
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " pacotes seccionados."
+msgid_plural "%d packages were deselected."
+msgstr[0] " pacotes seccionados."
+msgstr[1] " pacotes seccionados."
 
 #
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " pacotes seccionados."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " pacotes seccionados."
+msgstr[1] " pacotes seccionados."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Actualização completa, %d pacote foi instalado."
+msgid_plural "%d packages were installed."
+msgstr[0] "Actualização completa, %d pacote foi instalado."
+msgstr[1] "Actualização completa, %d pacote foi instalado."
 
 #
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " pacotes seccionados."
+msgid_plural "%d packages were removed."
+msgstr[0] " pacotes seccionados."
+msgstr[1] " pacotes seccionados."
 
 #
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " pacotes seccionados."
-
-#
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " pacotes seccionados."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " pacotes seccionados."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " pacotes seccionados."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " pacotes seccionados."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " pacotes seccionados."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " pacotes seccionados."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " pacotes seccionados."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " pacotes seccionados."
+msgstr[1] " pacotes seccionados."
 
 #, python-format
 msgid "%d pixel wide"
@@ -9321,8 +9296,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Idioma"
+msgid_plural "Languages"
+msgstr[0] "Idioma"
+msgstr[1] "Idioma"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9341,11 +9319,6 @@ msgstr "Selecção do idioma"
 #
 msgid "Language selection"
 msgstr "Selecção do idioma"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Idioma"
 
 msgid "Lao"
 msgstr ""
@@ -9616,7 +9589,9 @@ msgstr "Rede local"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Rede local"
+msgid_plural "Locales"
+msgstr[0] "Rede local"
+msgstr[1] "Rede local"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9662,11 +9637,6 @@ msgstr "Seleccionar acção"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Configurações do Gestor de Software"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Rede local"
 
 msgid "Locales to be displayed"
 msgstr ""

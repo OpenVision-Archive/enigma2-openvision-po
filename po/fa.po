@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -932,11 +932,8 @@ msgstr[0] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
 
 #, python-format
 msgid "%d fps"
@@ -992,67 +989,43 @@ msgstr[0] "بسته های انتخاب شده"
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages upgraded."
+msgstr[0] "بسته های انتخاب شده"
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages were configured."
+msgstr[0] "بسته های انتخاب شده"
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages were deselected."
+msgstr[0] "بسته های انتخاب شده"
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages were downloaded."
+msgstr[0] "بسته های انتخاب شده"
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages were installed."
+msgstr[0] "بسته های انتخاب شده"
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages were removed."
+msgstr[0] "بسته های انتخاب شده"
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "بسته های انتخاب شده"
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "بسته های انتخاب شده"
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "بسته های انتخاب شده"
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "بسته های انتخاب شده"
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "بسته های انتخاب شده"
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "بسته های انتخاب شده"
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "بسته های انتخاب شده"
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "بسته های انتخاب شده"
+msgid_plural "%d packages were upgraded."
+msgstr[0] "بسته های انتخاب شده"
 
 #, python-format
 msgid "%d pixel wide"
@@ -8468,8 +8441,10 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "زبان"
+msgid_plural "Languages"
+msgstr[0] "زبان"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8485,10 +8460,6 @@ msgstr "انتخاب زبان"
 
 msgid "Language selection"
 msgstr "انتخاب زبان"
-
-#, fuzzy
-msgid "Languages"
-msgstr "زبان"
 
 #, fuzzy
 msgid "Lao"
@@ -8718,7 +8689,8 @@ msgstr "شبکه محلی"
 
 #, fuzzy
 msgid "Locale"
-msgstr "شبکه محلی"
+msgid_plural "Locales"
+msgstr[0] "شبکه محلی"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8759,10 +8731,6 @@ msgstr "انتخاب محل نسخه پشتیبان"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "تنظیمات مدیریت نرم افزار"
-
-#, fuzzy
-msgid "Locales"
-msgstr "شبکه محلی"
 
 msgid "Locales to be displayed"
 msgstr ""

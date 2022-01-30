@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -943,11 +943,8 @@ msgstr[0] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Güncellenebilir paketleri göster."
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -1003,67 +1000,43 @@ msgstr[0] "Paketler seçildi."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "Paketler seçildi."
+msgid_plural "%d packages upgraded."
+msgstr[0] "Paketler seçildi."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "Paketler seçildi."
+msgid_plural "%d packages were configured."
+msgstr[0] "Paketler seçildi."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "Paketler seçildi."
+msgid_plural "%d packages were deselected."
+msgstr[0] "Paketler seçildi."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "Paketler seçildi."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "Paketler seçildi."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Güncelleme tamamlandı. %d paket kuruldu."
+msgid_plural "%d packages were installed."
+msgstr[0] "Güncelleme tamamlandı. %d paket kuruldu."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "Paketler seçildi."
+msgid_plural "%d packages were removed."
+msgstr[0] "Paketler seçildi."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "Paketler seçildi."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "Paketler seçildi."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "Paketler seçildi."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "Paketler seçildi."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "Paketler seçildi."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "Paketler seçildi."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "Paketler seçildi."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "Paketler seçildi."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "Paketler seçildi."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8482,8 +8455,10 @@ msgstr "Unicable LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Dil"
+msgid_plural "Languages"
+msgstr[0] "Dil"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8499,10 +8474,6 @@ msgstr "Dil seçimi"
 
 msgid "Language selection"
 msgstr "Dil seçimi"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Dil"
 
 msgid "Lao"
 msgstr ""
@@ -8734,7 +8705,8 @@ msgstr "Yerel ağ"
 
 #, fuzzy
 msgid "Locale"
-msgstr "Yerel ağ"
+msgid_plural "Locales"
+msgstr[0] "Yerel ağ"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8776,10 +8748,6 @@ msgstr "Eylem seçimi"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Yazılım yöneticisi kurulumu"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Yerel ağ"
 
 #, fuzzy
 msgid "Locales to be displayed"

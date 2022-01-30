@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -959,11 +959,13 @@ msgstr[5] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "تحديث قائمة الباقات"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 #, python-format
 msgid "%d fps"
@@ -1039,67 +1041,83 @@ msgstr[5] "الحزم المختارة."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages upgraded."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages were configured."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages were deselected."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages were installed."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages were removed."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "الحزم المختارة."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "الحزم المختارة."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "الحزم المختارة."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "الحزم المختارة."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "الحزم المختارة."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "الحزم المختارة."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "الحزم المختارة."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "الحزم المختارة."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "الحزم المختارة."
+msgstr[1] "الحزم المختارة."
+msgstr[2] "الحزم المختارة."
+msgstr[3] "الحزم المختارة."
+msgstr[4] "الحزم المختارة."
+msgstr[5] "الحزم المختارة."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8736,8 +8754,15 @@ msgstr "اللاقط"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "اللغـة"
+msgid_plural "Languages"
+msgstr[0] "اللغـة"
+msgstr[1] "اللغـة"
+msgstr[2] "اللغـة"
+msgstr[3] "اللغـة"
+msgstr[4] "اللغـة"
+msgstr[5] "اللغـة"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8753,10 +8778,6 @@ msgstr "إختيار اللغـة"
 
 msgid "Language selection"
 msgstr "إختيار اللغـة"
-
-#, fuzzy
-msgid "Languages"
-msgstr "اللغـة"
 
 #, fuzzy
 msgid "Lao"
@@ -8994,7 +9015,13 @@ msgstr "صندوق محلي"
 
 #, fuzzy
 msgid "Locale"
-msgstr "صندوق محلي"
+msgid_plural "Locales"
+msgstr[0] "صندوق محلي"
+msgstr[1] "صندوق محلي"
+msgstr[2] "صندوق محلي"
+msgstr[3] "صندوق محلي"
+msgstr[4] "صندوق محلي"
+msgstr[5] "صندوق محلي"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9036,10 +9063,6 @@ msgstr "حدد الاجراء"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "إعداد مدير البرنامج التشغيلي"
-
-#, fuzzy
-msgid "Locales"
-msgstr "صندوق محلي"
 
 #, fuzzy
 msgid "Locales to be displayed"

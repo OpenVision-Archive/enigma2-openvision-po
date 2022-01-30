@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -946,11 +946,10 @@ msgstr[2] "%d дней"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Показать пакеты, которые будут обновлены"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -1014,67 +1013,59 @@ msgstr[2] " пакетов выбрано."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " пакетов выбрано."
+msgid_plural "%d packages upgraded."
+msgstr[0] " пакетов выбрано."
+msgstr[1] " пакетов выбрано."
+msgstr[2] " пакетов выбрано."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " пакетов выбрано."
+msgid_plural "%d packages were configured."
+msgstr[0] " пакетов выбрано."
+msgstr[1] " пакетов выбрано."
+msgstr[2] " пакетов выбрано."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " пакетов выбрано."
+msgid_plural "%d packages were deselected."
+msgstr[0] " пакетов выбрано."
+msgstr[1] " пакетов выбрано."
+msgstr[2] " пакетов выбрано."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " пакетов выбрано."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " пакетов выбрано."
+msgstr[1] " пакетов выбрано."
+msgstr[2] " пакетов выбрано."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Обновление завершено, %d пакет установлен."
+msgid_plural "%d packages were installed."
+msgstr[0] "Обновление завершено, %d пакет установлен."
+msgstr[1] "Обновление завершено, %d пакет установлен."
+msgstr[2] "Обновление завершено, %d пакет установлен."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " пакетов выбрано."
+msgid_plural "%d packages were removed."
+msgstr[0] " пакетов выбрано."
+msgstr[1] " пакетов выбрано."
+msgstr[2] " пакетов выбрано."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " пакетов выбрано."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " пакетов выбрано."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " пакетов выбрано."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " пакетов выбрано."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " пакетов выбрано."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " пакетов выбрано."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " пакетов выбрано."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " пакетов выбрано."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " пакетов выбрано."
+msgstr[1] " пакетов выбрано."
+msgstr[2] " пакетов выбрано."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8477,8 +8468,12 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Выбор языка"
+msgid_plural "Languages"
+msgstr[0] "Выбор языка"
+msgstr[1] "Выбор языка"
+msgstr[2] "Выбор языка"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8494,10 +8489,6 @@ msgstr "Список языков"
 
 msgid "Language selection"
 msgstr "Список языков"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Выбор языка"
 
 #, fuzzy
 msgid "Lao"
@@ -8728,8 +8719,12 @@ msgstr "Локальная сеть"
 msgid "Local time"
 msgstr "Локаль"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Локаль"
+msgid_plural "Locales"
+msgstr[0] "Локаль"
+msgstr[1] "Локаль"
+msgstr[2] "Локаль"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8771,10 +8766,6 @@ msgstr "Выбор скина"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Настройки менеджера ПО"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Локаль"
 
 #, fuzzy
 msgid "Locales to be displayed"

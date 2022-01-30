@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -942,11 +942,9 @@ msgstr[1] "%d dagen"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Toon de te updaten pakketten"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1006,67 +1004,51 @@ msgstr[1] "%d pakketten gekozen."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "%d pakket gekozen."
+msgid_plural "%d packages upgraded."
+msgstr[0] "%d pakket gekozen."
+msgstr[1] "%d pakket gekozen."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "%d pakket gekozen."
+msgid_plural "%d packages were configured."
+msgstr[0] "%d pakket gekozen."
+msgstr[1] "%d pakket gekozen."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "%d pakket gekozen."
+msgid_plural "%d packages were deselected."
+msgstr[0] "%d pakket gekozen."
+msgstr[1] "%d pakket gekozen."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "%d pakket gekozen."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "%d pakket gekozen."
+msgstr[1] "%d pakket gekozen."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "De update is gereed, %d pakket geïnstalleerd."
+msgid_plural "%d packages were installed."
+msgstr[0] "De update is gereed, %d pakket geïnstalleerd."
+msgstr[1] "De update is gereed, %d pakket geïnstalleerd."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "%d pakket gekozen."
+msgid_plural "%d packages were removed."
+msgstr[0] "%d pakket gekozen."
+msgstr[1] "%d pakket gekozen."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "%d pakket gekozen."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "%d pakket gekozen."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "%d pakket gekozen."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "%d pakket gekozen."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "%d pakket gekozen."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "%d pakket gekozen."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "%d pakket gekozen."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "%d pakket gekozen."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "%d pakket gekozen."
+msgstr[1] "%d pakket gekozen."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8694,8 +8676,11 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Taal"
+msgid_plural "Languages"
+msgstr[0] "Taal"
+msgstr[1] "Taal"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8711,10 +8696,6 @@ msgstr "Taalkeuze"
 
 msgid "Language selection"
 msgstr "Taalkeuze"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Taal"
 
 #, fuzzy
 msgid "Lao"
@@ -8944,8 +8925,11 @@ msgstr "Lokaal netwerk"
 msgid "Local time"
 msgstr "Taal"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Taal"
+msgid_plural "Locales"
+msgstr[0] "Taal"
+msgstr[1] "Taal"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8987,10 +8971,6 @@ msgstr "Skin selectie actie(s)"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Softwarebeheer setup"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Taal"
 
 #, fuzzy
 msgid "Locales to be displayed"

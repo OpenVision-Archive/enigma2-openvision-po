@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -943,11 +943,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Näita pakette mida peaks uuendama"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1007,67 +1005,51 @@ msgstr[1] " paketti valitud."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " paketti valitud."
+msgid_plural "%d packages upgraded."
+msgstr[0] " paketti valitud."
+msgstr[1] " paketti valitud."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " paketti valitud."
+msgid_plural "%d packages were configured."
+msgstr[0] " paketti valitud."
+msgstr[1] " paketti valitud."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " paketti valitud."
+msgid_plural "%d packages were deselected."
+msgstr[0] " paketti valitud."
+msgstr[1] " paketti valitud."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " paketti valitud."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " paketti valitud."
+msgstr[1] " paketti valitud."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Uuendamine tehtud, paigaldati %d pakett."
+msgid_plural "%d packages were installed."
+msgstr[0] "Uuendamine tehtud, paigaldati %d pakett."
+msgstr[1] "Uuendamine tehtud, paigaldati %d pakett."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " paketti valitud."
+msgid_plural "%d packages were removed."
+msgstr[0] " paketti valitud."
+msgstr[1] " paketti valitud."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " paketti valitud."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " paketti valitud."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " paketti valitud."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " paketti valitud."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " paketti valitud."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " paketti valitud."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " paketti valitud."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " paketti valitud."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " paketti valitud."
+msgstr[1] " paketti valitud."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8484,8 +8466,11 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Keel"
+msgid_plural "Languages"
+msgstr[0] "Keel"
+msgstr[1] "Keel"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8501,10 +8486,6 @@ msgstr "Keele valik"
 
 msgid "Language selection"
 msgstr "Keele valik"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Keel"
 
 #, fuzzy
 msgid "Lao"
@@ -8735,7 +8716,9 @@ msgid "Local time"
 msgstr "Asukoht"
 
 msgid "Locale"
-msgstr ""
+msgid_plural "Locales"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8777,10 +8760,6 @@ msgstr "Vali tegevus"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Tarkvarahalduri seaded"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Kohalik võrk"
 
 #, fuzzy
 msgid "Locales to be displayed"

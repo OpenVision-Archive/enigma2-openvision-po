@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -946,11 +946,10 @@ msgstr[2] "%d dienų"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Rodyti paketus, turinčius atnaujinimų"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -1014,67 +1013,59 @@ msgstr[2] " išsirinkti paketai."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " išsirinkti paketai."
+msgid_plural "%d packages upgraded."
+msgstr[0] " išsirinkti paketai."
+msgstr[1] " išsirinkti paketai."
+msgstr[2] " išsirinkti paketai."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " išsirinkti paketai."
+msgid_plural "%d packages were configured."
+msgstr[0] " išsirinkti paketai."
+msgstr[1] " išsirinkti paketai."
+msgstr[2] " išsirinkti paketai."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " išsirinkti paketai."
+msgid_plural "%d packages were deselected."
+msgstr[0] " išsirinkti paketai."
+msgstr[1] " išsirinkti paketai."
+msgstr[2] " išsirinkti paketai."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " išsirinkti paketai."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " išsirinkti paketai."
+msgstr[1] " išsirinkti paketai."
+msgstr[2] " išsirinkti paketai."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Atnaujinta, įdiegtas %d paketas."
+msgid_plural "%d packages were installed."
+msgstr[0] "Atnaujinta, įdiegtas %d paketas."
+msgstr[1] "Atnaujinta, įdiegtas %d paketas."
+msgstr[2] "Atnaujinta, įdiegtas %d paketas."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " išsirinkti paketai."
+msgid_plural "%d packages were removed."
+msgstr[0] " išsirinkti paketai."
+msgstr[1] " išsirinkti paketai."
+msgstr[2] " išsirinkti paketai."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " išsirinkti paketai."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " išsirinkti paketai."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " išsirinkti paketai."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " išsirinkti paketai."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " išsirinkti paketai."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " išsirinkti paketai."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " išsirinkti paketai."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " išsirinkti paketai."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " išsirinkti paketai."
+msgstr[1] " išsirinkti paketai."
+msgstr[2] " išsirinkti paketai."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8479,8 +8470,12 @@ msgstr "LNB konverteris"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Kalba"
+msgid_plural "Languages"
+msgstr[0] "Kalba"
+msgstr[1] "Kalba"
+msgstr[2] "Kalba"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8496,10 +8491,6 @@ msgstr "Kalbos pasirinkimas"
 
 msgid "Language selection"
 msgstr "Kalbos pasirinkimas"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Kalba"
 
 #, fuzzy
 msgid "Lao"
@@ -8730,8 +8721,12 @@ msgstr "Vietinis tinklas"
 msgid "Local time"
 msgstr "Vieta"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Vieta"
+msgid_plural "Locales"
+msgstr[0] "Vieta"
+msgstr[1] "Vieta"
+msgstr[2] "Vieta"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8773,10 +8768,6 @@ msgstr "Temos pasirinkimo veiksmai"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Programinės įrangos tvarkyklės sąranka"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Vieta"
 
 #, fuzzy
 msgid "Locales to be displayed"

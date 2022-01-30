@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2011-04-14 00:02+0200\n"
 "Last-Translator: majevica <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
@@ -962,11 +962,10 @@ msgstr[2] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -1034,80 +1033,65 @@ msgstr[2] "Paketa izabrano"
 #
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages upgraded."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages were configured."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages were deselected."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages were downloaded."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages were installed."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages were removed."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "Paketa izabrano"
-
-#
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "Paketa izabrano"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "Paketa izabrano"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "Paketa izabrano"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "Paketa izabrano"
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "Paketa izabrano"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "Paketa izabrano"
-
-#
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "Paketa izabrano"
+msgid_plural "%d packages were upgraded."
+msgstr[0] "Paketa izabrano"
+msgstr[1] "Paketa izabrano"
+msgstr[2] "Paketa izabrano"
 
 #, python-format
 msgid "%d pixel wide"
@@ -9360,8 +9344,12 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Jezik"
+msgid_plural "Languages"
+msgstr[0] "Jezik"
+msgstr[1] "Jezik"
+msgstr[2] "Jezik"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9380,11 +9368,6 @@ msgstr "Izbor jezika"
 #
 msgid "Language selection"
 msgstr "Izbor jezika"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Jezik"
 
 msgid "Lao"
 msgstr ""
@@ -9656,7 +9639,10 @@ msgstr "Lokalna mreža"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Lokalna mreža"
+msgid_plural "Locales"
+msgstr[0] "Lokalna mreža"
+msgstr[1] "Lokalna mreža"
+msgstr[2] "Lokalna mreža"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9703,11 +9689,6 @@ msgstr "Izaberite snimljenu lokaciju"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Podešavanje upravljača softvera"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Lokalna mreža"
 
 msgid "Locales to be displayed"
 msgstr ""

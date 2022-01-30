@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2017-01-18 16:38+0100\n"
 "Last-Translator: lupine <a_ecklon@hotmail.com>\n"
 "Language-Team: \n"
@@ -957,11 +957,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Vis pakker der skal opgraderes"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -1023,67 +1021,51 @@ msgstr[1] "pakker valgt."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "pakker valgt."
+msgid_plural "%d packages upgraded."
+msgstr[0] "pakker valgt."
+msgstr[1] "pakker valgt."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "pakker valgt."
+msgid_plural "%d packages were configured."
+msgstr[0] "pakker valgt."
+msgstr[1] "pakker valgt."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "pakker valgt."
+msgid_plural "%d packages were deselected."
+msgstr[0] "pakker valgt."
+msgstr[1] "pakker valgt."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "pakker valgt."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "pakker valgt."
+msgstr[1] "pakker valgt."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Opdatering færdig, %d pakke blev installeret."
+msgid_plural "%d packages were installed."
+msgstr[0] "Opdatering færdig, %d pakke blev installeret."
+msgstr[1] "Opdatering færdig, %d pakke blev installeret."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "pakker valgt."
+msgid_plural "%d packages were removed."
+msgstr[0] "pakker valgt."
+msgstr[1] "pakker valgt."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "pakker valgt."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "pakker valgt."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "pakker valgt."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "pakker valgt."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "pakker valgt."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "pakker valgt."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "pakker valgt."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "pakker valgt."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "pakker valgt."
+msgstr[1] "pakker valgt."
 
 #, python-format
 msgid "%d pixel wide"
@@ -9271,8 +9253,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Sprog"
+msgid_plural "Languages"
+msgstr[0] "Sprog"
+msgstr[1] "Sprog"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9291,11 +9276,6 @@ msgstr "Valg af sprog"
 #
 msgid "Language selection"
 msgstr "Valg af sprog"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Sprog"
 
 msgid "Lao"
 msgstr ""
@@ -9561,7 +9541,9 @@ msgstr "Lokalt netværk"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Lokalt netværk"
+msgid_plural "Locales"
+msgstr[0] "Lokalt netværk"
+msgstr[1] "Lokalt netværk"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9607,11 +9589,6 @@ msgstr "Vælg handling"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Softwarehåndterings opsætning"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Lokalt netværk"
 
 #, fuzzy
 msgid "Locales to be displayed"

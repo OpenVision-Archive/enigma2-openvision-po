@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -942,11 +942,9 @@ msgstr[1] "%d ημέρες"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Εμφάνιση πακέτων προς ενημέρωση"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1006,67 +1004,51 @@ msgstr[1] "Επιλέχθηκαν %d πακέτα."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "Επιλέχθηκε %d πακέτο."
+msgid_plural "%d packages upgraded."
+msgstr[0] "Επιλέχθηκε %d πακέτο."
+msgstr[1] "Επιλέχθηκε %d πακέτο."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "Επιλέχθηκε %d πακέτο."
+msgid_plural "%d packages were configured."
+msgstr[0] "Επιλέχθηκε %d πακέτο."
+msgstr[1] "Επιλέχθηκε %d πακέτο."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "Επιλέχθηκε %d πακέτο."
+msgid_plural "%d packages were deselected."
+msgstr[0] "Επιλέχθηκε %d πακέτο."
+msgstr[1] "Επιλέχθηκε %d πακέτο."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "Επιλέχθηκε %d πακέτο."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "Επιλέχθηκε %d πακέτο."
+msgstr[1] "Επιλέχθηκε %d πακέτο."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Η ενημέρωση ολοκληρώθηκε, εγκαταστάθηκε %d πακέτο."
+msgid_plural "%d packages were installed."
+msgstr[0] "Η ενημέρωση ολοκληρώθηκε, εγκαταστάθηκε %d πακέτο."
+msgstr[1] "Η ενημέρωση ολοκληρώθηκε, εγκαταστάθηκε %d πακέτο."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "Επιλέχθηκε %d πακέτο."
+msgid_plural "%d packages were removed."
+msgstr[0] "Επιλέχθηκε %d πακέτο."
+msgstr[1] "Επιλέχθηκε %d πακέτο."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "Επιλέχθηκε %d πακέτο."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "Επιλέχθηκε %d πακέτο."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "Επιλέχθηκε %d πακέτο."
+msgstr[1] "Επιλέχθηκε %d πακέτο."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8450,8 +8432,11 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Γλώσσα"
+msgid_plural "Languages"
+msgstr[0] "Γλώσσα"
+msgstr[1] "Γλώσσα"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8467,10 +8452,6 @@ msgstr "Επιλογή γλώσσας"
 
 msgid "Language selection"
 msgstr "Επιλογή γλώσσας"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Γλώσσα"
 
 #, fuzzy
 msgid "Lao"
@@ -8700,8 +8681,11 @@ msgstr "Τοπικό δίκτυο"
 msgid "Local time"
 msgstr "Τοπική γλώσσα"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Τοπική γλώσσα"
+msgid_plural "Locales"
+msgstr[0] "Τοπική γλώσσα"
+msgstr[1] "Τοπική γλώσσα"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8743,10 +8727,6 @@ msgstr "Ενέργειες επιλογής θέματος"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Ρυθμίσεις διαχείρισης λογισμικού"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Τοπική γλώσσα"
 
 #, fuzzy
 msgid "Locales to be displayed"

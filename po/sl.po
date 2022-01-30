@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -961,11 +961,11 @@ msgstr[3] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Prikaz paketov, ki bodo nadgrajeni"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -1038,67 +1038,67 @@ msgstr[3] " izbranih paketov."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " izbranih paketov."
+msgid_plural "%d packages upgraded."
+msgstr[0] " izbranih paketov."
+msgstr[1] " izbranih paketov."
+msgstr[2] " izbranih paketov."
+msgstr[3] " izbranih paketov."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " izbranih paketov."
+msgid_plural "%d packages were configured."
+msgstr[0] " izbranih paketov."
+msgstr[1] " izbranih paketov."
+msgstr[2] " izbranih paketov."
+msgstr[3] " izbranih paketov."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " izbranih paketov."
+msgid_plural "%d packages were deselected."
+msgstr[0] " izbranih paketov."
+msgstr[1] " izbranih paketov."
+msgstr[2] " izbranih paketov."
+msgstr[3] " izbranih paketov."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " izbranih paketov."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " izbranih paketov."
+msgstr[1] " izbranih paketov."
+msgstr[2] " izbranih paketov."
+msgstr[3] " izbranih paketov."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Posodobitev je zaključena. Posodobljen je bil samo %d paket."
+msgid_plural "%d packages were installed."
+msgstr[0] "Posodobitev je zaključena. Posodobljen je bil samo %d paket."
+msgstr[1] "Posodobitev je zaključena. Posodobljen je bil samo %d paket."
+msgstr[2] "Posodobitev je zaključena. Posodobljen je bil samo %d paket."
+msgstr[3] "Posodobitev je zaključena. Posodobljen je bil samo %d paket."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " izbranih paketov."
+msgid_plural "%d packages were removed."
+msgstr[0] " izbranih paketov."
+msgstr[1] " izbranih paketov."
+msgstr[2] " izbranih paketov."
+msgstr[3] " izbranih paketov."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " izbranih paketov."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " izbranih paketov."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " izbranih paketov."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " izbranih paketov."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " izbranih paketov."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " izbranih paketov."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " izbranih paketov."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " izbranih paketov."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " izbranih paketov."
+msgstr[1] " izbranih paketov."
+msgstr[2] " izbranih paketov."
+msgstr[3] " izbranih paketov."
 
 #, python-format
 msgid "%d pixel wide"
@@ -9369,8 +9369,13 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Jezik menija"
+msgid_plural "Languages"
+msgstr[0] "Jezik menija"
+msgstr[1] "Jezik menija"
+msgstr[2] "Jezik menija"
+msgstr[3] "Jezik menija"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9389,11 +9394,6 @@ msgstr "Izbira jezik"
 #
 msgid "Language selection"
 msgstr "Izbira jezik"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Jezik menija"
 
 msgid "Lao"
 msgstr ""
@@ -9663,7 +9663,11 @@ msgstr "Lokalno omrežje"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Lokalno omrežje"
+msgid_plural "Locales"
+msgstr[0] "Lokalno omrežje"
+msgstr[1] "Lokalno omrežje"
+msgstr[2] "Lokalno omrežje"
+msgstr[3] "Lokalno omrežje"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9711,11 +9715,6 @@ msgstr "Izberi dogodek"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Software Manager nastavitve"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Lokalno omrežje"
 
 #, fuzzy
 msgid "Locales to be displayed"

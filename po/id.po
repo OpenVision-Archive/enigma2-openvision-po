@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -944,11 +944,9 @@ msgstr[1] "%d hari"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Tampilkan paket-paket untuk ditingkatkan"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -1008,67 +1006,51 @@ msgstr[1] " paket yang dipilih."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " paket yang dipilih."
+msgid_plural "%d packages upgraded."
+msgstr[0] " paket yang dipilih."
+msgstr[1] " paket yang dipilih."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " paket yang dipilih."
+msgid_plural "%d packages were configured."
+msgstr[0] " paket yang dipilih."
+msgstr[1] " paket yang dipilih."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " paket yang dipilih."
+msgid_plural "%d packages were deselected."
+msgstr[0] " paket yang dipilih."
+msgstr[1] " paket yang dipilih."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " paket yang dipilih."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " paket yang dipilih."
+msgstr[1] " paket yang dipilih."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Pembaruan selesai, %d paket terpasang."
+msgid_plural "%d packages were installed."
+msgstr[0] "Pembaruan selesai, %d paket terpasang."
+msgstr[1] "Pembaruan selesai, %d paket terpasang."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " paket yang dipilih."
+msgid_plural "%d packages were removed."
+msgstr[0] " paket yang dipilih."
+msgstr[1] " paket yang dipilih."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " paket yang dipilih."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " paket yang dipilih."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " paket yang dipilih."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " paket yang dipilih."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " paket yang dipilih."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " paket yang dipilih."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " paket yang dipilih."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " paket yang dipilih."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " paket yang dipilih."
+msgstr[1] " paket yang dipilih."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8597,8 +8579,11 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Bahasa"
+msgid_plural "Languages"
+msgstr[0] "Bahasa"
+msgstr[1] "Bahasa"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8614,10 +8599,6 @@ msgstr "Pilihan bahasa"
 
 msgid "Language selection"
 msgstr "Pilihan bahasa"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Bahasa"
 
 #, fuzzy
 msgid "Lao"
@@ -8851,7 +8832,9 @@ msgstr "Lokal"
 
 #, fuzzy
 msgid "Locale"
-msgstr "Lokal"
+msgid_plural "Locales"
+msgstr[0] "Lokal"
+msgstr[1] "Lokal"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8893,10 +8876,6 @@ msgstr "Pilih tindakan"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Atur pengelola perangkat lunak"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Lokal"
 
 #, fuzzy
 msgid "Locales to be displayed"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -956,11 +956,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1022,71 +1020,53 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d package upgraded."
-msgstr ""
+msgid_plural "%d packages upgraded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was configured."
-msgstr ""
+msgid_plural "%d packages were configured."
+msgstr[0] ""
+msgstr[1] ""
 
 #
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "Taal Kieze"
+msgid_plural "%d packages were deselected."
+msgstr[0] "Taal Kieze"
+msgstr[1] "Taal Kieze"
 
 #, python-format
 msgid "%d package was downloaded."
-msgstr ""
+msgid_plural "%d packages were downloaded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was installed."
-msgstr ""
+msgid_plural "%d packages were installed."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was removed."
-msgstr ""
+msgid_plural "%d packages were removed."
+msgstr[0] ""
+msgstr[1] ""
 
 #
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "Bywurkje pakketlyst"
-
-#
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "Bywurkje pakketlyst"
-
-#, python-format
-msgid "%d packages were configured."
-msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "Taal Kieze"
-
-#, python-format
-msgid "%d packages were downloaded."
-msgstr ""
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, python-format
-msgid "%d packages were installed."
-msgstr ""
-
-#, python-format
-msgid "%d packages were removed."
-msgstr ""
-
-#, python-format
-msgid "%d packages were upgraded."
-msgstr ""
+msgid_plural "%d packages were upgraded."
+msgstr[0] "Bywurkje pakketlyst"
+msgstr[1] "Bywurkje pakketlyst"
 
 #, python-format
 msgid "%d pixel wide"
@@ -9231,8 +9211,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Taal"
+msgid_plural "Languages"
+msgstr[0] "Taal"
+msgstr[1] "Taal"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9251,11 +9234,6 @@ msgstr "Taal Kieze"
 #
 msgid "Language selection"
 msgstr "Taal Kieze"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Taal"
 
 msgid "Lao"
 msgstr ""
@@ -9516,7 +9494,9 @@ msgstr "Lokaal netwurk"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Lokaal netwurk"
+msgid_plural "Locales"
+msgstr[0] "Lokaal netwurk"
+msgstr[1] "Lokaal netwurk"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9560,11 +9540,6 @@ msgstr "Kies Lokaasje"
 
 msgid "Locale/Language Setup"
 msgstr ""
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Lokaal netwurk"
 
 msgid "Locales to be displayed"
 msgstr ""

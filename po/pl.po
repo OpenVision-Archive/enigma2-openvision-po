@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -854,11 +854,10 @@ msgstr[2] "%d dni"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Pakiety do zaktualizowania"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -922,67 +921,59 @@ msgstr[2] " pakiety wybrane."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " pakiety wybrane."
+msgid_plural "%d packages upgraded."
+msgstr[0] " pakiety wybrane."
+msgstr[1] " pakiety wybrane."
+msgstr[2] " pakiety wybrane."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " pakiety wybrane."
+msgid_plural "%d packages were configured."
+msgstr[0] " pakiety wybrane."
+msgstr[1] " pakiety wybrane."
+msgstr[2] " pakiety wybrane."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " pakiety wybrane."
+msgid_plural "%d packages were deselected."
+msgstr[0] " pakiety wybrane."
+msgstr[1] " pakiety wybrane."
+msgstr[2] " pakiety wybrane."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " pakiety wybrane."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " pakiety wybrane."
+msgstr[1] " pakiety wybrane."
+msgstr[2] " pakiety wybrane."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Aktualizacja zakończona, zainstalowano %d pakiet."
+msgid_plural "%d packages were installed."
+msgstr[0] "Aktualizacja zakończona, zainstalowano %d pakiet."
+msgstr[1] "Aktualizacja zakończona, zainstalowano %d pakiet."
+msgstr[2] "Aktualizacja zakończona, zainstalowano %d pakiet."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " pakiety wybrane."
+msgid_plural "%d packages were removed."
+msgstr[0] " pakiety wybrane."
+msgstr[1] " pakiety wybrane."
+msgstr[2] " pakiety wybrane."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " pakiety wybrane."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " pakiety wybrane."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " pakiety wybrane."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " pakiety wybrane."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " pakiety wybrane."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " pakiety wybrane."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " pakiety wybrane."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " pakiety wybrane."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " pakiety wybrane."
+msgstr[1] " pakiety wybrane."
+msgstr[2] " pakiety wybrane."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8363,8 +8354,12 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Język"
+msgid_plural "Languages"
+msgstr[0] "Język"
+msgstr[1] "Język"
+msgstr[2] "Język"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8380,10 +8375,6 @@ msgstr "Wybór języka"
 
 msgid "Language selection"
 msgstr "Wybór języka"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Język"
 
 #, fuzzy
 msgid "Lao"
@@ -8614,8 +8605,12 @@ msgstr "Sieć lokalna"
 msgid "Local time"
 msgstr "Ustawienia regionalne"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Ustawienia regionalne"
+msgid_plural "Locales"
+msgstr[0] "Ustawienia regionalne"
+msgstr[1] "Ustawienia regionalne"
+msgstr[2] "Ustawienia regionalne"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8657,10 +8652,6 @@ msgstr "Działania związane z wyborem skórki"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Ustawienia 'Software manager'"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Ustawienia regionalne"
 
 #, fuzzy
 msgid "Locales to be displayed"

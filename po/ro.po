@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -820,11 +820,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -884,67 +882,51 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d package upgraded."
-msgstr ""
+msgid_plural "%d packages upgraded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was configured."
-msgstr ""
+msgid_plural "%d packages were configured."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "Selectare limba"
+msgid_plural "%d packages were deselected."
+msgstr[0] "Selectare limba"
+msgstr[1] "Selectare limba"
 
 #, python-format
 msgid "%d package was downloaded."
-msgstr ""
+msgid_plural "%d packages were downloaded."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was installed."
-msgstr ""
+msgid_plural "%d packages were installed."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d package was removed."
-msgstr ""
+msgid_plural "%d packages were removed."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "Actualizare lista pachet"
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "Actualizare lista pachet"
-
-#, python-format
-msgid "%d packages were configured."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "Selectare limba"
-
-#, python-format
-msgid "%d packages were downloaded."
-msgstr ""
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, python-format
-msgid "%d packages were installed."
-msgstr ""
-
-#, python-format
-msgid "%d packages were removed."
-msgstr ""
-
-#, python-format
-msgid "%d packages were upgraded."
-msgstr ""
+msgid_plural "%d packages were upgraded."
+msgstr[0] "Actualizare lista pachet"
+msgstr[1] "Actualizare lista pachet"
 
 #, python-format
 msgid "%d pixel wide"
@@ -8285,7 +8267,9 @@ msgid "Label"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgid_plural "Languages"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8300,10 +8284,6 @@ msgid "Language already selected."
 msgstr "Selectare limba"
 
 msgid "Language selection"
-msgstr "Selectare limba"
-
-#, fuzzy
-msgid "Languages"
 msgstr "Selectare limba"
 
 msgid "Lao"
@@ -8538,7 +8518,9 @@ msgstr "Retea locala"
 
 #, fuzzy
 msgid "Locale"
-msgstr "Retea locala"
+msgid_plural "Locales"
+msgstr[0] "Retea locala"
+msgstr[1] "Retea locala"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8578,10 +8560,6 @@ msgstr "Alege locatia copiei de siguranta"
 
 msgid "Locale/Language Setup"
 msgstr ""
-
-#, fuzzy
-msgid "Locales"
-msgstr "Retea locala"
 
 msgid "Locales to be displayed"
 msgstr ""

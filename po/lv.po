@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -948,11 +948,10 @@ msgstr[2] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Parādīt paketes kuras tiks atjaunotas"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -1016,67 +1015,59 @@ msgstr[2] " pakotnes izvēlētas."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " pakotne izvēlēta."
+msgid_plural "%d packages upgraded."
+msgstr[0] " pakotne izvēlēta."
+msgstr[1] " pakotne izvēlēta."
+msgstr[2] " pakotne izvēlēta."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " pakotne izvēlēta."
+msgid_plural "%d packages were configured."
+msgstr[0] " pakotne izvēlēta."
+msgstr[1] " pakotne izvēlēta."
+msgstr[2] " pakotne izvēlēta."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " pakotne izvēlēta."
+msgid_plural "%d packages were deselected."
+msgstr[0] " pakotne izvēlēta."
+msgstr[1] " pakotne izvēlēta."
+msgstr[2] " pakotne izvēlēta."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " pakotne izvēlēta."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " pakotne izvēlēta."
+msgstr[1] " pakotne izvēlēta."
+msgstr[2] " pakotne izvēlēta."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Atjaunināšana pabeigta, %d pakotne instalēta."
+msgid_plural "%d packages were installed."
+msgstr[0] "Atjaunināšana pabeigta, %d pakotne instalēta."
+msgstr[1] "Atjaunināšana pabeigta, %d pakotne instalēta."
+msgstr[2] "Atjaunināšana pabeigta, %d pakotne instalēta."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " pakotne izvēlēta."
+msgid_plural "%d packages were removed."
+msgstr[0] " pakotne izvēlēta."
+msgstr[1] " pakotne izvēlēta."
+msgstr[2] " pakotne izvēlēta."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " pakotne izvēlēta."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " pakotne izvēlēta."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " pakotne izvēlēta."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " pakotne izvēlēta."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " pakotne izvēlēta."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " pakotne izvēlēta."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " pakotne izvēlēta."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " pakotne izvēlēta."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " pakotne izvēlēta."
+msgstr[1] " pakotne izvēlēta."
+msgstr[2] " pakotne izvēlēta."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8476,8 +8467,12 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Valoda"
+msgid_plural "Languages"
+msgstr[0] "Valoda"
+msgstr[1] "Valoda"
+msgstr[2] "Valoda"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8493,10 +8488,6 @@ msgstr "Valodas izvēle"
 
 msgid "Language selection"
 msgstr "Valodas izvēle"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Valoda"
 
 #, fuzzy
 msgid "Lao"
@@ -8727,8 +8718,12 @@ msgstr "Lokālais tīkls"
 msgid "Local time"
 msgstr "Valoda"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Valoda"
+msgid_plural "Locales"
+msgstr[0] "Valoda"
+msgstr[1] "Valoda"
+msgstr[2] "Valoda"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8770,10 +8765,6 @@ msgstr "Noformējuma izvēlnes darbības"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Programmatūras pārvaldīšanas iestatījumi"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Valoda"
 
 #, fuzzy
 msgid "Locales to be displayed"

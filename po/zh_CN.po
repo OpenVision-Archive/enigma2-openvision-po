@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -942,11 +942,9 @@ msgstr[1] "%d 天"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "显示可升级的软件包"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1006,67 +1004,51 @@ msgstr[1] " 选定的软件包."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " 选定的软件包."
+msgid_plural "%d packages upgraded."
+msgstr[0] " 选定的软件包."
+msgstr[1] " 选定的软件包."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " 选定的软件包."
+msgid_plural "%d packages were configured."
+msgstr[0] " 选定的软件包."
+msgstr[1] " 选定的软件包."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " 选定的软件包."
+msgid_plural "%d packages were deselected."
+msgstr[0] " 选定的软件包."
+msgstr[1] " 选定的软件包."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " 选定的软件包."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " 选定的软件包."
+msgstr[1] " 选定的软件包."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "升级已完成, %d 个安装包已安装."
+msgid_plural "%d packages were installed."
+msgstr[0] "升级已完成, %d 个安装包已安装."
+msgstr[1] "升级已完成, %d 个安装包已安装."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " 选定的软件包."
+msgid_plural "%d packages were removed."
+msgstr[0] " 选定的软件包."
+msgstr[1] " 选定的软件包."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " 选定的软件包."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " 选定的软件包."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " 选定的软件包."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " 选定的软件包."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " 选定的软件包."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " 选定的软件包."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " 选定的软件包."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " 选定的软件包."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " 选定的软件包."
+msgstr[1] " 选定的软件包."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8457,8 +8439,11 @@ msgstr "高频头"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "语言设置"
+msgid_plural "Languages"
+msgstr[0] "语言设置"
+msgstr[1] "语言设置"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8474,10 +8459,6 @@ msgstr "语言选择"
 
 msgid "Language selection"
 msgstr "语言选择"
-
-#, fuzzy
-msgid "Languages"
-msgstr "语言设置"
 
 #, fuzzy
 msgid "Lao"
@@ -8707,8 +8688,11 @@ msgstr "本地网络"
 msgid "Local time"
 msgstr "区域"
 
+#, fuzzy
 msgid "Locale"
-msgstr "区域"
+msgid_plural "Locales"
+msgstr[0] "区域"
+msgstr[1] "区域"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8750,10 +8734,6 @@ msgstr "主题选择操作"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "软件管理设置"
-
-#, fuzzy
-msgid "Locales"
-msgstr "区域"
 
 #, fuzzy
 msgid "Locales to be displayed"

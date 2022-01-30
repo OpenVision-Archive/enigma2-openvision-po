@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -955,11 +955,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Näytä päivitettävät ohjelmistopaketit"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1022,67 +1020,51 @@ msgstr[1] " pakettia valittu."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " pakettia valittu."
+msgid_plural "%d packages upgraded."
+msgstr[0] " pakettia valittu."
+msgstr[1] " pakettia valittu."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " pakettia valittu."
+msgid_plural "%d packages were configured."
+msgstr[0] " pakettia valittu."
+msgstr[1] " pakettia valittu."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " pakettia valittu."
+msgid_plural "%d packages were deselected."
+msgstr[0] " pakettia valittu."
+msgstr[1] " pakettia valittu."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " pakettia valittu."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " pakettia valittu."
+msgstr[1] " pakettia valittu."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Päivitys valmis, %d paketti asennettiin."
+msgid_plural "%d packages were installed."
+msgstr[0] "Päivitys valmis, %d paketti asennettiin."
+msgstr[1] "Päivitys valmis, %d paketti asennettiin."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " pakettia valittu."
+msgid_plural "%d packages were removed."
+msgstr[0] " pakettia valittu."
+msgstr[1] " pakettia valittu."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " pakettia valittu."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " pakettia valittu."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " pakettia valittu."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " pakettia valittu."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " pakettia valittu."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " pakettia valittu."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " pakettia valittu."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " pakettia valittu."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " pakettia valittu."
+msgstr[1] " pakettia valittu."
 
 #, python-format
 msgid "%d pixel wide"
@@ -9146,8 +9128,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Kielivalinta"
+msgid_plural "Languages"
+msgstr[0] "Kielivalinta"
+msgstr[1] "Kielivalinta"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9165,11 +9150,6 @@ msgstr "Kielivalinta"
 
 #
 msgid "Language selection"
-msgstr "Kielivalinta"
-
-#
-#, fuzzy
-msgid "Languages"
 msgstr "Kielivalinta"
 
 #, fuzzy
@@ -9435,8 +9415,11 @@ msgid "Local time"
 msgstr "Kieli"
 
 #
+#, fuzzy
 msgid "Locale"
-msgstr "Kieli"
+msgid_plural "Locales"
+msgstr[0] "Kieli"
+msgstr[1] "Kieli"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9483,11 +9466,6 @@ msgstr "Valitse toiminto"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Ohjelmiston hallinnan asetukset"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Kieli"
 
 #, fuzzy
 msgid "Locales to be displayed"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -941,11 +941,9 @@ msgstr[1] "%d nap"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Frissítendő csomagok mutatása"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1005,67 +1003,51 @@ msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "%d  szoftvercsomag kiválasztva."
+msgid_plural "%d packages upgraded."
+msgstr[0] "%d  szoftvercsomag kiválasztva."
+msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "%d  szoftvercsomag kiválasztva."
+msgid_plural "%d packages were configured."
+msgstr[0] "%d  szoftvercsomag kiválasztva."
+msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "%d  szoftvercsomag kiválasztva."
+msgid_plural "%d packages were deselected."
+msgstr[0] "%d  szoftvercsomag kiválasztva."
+msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "%d  szoftvercsomag kiválasztva."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "%d  szoftvercsomag kiválasztva."
+msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "A frissítés elkészült, %d csomag lett feltelepítve."
+msgid_plural "%d packages were installed."
+msgstr[0] "A frissítés elkészült, %d csomag lett feltelepítve."
+msgstr[1] "A frissítés elkészült, %d csomag lett feltelepítve."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "%d  szoftvercsomag kiválasztva."
+msgid_plural "%d packages were removed."
+msgstr[0] "%d  szoftvercsomag kiválasztva."
+msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "%d  szoftvercsomag kiválasztva."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "%d  szoftvercsomag kiválasztva."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "%d  szoftvercsomag kiválasztva."
+msgstr[1] "%d  szoftvercsomag kiválasztva."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8453,8 +8435,11 @@ msgstr "Fej"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Kezelőfelület nyelve"
+msgid_plural "Languages"
+msgstr[0] "Kezelőfelület nyelve"
+msgstr[1] "Kezelőfelület nyelve"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8470,10 +8455,6 @@ msgstr "Nyelvválasztás"
 
 msgid "Language selection"
 msgstr "Nyelvválasztás"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Kezelőfelület nyelve"
 
 #, fuzzy
 msgid "Lao"
@@ -8703,8 +8684,11 @@ msgstr "Helyi hálózat"
 msgid "Local time"
 msgstr "Hely"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Hely"
+msgid_plural "Locales"
+msgstr[0] "Hely"
+msgstr[1] "Hely"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8746,10 +8730,6 @@ msgstr "Kinézet választás műveletek"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Szoftverkezelés"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Hely"
 
 #, fuzzy
 msgid "Locales to be displayed"

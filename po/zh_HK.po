@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -879,11 +879,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -943,67 +941,51 @@ msgstr[1] "節目包選擇."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "節目包選擇."
+msgid_plural "%d packages upgraded."
+msgstr[0] "節目包選擇."
+msgstr[1] "節目包選擇."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "節目包選擇."
+msgid_plural "%d packages were configured."
+msgstr[0] "節目包選擇."
+msgstr[1] "節目包選擇."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "節目包選擇."
+msgid_plural "%d packages were deselected."
+msgstr[0] "節目包選擇."
+msgstr[1] "節目包選擇."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "節目包選擇."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "節目包選擇."
+msgstr[1] "節目包選擇."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Update completed, %d package was installed."
+msgid_plural "%d packages were installed."
+msgstr[0] "Update completed, %d package was installed."
+msgstr[1] "Update completed, %d package was installed."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "節目包選擇."
+msgid_plural "%d packages were removed."
+msgstr[0] "節目包選擇."
+msgstr[1] "節目包選擇."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "節目包選擇."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "節目包選擇."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "節目包選擇."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "節目包選擇."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "節目包選擇."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "節目包選擇."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "節目包選擇."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "節目包選擇."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "節目包選擇."
+msgstr[1] "節目包選擇."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8231,8 +8213,11 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "語言"
+msgid_plural "Languages"
+msgstr[0] "語言"
+msgstr[1] "語言"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8248,10 +8233,6 @@ msgstr "語言選擇"
 
 msgid "Language selection"
 msgstr "語言選擇"
-
-#, fuzzy
-msgid "Languages"
-msgstr "語言"
 
 msgid "Lao"
 msgstr ""
@@ -8480,7 +8461,9 @@ msgid "Local time"
 msgstr "位置"
 
 msgid "Locale"
-msgstr ""
+msgid_plural "Locales"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8520,9 +8503,6 @@ msgid "Locale/Language Selection Actions"
 msgstr "選擇位置"
 
 msgid "Locale/Language Setup"
-msgstr ""
-
-msgid "Locales"
 msgstr ""
 
 msgid "Locales to be displayed"

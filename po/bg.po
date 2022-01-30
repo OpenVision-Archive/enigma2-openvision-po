@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -943,11 +943,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Покажи пакетите, които ще бъдат обновени"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1007,67 +1005,51 @@ msgstr[1] " избрани пакети."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " избрани пакети."
+msgid_plural "%d packages upgraded."
+msgstr[0] " избрани пакети."
+msgstr[1] " избрани пакети."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " избрани пакети."
+msgid_plural "%d packages were configured."
+msgstr[0] " избрани пакети."
+msgstr[1] " избрани пакети."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " избрани пакети."
+msgid_plural "%d packages were deselected."
+msgstr[0] " избрани пакети."
+msgstr[1] " избрани пакети."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " избрани пакети."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " избрани пакети."
+msgstr[1] " избрани пакети."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Актуализацията завърши, %d пакет беше инсталиран."
+msgid_plural "%d packages were installed."
+msgstr[0] "Актуализацията завърши, %d пакет беше инсталиран."
+msgstr[1] "Актуализацията завърши, %d пакет беше инсталиран."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " избрани пакети."
+msgid_plural "%d packages were removed."
+msgstr[0] " избрани пакети."
+msgstr[1] " избрани пакети."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " избрани пакети."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " избрани пакети."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " избрани пакети."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " избрани пакети."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " избрани пакети."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " избрани пакети."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " избрани пакети."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " избрани пакети."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " избрани пакети."
+msgstr[1] " избрани пакети."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8461,8 +8443,11 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Език"
+msgid_plural "Languages"
+msgstr[0] "Език"
+msgstr[1] "Език"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8478,10 +8463,6 @@ msgstr "Избор Език"
 
 msgid "Language selection"
 msgstr "Избор Език"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Език"
 
 #, fuzzy
 msgid "Lao"
@@ -8711,8 +8692,11 @@ msgstr "Локална Мрежа"
 msgid "Local time"
 msgstr "Място"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Място"
+msgid_plural "Locales"
+msgstr[0] "Място"
+msgstr[1] "Място"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8754,10 +8738,6 @@ msgstr "Действия за Избор на Скин"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Настройки на софтуер мениджъра"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Място"
 
 #, fuzzy
 msgid "Locales to be displayed"

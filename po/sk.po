@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -948,11 +948,10 @@ msgstr[2] "%d dní"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Zobraziť balíčky dostupnej aktualizácie"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -1016,67 +1015,59 @@ msgstr[2] "%d vybratých balíčkov."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr "%d balíček vybratý."
+msgid_plural "%d packages upgraded."
+msgstr[0] "%d balíček vybratý."
+msgstr[1] "%d balíček vybratý."
+msgstr[2] "%d balíček vybratý."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr "%d balíček vybratý."
+msgid_plural "%d packages were configured."
+msgstr[0] "%d balíček vybratý."
+msgstr[1] "%d balíček vybratý."
+msgstr[2] "%d balíček vybratý."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr "%d balíček vybratý."
+msgid_plural "%d packages were deselected."
+msgstr[0] "%d balíček vybratý."
+msgstr[1] "%d balíček vybratý."
+msgstr[2] "%d balíček vybratý."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr "%d balíček vybratý."
+msgid_plural "%d packages were downloaded."
+msgstr[0] "%d balíček vybratý."
+msgstr[1] "%d balíček vybratý."
+msgstr[2] "%d balíček vybratý."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Aktualizácia dokončená, %d balíček bol nainštalovaný."
+msgid_plural "%d packages were installed."
+msgstr[0] "Aktualizácia dokončená, %d balíček bol nainštalovaný."
+msgstr[1] "Aktualizácia dokončená, %d balíček bol nainštalovaný."
+msgstr[2] "Aktualizácia dokončená, %d balíček bol nainštalovaný."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr "%d balíček vybratý."
+msgid_plural "%d packages were removed."
+msgstr[0] "%d balíček vybratý."
+msgstr[1] "%d balíček vybratý."
+msgstr[2] "%d balíček vybratý."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr "%d balíček vybratý."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr "%d balíček vybratý."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr "%d balíček vybratý."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr "%d balíček vybratý."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr "%d balíček vybratý."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr "%d balíček vybratý."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr "%d balíček vybratý."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr "%d balíček vybratý."
+msgid_plural "%d packages were upgraded."
+msgstr[0] "%d balíček vybratý."
+msgstr[1] "%d balíček vybratý."
+msgstr[2] "%d balíček vybratý."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8477,8 +8468,12 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Jazyk"
+msgid_plural "Languages"
+msgstr[0] "Jazyk"
+msgstr[1] "Jazyk"
+msgstr[2] "Jazyk"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8494,10 +8489,6 @@ msgstr "Výber jazyka"
 
 msgid "Language selection"
 msgstr "Výber jazyka"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Jazyk"
 
 #, fuzzy
 msgid "Lao"
@@ -8728,8 +8719,12 @@ msgstr "Miestna sieť"
 msgid "Local time"
 msgstr "Jazyk"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Jazyk"
+msgid_plural "Locales"
+msgstr[0] "Jazyk"
+msgstr[1] "Jazyk"
+msgstr[2] "Jazyk"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8771,10 +8766,6 @@ msgstr "Akcia voľby vzhľadu"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Nastavenie správcu softvéru"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Jazyk"
 
 #, fuzzy
 msgid "Locales to be displayed"

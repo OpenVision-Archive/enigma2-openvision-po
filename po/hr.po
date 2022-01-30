@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -945,11 +945,10 @@ msgstr[2] "%d dana"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Prikažite pakete koje treba ažurirati"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, python-format
 msgid "%d fps"
@@ -1013,67 +1012,59 @@ msgstr[2] " izabrano paketa."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " izabrano paketa."
+msgid_plural "%d packages upgraded."
+msgstr[0] " izabrano paketa."
+msgstr[1] " izabrano paketa."
+msgstr[2] " izabrano paketa."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " izabrano paketa."
+msgid_plural "%d packages were configured."
+msgstr[0] " izabrano paketa."
+msgstr[1] " izabrano paketa."
+msgstr[2] " izabrano paketa."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " izabrano paketa."
+msgid_plural "%d packages were deselected."
+msgstr[0] " izabrano paketa."
+msgstr[1] " izabrano paketa."
+msgstr[2] " izabrano paketa."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " izabrano paketa."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " izabrano paketa."
+msgstr[1] " izabrano paketa."
+msgstr[2] " izabrano paketa."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Ažuriranje je dovršeno, %d paket je instaliran."
+msgid_plural "%d packages were installed."
+msgstr[0] "Ažuriranje je dovršeno, %d paket je instaliran."
+msgstr[1] "Ažuriranje je dovršeno, %d paket je instaliran."
+msgstr[2] "Ažuriranje je dovršeno, %d paket je instaliran."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " izabrano paketa."
+msgid_plural "%d packages were removed."
+msgstr[0] " izabrano paketa."
+msgstr[1] " izabrano paketa."
+msgstr[2] " izabrano paketa."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " izabrano paketa."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " izabrano paketa."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " izabrano paketa."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " izabrano paketa."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " izabrano paketa."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " izabrano paketa."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " izabrano paketa."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " izabrano paketa."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " izabrano paketa."
+msgstr[1] " izabrano paketa."
+msgstr[2] " izabrano paketa."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8483,8 +8474,12 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Jezik"
+msgid_plural "Languages"
+msgstr[0] "Jezik"
+msgstr[1] "Jezik"
+msgstr[2] "Jezik"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8500,10 +8495,6 @@ msgstr "Odabir jezika"
 
 msgid "Language selection"
 msgstr "Odabir jezika"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Jezik"
 
 #, fuzzy
 msgid "Lao"
@@ -8734,8 +8725,12 @@ msgstr "Lokalna mreža"
 msgid "Local time"
 msgstr "Lokalno"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Lokalno"
+msgid_plural "Locales"
+msgstr[0] "Lokalno"
+msgstr[1] "Lokalno"
+msgstr[2] "Lokalno"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8777,10 +8772,6 @@ msgstr "Radnje za odabir skina"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Postavke upravljanja softverom"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Lokalno"
 
 #, fuzzy
 msgid "Locales to be displayed"

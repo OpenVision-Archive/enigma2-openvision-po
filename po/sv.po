@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -953,11 +953,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Visa paket som skall uppdateras"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d fps"
@@ -1020,79 +1018,56 @@ msgstr[1] " valda paket."
 #
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " valda paket."
+msgid_plural "%d packages upgraded."
+msgstr[0] " valda paket."
+msgstr[1] " valda paket."
 
 #
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " valda paket."
+msgid_plural "%d packages were configured."
+msgstr[0] " valda paket."
+msgstr[1] " valda paket."
 
 #
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " valda paket."
+msgid_plural "%d packages were deselected."
+msgstr[0] " valda paket."
+msgstr[1] " valda paket."
 
 #
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " valda paket."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " valda paket."
+msgstr[1] " valda paket."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Uppdatering klar, %d packet installerat."
+msgid_plural "%d packages were installed."
+msgstr[0] "Uppdatering klar, %d packet installerat."
+msgstr[1] "Uppdatering klar, %d packet installerat."
 
 #
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " valda paket."
+msgid_plural "%d packages were removed."
+msgstr[0] " valda paket."
+msgstr[1] " valda paket."
 
 #
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " valda paket."
-
-#
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " valda paket."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " valda paket."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " valda paket."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " valda paket."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " valda paket."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " valda paket."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " valda paket."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " valda paket."
+msgstr[1] " valda paket."
 
 #, python-format
 msgid "%d pixel wide"
@@ -9252,8 +9227,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Språk"
+msgid_plural "Languages"
+msgstr[0] "Språk"
+msgstr[1] "Språk"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9272,11 +9250,6 @@ msgstr "Välj språk"
 #
 msgid "Language selection"
 msgstr "Välj språk"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Språk"
 
 msgid "Lao"
 msgstr ""
@@ -9542,7 +9515,9 @@ msgstr "Lokalt nätverk"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Lokalt nätverk"
+msgid_plural "Locales"
+msgstr[0] "Lokalt nätverk"
+msgstr[1] "Lokalt nätverk"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9588,11 +9563,6 @@ msgstr "Välj åtgärd"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Mjukvaruhanterare installation"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Lokalt nätverk"
 
 #, fuzzy
 msgid "Locales to be displayed"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -937,11 +937,8 @@ msgstr[0] "%d ngày"
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d feed catalog packages were updated."
-msgstr "Hiển thị các gói sẽ được nâng cấp"
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
 
 #, python-format
 msgid "%d fps"
@@ -997,67 +994,43 @@ msgstr[0] " các gói được chọn."
 
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " các gói được chọn."
+msgid_plural "%d packages upgraded."
+msgstr[0] " các gói được chọn."
 
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " các gói được chọn."
+msgid_plural "%d packages were configured."
+msgstr[0] " các gói được chọn."
 
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " các gói được chọn."
+msgid_plural "%d packages were deselected."
+msgstr[0] " các gói được chọn."
 
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " các gói được chọn."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " các gói được chọn."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
 
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr "Cập nhật hoàn tất, gói%d đã được cài đặt."
+msgid_plural "%d packages were installed."
+msgstr[0] "Cập nhật hoàn tất, gói%d đã được cài đặt."
 
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " các gói được chọn."
+msgid_plural "%d packages were removed."
+msgstr[0] " các gói được chọn."
 
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " các gói được chọn."
-
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " các gói được chọn."
-
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " các gói được chọn."
-
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " các gói được chọn."
-
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " các gói được chọn."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " các gói được chọn."
-
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " các gói được chọn."
-
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " các gói được chọn."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " các gói được chọn."
 
 #, python-format
 msgid "%d pixel wide"
@@ -8448,8 +8421,10 @@ msgstr "LNB"
 msgid "Label"
 msgstr ""
 
+#, fuzzy
 msgid "Language"
-msgstr "Ngôn ngữ"
+msgid_plural "Languages"
+msgstr[0] "Ngôn ngữ"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -8465,10 +8440,6 @@ msgstr "Sự lựa chọn ngôn ngữ"
 
 msgid "Language selection"
 msgstr "Sự lựa chọn ngôn ngữ"
-
-#, fuzzy
-msgid "Languages"
-msgstr "Ngôn ngữ"
 
 #, fuzzy
 msgid "Lao"
@@ -8697,8 +8668,10 @@ msgstr "Mạng nội bộ"
 msgid "Local time"
 msgstr "Địa phương"
 
+#, fuzzy
 msgid "Locale"
-msgstr "Địa phương"
+msgid_plural "Locales"
+msgstr[0] "Địa phương"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -8740,10 +8713,6 @@ msgstr "Hành động lựa chọn giao diện"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Thiết lập trình quản lý phần mềm"
-
-#, fuzzy
-msgid "Locales"
-msgstr "Địa phương"
 
 #, fuzzy
 msgid "Locales to be displayed"

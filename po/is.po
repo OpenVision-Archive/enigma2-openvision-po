@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-23 01:51+0000\n"
+"POT-Creation-Date: 2022-01-30 01:51+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -955,11 +955,9 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d feed catalog package was updated."
-msgstr ""
-
-#, python-format
-msgid "%d feed catalog packages were updated."
-msgstr ""
+msgid_plural "%d feed catalog packages were updated."
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%d fps"
@@ -1023,80 +1021,57 @@ msgstr[1] " pakkar valdir."
 #
 #, fuzzy, python-format
 msgid "%d package upgraded."
-msgstr " pakkar valdir."
+msgid_plural "%d packages upgraded."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #
 #, fuzzy, python-format
 msgid "%d package was configured."
-msgstr " pakkar valdir."
+msgid_plural "%d packages were configured."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #
 #, fuzzy, python-format
 msgid "%d package was deselected."
-msgstr " pakkar valdir."
+msgid_plural "%d packages were deselected."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #
 #, fuzzy, python-format
 msgid "%d package was downloaded."
-msgstr " pakkar valdir."
+msgid_plural "%d packages were downloaded."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #, python-format
 msgid "%d package was identified for upgrade."
-msgstr ""
+msgid_plural "%d packages were identified for upgrade."
+msgstr[0] ""
+msgstr[1] ""
 
 #
 #, fuzzy, python-format
 msgid "%d package was installed."
-msgstr " pakkar valdir."
+msgid_plural "%d packages were installed."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #
 #, fuzzy, python-format
 msgid "%d package was removed."
-msgstr " pakkar valdir."
+msgid_plural "%d packages were removed."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #
 #, fuzzy, python-format
 msgid "%d package was upgraded."
-msgstr " pakkar valdir."
-
-#
-#, fuzzy, python-format
-msgid "%d packages upgraded."
-msgstr " pakkar valdir."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were configured."
-msgstr " pakkar valdir."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were deselected."
-msgstr " pakkar valdir."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were downloaded."
-msgstr " pakkar valdir."
-
-#, python-format
-msgid "%d packages were identified for upgrade."
-msgstr ""
-
-#
-#, fuzzy, python-format
-msgid "%d packages were installed."
-msgstr " pakkar valdir."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were removed."
-msgstr " pakkar valdir."
-
-#
-#, fuzzy, python-format
-msgid "%d packages were upgraded."
-msgstr " pakkar valdir."
+msgid_plural "%d packages were upgraded."
+msgstr[0] " pakkar valdir."
+msgstr[1] " pakkar valdir."
 
 #, python-format
 msgid "%d pixel wide"
@@ -9063,8 +9038,11 @@ msgid "Label"
 msgstr ""
 
 #
+#, fuzzy
 msgid "Language"
-msgstr "Tungumál"
+msgid_plural "Languages"
+msgstr[0] "Tungumál"
+msgstr[1] "Tungumál"
 
 #, python-format
 msgid "Language %s (%s) installed and selected."
@@ -9083,11 +9061,6 @@ msgstr "Val tungumáls"
 #
 msgid "Language selection"
 msgstr "Val tungumáls"
-
-#
-#, fuzzy
-msgid "Languages"
-msgstr "Tungumál"
 
 msgid "Lao"
 msgstr ""
@@ -9353,7 +9326,9 @@ msgstr "Nærnet"
 #
 #, fuzzy
 msgid "Locale"
-msgstr "Nærnet"
+msgid_plural "Locales"
+msgstr[0] "Nærnet"
+msgstr[1] "Nærnet"
 
 #, python-format
 msgid "Locale %s (%s) installed and selected."
@@ -9399,11 +9374,6 @@ msgstr "Veldu stað fyrir afrit"
 #, fuzzy
 msgid "Locale/Language Setup"
 msgstr "Uppsetning hugbúnaðar umsýslu"
-
-#
-#, fuzzy
-msgid "Locales"
-msgstr "Nærnet"
 
 msgid "Locales to be displayed"
 msgstr ""
