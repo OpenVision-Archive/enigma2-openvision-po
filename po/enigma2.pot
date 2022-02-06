@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-06 02:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14836,6 +14836,231 @@ msgstr ""
 msgid "zapped"
 msgstr ""
 
+msgid "false"
+msgstr ""
+
+msgid "2678400000"
+msgstr ""
+
+msgid "Default task"
+msgstr ""
+
+msgid "IGNORE"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
+msgid "AFP"
+msgstr ""
+
+msgid "Android Mode"
+msgstr ""
+
+msgid "Audio & Video"
+msgstr ""
+
+msgid "Audio/Video Setup"
+msgstr ""
+
+msgid "Auto Language Setup"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "CIFS/Samba"
+msgstr ""
+
+msgid "Client Tuner Configuration"
+msgstr ""
+
+msgid "Cron Timers"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Deep Standby"
+msgstr ""
+
+msgid "Delete EPG Cache"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "EPG Setup"
+msgstr ""
+
+msgid "FTP"
+msgstr ""
+
+msgid "Fallback Remote Receiver Setup"
+msgstr ""
+
+msgid "Filesystem Check"
+msgstr ""
+
+msgid "Front Panel Display"
+msgstr ""
+
+msgid "Geolocation"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Inadyn"
+msgstr ""
+
+msgid "Inetd Recovery"
+msgstr ""
+
+msgid "Initialization"
+msgstr ""
+
+msgid "Input Driver Setup"
+msgstr ""
+
+msgid "Keyboard / Remote Control Setup"
+msgstr ""
+
+msgid "LCD Setup"
+msgstr ""
+
+msgid "LED Setup"
+msgstr ""
+
+msgid "Load EPG Cache"
+msgstr ""
+
+msgid "Locale/Language Setup"
+msgstr ""
+
+msgid "Logs Setup"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "MiniDLNA"
+msgstr ""
+
+msgid "Mounts"
+msgstr ""
+
+msgid "MultiBoot"
+msgstr ""
+
+msgid "NFS"
+msgstr ""
+
+msgid "OpenVPN"
+msgstr ""
+
+msgid "Parental Control Setup"
+msgstr ""
+
+msgid "Playback Setup"
+msgstr ""
+
+msgid "Playback, Recording & Timeshift"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Power Timers"
+msgstr ""
+
+msgid "RF Modulator Output Setup"
+msgstr ""
+
+msgid "Receiver"
+msgstr ""
+
+msgid "Recovery Mode"
+msgstr ""
+
+msgid "SABnzbd"
+msgstr ""
+
+msgid "SATPI"
+msgstr ""
+
+msgid "Save EPG Cache"
+msgstr ""
+
+msgid "Save, Load & Delete EPG Cache"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Shutdown"
+msgstr ""
+
+msgid "Skin Setup"
+msgstr ""
+
+msgid "Sleep Timer"
+msgstr ""
+
+msgid "Softcam"
+msgstr ""
+
+msgid "Standby & Restart"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "Streaming Clients"
+msgstr ""
+
+msgid "Subtitle Setup"
+msgstr ""
+
+msgid "Switch to Android"
+msgstr ""
+
+msgid "Telnet"
+msgstr ""
+
+msgid "Timers"
+msgstr ""
+
+msgid "Timeshift Setup"
+msgstr ""
+
+msgid "Tuners"
+msgstr ""
+
+msgid "Tuners & Scanning"
+msgstr ""
+
+msgid "User Interface"
+msgstr ""
+
+msgid "User Interface Setup"
+msgstr ""
+
+msgid "User Mode Setup"
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "VCR Scart"
+msgstr ""
+
+msgid "ZeroTierVPN"
+msgstr ""
+
+msgid "uShare"
+msgstr ""
+
 msgid "12V output"
 msgstr ""
 
@@ -14912,12 +15137,6 @@ msgid "Audio language selection 3"
 msgstr ""
 
 msgid "Audio language selection 4"
-msgstr ""
-
-msgid "Audio/Video Setup"
-msgstr ""
-
-msgid "Auto Language Setup"
 msgstr ""
 
 msgid "Auto play last service in radio mode"
@@ -15351,9 +15570,6 @@ msgstr ""
 msgid "Custom skip time for '7'/'9' buttons"
 msgstr ""
 
-msgid "Customize"
-msgstr ""
-
 msgid "Customize channel list cursor behavior"
 msgstr ""
 
@@ -15424,9 +15640,6 @@ msgid "Display the EIT now/next eventdata in infobar."
 msgstr ""
 
 msgid "Display the base locales or all locales for a language."
-msgstr ""
-
-msgid "EPG Setup"
 msgstr ""
 
 msgid "EPG filename"
@@ -15699,9 +15912,6 @@ msgstr ""
 msgid "Keeps the movie list open whilst playing audio files."
 msgstr ""
 
-msgid "Keyboard / Remote Control Setup"
-msgstr ""
-
 msgid "Keyboard map"
 msgstr ""
 
@@ -15715,9 +15925,6 @@ msgid "LED Deep Standby"
 msgstr ""
 
 msgid "LED Normal"
-msgstr ""
-
-msgid "LED Setup"
 msgstr ""
 
 msgid "LED Standby"
@@ -15766,9 +15973,6 @@ msgid "Locales to be displayed"
 msgstr ""
 
 msgid "Log python stack trace on spinner"
-msgstr ""
-
-msgid "Logs Setup"
 msgstr ""
 
 msgid "Logs folder location *"
@@ -15897,9 +16101,6 @@ msgstr ""
 msgid "Play audio in background"
 msgstr ""
 
-msgid "Playback Setup"
-msgstr ""
-
 msgid "Plugin Browser Setup"
 msgstr ""
 
@@ -15988,9 +16189,6 @@ msgid "REC symbol in use"
 msgstr ""
 
 msgid "RED button"
-msgstr ""
-
-msgid "RF Modulator Output Setup"
 msgstr ""
 
 msgid "Recordings always have priority"
@@ -16434,9 +16632,6 @@ msgstr ""
 msgid "Stop service on return to movie list"
 msgstr ""
 
-msgid "Subtitle Setup"
-msgstr ""
-
 msgid "Subtitle alignment"
 msgstr ""
 
@@ -16638,9 +16833,6 @@ msgstr ""
 msgid "Timer recording location"
 msgstr ""
 
-msgid "Timeshift Setup"
-msgstr ""
-
 msgid "Timeshift location"
 msgstr ""
 
@@ -16713,12 +16905,6 @@ msgid "Use trash can in movie list"
 msgstr ""
 
 msgid "Use trash can in movielist"
-msgstr ""
-
-msgid "User Interface Setup"
-msgstr ""
-
-msgid "User Mode Setup"
 msgstr ""
 
 msgid "Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used."
@@ -17039,175 +17225,85 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
-msgid "AFP"
+msgid "EasyMedia"
 msgstr ""
 
-msgid "Android Mode"
+msgid "Ext. NumberZap"
 msgstr ""
 
-msgid "Audio & Video"
+msgid "Timer+"
 msgstr ""
 
-msgid "Build"
+msgid "Timerlist"
 msgstr ""
 
-msgid "CIFS/Samba"
+msgid "EPG Selection"
 msgstr ""
 
-msgid "Client Tuner Configuration"
+msgid "EtPortal"
 msgstr ""
 
-msgid "Cron Timers"
+msgid "Graphical EPG"
 msgstr ""
 
-msgid "Deep Standby"
+msgid "IMDB Search"
 msgstr ""
 
-msgid "Delete EPG Cache"
+msgid "Quick EPG"
 msgstr ""
 
-msgid "Device"
+msgid "®"
 msgstr ""
 
-msgid "FTP"
+msgid "C"
 msgstr ""
 
-msgid "Fallback Remote Receiver Setup"
+msgid "D"
 msgstr ""
 
-msgid "Filesystem Check"
+msgid "Enigmalight"
 msgstr ""
 
-msgid "Front Panel Display"
+msgid "VMC"
 msgstr ""
 
-msgid "Geolocation"
+msgid "by hmmmdada"
 msgstr ""
 
-msgid "Images"
+msgid "Rec"
 msgstr ""
 
-msgid "Inadyn"
+msgid "  REC  "
 msgstr ""
 
-msgid "Inetd Recovery"
+msgid "-"
 msgstr ""
 
-msgid "Initialization"
+msgid "E "
 msgstr ""
 
-msgid "Input Driver Setup"
+msgid "F"
 msgstr ""
 
-msgid "LCD Setup"
+msgid "G"
 msgstr ""
 
-msgid "Load EPG Cache"
+msgid "H"
 msgstr ""
 
-msgid "Locale/Language Setup"
+msgid "I"
 msgstr ""
 
-msgid "Main Menu"
+msgid "J"
 msgstr ""
 
-msgid "MiniDLNA"
+msgid "TUNER:"
 msgstr ""
 
-msgid "Mounts"
+msgid " HI "
 msgstr ""
 
-msgid "MultiBoot"
-msgstr ""
-
-msgid "NFS"
-msgstr ""
-
-msgid "OpenVPN"
-msgstr ""
-
-msgid "Parental Control Setup"
-msgstr ""
-
-msgid "Playback, Recording & Timeshift"
-msgstr ""
-
-msgid "Plugins"
-msgstr ""
-
-msgid "Power Timers"
-msgstr ""
-
-msgid "Receiver"
-msgstr ""
-
-msgid "Recovery Mode"
-msgstr ""
-
-msgid "SABnzbd"
-msgstr ""
-
-msgid "SATPI"
-msgstr ""
-
-msgid "Save EPG Cache"
-msgstr ""
-
-msgid "Save, Load & Delete EPG Cache"
-msgstr ""
-
-msgid "Service"
-msgstr ""
-
-msgid "Shutdown"
-msgstr ""
-
-msgid "Skin Setup"
-msgstr ""
-
-msgid "Sleep Timer"
-msgstr ""
-
-msgid "Softcam"
-msgstr ""
-
-msgid "Standby & Restart"
-msgstr ""
-
-msgid "Storage"
-msgstr ""
-
-msgid "Streaming Clients"
-msgstr ""
-
-msgid "Switch to Android"
-msgstr ""
-
-msgid "Telnet"
-msgstr ""
-
-msgid "Timers"
-msgstr ""
-
-msgid "Tuners"
-msgstr ""
-
-msgid "Tuners & Scanning"
-msgstr ""
-
-msgid "User Interface"
-msgstr ""
-
-msgid "Utilities"
-msgstr ""
-
-msgid "VCR Scart"
-msgstr ""
-
-msgid "ZeroTierVPN"
-msgstr ""
-
-msgid "uShare"
+msgid "REC "
 msgstr ""
 
 msgid "Check the internet connection"
@@ -17322,9 +17418,6 @@ msgstr ""
 msgid "Benchmark information"
 msgstr ""
 
-msgid "C"
-msgstr ""
-
 msgid "Channellist menu"
 msgstr ""
 
@@ -17332,9 +17425,6 @@ msgid "Command execution..."
 msgstr ""
 
 msgid "Commit info"
-msgstr ""
-
-msgid "D"
 msgstr ""
 
 msgid "DVB information"
@@ -17488,96 +17578,6 @@ msgid "config menu"
 msgstr ""
 
 msgid "help..."
-msgstr ""
-
-msgid "VMC"
-msgstr ""
-
-msgid "by hmmmdada"
-msgstr ""
-
-msgid "TUNER:"
-msgstr ""
-
-msgid "EasyMedia"
-msgstr ""
-
-msgid "Ext. NumberZap"
-msgstr ""
-
-msgid "Timer+"
-msgstr ""
-
-msgid "Timerlist"
-msgstr ""
-
-msgid "Rec"
-msgstr ""
-
-msgid "EPG Selection"
-msgstr ""
-
-msgid "Enigmalight"
-msgstr ""
-
-msgid "EtPortal"
-msgstr ""
-
-msgid "Graphical EPG"
-msgstr ""
-
-msgid "IMDB Search"
-msgstr ""
-
-msgid "Quick EPG"
-msgstr ""
-
-msgid "®"
-msgstr ""
-
-msgid " HI "
-msgstr ""
-
-msgid "REC "
-msgstr ""
-
-msgid "-"
-msgstr ""
-
-msgid "  REC  "
-msgstr ""
-
-msgid "E "
-msgstr ""
-
-msgid "F"
-msgstr ""
-
-msgid "G"
-msgstr ""
-
-msgid "H"
-msgstr ""
-
-msgid "I"
-msgstr ""
-
-msgid "J"
-msgstr ""
-
-msgid "false"
-msgstr ""
-
-msgid "2678400000"
-msgstr ""
-
-msgid "Default task"
-msgstr ""
-
-msgid "IGNORE"
-msgstr ""
-
-msgid "true"
 msgstr ""
 
 msgid "Refresh rate selection."
