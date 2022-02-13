@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -3032,6 +3032,10 @@ msgstr "Кабел"
 msgid "Cable Scan"
 msgstr "Пребарување кабел"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Сликички во меморија"
 
@@ -5501,6 +5505,10 @@ msgstr "Нови плагини за преземање"
 msgid "Downloadable plugins"
 msgstr "Плагини за преземање"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Превземи имиџ"
+
 msgid "Downloading"
 msgstr "Превземи"
 
@@ -6902,6 +6910,10 @@ msgstr "Целосна транспарентност"
 
 msgid "Full view resolution"
 msgstr "Целосен приказ на резолуција"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Резервни Тајмер"
 
 msgid "Function of OK button"
 msgstr "Функција на копчето ОК"
@@ -18102,9 +18114,6 @@ msgstr "комедија"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "филм / драма (општо)"
-
-msgid "config menu"
-msgstr "конфигуративно мени"
 
 msgid "confirmed"
 msgstr "потврдено"

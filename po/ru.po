@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -3175,6 +3175,10 @@ msgstr "Кабельное"
 msgid "Cable Scan"
 msgstr "Кабельное сканирование"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Кешировать эскизы"
 
@@ -5645,6 +5649,10 @@ msgstr "Доступные новые плагины"
 msgid "Downloadable plugins"
 msgstr "Доступные плагины"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Загрузка имиджа"
+
 msgid "Downloading"
 msgstr "Загрузка"
 
@@ -7046,6 +7054,10 @@ msgstr "Полная прозрачность"
 
 msgid "Full view resolution"
 msgstr "Полноэкранный режим"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Резервный удаленный таймер"
 
 msgid "Function of OK button"
 msgstr "Функция кнопки OK"
@@ -18262,9 +18274,6 @@ msgstr "комедия"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "фильмы/драма (общее)"
-
-msgid "config menu"
-msgstr "меню конфигурации"
 
 msgid "confirmed"
 msgstr "подтверждено"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -3150,6 +3150,10 @@ msgstr "Kábel"
 msgid "Cable Scan"
 msgstr "Kábel keresés"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Cache ikonok"
 
@@ -5615,6 +5619,10 @@ msgstr "Letölthető új bővítmények"
 msgid "Downloadable plugins"
 msgstr "Letölthető bővítmények"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Image letöltése"
+
 msgid "Downloading"
 msgstr "Letöltés"
 
@@ -7012,6 +7020,10 @@ msgstr "Teljesen áttetsző"
 
 msgid "Full view resolution"
 msgstr "Teljes képernyő felbontás"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Tartalék távoli időzítő"
 
 msgid "Function of OK button"
 msgstr "Az OK gomb funkciója"
@@ -18228,9 +18240,6 @@ msgstr "vígjáték"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "mozi/színház (általános)"
-
-msgid "config menu"
-msgstr "konfig. menü"
 
 msgid "confirmed"
 msgstr "visszaigazolt"

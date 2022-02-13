@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2013-10-20 19:13-0300\n"
 "Last-Translator: Diogo <pingflood@gmail.com>\n"
 "Language-Team: Traduzido por Frank Viana <franksrviana@gmail.com>\n"
@@ -3086,6 +3086,10 @@ msgstr "Cabo"
 msgid "Cable Scan"
 msgstr "Busca via cabo"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Salvar miniaturas"
 
@@ -5553,6 +5557,10 @@ msgstr "Lista de plugins"
 msgid "Downloadable plugins"
 msgstr "Plugins disponíveis"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Fazendo o download"
+
 msgid "Downloading"
 msgstr "Fazendo o download"
 
@@ -6944,6 +6952,10 @@ msgstr "Transparência total"
 
 msgid "Full view resolution"
 msgstr "Resolução de tela cheia"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "A gravação falhou"
 
 msgid "Function of OK button"
 msgstr "Função do botão OK"
@@ -18123,9 +18135,6 @@ msgstr "Comédia"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "Filme/Drama (geral)"
-
-msgid "config menu"
-msgstr "Menu de configuração"
 
 msgid "confirmed"
 msgstr "Confirmado"

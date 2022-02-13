@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -3176,6 +3176,10 @@ msgstr "Kabeļu"
 msgid "Cable Scan"
 msgstr "Kabeļu meklēšana"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Kešot sīkattēlus"
 
@@ -5646,6 +5650,10 @@ msgstr "Lejuplādējamie jaunie spraudņi"
 msgid "Downloadable plugins"
 msgstr "Lejuplādējamie spraudņi"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Lejuplādē imidžu"
+
 msgid "Downloading"
 msgstr "Lejuplādē"
 
@@ -7047,6 +7055,10 @@ msgstr "Pilnīgi caurspīdīgs"
 
 msgid "Full view resolution"
 msgstr "Pilnekrāna izšķirtspēja"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Attālinātais taimeris"
 
 msgid "Function of OK button"
 msgstr "Taustiņa Labi funkcija"
@@ -18256,9 +18268,6 @@ msgstr "komēdija"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "filmas/drāma (vispārīgi)"
-
-msgid "config menu"
-msgstr "konfigurācijas izvēlne"
 
 msgid "confirmed"
 msgstr "apstiprināts"

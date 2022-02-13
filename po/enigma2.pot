@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-06 02:05+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2703,6 +2703,10 @@ msgstr ""
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr ""
 
@@ -4480,6 +4484,9 @@ msgstr ""
 msgid "Downloadable new plugins"
 msgstr ""
 
+msgid "Downloaded Images"
+msgstr ""
+
 msgid "Downloading"
 msgstr ""
 
@@ -5558,6 +5565,9 @@ msgid "Full transparency"
 msgstr ""
 
 msgid "Full view resolution"
+msgstr ""
+
+msgid "Fullbackup Images"
 msgstr ""
 
 msgid "Function of OK button"
@@ -17572,9 +17582,6 @@ msgid "Volume"
 msgstr ""
 
 msgid "Welcome..."
-msgstr ""
-
-msgid "config menu"
 msgstr ""
 
 msgid "help..."

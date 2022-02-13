@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -3170,6 +3170,10 @@ msgstr "Cavo"
 msgid "Cable Scan"
 msgstr "Ricerca su cavo"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Cache miniature"
 
@@ -5624,6 +5628,10 @@ msgstr "Nuovi plugin scaricabili"
 msgid "Downloadable plugins"
 msgstr "Plugin scaricabili"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Scaricamento dell'immagine"
+
 msgid "Downloading"
 msgstr "Scaricamento in corso..."
 
@@ -7036,6 +7044,10 @@ msgstr "Trasparenza piena"
 
 msgid "Full view resolution"
 msgstr "Risoluzione a schermo intero"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Timer del ricevitore remoto di fallback"
 
 msgid "Function of OK button"
 msgstr "Funzione del tasto OK"
@@ -18296,9 +18308,6 @@ msgstr "Commedia"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "Film/Opera (generale)"
-
-msgid "config menu"
-msgstr "Menu configurazione"
 
 msgid "confirmed"
 msgstr "Confermato"

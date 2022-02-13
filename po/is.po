@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -3328,6 +3328,10 @@ msgstr "Kapalkerfi"
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 #, fuzzy
 msgid "Cache thumbnails"
 msgstr "Taka nyndir í skyndiminni"
@@ -5963,6 +5967,10 @@ msgstr "Niðurhalanleg ný íforrit"
 msgid "Downloadable plugins"
 msgstr "Niðurhalanleg íforrit"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Hleð niður"
+
 msgid "Downloading"
 msgstr "Hleð niður"
 
@@ -7485,6 +7493,11 @@ msgstr ""
 
 msgid "Full view resolution"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Forritun"
 
 msgid "Function of OK button"
 msgstr ""
@@ -19911,10 +19924,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-#
-msgid "config menu"
-msgstr "stillinga valmynd"
 
 #
 msgid "confirmed"

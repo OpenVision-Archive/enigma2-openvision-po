@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -3156,6 +3156,10 @@ msgstr "有线"
 msgid "Cable Scan"
 msgstr "有线扫描"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "缓存缩略图"
 
@@ -5619,6 +5623,10 @@ msgstr "可下载的新插件"
 msgid "Downloadable plugins"
 msgstr "可下载的插件"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "正在解压镜像文"
+
 msgid "Downloading"
 msgstr "下载"
 
@@ -7020,6 +7028,10 @@ msgstr "全屏显示时的帧大小"
 
 msgid "Full view resolution"
 msgstr "全视图分辨率"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "备用定时器"
 
 msgid "Function of OK button"
 msgstr "OK键功能"
@@ -18230,9 +18242,6 @@ msgstr "喜剧"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "电影/戏剧"
-
-msgid "config menu"
-msgstr "配置菜单"
 
 msgid "confirmed"
 msgstr "检测通过"

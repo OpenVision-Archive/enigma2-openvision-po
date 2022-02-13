@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -3180,6 +3180,10 @@ msgstr "Kabelinė"
 msgid "Cable Scan"
 msgstr "Kabelinės TV kanalų paieška"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Miniatiūras kaupti talpykloje"
 
@@ -5650,6 +5654,10 @@ msgstr "Galimi parsisiųsti nauji priedai"
 msgid "Downloadable plugins"
 msgstr "Galimi parsisiųsti priedai"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Parsiunčiamas atvaizdas"
+
 msgid "Downloading"
 msgstr "Parsisiunčiama"
 
@@ -7048,6 +7056,10 @@ msgstr "Visiškai permatomas"
 
 msgid "Full view resolution"
 msgstr "Pilno vaizdo rezoliucija"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Atsarginis laikmatis"
 
 msgid "Function of OK button"
 msgstr "'OK' mygtuko funkcija"
@@ -18267,9 +18279,6 @@ msgstr "komedija"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "filmas/drama (bendras)"
-
-msgid "config menu"
-msgstr "konfigūracijos meniu"
 
 msgid "confirmed"
 msgstr "patvirtinta"

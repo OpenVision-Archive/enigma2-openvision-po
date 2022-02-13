@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -3151,6 +3151,10 @@ msgstr "کابل"
 msgid "Cable Scan"
 msgstr "اسکن کابلی"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 #, fuzzy
 msgid "Cache thumbnails"
 msgstr "ذخیره کردن عکس های کوچک"
@@ -5623,6 +5627,10 @@ msgstr "پلاگین های جدید قابل دانلود"
 msgid "Downloadable plugins"
 msgstr "پلاگین های قابل دانلود"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "در حال دانلود"
+
 msgid "Downloading"
 msgstr "در حال دانلود"
 
@@ -7016,6 +7024,10 @@ msgstr "شفافیت سیاه زیرنویس DVB"
 
 msgid "Full view resolution"
 msgstr ""
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "فلش"
 
 msgid "Function of OK button"
 msgstr ""
@@ -18128,9 +18140,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-msgid "config menu"
-msgstr "منوی پیکربندی"
 
 msgid "confirmed"
 msgstr ""

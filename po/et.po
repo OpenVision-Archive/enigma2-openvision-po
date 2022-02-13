@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -3164,6 +3164,10 @@ msgstr "Kaabel (DVB-C)"
 msgid "Cable Scan"
 msgstr "Kaabel TV otsing"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Salvesta pisipildid"
 
@@ -5631,6 +5635,10 @@ msgstr "Allalaetavad uued pluginad ja laiendused"
 msgid "Downloadable plugins"
 msgstr "Allalaetavad laiendused"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Tarkvara alla laadimas"
+
 msgid "Downloading"
 msgstr "Laetakse alla"
 
@@ -7043,6 +7051,10 @@ msgstr "Täiesti läbipaistev"
 
 msgid "Full view resolution"
 msgstr "Täisvaate eraldus"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Paigalda süsteemitõmmis"
 
 msgid "Function of OK button"
 msgstr "'OK' nupu toime"
@@ -18348,9 +18360,6 @@ msgstr "komöödia"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "film/draama (üldine)"
-
-msgid "config menu"
-msgstr "seadete menüü"
 
 msgid "confirmed"
 msgstr "kinnitatud"

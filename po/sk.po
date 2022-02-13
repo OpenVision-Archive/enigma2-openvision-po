@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -3175,6 +3175,10 @@ msgstr "Kábel"
 msgid "Cable Scan"
 msgstr "Prehľadať káblový rozvod"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Uchovať zmenšeniny"
 
@@ -5645,6 +5649,10 @@ msgstr "Nové doplnky na stiahnutie"
 msgid "Downloadable plugins"
 msgstr "Doplnky na stiahnutie"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Sťahuje sa image"
+
 msgid "Downloading"
 msgstr "Sťahovanie"
 
@@ -7046,6 +7054,10 @@ msgstr "Priehľadné"
 
 msgid "Full view resolution"
 msgstr "Celoobrazovkové rozlíšenie"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Záložný časovač"
 
 msgid "Function of OK button"
 msgstr "Funkcia tlačidla OK"
@@ -18262,9 +18274,6 @@ msgstr "komédia"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "film/dráma (všeobecne)"
-
-msgid "config menu"
-msgstr "menu nastavení"
 
 msgid "confirmed"
 msgstr "potvrdené"

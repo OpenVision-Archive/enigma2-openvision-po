@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -3101,6 +3101,10 @@ msgstr "เคเบิ้ล"
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 #, fuzzy
 msgid "Cache thumbnails"
 msgstr "เก็บภาพเล็กแคช"
@@ -5576,6 +5580,10 @@ msgstr "Plugin ใหม่ที่ดาวน์โหลดได้"
 msgid "Downloadable plugins"
 msgstr "Plugin ที่ดาวน์โหลดได้"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "กำลังดาวน์โหลด"
+
 msgid "Downloading"
 msgstr "กำลังดาวน์โหลด"
 
@@ -6957,6 +6965,10 @@ msgstr ""
 
 msgid "Full view resolution"
 msgstr ""
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "แฟรช"
 
 msgid "Function of OK button"
 msgstr ""
@@ -18155,9 +18167,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-msgid "config menu"
-msgstr "เมนูตั้งค่า"
 
 msgid "confirmed"
 msgstr "ยืนยันแล้ว"

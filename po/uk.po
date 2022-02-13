@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -3174,6 +3174,10 @@ msgstr "Кабельне ТБ"
 msgid "Cable Scan"
 msgstr "Сканування Кабельного ТВ"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Кешування ескізів"
 
@@ -5644,6 +5648,10 @@ msgstr "Доступні нові плагіни"
 msgid "Downloadable plugins"
 msgstr "Доступні плагіни"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Завантаження Іміджа"
+
 msgid "Downloading"
 msgstr "Завантажується"
 
@@ -7045,6 +7053,10 @@ msgstr "Повна прозорість"
 
 msgid "Full view resolution"
 msgstr "Повна роздільна здатність перегляду"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Резервний таймер"
 
 msgid "Function of OK button"
 msgstr "Функція кнопки OK"
@@ -18264,9 +18276,6 @@ msgstr "комедія"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "фільм/драма (загальне)"
-
-msgid "config menu"
-msgstr "меню конфігурації"
 
 msgid "confirmed"
 msgstr "підтверджений"

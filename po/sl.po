@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -3469,6 +3469,10 @@ msgstr "Kabel"
 msgid "Cable Scan"
 msgstr "Iskanje DVBC kanalov"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 #
 msgid "Cache thumbnails"
 msgstr "Predpolnjenje sličic (thumbnails)"
@@ -6228,6 +6232,11 @@ msgid "Downloadable plugins"
 msgstr "Razpoložljivi vtičniki"
 
 #
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Nalaganje..."
+
+#
 msgid "Downloading"
 msgstr "Nalaganje..."
 
@@ -7811,6 +7820,11 @@ msgstr "Popolna prosojnost"
 
 msgid "Full view resolution"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Nadgradi"
 
 msgid "Function of OK button"
 msgstr "Funkcija tipke \"OK\""
@@ -20423,10 +20437,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-#
-msgid "config menu"
-msgstr "konfiguracijski meni"
 
 #
 msgid "confirmed"

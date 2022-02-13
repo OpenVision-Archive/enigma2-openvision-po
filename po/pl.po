@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -3070,6 +3070,10 @@ msgstr "Kablówka"
 msgid "Cable Scan"
 msgstr "Skanowanie kablówki"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Trzymaj (w cache) miniatury"
 
@@ -5538,6 +5542,10 @@ msgstr "Nowe wtyczki do pobrania"
 msgid "Downloadable plugins"
 msgstr "Wtyczki do pobrania"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Pobieranie image"
+
 msgid "Downloading"
 msgstr "Pobieranie"
 
@@ -6937,6 +6945,10 @@ msgstr "Pełna przezroczystość"
 
 msgid "Full view resolution"
 msgstr "Rozdzielczość w pełnym widoku"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Timer rezerwowy"
 
 msgid "Function of OK button"
 msgstr "Funkcje klawisza OK"
@@ -18126,9 +18138,6 @@ msgstr "Komedia"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "Film/Dramat"
-
-msgid "config menu"
-msgstr "Menu konfiguracji"
 
 msgid "confirmed"
 msgstr "Potwierdzony"

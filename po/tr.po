@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -3148,6 +3148,10 @@ msgstr "Kablo"
 msgid "Cable Scan"
 msgstr "Kablo Arama"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Küçük resim önbelleği"
 
@@ -5627,6 +5631,10 @@ msgstr "İndirilebilir yeni eklentiler"
 msgid "Downloadable plugins"
 msgstr "İndirilebilir eklentiler"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "İndiriliyor..."
+
 msgid "Downloading"
 msgstr "İndiriliyor..."
 
@@ -7033,6 +7041,10 @@ msgstr "Tam saydamlık"
 
 msgid "Full view resolution"
 msgstr "Tam görünüm çözünürlüğü"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Flaş"
 
 msgid "Function of OK button"
 msgstr "OK tuşu fonksiyonu"
@@ -18315,9 +18327,6 @@ msgstr "Komedi"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "Film/Drama (Genel)"
-
-msgid "config menu"
-msgstr "Ayar Menüsü"
 
 msgid "confirmed"
 msgstr "Onaylı"

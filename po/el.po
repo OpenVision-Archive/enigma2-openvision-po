@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -3145,6 +3145,10 @@ msgstr "Καλωδιακό"
 msgid "Cable Scan"
 msgstr "Καλωδιακή ανίχνευση"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Αποθήκευση μικρογραφιών"
 
@@ -5608,6 +5612,10 @@ msgstr "Νέα πρόσθετα για λήψη"
 msgid "Downloadable plugins"
 msgstr "Πρόσθετα για λήψη"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Λήψη image"
+
 msgid "Downloading"
 msgstr "Λήψη"
 
@@ -7009,6 +7017,10 @@ msgstr "Πλήρης διαφάνεια"
 
 msgid "Full view resolution"
 msgstr "Ανάλυση πλήρους οθόνης"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Εφεδρικός χρονοδιακόπτης"
 
 msgid "Function of OK button"
 msgstr "Λειτουργία κουμπιού OK"
@@ -18221,9 +18233,6 @@ msgstr "κωμωδία"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "ταινία/δράμα (γενικά)"
-
-msgid "config menu"
-msgstr "μενού ρύθμισης"
 
 msgid "confirmed"
 msgstr "επιβεβαιωμένο"

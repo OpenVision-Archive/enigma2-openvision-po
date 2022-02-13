@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -3156,6 +3156,10 @@ msgstr "Кабел"
 msgid "Cable Scan"
 msgstr "Кабелно Търсене"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Кеширане на миниатюри"
 
@@ -5624,6 +5628,10 @@ msgstr "Има нови плъгини за теглене"
 msgid "Downloadable plugins"
 msgstr "Плъгини за теглене"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Изтегляне на Имиджа"
+
 msgid "Downloading"
 msgstr "Изтегляне"
 
@@ -7026,6 +7034,10 @@ msgstr "Пълна прозрачност"
 
 msgid "Full view resolution"
 msgstr "Резолюция на пълен преглед"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Резервен Таймер"
 
 msgid "Function of OK button"
 msgstr "Функция на OK бутон"
@@ -18225,9 +18237,6 @@ msgstr "комедия"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "филм/драма (общо)"
-
-msgid "config menu"
-msgstr "конфиг меню"
 
 msgid "confirmed"
 msgstr "потвърден"

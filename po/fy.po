@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -3392,6 +3392,10 @@ msgstr "Kabel"
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Cache thumbnails"
@@ -6118,6 +6122,11 @@ msgid "Downloadable plugins"
 msgstr "Binnen te heljen ynstekkers"
 
 #
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Binnenheljen fan"
+
+#
 msgid "Downloading"
 msgstr "Binnenheljen fan"
 
@@ -7662,6 +7671,11 @@ msgstr ""
 
 msgid "Full view resolution"
 msgstr ""
+
+#
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Flash"
 
 msgid "Function of OK button"
 msgstr ""
@@ -20093,10 +20107,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-#
-msgid "config menu"
-msgstr "konfiguraasje menu"
 
 #
 msgid "confirmed"

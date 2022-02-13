@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -3210,6 +3210,10 @@ msgstr "Cable"
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr ""
 
@@ -5751,6 +5755,10 @@ msgstr "פלאגינים חדשים להורדה"
 msgid "Downloadable plugins"
 msgstr "פלאגינים להורדה"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "מוריד"
+
 msgid "Downloading"
 msgstr "מוריד"
 
@@ -7206,6 +7214,10 @@ msgstr ""
 
 msgid "Full view resolution"
 msgstr ""
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Flash"
 
 msgid "Function of OK button"
 msgstr ""
@@ -18988,10 +19000,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-#
-msgid "config menu"
-msgstr "תפריט הגדרות"
 
 msgid "confirmed"
 msgstr "אושר"

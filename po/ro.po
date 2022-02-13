@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -3011,6 +3011,10 @@ msgstr "Cablu"
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 #, fuzzy
 msgid "Cache thumbnails"
 msgstr "Memoreaza miniaturile imaginilor"
@@ -5473,6 +5477,10 @@ msgstr "Noi Pluginuri disponibile la descarcare"
 msgid "Downloadable plugins"
 msgstr "Pluginuri disponibile pentru descarcare"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Se descarca"
+
 msgid "Downloading"
 msgstr "Se descarca"
 
@@ -6852,6 +6860,10 @@ msgstr ""
 
 msgid "Full view resolution"
 msgstr ""
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Flash"
 
 msgid "Function of OK button"
 msgstr ""
@@ -18003,9 +18015,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-msgid "config menu"
-msgstr "meniu configurari"
 
 msgid "confirmed"
 msgstr "confirmat"

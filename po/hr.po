@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -3176,6 +3176,10 @@ msgstr "Kabel"
 msgid "Cable Scan"
 msgstr "Pretraživanje kabelske mreže"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Sličice predmemorije"
 
@@ -5650,6 +5654,10 @@ msgstr "Novi dodaci za preuzimanje"
 msgid "Downloadable plugins"
 msgstr "Dodaci za preuzimanje"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Preuzimanje imagea"
+
 msgid "Downloading"
 msgstr "Preuzimanje"
 
@@ -7051,6 +7059,10 @@ msgstr "Potpuna transparentnost"
 
 msgid "Full view resolution"
 msgstr "Puna razlučivost prikaza"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Rezervni tajmer"
 
 msgid "Function of OK button"
 msgstr "Funkcija OK tipke"
@@ -18268,9 +18280,6 @@ msgstr "komedija"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "film/drama (općenito)"
-
-msgid "config menu"
-msgstr "konfiguracijski izbornik"
 
 msgid "confirmed"
 msgstr "potvrđeno"

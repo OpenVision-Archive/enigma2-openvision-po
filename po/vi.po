@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -3130,6 +3130,10 @@ msgstr "Cáp"
 msgid "Cable Scan"
 msgstr "Quét cáp"
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr "Hình thu nhỏ bộ nhớ cache"
 
@@ -5598,6 +5602,10 @@ msgstr "Các plugin mới có thể tải xuống"
 msgid "Downloadable plugins"
 msgstr "Các plugin có thể tải xuống"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "Đang tải hình ảnh"
+
 msgid "Downloading"
 msgstr "Đang tải xuống"
 
@@ -6999,6 +7007,10 @@ msgstr "Minh bạch đầy đủ"
 
 msgid "Full view resolution"
 msgstr "Độ phân giải toàn màn hình"
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "Hẹn giờ dự phòng"
 
 msgid "Function of OK button"
 msgstr "Chức năng của nút OK"
@@ -18203,9 +18215,6 @@ msgstr "phim hài"
 #, fuzzy
 msgid "comedy (general)"
 msgstr "phim / kịch (nói chung)"
-
-msgid "config menu"
-msgstr "menu cấu hình"
 
 msgid "confirmed"
 msgstr "xác nhận"

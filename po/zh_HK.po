@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-30 01:51+0000\n"
+"POT-Creation-Date: 2022-02-13 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -3047,6 +3047,10 @@ msgstr "有線"
 msgid "Cable Scan"
 msgstr ""
 
+#, python-format
+msgid "Cable scan executable utility not found '%s'!"
+msgstr ""
+
 msgid "Cache thumbnails"
 msgstr ""
 
@@ -5465,6 +5469,10 @@ msgstr "可下載的新插件"
 msgid "Downloadable plugins"
 msgstr "可下載的插件"
 
+#, fuzzy
+msgid "Downloaded Images"
+msgstr "下載中"
+
 msgid "Downloading"
 msgstr "下載中"
 
@@ -6828,6 +6836,10 @@ msgstr ""
 
 msgid "Full view resolution"
 msgstr ""
+
+#, fuzzy
+msgid "Fullbackup Images"
+msgstr "安裝失敗"
 
 msgid "Function of OK button"
 msgstr ""
@@ -17762,9 +17774,6 @@ msgstr ""
 
 msgid "comedy (general)"
 msgstr ""
-
-msgid "config menu"
-msgstr "配置功能表"
 
 msgid "confirmed"
 msgstr "測驗通過"
