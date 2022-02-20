@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -251,6 +251,14 @@ msgstr ""
 
 #, python-format
 msgid "%.0f MB"
+msgstr ""
+
+#, python-format
+msgid "%.1f?? E"
+msgstr ""
+
+#, python-format
+msgid "%.1f?? W"
 msgstr ""
 
 #, python-format
@@ -1180,10 +1188,6 @@ msgstr ""
 
 #, python-format
 msgid "%s MHz"
-msgstr ""
-
-#, python-format
-msgid "%s imported from fallback tuner"
 msgstr ""
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
@@ -4449,7 +4453,8 @@ msgstr "Mevcut değer: "
 msgid "Current Affairs"
 msgstr "Haberler Güncel Olaylar"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Güncel CEC adresi"
 
 #, fuzzy
@@ -7849,10 +7854,6 @@ msgid "Import channels and/or EPG from remote receiver URL when receiver is boot
 msgstr "Yedek cihaz URL"
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
-msgstr ""
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
 msgstr ""
 
 #, fuzzy
@@ -16824,7 +16825,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "LNB %d kullanarak"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Sabit adres kullan"
 
 #, python-format

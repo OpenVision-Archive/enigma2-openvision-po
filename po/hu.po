@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -246,6 +246,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° K"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° NY"
 
 #, python-format
 msgid "%.1f° E"
@@ -1200,10 +1208,6 @@ msgstr ""
 #, python-format
 msgid "%s MHz"
 msgstr ""
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s importálva a tartalék tunerből"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4456,7 +4460,8 @@ msgstr "Jelenlegi"
 msgid "Current Affairs"
 msgstr "Hírek/Gazdaság"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Aktuális CEC cím"
 
 #, fuzzy
@@ -7824,10 +7829,6 @@ msgstr "A csatornák és/vagy az EPG importálása a távoli vevő URL címébő
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "A csatornák és/vagy az EPG importálása a távoli vevő URL címéből a kezelőfelület újraindításakor"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "A csatornák importálása a tartalék tunerből sikertelen: %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Importálás a távoli vevő URL címéből"
@@ -16738,7 +16739,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "%d fej használatával"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Fix cím használatával"
 
 #, python-format

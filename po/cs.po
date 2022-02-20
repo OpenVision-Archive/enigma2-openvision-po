@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -260,6 +260,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° E"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° W"
 
 #, python-format
 msgid "%.1f° E"
@@ -1253,10 +1261,6 @@ msgstr "%s KSymb/s"
 #, python-format
 msgid "%s MHz"
 msgstr "%s MHz"
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s importováno ze záložního tuneru"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4896,7 +4900,8 @@ msgstr "Aktuální"
 msgid "Current Affairs"
 msgstr "zpravodajství, publicistika"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Současná CEC adresa"
 
 #
@@ -8676,10 +8681,6 @@ msgstr "Ze záložního přijímače se importují programy a/nebo EPG po spušt
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Ze záložního přijímače se importují programy a/nebo EPG také v případě, že jsou přijímač nebo enigma2 zrestartovány"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Import ze záložního tuneru selhal, %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Importovat ze záložního přijímače"
@@ -18748,7 +18749,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "Používá se LNB %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Používaná pevná adresa"
 
 #, python-format

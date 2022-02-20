@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -246,6 +246,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° I"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° Z"
 
 #, python-format
 msgid "%.1f° E"
@@ -1221,10 +1229,6 @@ msgstr ""
 #, python-format
 msgid "%s MHz"
 msgstr ""
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s uvezeno iz rezervnog tunera"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4482,7 +4486,8 @@ msgstr "Trenutno"
 msgid "Current Affairs"
 msgstr "Aktualne vijesti o događajima"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Trenutna CEC adresa"
 
 #, fuzzy
@@ -7862,10 +7867,6 @@ msgstr "Uvoz kanala iz udaljenog URL-a primatelja kada je pokrenut."
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Uvoz kanala i/ili EPG iz URL-a udaljenog primatelja kada se prijemnik ili enigma2 ponovno pokrene"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Uvoz iz rezervnog tjunera nije uspio, %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Uvoz s URL-a daljinskog prijemnika"
@@ -16775,7 +16776,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "LNB se koristi %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Koristi se fiksna adresa"
 
 #, python-format

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2021-11-27 11:53+0100\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -258,6 +258,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° E"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° W"
 
 #, python-format
 msgid "%.1f° E"
@@ -1218,10 +1226,6 @@ msgstr "%s Ksymb/s"
 #, python-format
 msgid "%s MHz"
 msgstr "%s MHz"
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s importert fra reserve tuner"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4778,7 +4782,8 @@ msgstr "Gjeldende"
 msgid "Current Affairs"
 msgstr "Nyheter aktuelle saker"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Gjeldende CEC adresse"
 
 #
@@ -8471,10 +8476,6 @@ msgstr "Importer kanaler og/eller EPG fra ekstern mottakeradresse når mottakere
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Importer kanaler og/eller EPG fra ekstern mottakeradresse når mottakeren eller enigma2 har startet på nytt"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Import fra reserve tuner mislyktes, %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Importer fra ekstern mottakeradresse"
@@ -18329,7 +18330,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "Bruker LNB %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Bruker fast adresse"
 
 #, python-format

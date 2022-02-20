@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -249,6 +249,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° E"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° W"
 
 #, python-format
 msgid "%.1f° E"
@@ -1224,10 +1232,6 @@ msgstr "%s KSymb/s"
 #, python-format
 msgid "%s MHz"
 msgstr "%s MHz"
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s importēts no attālinātā uztvērēja"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4482,7 +4486,8 @@ msgstr "Pašreizējais"
 msgid "Current Affairs"
 msgstr "Jaunumi Aktualitātes"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Pašreizējā CEC adrese"
 
 #, fuzzy
@@ -7858,10 +7863,6 @@ msgstr "Importēt kanālus un/vai EPG no attālinātā uztvērēja kad uztvērē
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Importēt kanālus un/vai EPG no attālinātā uztvērēja kad enigma tiek pārstartēta"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Importēšana no attālinātā uztvērēja neizdevās %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Importēt no attālinātā uztvērēja"
@@ -16762,7 +16763,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "Lietot LNB %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Lietot fiksētu adresi"
 
 #, python-format

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -247,6 +247,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° Α"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° Δ"
 
 #, python-format
 msgid "%.1f° E"
@@ -1202,10 +1210,6 @@ msgstr ""
 #, python-format
 msgid "%s MHz"
 msgstr ""
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s εισήχθησαν από το εφεδρικό tuner"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4451,7 +4455,8 @@ msgstr "Τρέχον"
 msgid "Current Affairs"
 msgstr "Ειδήσεις & Επικαιρότητα"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Τρέχουσα διεύθυνση CEC"
 
 #, fuzzy
@@ -7821,10 +7826,6 @@ msgstr "Εισαγωγή καναλιών ή/και EPG από τον εφεδρ
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Εισαγωγή καναλιών ή/και EPG από την απομακρυσμένη URL δέκτη κατά την εκκίνηση του δέκτη ή του enigma2"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Η εισαγωγή από το εφεδρικό tuner απέτυχε, %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Εισαγωγή από διεύθυνση URL απομακρυσμένου δέκτη"
@@ -16729,7 +16730,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "Χρήση του LNB %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Χρήση σταθερής διεύθυνσης"
 
 #, python-format

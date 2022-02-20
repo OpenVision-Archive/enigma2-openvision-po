@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -246,6 +246,14 @@ msgstr "%.2f GB"
 #, python-format
 msgid "%.0f MB"
 msgstr ""
+
+#, fuzzy, python-format
+msgid "%.1f?? E"
+msgstr "%.1f° E"
+
+#, fuzzy, python-format
+msgid "%.1f?? W"
+msgstr "%.1f° W"
 
 #, python-format
 msgid "%.1f° E"
@@ -1181,10 +1189,6 @@ msgstr ""
 #, python-format
 msgid "%s MHz"
 msgstr ""
-
-#, python-format
-msgid "%s imported from fallback tuner"
-msgstr "%s được nhập từ bộ điều chỉnh dự phòng"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4436,7 +4440,8 @@ msgstr "Hiện hành"
 msgid "Current Affairs"
 msgstr "Tin tức thời sự"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Địa chỉ CEC hiện tại"
 
 #, fuzzy
@@ -7811,10 +7816,6 @@ msgstr "Nhập kênh và / hoặc EPG từ URL máy thu từ xa khi máy thu đ�
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Nhập kênh và / hoặc EPG từ URL máy thu từ xa khi máy thu hoặc enigma2 được khởi động lại"
-
-#, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Nhập từ bộ điều chỉnh dự phòng không thành công,%s"
 
 msgid "Import from remote receiver URL"
 msgstr "Nhập từ URL máy thu từ xa"
@@ -16711,7 +16712,8 @@ msgstr ""
 msgid "Using LNB %d"
 msgstr "Sử dụng LNB %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Sử dụng địa chỉ cố định"
 
 #, python-format

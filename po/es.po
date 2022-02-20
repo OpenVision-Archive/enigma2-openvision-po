@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 01:57+0000\n"
+"POT-Creation-Date: 2022-02-20 02:00+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -247,6 +247,14 @@ msgstr ""
 
 #, python-format
 msgid "%.0f MB"
+msgstr ""
+
+#, python-format
+msgid "%.1f?? E"
+msgstr ""
+
+#, python-format
+msgid "%.1f?? W"
 msgstr ""
 
 #, python-format
@@ -1206,10 +1214,6 @@ msgstr "%s KSymb/s"
 #, python-format
 msgid "%s MHz"
 msgstr "%s MHz"
-
-#, fuzzy, python-format
-msgid "%s imported from fallback tuner"
-msgstr "Habilitar el temporizador de importación desde el sintonizador de reserva"
 
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
@@ -4437,7 +4441,8 @@ msgstr "Actual"
 msgid "Current Affairs"
 msgstr "Noticias Actualidades"
 
-msgid "Current CEC address"
+#, fuzzy
+msgid "Current CEC address:"
 msgstr "Dirección CEC actual"
 
 #, fuzzy
@@ -7740,10 +7745,6 @@ msgstr "Importar canales y/o EPG desde la URL del receptor reserva cuando se ini
 
 msgid "Import channels and/or EPG from remote receiver URL when receiver or enigma2 is restarted"
 msgstr "Importar canales y/o EPG desde la URL del receptor reserva cuando se reinicie el receptor o enigma2"
-
-#, fuzzy, python-format
-msgid "Import from fallback tuner failed, %s"
-msgstr "Los canales del sintonizador de reserva fallaron %s"
 
 msgid "Import from remote receiver URL"
 msgstr "Importar desde la URL del receptor reserva"
@@ -16433,7 +16434,8 @@ msgstr "Nombre Usuario (httpuser)"
 msgid "Using LNB %d"
 msgstr "Usando LNB %d"
 
-msgid "Using fixed address"
+#, fuzzy
+msgid "Using fixed address:"
 msgstr "Usando una dirección fija"
 
 #, python-format
