@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 3.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2020-11-29 22:07+0200\n"
 "Last-Translator: Мартин Петков <marto74bg@yahoo.co.uk>\n"
 "Language-Team: Bulgarian\n"
@@ -5246,12 +5246,12 @@ msgid "Disable Animations"
 msgstr "Спиране на таймер"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Спри"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Винаги включвай ECM в записите"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Имена на каналите от бързо търсене"
 
 msgid "Disable Picture in Picture"
 msgstr "Спри Картина в Картината"
@@ -5871,8 +5871,8 @@ msgid "Enable EIT EPG"
 msgstr "Активиране на EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Активиране"
+msgid "Enable Fast Channel Change"
+msgstr "Активиране на кабелно автосканиране"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6752,6 +6752,10 @@ msgstr "Персийски"
 
 msgid "Fast"
 msgstr "Бърз"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Информация за канала"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

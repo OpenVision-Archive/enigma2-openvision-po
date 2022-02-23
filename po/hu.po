@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -5239,12 +5239,12 @@ msgid "Disable Animations"
 msgstr "Időzítő letiltása"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Letiltás"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "A felvételek mindig tartalmazzák az ECM-et"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Szolgáltató által megadott csatorna elnevezés"
 
 msgid "Disable Picture in Picture"
 msgstr "Kép-a-Képben kikapcsolása"
@@ -5862,8 +5862,8 @@ msgid "Enable EIT EPG"
 msgstr "EIT EPG engedélyezése"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Engedélyezve"
+msgid "Enable Fast Channel Change"
+msgstr "Automatikus kábel keresés engedélyezése"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6739,6 +6739,10 @@ msgstr "Perzsa"
 
 msgid "Fast"
 msgstr "Gyors"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Csatorna információ"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-11-30 16:51+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
@@ -5266,12 +5266,12 @@ msgid "Disable Animations"
 msgstr "Vypnúť časovač"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Zakázať"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Vždy zahrnúť ECM do nahrávok"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Použiť FastScan názvy kanálov"
 
 msgid "Disable Picture in Picture"
 msgstr "Vypnúť obraz v obraze"
@@ -5892,8 +5892,8 @@ msgid "Enable EIT EPG"
 msgstr "Povoliť EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Zapnúť"
+msgid "Enable Fast Channel Change"
+msgstr "Povoliť automatické prehľadávanie káblového rozvodu"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6773,6 +6773,10 @@ msgstr "Perzština"
 
 msgid "Fast"
 msgstr "Rýchlo"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Informácie o stanici"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

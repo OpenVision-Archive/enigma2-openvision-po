@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-11-27 11:53+0100\n"
 "Last-Translator: GeirJ <dummy@dummy.com>\n"
 "Language-Team: GeirJ\n"
@@ -5630,14 +5630,13 @@ msgstr "Deaktiver"
 msgid "Disable Animations"
 msgstr "Deaktiver timer"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Deaktiver"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Lagre ECM data i opptakene"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Bruk 'fastscan' kanalnavn"
 
 msgid "Disable Picture in Picture"
 msgstr "Stopp bilde i bilde funksjon"
@@ -6337,10 +6336,9 @@ msgstr "Aktivert"
 msgid "Enable EIT EPG"
 msgstr "Aktiver EIT EPG"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Aktiver"
+msgid "Enable Fast Channel Change"
+msgstr "Aktiver automatisk kabel TV søk"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7311,6 +7309,11 @@ msgstr "Persisk"
 #
 msgid "Fast"
 msgstr "Hurtig"
+
+#
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanal info"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

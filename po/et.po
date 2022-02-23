@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -5250,12 +5250,12 @@ msgid "Disable Animations"
 msgstr "Keela taimer"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Keela"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Salvestised sisaldavad ka ECM sõnumeid"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Kasuta kiirotsingu kanalinimesid"
 
 msgid "Disable Picture in Picture"
 msgstr "Sulge pilt-pildis"
@@ -5879,8 +5879,8 @@ msgid "Enable EIT EPG"
 msgstr "Luba EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Luba"
+msgid "Enable Fast Channel Change"
+msgstr "Luba automaatne kaabliotsing"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6767,6 +6767,10 @@ msgstr "Pärsia"
 
 msgid "Fast"
 msgstr "Kiire"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanali info"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

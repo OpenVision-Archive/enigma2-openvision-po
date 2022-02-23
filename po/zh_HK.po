@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -5097,11 +5097,10 @@ msgstr "禁用"
 msgid "Disable Animations"
 msgstr "禁用計時器"
 
-#, fuzzy
-msgid "Disable FCC"
-msgstr "禁用"
-
 msgid "Disable FCC during recordings"
+msgstr ""
+
+msgid "Disable Fast Channel Change"
 msgstr ""
 
 msgid "Disable Picture in Picture"
@@ -5713,9 +5712,8 @@ msgstr "啟用的"
 msgid "Enable EIT EPG"
 msgstr ""
 
-#, fuzzy
-msgid "Enable FCC"
-msgstr "啟用"
+msgid "Enable Fast Channel Change"
+msgstr ""
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6560,6 +6558,10 @@ msgstr ""
 
 msgid "Fast"
 msgstr "快速"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "頻道"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

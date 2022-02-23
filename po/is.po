@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -5528,12 +5528,10 @@ msgstr "Gera óvirkt"
 msgid "Disable Animations"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Gera óvirkt"
-
 msgid "Disable FCC during recordings"
+msgstr ""
+
+msgid "Disable Fast Channel Change"
 msgstr ""
 
 #
@@ -6245,10 +6243,8 @@ msgstr "Virkt"
 msgid "Enable EIT EPG"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Enable FCC"
-msgstr "Virkja"
+msgid "Enable Fast Channel Change"
+msgstr ""
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7182,6 +7178,10 @@ msgstr "Persneska"
 #
 msgid "Fast"
 msgstr "Hratt"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Rás"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

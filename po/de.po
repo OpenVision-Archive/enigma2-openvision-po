@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-04-30 16:06+0200\n"
 "Last-Translator: kueken\n"
 "Language-Team: OpenPLi\n"
@@ -5252,12 +5252,12 @@ msgid "Disable Animations"
 msgstr "Timer deaktivieren"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Aus"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "ECM immer in Aufzeichnungen aufnehmen"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Benutze Fast-Scan Kanalnamen"
 
 msgid "Disable Picture in Picture"
 msgstr "Bild im Bild ausschalten"
@@ -5871,8 +5871,8 @@ msgid "Enable EIT EPG"
 msgstr "Aktiviere EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Ein"
+msgid "Enable Fast Channel Change"
+msgstr "Automatischen Kabelscan aktivieren"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6755,6 +6755,10 @@ msgstr "Persisch"
 
 msgid "Fast"
 msgstr "Schnell"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Senderinformation"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -5440,12 +5440,12 @@ msgid "Disable Animations"
 msgstr "تعطيل المؤقت"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "تعطيل"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "إيقاف جميع التسجيلات الحالية"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "إستخدم البحث السريع بأسماء القنوات"
 
 msgid "Disable Picture in Picture"
 msgstr "تعطيل صوره داخل صوره"
@@ -6100,8 +6100,8 @@ msgid "Enable EIT EPG"
 msgstr "تمكين جدول معلومات الحدث في دليل البرامج الإلكتروني"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "تفعيل"
+msgid "Enable Fast Channel Change"
+msgstr "تفعيل البحث التلقائي لقنوات الكيبل"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7002,6 +7002,10 @@ msgstr "الفارسية"
 
 msgid "Fast"
 msgstr "سريع"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "معلومات القناة"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

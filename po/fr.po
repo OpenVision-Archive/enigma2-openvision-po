@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-12-08 15:38+0100\n"
 "Last-Translator: Pr2\n"
 "Language-Team: french\n"
@@ -5245,12 +5245,12 @@ msgid "Disable Animations"
 msgstr "Désactiver programmation"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Désactiver"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Toujours inclure ECM dans les enregistrements"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Utiliser le nom des chaînes prévu par la recherche rapide"
 
 msgid "Disable Picture in Picture"
 msgstr "Désactiver l'incrustation d'image (PiP)"
@@ -5870,8 +5870,8 @@ msgid "Enable EIT EPG"
 msgstr "Activer EPG EIT"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Activer"
+msgid "Enable Fast Channel Change"
+msgstr "Activer la recherche automatique pour le câble"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6751,6 +6751,10 @@ msgstr "Iranien"
 
 msgid "Fast"
 msgstr "Rapide"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Info chaîne"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

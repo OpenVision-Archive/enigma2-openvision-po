@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -5243,12 +5243,12 @@ msgid "Disable Animations"
 msgstr "Zamanlayıcı Devredışı"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Pasif"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Kayıtlara ECM yi dahil et."
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Hızlı Tarama kanal isimlerini kullanın"
 
 msgid "Disable Picture in Picture"
 msgstr "Resim içinde resim (RiR) 'i kapat"
@@ -5879,8 +5879,8 @@ msgid "Enable EIT EPG"
 msgstr "EIT EPG Aktif"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Etkin"
+msgid "Enable Fast Channel Change"
+msgstr "Otomatik kablo taramayı etkinleştir"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6758,6 +6758,10 @@ msgstr "Farsça"
 
 msgid "Fast"
 msgstr "Hızlı"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanal Bilgisi"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -5685,14 +5685,13 @@ msgstr "Deshabilitar"
 msgid "Disable Animations"
 msgstr "Desactiva el temporitzador"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Deshabilitar"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Incloeu sempre l’ECM als enregistraments"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Utilitzeu noms de canals de fastscan"
 
 #
 msgid "Disable Picture in Picture"
@@ -6403,10 +6402,9 @@ msgstr "Activat"
 msgid "Enable EIT EPG"
 msgstr "Activa EIT EPG"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Activar"
+msgid "Enable Fast Channel Change"
+msgstr "Activa la exploració automàtica de cable"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7365,6 +7363,10 @@ msgstr "Persian"
 #
 msgid "Fast"
 msgstr "Ràpid"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Informació del canal"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

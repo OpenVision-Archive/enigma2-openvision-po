@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-10-16 21:21+0200\n"
 "Last-Translator: Luis A. Martínez <luis.a.martinez@gmail.com>\n"
 "Language-Team: LAMS\n"
@@ -5675,14 +5675,13 @@ msgstr "Desactivar"
 msgid "Disable Animations"
 msgstr "Desactivar temporizador"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Desactivar"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Incluír sempre o ECM nas gravacións"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Usar os nomes das canles de fastscan"
 
 #
 msgid "Disable Picture in Picture"
@@ -6382,10 +6381,9 @@ msgstr "Activado"
 msgid "Enable EIT EPG"
 msgstr "Activar EIT EPG"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Activar"
+msgid "Enable Fast Channel Change"
+msgstr "Activar o escaneo automático de cable"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7344,6 +7342,10 @@ msgstr "Persa"
 #
 msgid "Fast"
 msgstr "Rápido"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Información da canle"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

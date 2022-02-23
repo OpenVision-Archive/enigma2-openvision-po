@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -5682,14 +5682,13 @@ msgstr "Avaktivera"
 msgid "Disable Animations"
 msgstr "Avaktivera timer"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Avaktivera"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Inkludera alltid ECM i inspelningar"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Använd snabbskanningens kanalnamn"
 
 #
 msgid "Disable Picture in Picture"
@@ -6407,10 +6406,9 @@ msgstr "Aktiverad"
 msgid "Enable EIT EPG"
 msgstr "Aktivera EIT EPG"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Aktivera"
+msgid "Enable Fast Channel Change"
+msgstr "Aktivera auto kabelskanning"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7370,6 +7368,10 @@ msgstr "Persiska"
 #
 msgid "Fast"
 msgstr "Snabb"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanal info"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

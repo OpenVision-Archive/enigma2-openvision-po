@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -5681,12 +5681,10 @@ msgstr "Utskeakelje"
 msgid "Disable Animations"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Utskeakelje"
-
 msgid "Disable FCC during recordings"
+msgstr ""
+
+msgid "Disable Fast Channel Change"
 msgstr ""
 
 #
@@ -6406,10 +6404,8 @@ msgstr "Ynskeakele"
 msgid "Enable EIT EPG"
 msgstr ""
 
-#
-#, fuzzy
-msgid "Enable FCC"
-msgstr "Ynskeakelje"
+msgid "Enable Fast Channel Change"
+msgstr ""
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7357,6 +7353,11 @@ msgstr ""
 #
 msgid "Fast"
 msgstr "Rap"
+
+#
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanaal"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -5775,14 +5775,13 @@ msgstr "Izklop"
 msgid "Disable Animations"
 msgstr "Izklop časovnika"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Izklop"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Ustavi vsa trenutna snemanja"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Uporaba \"fastscan\" poimenovanja kanalov"
 
 #
 msgid "Disable Picture in Picture"
@@ -6521,10 +6520,9 @@ msgstr "Omogočeno"
 msgid "Enable EIT EPG"
 msgstr "EIT EPG sistem"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "omogoči"
+msgid "Enable Fast Channel Change"
+msgstr "Omogoči samodejno iskanje DVB-C kanalov"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7502,6 +7500,10 @@ msgstr ""
 #
 msgid "Fast"
 msgstr "Hitro"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Info. o kanalu"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

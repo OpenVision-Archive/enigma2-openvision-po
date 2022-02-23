@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -5267,12 +5267,12 @@ msgid "Disable Animations"
 msgstr "Izslēgt taimeri"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Izslēgt"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Vienmēr iekļaut ECM ierakstos"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Lietot ātrās meklēšanas kanālu nosaukumus"
 
 msgid "Disable Picture in Picture"
 msgstr "Izslēgt attēls attēlā"
@@ -5893,8 +5893,8 @@ msgid "Enable EIT EPG"
 msgstr "Lietot EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Aktivizēt"
+msgid "Enable Fast Channel Change"
+msgstr "Lietot kabeļu tīkla auto skenēšanu"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6774,6 +6774,10 @@ msgstr "Persiešu"
 
 msgid "Fast"
 msgstr "Ātrs"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Info par kanālu"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

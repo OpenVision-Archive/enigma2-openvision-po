@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -5271,12 +5271,12 @@ msgid "Disable Animations"
 msgstr "Išjungti laikmatį"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Išjungti"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Į įrašus visada įtraukti ECM"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Naudokite greitos paieškos kanalo pavadinimus"
 
 msgid "Disable Picture in Picture"
 msgstr "Išjungti vaizdą vaizde"
@@ -5898,8 +5898,8 @@ msgid "Enable EIT EPG"
 msgstr "Įjungti EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Įjungti"
+msgid "Enable Fast Channel Change"
+msgstr "Įjungti kabelinės TV auto paiešką"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6775,6 +6775,10 @@ msgstr "Persų"
 
 msgid "Fast"
 msgstr "Greitas"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanalo informacija"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

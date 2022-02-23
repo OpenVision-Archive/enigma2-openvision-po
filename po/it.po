@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -5245,12 +5245,12 @@ msgid "Disable Animations"
 msgstr "Disabilitare il timer"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Disabilitare"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Includere sempre i dati ECM nelle registrazioni"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Utilizzare i nomi dei canali della ricerca rapida"
 
 msgid "Disable Picture in Picture"
 msgstr "Disabilitare il PIP"
@@ -5871,8 +5871,8 @@ msgid "Enable EIT EPG"
 msgstr "Abilitare l'EPG EIT"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Abilitare"
+msgid "Enable Fast Channel Change"
+msgstr "Abilitare la ricerca automatica su cavo"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6761,6 +6761,10 @@ msgstr "Persiano"
 
 msgid "Fast"
 msgstr "Veloce"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Informazioni canale"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

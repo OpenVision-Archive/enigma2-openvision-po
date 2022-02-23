@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -5267,12 +5267,12 @@ msgid "Disable Animations"
 msgstr "Onemogućite tajmer"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Onemogućite"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Uključivanje ECM-a u snimanjima"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Koristite brzo skeniranje naziva kanala"
 
 msgid "Disable Picture in Picture"
 msgstr "Onemogućite sliku u slici"
@@ -5897,8 +5897,8 @@ msgid "Enable EIT EPG"
 msgstr "Omogućite EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Omogućiti"
+msgid "Enable Fast Channel Change"
+msgstr "Omogućite automatsko skeniranje kabela"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6778,6 +6778,10 @@ msgstr "Perzijski"
 
 msgid "Fast"
 msgstr "Brzo"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Informacije o kanalu"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

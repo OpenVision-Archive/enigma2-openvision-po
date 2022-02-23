@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -5193,11 +5193,10 @@ msgstr "ไม่ใช้งาน"
 msgid "Disable Animations"
 msgstr ""
 
-#, fuzzy
-msgid "Disable FCC"
-msgstr "ไม่ใช้งาน"
-
 msgid "Disable FCC during recordings"
+msgstr ""
+
+msgid "Disable Fast Channel Change"
 msgstr ""
 
 msgid "Disable Picture in Picture"
@@ -5825,9 +5824,8 @@ msgstr "เปิดใช้งาน"
 msgid "Enable EIT EPG"
 msgstr ""
 
-#, fuzzy
-msgid "Enable FCC"
-msgstr "เปิดใช้"
+msgid "Enable Fast Channel Change"
+msgstr ""
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6687,6 +6685,10 @@ msgstr ""
 
 msgid "Fast"
 msgstr "เร็ว"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "ช่อง"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -5786,14 +5786,13 @@ msgstr "Zakázat"
 msgid "Disable Animations"
 msgstr "Zakázat časovač"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Zakázat"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Vždy vkládat ECM do nahrávek"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Použít fastscan jména kanálů"
 
 #
 msgid "Disable Picture in Picture"
@@ -6513,10 +6512,9 @@ msgstr "Povolen"
 msgid "Enable EIT EPG"
 msgstr "Povolit EIT EPG"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Povolit"
+msgid "Enable Fast Channel Change"
+msgstr "Povolit automatické prohledání kabelu"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7496,6 +7494,10 @@ msgstr "Persky"
 #
 msgid "Fast"
 msgstr "Rychle"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Informace o programu"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

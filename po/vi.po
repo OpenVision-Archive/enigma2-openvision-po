@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -5221,12 +5221,12 @@ msgid "Disable Animations"
 msgstr "Tắt bộ hẹn giờ"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Vô hiệu hóa"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Luôn bao gồm ECM trong bản ghi"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Sử dụng tên kênh fastscan"
 
 msgid "Disable Picture in Picture"
 msgstr "Vô hiệu hóa hình ảnh trong hình ảnh"
@@ -5845,8 +5845,8 @@ msgid "Enable EIT EPG"
 msgstr "Kích hoạt EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Kích hoạt"
+msgid "Enable Fast Channel Change"
+msgstr "Cho phép quét cáp tự động"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6726,6 +6726,10 @@ msgstr "Ba Tư"
 
 msgid "Fast"
 msgstr "Nhanh"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Thông tin kênh"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

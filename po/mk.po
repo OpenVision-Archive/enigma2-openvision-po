@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -5123,12 +5123,12 @@ msgid "Disable Animations"
 msgstr "Деактивирајте го тајмерот"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Оневозможи"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Секогаш вклучувај ECM во снимките"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Користете имиња на канали за брзо пребарување"
 
 msgid "Disable Picture in Picture"
 msgstr "Деактивирај PIP"
@@ -5748,8 +5748,8 @@ msgid "Enable EIT EPG"
 msgstr "Овозможете EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Овозможи"
+msgid "Enable Fast Channel Change"
+msgstr "Активирајте го автоматското пребарување на кабелска"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6629,6 +6629,10 @@ msgstr "Персиски"
 
 msgid "Fast"
 msgstr "Брзо"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Информации за каналот"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

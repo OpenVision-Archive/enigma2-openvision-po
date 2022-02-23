@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2020-05-16 18:41+0200\n"
 "Last-Translator: jamu\n"
 "Language-Team: BoxFreak/jamu\n"
@@ -5614,14 +5614,13 @@ msgstr "Poista käytöstä"
 msgid "Disable Animations"
 msgstr "Poista tämä ajastus käytöstä"
 
-#
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Poista käytöstä"
-
 #, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Sisällytä aina ECM tallennuksiin"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Käytä pikahaun kanavanimiä"
 
 #
 msgid "Disable Picture in Picture"
@@ -6335,10 +6334,9 @@ msgstr "Käytössä"
 msgid "Enable EIT EPG"
 msgstr "Ota käyttöön EIT EPG"
 
-#
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Ota käyttöön"
+msgid "Enable Fast Channel Change"
+msgstr "Ota käyttöön autom. kaapelihaku"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -7287,6 +7285,10 @@ msgstr "Persia"
 #
 msgid "Fast"
 msgstr "Nopea"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Kanavatiedot"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

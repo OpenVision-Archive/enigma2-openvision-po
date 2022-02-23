@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: satdreamgr\n"
 "Language-Team: \n"
@@ -5226,12 +5226,12 @@ msgstr "Disable"
 msgid "Disable Animations"
 msgstr ""
 
-#, fuzzy
-msgid "Disable FCC"
-msgstr "Disable"
-
 msgid "Disable FCC during recordings"
 msgstr ""
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Use fastscan channel names"
 
 msgid "Disable Picture in Picture"
 msgstr "Disable Picture in Picture"
@@ -5859,9 +5859,8 @@ msgstr "Enabled"
 msgid "Enable EIT EPG"
 msgstr "Enable EIT EPG"
 
-#, fuzzy
-msgid "Enable FCC"
-msgstr "Enable"
+msgid "Enable Fast Channel Change"
+msgstr ""
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6727,6 +6726,10 @@ msgstr "Persian"
 
 msgid "Fast"
 msgstr "Fast"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Channel"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

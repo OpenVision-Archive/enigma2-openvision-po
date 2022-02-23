@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -5236,12 +5236,12 @@ msgid "Disable Animations"
 msgstr "Απενεργοποίηση χρονοδιακόπτη"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Απενεργοποίηση"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Συμπερίληψη πάντα του ECM στις εγγραφές"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Χρήση ονομάτων γρήγορης ανίχνευσης"
 
 msgid "Disable Picture in Picture"
 msgstr "Απενεργοποίηση Εικόνας σε Εικόνα"
@@ -5855,8 +5855,8 @@ msgid "Enable EIT EPG"
 msgstr "Ενεργοποίηση EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Ενεργοποίηση"
+msgid "Enable Fast Channel Change"
+msgstr "Ενεργοποίηση αυτόματης καλωδιακής ανίχνευσης"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6736,6 +6736,10 @@ msgstr "Περσικά"
 
 msgid "Fast"
 msgstr "Γρήγορο"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Πληροφορίες καναλιού"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

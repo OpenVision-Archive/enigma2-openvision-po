@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -5315,12 +5315,12 @@ msgid "Disable Animations"
 msgstr "Matikan pewaktu"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Matikan"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Selalu sertakan ECM dalam merekam"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Gunakan nama kanal lacakcepat"
 
 msgid "Disable Picture in Picture"
 msgstr "Matikan Picture in Picture"
@@ -5951,8 +5951,8 @@ msgid "Enable EIT EPG"
 msgstr "Aktifkan EPG EIT"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Aktifkan"
+msgid "Enable Fast Channel Change"
+msgstr "Aktifkan pelacakan kabel otomatis"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6855,6 +6855,10 @@ msgstr "Persia"
 
 msgid "Fast"
 msgstr "Cepat"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Info Kanal"
 
 msgid "Fast Channel Change Setup"
 msgstr ""

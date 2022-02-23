@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-20 02:00+0000\n"
+"POT-Creation-Date: 2022-02-23 19:44+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -5159,12 +5159,12 @@ msgid "Disable Animations"
 msgstr "Wyłącz timer"
 
 #, fuzzy
-msgid "Disable FCC"
-msgstr "Wyłącz"
-
-#, fuzzy
 msgid "Disable FCC during recordings"
 msgstr "Zawsze zawieraj ECMy w nagraniach"
+
+#, fuzzy
+msgid "Disable Fast Channel Change"
+msgstr "Użyj nazw kanałów z Fastscan"
 
 msgid "Disable Picture in Picture"
 msgstr "Wyłącz PiP"
@@ -5784,8 +5784,8 @@ msgid "Enable EIT EPG"
 msgstr "Włącz EIT EPG"
 
 #, fuzzy
-msgid "Enable FCC"
-msgstr "Włącz"
+msgid "Enable Fast Channel Change"
+msgstr "Włącz automatyczny skan TV kablowej"
 
 msgid "Enable Focus Animation"
 msgstr ""
@@ -6664,6 +6664,10 @@ msgstr "Perski"
 
 msgid "Fast"
 msgstr "Szybko"
+
+#, fuzzy
+msgid "Fast Channel Change"
+msgstr "Informacje o kanale"
 
 msgid "Fast Channel Change Setup"
 msgstr ""
