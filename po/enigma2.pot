@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-27 02:00+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15607,6 +15607,9 @@ msgstr ""
 msgid "Default timer type"
 msgstr ""
 
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr ""
+
 msgid "Delay for external subtitles"
 msgstr ""
 
@@ -16307,6 +16310,9 @@ msgid "Service Title mode"
 msgstr ""
 
 msgid "Set CI assignment for detection of available services."
+msgstr ""
+
+msgid "Set cursor on service from channel history"
 msgstr ""
 
 msgid "Set fps for external subtitles"
@@ -17079,6 +17085,9 @@ msgstr ""
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr ""
 
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr ""
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr ""
 
@@ -17236,6 +17245,9 @@ msgid "Zap key delay for channel number input"
 msgstr ""
 
 msgid "Zap mode"
+msgstr ""
+
+msgid "http(s) stream start delay"
 msgstr ""
 
 msgid "EasyMedia"

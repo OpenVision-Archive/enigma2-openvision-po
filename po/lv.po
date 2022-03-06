@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Taapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -4892,6 +4892,10 @@ msgstr "Noklusējuma un pikona"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Noklusētais"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Aizture milisekundēs pirms teksta ritināšanas displejā."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13415,6 +13419,10 @@ msgstr "Iestatīt kā starta kanālu"
 msgid "Set blocktimes by weekday"
 msgstr "Iestatīt bloķēšanas laikus pa dienām"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Pārslēgt uz iepriekšējo kanālu vēsturē"
+
 msgid "Set default"
 msgstr "Pēc noklusējuma"
 
@@ -17420,6 +17428,10 @@ msgstr "Ja ieslēgts, mediju sarakstā tiks parādīts katra ieraksta garums (ta
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Ja ieslēgts, mediju sarakstā tiks parādīts katra ieraksta garums (tas prasa zināmu ielādes laiku)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Ja ieslēgts, ar virziena pogām ap OK jūs varat regulēt skaļumu, nevis atvērt kanālu sarakstu"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Ja ieslēgts, šis iestatījums tiks lietots 'Ieteicamais uztvērējs ierakstam' vietā."
 
@@ -18534,6 +18546,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horizontālā"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

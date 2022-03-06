@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -4748,6 +4748,10 @@ msgstr "Стандардно + Пикон"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Стандард"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Доцнење во (ms) пред почетокот на лизгањето на текст на екранот."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13268,6 +13272,10 @@ msgstr "Поставете како почетен канал"
 msgid "Set blocktimes by weekday"
 msgstr "Поставете блок-часови според работниот ден"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Претходен канал во историјата"
+
 msgid "Set default"
 msgstr "Поставете стандардно"
 
@@ -17273,6 +17281,10 @@ msgstr "Ако е активирана оваа опција, должината
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Ако е активирана оваа опција, должината на секоја снимка ќе биде прикажана во списокот со филмови (ова може да предизвика дополнително време на вчитување)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Ако ја активирате оваа опција, можете да ја контролирате јачината на звукот со копчињата со стрелки, наместо да ја добиете листата за избор на канали"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Ако е активирана оваа опција, оваа поставка има поголема тежина од „Претпочитан приемник за снимања“."
 
@@ -18380,6 +18392,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "хоризонтално"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

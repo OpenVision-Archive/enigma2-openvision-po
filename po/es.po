@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -4840,6 +4840,10 @@ msgstr "Por defecto"
 #, python-format
 msgid "Default: '%s'."
 msgstr "Por Defecto: '%s'."
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Retardo en milisegundos antes de comenzar el desplazamiento del texto en pantalla."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13182,6 +13186,10 @@ msgstr "Establecer como canal de inicio"
 msgid "Set blocktimes by weekday"
 msgstr "Establecer tiempos de bloqueo por día de la semana"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Cambiar al canal previo en historial"
+
 msgid "Set default"
 msgstr "Establecer por defecto"
 
@@ -17079,6 +17087,10 @@ msgstr "Cuando está habilitado, la duración de cada grabación se mostrará en
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Cuando está habilitado, la duración de cada grabación se mostrará en la lista de películas (esto puede causar algún tiempo de carga adicional)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Cuando está habilitado, puede controlar el volumen con los botones de flecha en lugar de obtener la lista de canales"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Cuando está habilitada, esta configuración tiene más peso que ‘Sintonizador preferido para grabaciones’."
 
@@ -18185,6 +18197,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horizontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

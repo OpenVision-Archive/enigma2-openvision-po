@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -4784,6 +4784,10 @@ msgstr "Domyślny+Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Domyślny"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Opóźnienie w milisekundach przed rozpoczęciem przewijania tekstu na wyświetlaczu."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13287,6 +13291,10 @@ msgstr "Ustaw jako kanał startowy"
 msgid "Set blocktimes by weekday"
 msgstr "Ustaw czas blokady wg dni tygodnia"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Poprzedni kanał w historii"
+
 msgid "Set default"
 msgstr "Ustaw domyślny"
 
@@ -17291,6 +17299,10 @@ msgstr "Gdy włączone, długość każdego nagrania będzie pokazywana w liści
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Gdy włączone, długość każdego nagrania będzie pokazywana w liście filmów (może to wydłużyć czas ładowania listy)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Gdy włączone, strzałki prawa/lewa regulują głośność, a nie otwierają listy wyboru kanałów."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Gdy włączone, to ustawienie ma pierwszeństwo przed opcją 'Tuner preferowany dla nagrywania'."
 
@@ -18404,6 +18416,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "Pozioma (H)"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

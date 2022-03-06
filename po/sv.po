@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2017-03-05 13:24+0100\n"
 "Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
 "Language-Team: \n"
@@ -5267,6 +5267,10 @@ msgstr "Grundinställningar"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Grund"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Fördröjning i millisekunder före start av rullande text på display."
 
 msgid "Defined / Active"
 msgstr ""
@@ -14783,6 +14787,11 @@ msgstr "Använd som startkanal"
 msgid "Set blocktimes by weekday"
 msgstr "Sätt blocktider med veckodag"
 
+#
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Växla till föregående kanal i historiken"
+
 msgid "Set default"
 msgstr "Ange standard"
 
@@ -19251,6 +19260,10 @@ msgstr "Vid aktiverad kommer längden på varje inspelning att visas i filmlista
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Vid aktiverad kommer längden på varje inspelning att visas i filmlistan (detta kan orsaka ytterligare laddningstid)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Vid aktiverad kan du kontrollera volymen med pilknapparna istället för att få fram kanallistan."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Vid aktiverad har denna inställning mer vikt än 'föredragen tuner för inspelningar'."
 
@@ -20456,6 +20469,9 @@ msgstr ""
 #
 msgid "horizontal"
 msgstr "horisontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

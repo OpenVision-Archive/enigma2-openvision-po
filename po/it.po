@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -4869,6 +4869,10 @@ msgstr "<Skin Default>"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Predefinito"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Ritardo (ms) prima dell'inizio dello scorrimento del testo sullo schermo."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13420,6 +13424,10 @@ msgstr "Utilizzare come canale di avvio"
 msgid "Set blocktimes by weekday"
 msgstr "Impostare i blocchi di orario per i giorni della settimana"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Passare al canale precedente nella cronologia"
+
 msgid "Set default"
 msgstr "Ripristinare i valori"
 
@@ -17456,6 +17464,10 @@ msgstr "Se questa impostazione è attivata, la durata di ogni registrazione sar�
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Se questa impostazione è attivata, la durata di ogni registrazione sarà visualizzata nell'elenco (questo potrebbe rallentare l'operazione di caricamento)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Se questa impostazione è attivata, sarà possibile controllare il volume con i tasti freccia invece di richiamare la lista canali."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Impostare il sintonizzatore preferenziale per le registrazioni da usare tra quelli dello stesso tipo. Questa impostazione è prevalente rispetto all'impostazione 'Sintonizzatore preferenziale per le registrazioni'."
 
@@ -18574,6 +18586,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "Orizzontale"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

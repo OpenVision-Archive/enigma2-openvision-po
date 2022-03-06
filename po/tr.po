@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -4863,6 +4863,10 @@ msgstr "Varsayılan ayarlar"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Varsayılan"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Ekranda yazı kaydırken, geçiş/bekleme zamanını milisaniye..."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13434,6 +13438,10 @@ msgstr "Başlangıç kanalı yap."
 msgid "Set blocktimes by weekday"
 msgstr ""
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Geçmişteki önceki kanal"
+
 msgid "Set default"
 msgstr "Varsayılan olarak ayarla"
 
@@ -17486,6 +17494,10 @@ msgstr "Her kayıt uzunluğu Film listesinde gösterilecektir (bu bazı ek yükl
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Her kayıt uzunluğu Film listesinde gösterilecektir (bu bazı ek yükleme süresine neden olabilir)"
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Etkinleştirildiğinde zaman ok tuşları ile ses seviyesini kontrol yerine kanal seçim listesi gelir."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Etkinleştirildiğinde, bu ayar 'kayıtları için tercih edilen tuner' den fazla ağırlığa sahiptir."
 
@@ -18592,6 +18604,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "Yatay (H)"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

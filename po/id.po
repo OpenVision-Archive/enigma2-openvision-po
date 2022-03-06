@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-03-06\n"
 "Last-Translator: LinuxSTV\n"
 "Language-Team: \n"
@@ -4930,6 +4930,10 @@ msgstr "Pengaturan bawaan"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Bawaan"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Tunda dalam milidetik sebelum mulai menggulung teks pada display"
 
 msgid "Defined / Active"
 msgstr ""
@@ -13604,6 +13608,10 @@ msgstr "Atur sbg layanan saat mulai"
 msgid "Set blocktimes by weekday"
 msgstr "Atur waktu blokir berdasarkan hari kerja"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Beralih ke kanal sebelumnya di riwayat"
+
 msgid "Set default"
 msgstr "Atur bawaan"
 
@@ -17681,6 +17689,10 @@ msgstr "Ketika diaktifkan, panjang setiap file rekaman akan ditampilkan pada daf
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Ketika diaktifkan, panjang setiap file rekaman akan ditampilkan pada daftar film (ini bisa menyebabkan tambahan waktu untuk memuat daftar)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Ketika diaktifkan, anda bisa mengatur volume suara dengan tombol panah daripada membuka daftar pemilihan kanal."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Ketika diaktifkan, setelan ini punya bobot lebih daripada 'Penala pilihan untuk merekam'."
 
@@ -18808,6 +18820,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horizontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

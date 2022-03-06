@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -4864,6 +4864,10 @@ msgstr "Alapértelmezett + Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Alapértelmezett"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "A kijelzőn a görgetett szöveg indítása előtti késleltetés (ms)."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13381,6 +13385,10 @@ msgstr "Beállítás indítási csatornának"
 msgid "Set blocktimes by weekday"
 msgstr "Blokkidők megadása a hét napjai alapján"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Előző csatorna az előzményekben"
+
 msgid "Set default"
 msgstr "Alapértelmezett"
 
@@ -17392,6 +17400,10 @@ msgstr "Minden egyes fájl hossza jelenjen meg a filmlistában (megnövelheti a 
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Minden egyes fájl hossza jelenjen meg a filmlistában (megnövelheti a lista betöltési idejét)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Ha engedélyezi, a nyíl gombok a hangerőt fogják változtatni, és nem a csatornalistát jelenítik meg."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Ha engedélyezi, ez a beállítás felülírja az 'Előnyben részesített tuner a felvételekhez'-t."
 
@@ -18506,6 +18518,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horizontális"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

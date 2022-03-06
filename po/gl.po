@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-10-16 21:21+0200\n"
 "Last-Translator: Luis A. Martínez <luis.a.martinez@gmail.com>\n"
 "Language-Team: LAMS\n"
@@ -5263,6 +5263,10 @@ msgstr "Predeterminado+Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Por defecto"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Retardo, en milisegundos, ao inicio do desprazamento de texto na pantalla."
 
 msgid "Defined / Active"
 msgstr ""
@@ -14688,6 +14692,11 @@ msgstr "Establecer como servizo de inicio"
 msgid "Set blocktimes by weekday"
 msgstr "Establecer bloques de tempo por día da semana"
 
+#
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Cambiar á anterior canle do historial"
+
 msgid "Set default"
 msgstr "Establecer valor predeterminado"
 
@@ -19081,6 +19090,10 @@ msgstr "Cando está activado, amósase a lonxitude de cada gravación na lista d
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Cando está activado, amósase a lonxitude de cada gravación na lista de películas (isto pode aumentar o tempo de carga)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Cando está activado, os botóns de frecha controlan o volume en vez de devolver a lista de selección de canles"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Cando está activado, este axuste ten máis peso ca ‘Sintonizador preferido para gravacións’."
 
@@ -20274,6 +20287,9 @@ msgstr ""
 #
 msgid "horizontal"
 msgstr "horizontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

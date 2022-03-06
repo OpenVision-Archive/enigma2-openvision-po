@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-09-22 23:58+0200\n"
 "Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
 "Language-Team: angelodos angelo2807@hotmail.com\n"
@@ -5274,6 +5274,10 @@ msgstr "Predeterminat + picó"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Per defecte"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Retardar mil·lisegons abans de començar el desplaçament del text a la pantalla."
 
 msgid "Defined / Active"
 msgstr ""
@@ -14742,6 +14746,11 @@ msgstr "Estableix com a servei d’inici"
 msgid "Set blocktimes by weekday"
 msgstr "Establiu l’horari de sortida el dia laborable"
 
+#
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Canvia al canal anterior de la història"
+
 msgid "Set default"
 msgstr "Instal · lat per defecte"
 
@@ -19107,6 +19116,10 @@ msgstr "Quan està activat, la durada de cada enregistrament es mostrarà a la l
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Quan està activat, la durada de cada enregistrament es mostrarà a la llista de pel·lícules (això pot provocar un temps de càrrega addicional)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Quan està activat, podeu controlar el volum amb els botons de fletxa en lloc d’obtenir la llista de selecció de canals"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Si està activat, aquest paràmetre té més pes que el “Sintonitzador preferit per a enregistraments”."
 
@@ -20298,6 +20311,9 @@ msgstr ""
 #
 msgid "horizontal"
 msgstr "horitzontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

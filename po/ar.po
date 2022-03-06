@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -5058,6 +5058,9 @@ msgstr "الإفتراضي"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "الإفتراضي"
+
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr ""
 
 msgid "Defined / Active"
 msgstr ""
@@ -13895,6 +13898,10 @@ msgstr "تعيين قناة بدء التشغيل"
 msgid "Set blocktimes by weekday"
 msgstr ""
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "التحكم في القناة السابقة في سجل التنقلات"
+
 msgid "Set default"
 msgstr "تعيين افتراضي"
 
@@ -18061,6 +18068,10 @@ msgstr "عند التمكين، سيتم عرض طول التسجيل في قا�
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "عند التمكين، سيتم عرض طول التسجيل في قائمة الأفلام (وهذا قد يسبب بعض الوقت تحميل إضافي)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "عند التمكين، سيعرض أرقام القنوات في شاشة اختيار القناة."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "عند التمكين، يكون هذا العدد أكثر وزنا من 'المؤالف المفضل للتسجيلات'."
 
@@ -19180,6 +19191,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "أفقي"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

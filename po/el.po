@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -4861,6 +4861,10 @@ msgstr "Προεπιλογή + Λογότυπο"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Προεπιλογή"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Καθυστέρηση σε ms πριν την έναρξη της κύλισης του κειμένου στην οθόνη."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13376,6 +13380,10 @@ msgstr "Ορισμός ως υπηρεσία εκκίνησης"
 msgid "Set blocktimes by weekday"
 msgstr "Ορισμός χρονοπλαισίων ανά"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Μετάβαση στο προηγούμενο κανάλι στο ιστορικό"
+
 msgid "Set default"
 msgstr "Ορισμός προεπιλογής"
 
@@ -17387,6 +17395,10 @@ msgstr "Όταν είναι ενεργό, η διάρκεια κάθε εγγρ�
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Όταν είναι ενεργό, η διάρκεια κάθε εγγραφής θα εμφανίζεται στη λίστα (μπορεί να αυξηθεί ο χρόνος φόρτωσης)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Όταν είναι ενεργό, μπορείτε να ελέγχετε την ένταση του ήχου με τα πλήκτρα βέλη αντί να μεταβαίνετε στη λίστα επιλογής καναλιών."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Όταν είναι ενεργό, αυτή η ρύθμιση έχει προτεραιότητα αντί του 'Προτιμώμενο tuner για εγγραφές'."
 
@@ -18499,6 +18511,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "οριζόντια"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Openpli\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2019-04-03 06:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Raivo, Henkka, eesatfan, rimas, zeros\\n faas, sateks, valgekotkas, tigekala, rootsikunn\\n kain, i70, mustkass, pelmeen, Scott\\n <digi-tv.ee>\n"
@@ -4871,6 +4871,10 @@ msgstr "Vaikeväärtused"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Vaikimisi"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Viide millisekundites enne näidikul liikuva teksti algust."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13441,6 +13445,10 @@ msgstr "Käivita vastuvõtja sellel kanalil"
 msgid "Set blocktimes by weekday"
 msgstr "Sea keeluajad nädalapäeviti"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Eelmine kanal ajaloos"
+
 msgid "Set default"
 msgstr "Sea vaikeseadesse"
 
@@ -17507,6 +17515,10 @@ msgstr "Määrates 'jah', näidatakse filmilistis salvestuse kestust (laadimine 
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Määrates 'jah', näidatakse filmilistis salvestuse kestust (laadimine võib kesta veidi kauem)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Määrates 'jah', saad reguleerida helitugevust noolenuppudega minemata kanali valiku nimekirja."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Määrates 'jah' on see seadistus eelistatum kui 'Eelistatud tuuner salvestamiseks'."
 
@@ -18626,6 +18638,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horisontaal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

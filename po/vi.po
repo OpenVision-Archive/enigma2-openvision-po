@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -4846,6 +4846,10 @@ msgstr "Mặc định + Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Mặc định"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Trì hoãn tính bằng mili giây trước khi bắt đầu cuộn văn bản trên màn hình."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13360,6 +13364,10 @@ msgstr "Đặt làm dịch vụ khởi động"
 msgid "Set blocktimes by weekday"
 msgstr "Đặt blocktimes theo ngày trong tuần"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Chuyển sang kênh trước đó trong lịch sử"
+
 msgid "Set default"
 msgstr "Đặt mặc định"
 
@@ -17369,6 +17377,10 @@ msgstr "Khi được bật, độ dài của mỗi bản ghi sẽ được hiể
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Khi được bật, độ dài của mỗi bản ghi sẽ được hiển thị trong danh sách phim (điều này có thể gây ra một số thời gian tải bổ sung)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Khi được bật, bạn có thể điều khiển âm lượng bằng các nút mũi tên thay vì lấy danh sách chọn kênh"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Khi được bật, cài đặt này có trọng lượng lớn hơn 'Bộ điều chỉnh ưu tiên cho bản ghi'."
 
@@ -18481,6 +18493,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "ngang"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

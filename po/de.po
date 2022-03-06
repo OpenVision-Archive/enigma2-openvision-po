@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-04-30 16:06+0200\n"
 "Last-Translator: kueken\n"
 "Language-Team: OpenPLi\n"
@@ -4877,6 +4877,10 @@ msgstr "Voreinstellung+Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Standard"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Verzögerung in Millisekunden bevor Text im Display anfängt zu scrollen."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13402,6 +13406,10 @@ msgstr "Als Anschalt-Kanal setzen"
 msgid "Set blocktimes by weekday"
 msgstr "Setze Blockzeiten nach Wochentag"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Vorheriger Kanal im Verlauf"
+
 msgid "Set default"
 msgstr "Als Standard setzen"
 
@@ -17427,6 +17435,10 @@ msgstr "Spielzeit aller Aufnahmen in der Filmliste anzeigen (verursacht höhere 
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Spielzeit aller Aufnahmen in der Filmliste anzeigen (verursacht höhere Ladezeiten)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Falls aktiviert, dann lässt sich die Lautstärke über die Pfeiltasten regeln, anstatt die Kanalauswahlliste aufzurufen."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Wenn diese Einstellung aktiviert ist, hat sie mehr Gewicht als “Bevorzugter Tuner für Aufnahmen”."
 
@@ -18541,6 +18553,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "Horizontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

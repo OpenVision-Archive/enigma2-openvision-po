@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2013-10-20 19:13-0300\n"
 "Last-Translator: Diogo <pingflood@gmail.com>\n"
 "Language-Team: Traduzido por Frank Viana <franksrviana@gmail.com>\n"
@@ -4793,6 +4793,9 @@ msgstr "Configuração padrão"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Padrão"
+
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr ""
 
 msgid "Defined / Active"
 msgstr ""
@@ -13305,6 +13308,10 @@ msgstr "Ligar sempre neste canal"
 msgid "Set blocktimes by weekday"
 msgstr ""
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Canal anterior na memória"
+
 msgid "Set default"
 msgstr ""
 
@@ -17296,6 +17303,9 @@ msgstr "Quando ativado, a duração de cada gravação será exibida na lista de
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Quando ativado, a duração de cada gravação será exibida na lista de vídeos (isso pode aumentar o tempo de carregamento)."
 
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr ""
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr ""
 
@@ -18399,6 +18409,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "Horizontal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

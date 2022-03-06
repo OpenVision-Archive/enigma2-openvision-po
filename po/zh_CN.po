@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -4872,6 +4872,10 @@ msgstr "默认+Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "缺省值"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "开始文字滚动显示前的延迟时间（毫秒）"
 
 msgid "Defined / Active"
 msgstr ""
@@ -13384,6 +13388,10 @@ msgstr "设置为启动频道"
 msgid "Set blocktimes by weekday"
 msgstr "设置普通日(周六,日以外的任何一天)"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "历史记录里的上一个频道"
+
 msgid "Set default"
 msgstr "设为默认"
 
@@ -17396,6 +17404,10 @@ msgstr "一旦启用,电影列表里将会显示每一个录制节目的时间�
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "一旦启用,电影列表里将会显示每一个录制节目的时间长度."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "一旦启用,你可以使用箭头控制音量来获取频道选项列表"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "一旦启用,此设置将有比录制首选调谐器更大的适用范围."
 
@@ -18508,6 +18520,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "水平"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

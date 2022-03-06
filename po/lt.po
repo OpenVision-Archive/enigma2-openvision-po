@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -4896,6 +4896,10 @@ msgstr "Numatytasis + logotipas"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Numatytasis"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Delsa (msek) prieš teksto slinkimo pradžią."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13421,6 +13425,10 @@ msgstr "Nustatyti kaip pradinį kanalą"
 msgid "Set blocktimes by weekday"
 msgstr "Nustatykite blokavimo kartus pagal savaitės dieną"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Perjungti į ankstesnį kanalą istorijoje"
+
 msgid "Set default"
 msgstr "Nustatykite numatytuoju"
 
@@ -17432,6 +17440,10 @@ msgstr "Kai čia įjungta, filmų sąraše bus rodoma kiekvieno įrašo trukmė 
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Kai čia įjungta, filmų sąraše bus rodoma kiekvieno įrašo trukmė (tai gali kažkiek prailginti paleidimo laiką)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Kai čia įjungta, rodyklių mygtukais, vietoj kanalų pasirinkimo sąrašo lango įjungimo, jūs galite kontroliuoti garsą"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Kai čia įjungta, šis pasirinkimas turi daugiau svorio, nei 'Pageidautinas imtuvas įrašams'."
 
@@ -18545,6 +18557,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horizontali"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

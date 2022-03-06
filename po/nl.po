@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -5076,6 +5076,10 @@ msgstr "Standaard + Picon"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "Standaard"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "De vertraging in msec voordat de scrollende displaytekst start."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13664,6 +13668,10 @@ msgstr "Kanaal kiezen bij opstarten"
 msgid "Set blocktimes by weekday"
 msgstr "Stel bloktijden in als wekelijks"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Schakel naar de vorige zender in de geschiedenis"
+
 msgid "Set default"
 msgstr "Zet als standaard"
 
@@ -17746,6 +17754,10 @@ msgstr "Indien geactiveerd, dan wordt de lengte van iedere opname weergegeven in
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Indien geactiveerd, dan wordt de lengte van iedere opname weergegeven in de opnamelijst. (Hierdoor kan de laadtijd van de opnamelijst toenemen)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Indien geactiveerd, dan kunt u het volume bedienen met de pijltjestoetsen, i.p.v. dat u hiermee de zenderlijst opent."
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Indien geactiveerd, dan wordt de voorkeur gegeven aan deze optie boven de optie 'Voorkeurstuner voor opname's'."
 
@@ -18879,6 +18891,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "horizontaal"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""

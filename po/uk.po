@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 19:44+0000\n"
+"POT-Creation-Date: 2022-03-06 02:02+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -4890,6 +4890,10 @@ msgstr "За Замовчуванням+Пікон"
 #, fuzzy, python-format
 msgid "Default: '%s'."
 msgstr "За замовчуванням"
+
+#, fuzzy
+msgid "Define additional delay in milliseconds before start of http(s) streams."
+msgstr "Затримка в мілісекундах перед початком прокрутки тексту на дисплеї."
 
 msgid "Defined / Active"
 msgstr ""
@@ -13418,6 +13422,10 @@ msgstr "Зробити канал стартовим"
 msgid "Set blocktimes by weekday"
 msgstr "Встановити блокування по буднях"
 
+#, fuzzy
+msgid "Set cursor on service from channel history"
+msgstr "Переключити на попередній канал в історії"
+
 msgid "Set default"
 msgstr "Встановити за замовчуванням"
 
@@ -17428,6 +17436,10 @@ msgstr "Якщо увімкнено, тривалість кожного зап�
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr "Якщо увімкнено, тривалість кожного запису відображатиметься у списку фільмів (це може збільшити час завантаження)."
 
+#, fuzzy
+msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
+msgstr "Якщо ввімкнено, Ви можете регулювати гучність за допомогою кнопок зі стрілками, замість того, щоб отримувати список вибору каналів"
+
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Якщо увімкнено, це налаштування має більшу вагу, ніж 'Бажаний тюнер для записів'."
 
@@ -18542,6 +18554,9 @@ msgstr ""
 
 msgid "horizontal"
 msgstr "горизонталь"
+
+msgid "http(s) stream start delay"
+msgstr ""
 
 msgid "https://github.com/OpenVisionE2"
 msgstr ""
