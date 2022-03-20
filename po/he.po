@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2012-03-08 10:40+0330\n"
 "Last-Translator: \n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -7087,6 +7087,9 @@ msgstr "OK הפעולה הבאה תתבצע לאחר לחיצה על"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "disabled"
@@ -13101,6 +13104,9 @@ msgstr ""
 msgid "Scan additional SR"
 msgstr "Scan additional SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "דלג אחורה"
@@ -14944,6 +14950,10 @@ msgid "Software"
 msgstr "תוכנה"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "ניהול תוכנה"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "עדכון תוכנה"
 
@@ -14958,9 +14968,6 @@ msgstr "מידע"
 
 msgid "Software management"
 msgstr "ניהול תוכנה"
-
-msgid "Software manager setup"
-msgstr ""
 
 msgid "Software update"
 msgstr "עדכון תוכנה"

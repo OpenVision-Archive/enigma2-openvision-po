@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-05-24 17:48+0300\n"
 "Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
 "Language-Team: openPLi Dimitrij\n"
@@ -6938,6 +6938,9 @@ msgstr "Выполнение процесса начнется после тог
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "принудительно отключено"
@@ -12644,6 +12647,9 @@ msgstr "Сканирование %s диапазона"
 msgid "Scan additional SR"
 msgstr "Сканировать дополнительные SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Перемотка назад"
@@ -14368,6 +14374,10 @@ msgid "Software"
 msgstr "ПО"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Настройки менеджера ПО"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Обновление ПО"
 
@@ -14381,9 +14391,6 @@ msgstr "Информация менеджера ПО"
 
 msgid "Software management"
 msgstr "Менеджер управления ПО"
-
-msgid "Software manager setup"
-msgstr "Настройки менеджера ПО"
 
 msgid "Software update"
 msgstr "Обновление ПО"

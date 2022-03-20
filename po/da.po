@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2017-01-18 16:38+0100\n"
 "Last-Translator: lupine <a_ecklon@hotmail.com>\n"
 "Language-Team: \n"
@@ -7574,6 +7574,9 @@ msgstr "Følgende opgaver vil blive udført efter tryk på OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #
 #, fuzzy
 msgid "Force disabled"
@@ -13971,6 +13974,9 @@ msgstr "Søg %s bånd"
 msgid "Scan additional SR"
 msgstr "Søge yderligere SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Scan backwards"
@@ -15884,6 +15890,10 @@ msgstr "Softcam type"
 msgid "Software"
 msgstr "Software"
 
+#, fuzzy
+msgid "Software Manager Setup"
+msgstr "Softwarehåndterings opsætning"
+
 #
 #, fuzzy
 msgid "Software Update"
@@ -15901,9 +15911,6 @@ msgstr "Softwarehåndterings information"
 #
 msgid "Software management"
 msgstr "Softwarehåndtering"
-
-msgid "Software manager setup"
-msgstr "Softwarehåndterings opsætning"
 
 #
 msgid "Software update"

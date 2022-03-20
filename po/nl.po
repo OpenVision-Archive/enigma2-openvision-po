@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Frenske <voorzitter@openpli.org>\n"
 "Language-Team: PLiteam <translators@openpli.org>\n"
@@ -7136,6 +7136,9 @@ msgstr "Nadat u op Ok drukt worden de volgende taken uitgevoerd!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "geforceerd uitgeschakeld"
@@ -12884,6 +12887,9 @@ msgstr "Zoek %s band"
 msgid "Scan additional SR"
 msgstr "Zoek tevens op SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Achteruit springen"
@@ -14627,6 +14633,10 @@ msgid "Software"
 msgstr "Software"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Softwarebeheer setup"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Software updaten"
 
@@ -14640,9 +14650,6 @@ msgstr "Softwarebeheerinformatie"
 
 msgid "Software management"
 msgstr "Softwarebeheer"
-
-msgid "Software manager setup"
-msgstr "Softwarebeheer setup"
 
 msgid "Software update"
 msgstr "Software updaten"

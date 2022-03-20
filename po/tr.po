@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OPENPLi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2015-12-18 21:05+0200\n"
 "Last-Translator: Yetkin AYDIN <yetkina@gmail.com>\n"
 "Language-Team: http://www.hurforum.com <yetkina@gmail.com>\n"
@@ -6923,6 +6923,9 @@ msgstr "Belirtilen görevler OK'a basmanızın ardından işleme alınacak!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "Devre dışı"
@@ -12648,6 +12651,9 @@ msgstr "%s bant Tarama"
 msgid "Scan additional SR"
 msgstr "Eklenen SR'leri ara"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Geride ara"
@@ -14392,6 +14398,10 @@ msgid "Software"
 msgstr "Yazılım"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Yazılım yöneticisi kurulumu"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Yazılım Güncelle..."
 
@@ -14405,9 +14415,6 @@ msgstr "Yazılım Yöneticisi bilgileri"
 
 msgid "Software management"
 msgstr "Yazılım yönetimi"
-
-msgid "Software manager setup"
-msgstr "Yazılım yöneticisi kurulumu"
 
 msgid "Software update"
 msgstr "Yazılım Güncelle..."

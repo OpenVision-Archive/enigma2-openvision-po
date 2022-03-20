@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2010-03-09 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: HDTV ROMANIA(superonic,costel_mbc,neutrin,otheitis,cipy_1982,neutrin,runcanion)\n"
@@ -6743,6 +6743,9 @@ msgstr ""
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "dezactivat"
@@ -12423,6 +12426,9 @@ msgstr "Scanare banda EU MID"
 msgid "Scan additional SR"
 msgstr "Scanare SR aditional"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "skin inapoi"
@@ -14167,6 +14173,10 @@ msgid "Software"
 msgstr "Software"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "elimina o intrare de nameserver"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Actualizare software"
 
@@ -14179,9 +14189,6 @@ msgid "Software information"
 msgstr "Informatii"
 
 msgid "Software management"
-msgstr ""
-
-msgid "Software manager setup"
 msgstr ""
 
 msgid "Software update"

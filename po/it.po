@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2020-05-16 18:46+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -6928,6 +6928,9 @@ msgstr "Le seguenti operazioni saranno eseguite dopo aver premuto il tasto OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "forza disabilitata"
@@ -12639,6 +12642,9 @@ msgstr "Ricercare sulla banda %s"
 msgid "Scan additional SR"
 msgstr "Ricercare ulteriori SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Ricercare indietro"
@@ -14371,6 +14377,10 @@ msgid "Software"
 msgstr "Software"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Impostazioni della gestione del software"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Aggiornamento software"
 
@@ -14384,9 +14394,6 @@ msgstr "Informazioni sulla gestione del software"
 
 msgid "Software management"
 msgstr "Gestione del software"
-
-msgid "Software manager setup"
-msgstr "Impostazioni della gestione del software"
 
 msgid "Software update"
 msgstr "Aggiornamento software"

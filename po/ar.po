@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBH enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2019-04-12 12:36+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad - مساعد الجعيد\n"
@@ -7170,6 +7170,9 @@ msgstr "سيتم تنفيذ المهام التالية بعد الضغط على
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "تم التعطيل"
@@ -13058,6 +13061,9 @@ msgstr "تردد %s البحث"
 msgid "Scan additional SR"
 msgstr "البحث الإضافي عن إشارة الإستقبال"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "الرجوع للخلف"
@@ -14883,6 +14889,10 @@ msgid "Software"
 msgstr "البرامج"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "إعداد مدير البرنامج التشغيلي"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "تحديث البرنامج التشغيلي"
 
@@ -14896,9 +14906,6 @@ msgstr "معلومات إدارة البرنامج التشغيلي"
 
 msgid "Software management"
 msgstr "التحكم فى البرنامج التشغيلي"
-
-msgid "Software manager setup"
-msgstr "إعداد مدير البرنامج التشغيلي"
 
 msgid "Software update"
 msgstr "تحديث البرنامج التشغيلي"

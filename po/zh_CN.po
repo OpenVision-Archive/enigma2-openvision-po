@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-07-31 17:00+0800\n"
 "Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
 "Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
@@ -6912,6 +6912,9 @@ msgstr "按OK键后,以下任务将被执行!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "强制禁用"
@@ -12608,6 +12611,9 @@ msgstr "扫描 %s 波段"
 msgid "Scan additional SR"
 msgstr "扫描更多SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "快退"
@@ -14330,6 +14336,10 @@ msgid "Software"
 msgstr "软件"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "软件管理设置"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "软件升级"
 
@@ -14343,9 +14353,6 @@ msgstr "软件管理信息"
 
 msgid "Software management"
 msgstr "软件管理"
-
-msgid "Software manager setup"
-msgstr "软件管理设置"
 
 msgid "Software update"
 msgstr "软件升级"

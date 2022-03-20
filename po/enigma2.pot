@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-13 02:00+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5465,6 +5465,9 @@ msgstr ""
 msgid "Following tasks will be done after you press OK!"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 msgid "Force disabled"
 msgstr ""
 
@@ -9962,6 +9965,9 @@ msgstr ""
 msgid "Scan additional SR"
 msgstr ""
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 msgid "Scan backwards"
 msgstr ""
 
@@ -11143,6 +11149,9 @@ msgstr ""
 msgid "Software"
 msgstr ""
 
+msgid "Software Manager Setup"
+msgstr ""
+
 msgid "Software Update"
 msgstr ""
 
@@ -11153,9 +11162,6 @@ msgid "Software information"
 msgstr ""
 
 msgid "Software management"
-msgstr ""
-
-msgid "Software manager setup"
 msgstr ""
 
 msgid "Software update"

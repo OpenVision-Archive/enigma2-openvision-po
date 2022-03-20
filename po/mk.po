@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-02-19 14:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Muzoss-VELEBRDO\n"
@@ -6794,6 +6794,9 @@ msgstr "Следниве задачи ќе бидат направени отк�
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "принудно оневозможена"
@@ -12492,6 +12495,9 @@ msgstr "Пребарување %s лента"
 msgid "Scan additional SR"
 msgstr "Пребарај други СР"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Пребарај назад"
@@ -14215,6 +14221,10 @@ msgid "Software"
 msgstr "Софтвер"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Поставки за управувач на софтвер"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Ажурирај го софтверот"
 
@@ -14228,9 +14238,6 @@ msgstr "Информации за управувач на софтвер"
 
 msgid "Software management"
 msgstr "Управување со софтвер"
-
-msgid "Software manager setup"
-msgstr "Поставки за управувач на софтвер"
 
 msgid "Software update"
 msgstr "Ажурирај го софтверот"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-11-11 19:09+0100\n"
 "Last-Translator: Kuatto\n"
 "Language-Team: Álvaro <mi casa>\n"
@@ -6835,6 +6835,9 @@ msgstr "Las siguientes tareas se realizarán después de presionar OK!"
 msgid "Font size"
 msgstr "Tamaño fuente"
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 msgid "Force disabled"
 msgstr "Fuerza deshabilitada"
 
@@ -12419,6 +12422,9 @@ msgstr "Búsqueda banda %s"
 msgid "Scan additional SR"
 msgstr "Búsqueda SR adicional"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 msgid "Scan backwards"
 msgstr "Escanear hacia atrás"
 
@@ -14071,6 +14077,10 @@ msgstr "Configuración de Softcam"
 msgid "Software"
 msgstr "Software"
 
+#, fuzzy
+msgid "Software Manager Setup"
+msgstr "Configuración del administrador de software"
+
 msgid "Software Update"
 msgstr "Actualización de Software"
 
@@ -14084,9 +14094,6 @@ msgstr "Información del administrador de software"
 
 msgid "Software management"
 msgstr "Administrador de Software"
-
-msgid "Software manager setup"
-msgstr "Configuración del administrador de software"
 
 msgid "Software update"
 msgstr "Actualización de software"

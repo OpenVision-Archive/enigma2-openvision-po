@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ims <ims21@users.sourceforge.net>\n"
 "Language-Team: PLi <ims@openpli.org>\n"
@@ -7679,6 +7679,9 @@ msgstr "Následující úlohy budou provedeny po stisknutí OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #
 #, fuzzy
 msgid "Force disabled"
@@ -14139,6 +14142,9 @@ msgstr "Prohledat %s pásmo"
 msgid "Scan additional SR"
 msgstr "Prohledat dodatečný SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Scan backwards"
@@ -16061,6 +16067,10 @@ msgstr "Nastavení softcamu"
 msgid "Software"
 msgstr "Software"
 
+#, fuzzy
+msgid "Software Manager Setup"
+msgstr "Nastavení správy software"
+
 #
 #, fuzzy
 msgid "Software Update"
@@ -16078,9 +16088,6 @@ msgstr "Info správy software"
 #
 msgid "Software management"
 msgstr "Správa software"
-
-msgid "Software manager setup"
-msgstr "Nastavení správy software"
 
 #
 msgid "Software update"

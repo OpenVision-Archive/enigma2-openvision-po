@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2018-02-14 16:51+0330\n"
 "Last-Translator: Persian Prince <persianprince@pe4k.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -6906,6 +6906,9 @@ msgstr "وظایف زیر بعد از فشار دادن دکمه OK انجام �
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "غیر فعال شد"
@@ -12615,6 +12618,9 @@ msgstr "اسکن باند EU MID"
 msgid "Scan additional SR"
 msgstr ""
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "اسکن باند EU MID"
@@ -14365,6 +14371,10 @@ msgstr "تنظیم سافتکم"
 msgid "Software"
 msgstr "نرم افزار"
 
+#, fuzzy
+msgid "Software Manager Setup"
+msgstr "تنظیمات مدیریت نرم افزار"
+
 #
 #, fuzzy
 msgid "Software Update"
@@ -14381,9 +14391,6 @@ msgstr "اطلاعات مدیریت نرم افزار"
 
 msgid "Software management"
 msgstr "مدیریت نرم افزار"
-
-msgid "Software manager setup"
-msgstr "تنظیمات مدیریت نرم افزار"
 
 #
 msgid "Software update"

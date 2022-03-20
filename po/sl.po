@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Project Slovenia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2020-05-16 18:48+0200\n"
 "Last-Translator: Taykun345 <support@satnigmo.com>\n"
 "Language-Team: Satnigmo <support@satnigmo.com>\n"
@@ -7684,6 +7684,9 @@ msgstr "Sledeče naloge bodo opravljene, ko pritisnete OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #
 #, fuzzy
 msgid "Force disabled"
@@ -14145,6 +14148,9 @@ msgstr "Iskanje %s pasu"
 msgid "Scan additional SR"
 msgstr "Iskanje dodatnih SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Scan backwards"
@@ -16121,6 +16127,11 @@ msgstr "Program. oprema"
 
 #
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Software Manager nastavitve"
+
+#
+#, fuzzy
 msgid "Software Update"
 msgstr "Nadgradnja OpenPLi slike"
 
@@ -16136,10 +16147,6 @@ msgstr "Softwaremanager informacije"
 #
 msgid "Software management"
 msgstr "Posodobitev sprejemnika"
-
-#
-msgid "Software manager setup"
-msgstr "Software Manager nastavitve"
 
 #
 msgid "Software update"

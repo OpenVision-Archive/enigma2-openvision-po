@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-03-11 01:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: kvinto\n"
@@ -6937,6 +6937,9 @@ msgstr "Дані завдання будуть виконані після на�
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "примусово вимкнуто"
@@ -12640,6 +12643,9 @@ msgstr "Пошук %s діапазону"
 msgid "Scan additional SR"
 msgstr "Сканувати додатковий SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Перемотка назад"
@@ -14364,6 +14370,10 @@ msgid "Software"
 msgstr "Програмне забезпечення"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Налаштування Менеджера ПЗ"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Оновлення ПЗ"
 
@@ -14377,9 +14387,6 @@ msgstr "Інформація менеджера ПЗ"
 
 msgid "Software management"
 msgstr "Менеджер управіння ПЗ"
-
-msgid "Software manager setup"
-msgstr "Налаштування Менеджера ПЗ"
 
 msgid "Software update"
 msgstr "Оновлення ПЗ"

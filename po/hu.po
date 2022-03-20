@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -6904,6 +6904,9 @@ msgstr "A műveletek az OK gomb lenyomása után lesznek végrehajtva!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "kényszerített tiltás"
@@ -12606,6 +12609,9 @@ msgstr "%s sáv szkennelése"
 msgid "Scan additional SR"
 msgstr "Egyéb SR-ek szkennelése"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Vissza kihagyása"
@@ -14327,6 +14333,10 @@ msgid "Software"
 msgstr "Szoftver"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Szoftverkezelés"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Szoftverfrissítés"
 
@@ -14339,9 +14349,6 @@ msgid "Software information"
 msgstr "Szoftverkezeló információ"
 
 msgid "Software management"
-msgstr "Szoftverkezelés"
-
-msgid "Software manager setup"
 msgstr "Szoftverkezelés"
 
 msgid "Software update"

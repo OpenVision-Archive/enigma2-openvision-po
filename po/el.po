@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -6901,6 +6901,9 @@ msgstr "Οι ακόλουθες ενέργειες θα εκτελεστούν �
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "αναγκαστική απενεργοποίηση"
@@ -12601,6 +12604,9 @@ msgstr "Ανίχνευση μπάντας %s"
 msgid "Scan additional SR"
 msgstr "Ανίχνευση πρόσθετου SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Μεταπήδηση προς τα πίσω"
@@ -14322,6 +14328,10 @@ msgid "Software"
 msgstr "Λογισμικό"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Ρυθμίσεις διαχείρισης λογισμικού"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Ενημέρωση λογισμικού"
 
@@ -14335,9 +14345,6 @@ msgstr "Πληροφορίες διαχείρισης λογισμικού"
 
 msgid "Software management"
 msgstr "Διαχείριση λογισμικού"
-
-msgid "Software manager setup"
-msgstr "Ρυθμίσεις διαχείρισης λογισμικού"
 
 msgid "Software update"
 msgstr "Ενημέρωση λογισμικού"

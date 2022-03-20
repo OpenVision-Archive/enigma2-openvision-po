@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: satdreamgr\n"
 "Language-Team: \n"
@@ -6889,6 +6889,9 @@ msgstr "Following tasks will be done after you press OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "disabled"
@@ -12585,6 +12588,9 @@ msgstr "Scan %s band"
 msgid "Scan additional SR"
 msgstr "Scan additional SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Seek backward"
@@ -14313,6 +14319,10 @@ msgid "Software"
 msgstr "Software"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Software manager setup"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Software update"
 
@@ -14326,9 +14336,6 @@ msgstr "Softwaremanager information"
 
 msgid "Software management"
 msgstr "Software management"
-
-msgid "Software manager setup"
-msgstr "Software manager setup"
 
 msgid "Software update"
 msgstr "Software update"

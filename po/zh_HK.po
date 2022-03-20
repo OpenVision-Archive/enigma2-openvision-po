@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: 王彪 <satfan@163.com>\n"
 "Language-Team: 中國\n"
@@ -6721,6 +6721,9 @@ msgstr "按下 OK 鍵後將完成以下任務!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "不可用"
@@ -12326,6 +12329,9 @@ msgstr ""
 msgid "Scan additional SR"
 msgstr "掃描更多 SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "快倒"
@@ -14016,6 +14022,10 @@ msgid "Software"
 msgstr ""
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "軟體管理"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "軟體升級"
 
@@ -14029,9 +14039,6 @@ msgstr "資訊"
 
 msgid "Software management"
 msgstr "軟體管理"
-
-msgid "Software manager setup"
-msgstr ""
 
 msgid "Software update"
 msgstr "軟體升級"

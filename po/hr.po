@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-08-26 20:26+0200\n"
 "Last-Translator: Željko <zeljko2@hi.ht.hr>\n"
 "Language-Team: Željko\n"
@@ -6943,6 +6943,9 @@ msgstr "Sljedeći zadaci bit će izvršeni nakon što pritisnete OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "prisilno onemogućen"
@@ -12646,6 +12649,9 @@ msgstr "Pretražiti %s pojas"
 msgid "Scan additional SR"
 msgstr "Pretražite dodatni SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Pomicanje unatrag"
@@ -14370,6 +14376,10 @@ msgid "Software"
 msgstr "Softver"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Postavke upravljanja softverom"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Ažuriranje softvera"
 
@@ -14383,9 +14393,6 @@ msgstr "Informacije o softverskom upravitelju"
 
 msgid "Software management"
 msgstr "Upravljanje softverom"
-
-msgid "Software manager setup"
-msgstr "Postavke upravljanja softverom"
 
 msgid "Software update"
 msgstr "Ažuriranje softvera"

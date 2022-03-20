@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-08-02 09:19+0700\n"
 "Last-Translator: krong\n"
 "Language-Team: none\n"
@@ -6891,6 +6891,9 @@ msgstr "Các tác vụ sau sẽ được thực hiện sau khi bạn nhấn OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "lực lượng vô hiệu hóa"
@@ -12587,6 +12590,9 @@ msgstr "Quét%s băng tần"
 msgid "Scan additional SR"
 msgstr "Quét thêm SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Tìm kiếm lạc hậu"
@@ -14306,6 +14312,10 @@ msgid "Software"
 msgstr "Phần mềm"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Thiết lập trình quản lý phần mềm"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Cập nhật phần mềm"
 
@@ -14319,9 +14329,6 @@ msgstr "Thông tin về phần mềm"
 
 msgid "Software management"
 msgstr "Quản lý phần mềm"
-
-msgid "Software manager setup"
-msgstr "Thiết lập trình quản lý phần mềm"
 
 msgid "Software update"
 msgstr "Cập nhật phần mềm"

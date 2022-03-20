@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2008-12-29 16:22+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -7538,6 +7538,9 @@ msgstr ""
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #
 #, fuzzy
 msgid "Force disabled"
@@ -13935,6 +13938,9 @@ msgstr "Sykje op bân EU MID"
 msgid "Scan additional SR"
 msgstr "Sykje op in oanfullende SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Scan backwards"
@@ -15878,6 +15884,11 @@ msgstr ""
 msgid "Software"
 msgstr ""
 
+#
+#, fuzzy
+msgid "Software Manager Setup"
+msgstr "Ferwiderje in nammeserver"
+
 msgid "Software Update"
 msgstr ""
 
@@ -15893,9 +15904,6 @@ msgstr "Ynformaasje"
 
 #
 msgid "Software management"
-msgstr ""
-
-msgid "Software manager setup"
 msgstr ""
 
 #

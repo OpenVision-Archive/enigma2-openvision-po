@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2010-04-08 18:13+0700\n"
 "Last-Translator: Tony - Thaidreambox\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -6848,6 +6848,9 @@ msgstr ""
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "ไม่ใช้แล้ว"
@@ -12558,6 +12561,9 @@ msgstr "ค้นหา band EU MID"
 msgid "Scan additional SR"
 msgstr "ค้นหา additional SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "ย้อนหลัง"
@@ -14309,6 +14315,10 @@ msgid "Software"
 msgstr "ซอพท์แวร์"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "ลบ Nameserver นี้ออก"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "ปรับปรุงซอพท์แวร์"
 
@@ -14321,9 +14331,6 @@ msgid "Software information"
 msgstr "ข้อมูล"
 
 msgid "Software management"
-msgstr ""
-
-msgid "Software manager setup"
 msgstr ""
 
 msgid "Software update"

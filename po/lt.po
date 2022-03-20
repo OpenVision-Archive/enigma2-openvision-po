@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PLi enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-09-14 00:00+0300\n"
 "Last-Translator: Audronis <adga45@gmail.com>\n"
 "Language-Team: Adga (C) <adga45@gmail.com>\n"
@@ -6940,6 +6940,9 @@ msgstr "Šios užduotys bus atliktos, kai paspausite 'OK'!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "priverstinai išjungta"
@@ -12642,6 +12645,9 @@ msgstr "Ieškoti %s diapazone"
 msgid "Scan additional SR"
 msgstr "Papildomų SR paieška"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Persukti atgal"
@@ -14367,6 +14373,10 @@ msgid "Software"
 msgstr "Programinė įranga"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Programinės įrangos tvarkyklės sąranka"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Programinės įrangos atnaujinimas"
 
@@ -14380,9 +14390,6 @@ msgstr "Programinės įrangos valdymo informacija"
 
 msgid "Software management"
 msgstr "Programinės įrangos valdymas"
-
-msgid "Software manager setup"
-msgstr "Programinės įrangos tvarkyklės sąranka"
 
 msgid "Software update"
 msgstr "Programinės įrangos atnaujinimas"

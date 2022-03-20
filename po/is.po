@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2020-05-16 18:44+0200\n"
 "Last-Translator: Baldur <bsveinsson@gmail.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -7359,6 +7359,9 @@ msgstr "Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #
 #, fuzzy
 msgid "Force disabled"
@@ -13746,6 +13749,9 @@ msgstr "Leita á bandi EU MID"
 msgid "Scan additional SR"
 msgstr "Leita á fleiri SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #
 #, fuzzy
 msgid "Scan backwards"
@@ -15685,6 +15691,10 @@ msgstr "Hugbúnaður"
 msgid "Software"
 msgstr "Hugbúnaður"
 
+#, fuzzy
+msgid "Software Manager Setup"
+msgstr "Uppsetning hugbúnaðar umsýslu"
+
 #
 #, fuzzy
 msgid "Software Update"
@@ -15701,9 +15711,6 @@ msgstr "Upplýsingar hugbúnaðar umsýslu"
 
 msgid "Software management"
 msgstr "Hugbúnaðar umsýsla"
-
-msgid "Software manager setup"
-msgstr "Uppsetning hugbúnaðar umsýslu"
 
 #
 msgid "Software update"

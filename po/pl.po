@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 02:02+0000\n"
+"POT-Creation-Date: 2022-03-20 02:09+0000\n"
 "PO-Revision-Date: 2021-05-05 20:00+0200\n"
 "Last-Translator: blzr <blzr@o2.pl>\n"
 "Language-Team: \n"
@@ -6829,6 +6829,9 @@ msgstr "Poniższe zadania będą wykonane po wciśnięciu OK!"
 msgid "Font size"
 msgstr ""
 
+msgid "For Media Scanner, enabled will take search more time, but will do a full scan of all subdirs where your media files or extensions are located."
+msgstr ""
+
 #, fuzzy
 msgid "Force disabled"
 msgstr "Wymuszanie wyłączone"
@@ -12508,6 +12511,9 @@ msgstr "Skanuj pasmo %s"
 msgid "Scan additional SR"
 msgstr "Skanuj dodatkowy SR"
 
+msgid "Scan and search files and extensions in subdirs"
+msgstr ""
+
 #, fuzzy
 msgid "Scan backwards"
 msgstr "Skocz wstecz"
@@ -14234,6 +14240,10 @@ msgid "Software"
 msgstr "Oprogramowanie"
 
 #, fuzzy
+msgid "Software Manager Setup"
+msgstr "Ustawienia 'Software manager'"
+
+#, fuzzy
 msgid "Software Update"
 msgstr "Aktualizacja oprogramowania"
 
@@ -14247,9 +14257,6 @@ msgstr "Informacje Softwaremanagera"
 
 msgid "Software management"
 msgstr "Zarządzanie oprogramowaniem"
-
-msgid "Software manager setup"
-msgstr "Ustawienia 'Software manager'"
 
 msgid "Software update"
 msgstr "Aktualizacja oprogramowania"
